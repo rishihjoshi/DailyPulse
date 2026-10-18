@@ -36,7 +36,11 @@ const DIGEST = {
       ],
     },
   },
-  micro: { theme: 'focus', cards: [{ title: 'Card one', insight: 'i', takeaway: 't' }] },
+  micro: {
+    theme: 'focus',
+    cards: [{ title: 'Card one', insight: 'i', takeaway: 't' }],
+    ai: [{ title: 'AI lead', summary: 'x', source: 'S', link: 'https://ex/7', sources: [{ source: 'S', link: 'https://ex/7' }] }],
+  },
 };
 
 // --- minimal DOM/fetch stub (only what app.js actually touches) ---------------
@@ -112,4 +116,5 @@ test('switching tabs re-renders the right content', () => {
   const micro = els.main.innerHTML;
   assert.ok(micro.includes('Card one'));
   assert.ok(micro.includes('Try this'));
+  assert.ok(micro.includes('AI News') && micro.includes('AI lead'), 'micro AI news section missing');
 });

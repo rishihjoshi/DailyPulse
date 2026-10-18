@@ -10,14 +10,14 @@ newspaper-style, installable, offline-capable. Five tabs, refreshed on a schedul
 2. **World** — 5 ranked world stories
 3. **India** — 5 ranked India stories + a dedicated **US–India immigration** section
 4. **Finance** — live index quotes (S&P/Nasdaq/Dow, India, world via ETF proxies) + 5 ranked markets stories
-5. **Learn** — 3–5 original microlearning cards on a theme that rotates daily
+5. **Learn** — 3–5 original microlearning cards on a theme that rotates daily + an **AI News** section with 5 ranked AI stories
 
 ## How it works
 
 A scheduled **GitHub Action** (`.github/workflows/build-digest.yml`, 2×/day) runs
 `scripts/build-digest.mjs`, which:
 
-1. fetches free **RSS** feeds for the six news pools (`rss-parser`, multiple feeds each for resilience),
+1. fetches free **RSS** feeds for the seven news pools (`rss-parser`, multiple feeds each for resilience),
 2. fetches **Open-Meteo** weather (no key) and **market quotes** from Yahoo's chart endpoint, Stooq as fallback (no key),
 3. makes **one Claude call** (Haiku) that ranks each pool to the top items *by index* and writes a one-line
    "why it matters" per pick, plus the microlearning cards,

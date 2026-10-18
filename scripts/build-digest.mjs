@@ -60,6 +60,12 @@ const FEEDS = {
     'https://news.google.com/rss/search?q=Sensex+OR+Nifty+OR+%22Indian+stock+market%22&hl=en-IN&gl=IN&ceid=IN:en',
     'https://news.google.com/rss/search?q=global+markets+OR+FTSE+OR+Nikkei+OR+%22Hang+Seng%22&hl=en-US&gl=US&ceid=US:en',
   ],
+  // AI news subsection shown under the Microlearning tab.
+  ai: [
+    'https://techcrunch.com/category/artificial-intelligence/feed/',
+    'https://news.google.com/rss/search?q=%22artificial+intelligence%22+OR+OpenAI+OR+Anthropic+OR+%22Google+DeepMind%22&hl=en-US&gl=US&ceid=US:en',
+    'https://news.google.com/rss/search?q=AI+model+OR+LLM+OR+%22AI+chips%22+OR+%22AI+regulation%22&hl=en-US&gl=US&ceid=US:en',
+  ],
 };
 
 // Freely-readable outlets (prefer these for source links) vs. paywalled (deprioritize).
@@ -259,6 +265,7 @@ Return ONLY valid JSON, no prose, no code fences, matching this shape exactly:
   "india":       [ {"i": <index>, "summary": "<3-5 sentences>", "sources": [<index>, ...]} x5 ],
   "immigration": [ {"i": <index>, "summary": "<3-5 sentences>", "sources": [<index>, ...]} x3 ],
   "finance":     [ {"i": <index>, "summary": "<3-5 sentences>", "sources": [<index>, ...]} x5 ],
+  "ai":          [ {"i": <index>, "summary": "<3-5 sentences>", "sources": [<index>, ...]} x5 ],
   "micro":       { "theme": "${theme}", "cards": [ {"title","insight","takeaway"} x4 ] }
 }
 Rules:
@@ -272,6 +279,7 @@ Rules:
 - "stlouis" = the 3 most important St. Louis / Missouri metro stories.
 - "immigration" = the 3 most important US–India immigration items (H-1B, green card, USCIS, visas).
 - "finance" = the 5 most important markets/finance stories (US stocks, India & world markets, major market-moving news).
+- "ai" = the 5 most important AI stories (models, products, research, chips, policy/regulation, business).
 - "micro" cards are ORIGINAL insights you write on the theme "${theme}" (do NOT quote or
   summarize any specific copyrighted book). "insight" = 2–3 sentences; "takeaway" = one action.
 
@@ -291,7 +299,10 @@ POOL immigration (US–India):
 ${show(pools.immigration)}
 
 POOL finance — markets & money (US, India, world):
-${show(pools.finance)}`;
+${show(pools.finance)}
+
+POOL ai — artificial intelligence:
+${show(pools.ai)}`;
 }
 
 // Resolve the model's chosen indices back to real pool items (trusted title/link/source).
@@ -371,6 +382,7 @@ function validateDigest(d) {
       assert.equal(typeof q.changePct, 'number', 'quote changePct not a number');
     }
   }
+  check(d.micro.ai || [], 5, 'micro ai');
   assert.ok(d.micro.theme, 'micro.theme missing');
   assert.ok(d.micro.cards.length >= 3, 'micro needs >=3 cards');
   for (const c of d.micro.cards) assert.ok(c.title && c.insight && c.takeaway, 'micro card incomplete');
@@ -389,11 +401,11 @@ async function main() {
   const dayOfYear = Math.floor((Date.now() - Date.UTC(new Date().getUTCFullYear(), 0, 0)) / 864e5);
   const theme = THEMES[dayOfYear % THEMES.length];
 
-  const [local, stlouis, world, india, immigration, finance, weather, markets] = await Promise.all([
+  const [local, stlouis, world, india, immigration, finance, ai, weather, markets] = await Promise.all([
     fetchPool(FEEDS.local), fetchPool(FEEDS.stlouis), fetchPool(FEEDS.world), fetchPool(FEEDS.india),
-    fetchPool(FEEDS.immigration), fetchPool(FEEDS.finance), fetchWeather(), fetchMarkets(),
+    fetchPool(FEEDS.immigration), fetchPool(FEEDS.finance), fetchPool(FEEDS.ai), fetchWeather(), fetchMarkets(),
   ]);
-  const pools = { local, stlouis, world, india, immigration, finance };
+  const pools = { local, stlouis, world, india, immigration, finance, ai };
   // A transient empty secondary feed shouldn't nuke the whole briefing — that section
   // just renders short/empty this run. Only abort if the primary (local) pool is empty.
   for (const [k, v] of Object.entries(pools)) if (!v.length) console.warn(`empty pool: ${k} (all feeds failed this run)`);
@@ -402,7 +414,7 @@ async function main() {
   const client = new Anthropic({ apiKey });
   const msg = await client.messages.create({
     model: MODEL,
-    max_tokens: 8000,  // summaries are multi-sentence now
+    max_tokens: 10000,  // 31 multi-sentence summaries + micro cards; headroom so JSON never truncates
     messages: [{ role: 'user', content: buildPrompt(pools, theme) }],
   });
   const r = extractJson(msg.content[0].text);
@@ -417,7 +429,7 @@ async function main() {
       india: { items: resolvePicks(india, r.india, 5), immigration: resolvePicks(immigration, r.immigration, 3) },
       finance: { items: resolvePicks(finance, r.finance, 5), quotes: markets },
     },
-    micro: r.micro,
+    micro: { ...r.micro, ai: resolvePicks(ai, r.ai, 5) },
   };
 
   validateDigest(digest);

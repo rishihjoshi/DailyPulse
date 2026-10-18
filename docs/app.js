@@ -1,7 +1,7 @@
 // DailyPulse — reads the pre-built digest.json and renders 4 tabs.
 // No API key, no AI, no network beyond fetching its own digest (built by the Action).
 
-const APP_VERSION = '19'; // keep in sync with CACHE_NAME in sw.js (dailypulse-v19)
+const APP_VERSION = '20'; // keep in sync with CACHE_NAME in sw.js (dailypulse-v20)
 
 const TITLES = {
   local: 'USA',
@@ -121,7 +121,8 @@ function renderTab(tab) {
           <h3>${esc(c.title)}</h3>
           <div class="insight">${esc(c.insight)}</div>
           <div class="takeaway"><b>Try this:</b> ${esc(c.takeaway)}</div>
-        </div>`).join('');
+        </div>`).join('')
+      + subSection('AI News', m.ai, 'No AI news today.');
   }
   return '';
 }

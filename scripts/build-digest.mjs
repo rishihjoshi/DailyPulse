@@ -418,6 +418,43 @@ POOL ai — artificial intelligence:
 ${show(pools.ai)}`;
 }
 
+// The model returns an index plus the prose it wrote for that index, and nothing makes the
+// two agree. A real build produced the headline AND summary "SpaceX AI business achieves
+// profitability with $4.4B net income" attached to a TechCrunch article about OpenAI
+// acquiring Orchestra Bio. Headline and summary agreed with each other, so the item read as
+// perfectly coherent and only the link betrayed it — the worst failure mode there is.
+// (The desync predates model-written headlines; it silently mismatched summaries before.)
+// Guard: the prose must share distinctive vocabulary with the evidence the model was
+// actually handed for that item — its title AND snippet. Below the floor we discard the
+// pick rather than publish a confident mismatch, and resolvePicks pads from the pool.
+const STOPWORDS = new Set(('a an the of in on at to for from by with and or as is are was were be been '
+  + 'has have had its it his her their this that these those not no but after amid over under up down '
+  + 'new more most says said report reports could would may might will can also than into out off')
+  .split(' '));
+
+export function contentTokens(s) {
+  return new Set(String(s ?? '').toLowerCase().match(/[a-z0-9$]+/g)?.filter(
+    w => w.length > 2 && !STOPWORDS.has(w)) ?? []);
+}
+
+// floor is deliberately lenient: a false reject costs only the feed's own title (the
+// previous behaviour), while a false accept publishes a confident lie.
+// minShared scales with the evidence available. Measured across the feeds in use,
+// snippets are near-universal (BBC/Guardian/AJ/Google News/TechCrunch/NPR: 0 empty) but
+// The Hindu omits them on ~32% of items and the Federal Register on ~29%. Against a bare
+// short title, demanding two distinctive shared tokens rejects fair paraphrases, so drop
+// to one there — the ratio floor still catches gross desync either way.
+export function coherent(prose, item, floor = 0.25) {
+  const p = contentTokens(prose);
+  if (!p.size) return false;
+  const snippet = String(item?.snippet ?? '').trim();
+  const src = contentTokens(`${item?.title ?? ''} ${snippet}`);
+  if (!src.size) return false;                 // no evidence at all -> can't vouch for it
+  let shared = 0;
+  for (const t of p) if (src.has(t)) shared++;
+  return shared >= (snippet ? 2 : 1) && shared / p.size >= floor;
+}
+
 // A model headline is only used if it looks like a headline: long enough to say
 // something, short enough not to be a smuggled summary. Otherwise the feed title stands.
 export const cleanHeadline = h => {
@@ -460,11 +497,23 @@ export function resolvePicks(pool, picks, n) {
   };
   for (const p of Array.isArray(picks) ? picks : []) {
     const i = Number(p?.i);
-    if (Number.isInteger(i) && i >= 0 && i < pool.length && !used.has(i)) {
-      add(i, String(p?.summary ?? '').trim() || 'Summary unavailable for this update.',
-          p?.sources, cleanHeadline(p?.headline));
+    if (!Number.isInteger(i) || i < 0 || i >= pool.length || used.has(i)) continue;
+    const headline = cleanHeadline(p?.headline);
+    const summary = String(p?.summary ?? '').trim();
+    // Drop the whole pick when the prose doesn't match the item it was filed against —
+    // a desynced summary is as wrong as a desynced headline.
+    if (summary && !coherent(`${headline} ${summary}`, pool[i])) {
+      // Keep the story — the model judged it important and the link is trustworthy — but
+      // publish none of the prose written against the wrong item. Feed title, honest
+      // placeholder, rank preserved.
+      console.warn(`desynced prose for pick [${i}]: "${(headline || summary).slice(0, 60)}"`
+        + ` != "${pool[i].title.slice(0, 60)}" — falling back to the feed title`);
+      add(i, 'Summary unavailable for this update.', p?.sources, '');
       if (out.length === n) break;
+      continue;
     }
+    add(i, summary || 'Summary unavailable for this update.', p?.sources, headline);
+    if (out.length === n) break;
   }
   for (let i = 0; i < pool.length && out.length < n; i++) if (!used.has(i)) add(i, 'Summary unavailable for this update.', [i]);
   return out;

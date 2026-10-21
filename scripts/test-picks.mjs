@@ -2,16 +2,23 @@
 // Run: node --test scripts/test-picks.mjs
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { resolvePicks, splitOutlet, cleanHeadline, JUNK_TITLE, datedWithin } from './build-digest.mjs';
+import { resolvePicks, splitOutlet, cleanHeadline, JUNK_TITLE, datedWithin,
+         coherent, contentTokens } from './build-digest.mjs';
 
+// Realistic enough to satisfy the coherence guard: these tests are about index mapping,
+// source ordering and headline fallback, not about prose/item agreement.
 const pool = Array.from({ length: 6 }, (_, i) => ({
-  title: `T${i}`, link: `https://x/${i}`, source: `S${i}`, snippet: '',
+  title: `Topic${i} ministry announces budget review`, link: `https://x/${i}`, source: `S${i}`,
+  snippet: `The Topic${i} ministry announced a budget review affecting regional funding.`,
 }));
 
 test('resolves valid picks in order with summary + sources', () => {
-  const out = resolvePicks(pool, [{ i: 2, summary: 'because', sources: [2, 0] }, { i: 1, summary: 'also' }], 2);
-  assert.deepEqual(out.map(o => o.title), ['T2', 'T1']);
-  assert.equal(out[0].summary, 'because');
+  const out = resolvePicks(pool, [
+    { i: 2, summary: 'The Topic2 ministry announced a budget review.', sources: [2, 0] },
+    { i: 1, summary: 'The Topic1 ministry announced a budget review.' }], 2);
+  assert.deepEqual(out.map(o => o.title),
+    ['Topic2 ministry announces budget review', 'Topic1 ministry announces budget review']);
+  assert.equal(out[0].summary, 'The Topic2 ministry announced a budget review.');
   assert.equal(out[0].sources.length, 2);                 // two distinct outlets
   assert.ok(out[0].sources.every(s => /^https?:\/\//.test(s.link)));
   assert.equal(out[1].sources.length, 1);                 // only its own index
@@ -19,10 +26,12 @@ test('resolves valid picks in order with summary + sources', () => {
 
 test('orders sources free-outlet first, and primary = a free source', () => {
   const p = [
-    { title: 'A', link: 'https://wsj/a', source: 'Wall Street Journal', snippet: '' },
-    { title: 'A', link: 'https://ap/a', source: 'AP News', snippet: '' },
+    { title: 'Senate passes budget bill', link: 'https://wsj/a', source: 'Wall Street Journal',
+      snippet: 'The Senate passed the budget bill on Thursday.' },
+    { title: 'Senate passes budget bill', link: 'https://ap/a', source: 'AP News',
+      snippet: 'The Senate passed the budget bill on Thursday.' },
   ];
-  const out = resolvePicks(p, [{ i: 0, summary: 's', sources: [0, 1] }], 1);
+  const out = resolvePicks(p, [{ i: 0, summary: 'The Senate passed the budget bill.', sources: [0, 1] }], 1);
   assert.equal(out[0].sources[0].source, 'AP News', 'free source should lead');
   assert.equal(out[0].source, 'AP News', 'primary link should be the free source');
   assert.equal(out[0].link, 'https://ap/a');
@@ -31,7 +40,7 @@ test('orders sources free-outlet first, and primary = a free source', () => {
 test('drops out-of-range/duplicate indices and pads to n', () => {
   const out = resolvePicks(pool, [{ i: 99 }, { i: -1 }, { i: 'x' }, { i: 1 }, { i: 1 }], 3);
   assert.equal(out.length, 3);
-  assert.equal(out[0].title, 'T1');
+  assert.equal(out[0].title, 'Topic1 ministry announces budget review');
   assert.equal(new Set(out.map(o => o.title)).size, 3);   // no duplicates
   assert.ok(out.every(o => o.title && o.link && o.summary && o.sources.length >= 1));
 });
@@ -43,12 +52,16 @@ test('handles missing/garbage picks array', () => {
 
 test('uses the model headline when sane, else the feed title, and keeps the original', () => {
   const out = resolvePicks(pool, [
-    { i: 0, summary: 's', headline: 'DHS finalizes work-permit extension limits' },
-    { i: 1, summary: 's', headline: 'tiny' },            // too short -> reject
+    { i: 0, headline: 'Topic0 ministry orders budget review',
+      summary: 'The Topic0 ministry announced a budget review of regional funding.' },
+    { i: 1, headline: 'tiny',                            // too short -> reject the headline
+      summary: 'The Topic1 ministry announced a budget review of regional funding.' },
   ], 2);
-  assert.equal(out[0].title, 'DHS finalizes work-permit extension limits');
-  assert.equal(out[0].feedTitle, 'T0', 'original feed title must survive for traceability');
-  assert.equal(out[1].title, 'T1', 'junk headline falls back to the feed title');
+  assert.equal(out[0].title, 'Topic0 ministry orders budget review');
+  assert.equal(out[0].feedTitle, 'Topic0 ministry announces budget review',
+    'original feed title must survive for traceability');
+  assert.equal(out[1].title, 'Topic1 ministry announces budget review',
+    'junk headline falls back to the feed title');
 });
 
 test('splitOutlet pulls the publisher out of a Google News title', () => {
@@ -122,4 +135,86 @@ test('datedWithin: news pools get a short window, standing topics a long one', (
     assert.equal(datedWithin('2026-11-30T00:00:00Z', now, w), false, 'dated in the future');
   }
   assert.equal(datedWithin('2026-10-21T18:00:00Z', now), true, 'a few hours ahead is clock skew');
+});
+
+// Regression: a real build filed the headline AND summary "SpaceX AI business achieves
+// profitability with $4.4B net income" against a TechCrunch article about OpenAI buying
+// Orchestra Bio. Both agreed with each other, so only the link revealed the mismatch.
+const DESYNC = {
+  title: 'OpenAI acquires startup Orchestra Bio to beef up its biotech business',
+  snippet: 'OpenAI said it has acquired Orchestra Bio, a biotech startup, to expand its work '
+         + 'applying machine learning to drug discovery and protein design.',
+};
+
+test('coherent rejects the real desynced pick observed in production', () => {
+  const headline = 'SpaceX AI business achieves profitability with $4.4B net income';
+  const summary = 'SpaceX has reached profitability in the third quarter with net income of '
+                + '$4.4 billion, with AI computing emerging as a major revenue driver.';
+  assert.equal(coherent(`${headline} ${summary}`, DESYNC), false,
+    'a headline about a different company must not pass');
+});
+
+test('coherent accepts legitimate rewrites, including loose ones', () => {
+  // verbatim-ish
+  assert.equal(coherent('Russia releases American Stephen Hubbard from prison',
+    { title: 'Russia Releases American Stephen Hubbard From Prison, State Media Reports', snippet: '' }), true);
+  // real case that scored only 10% on the TITLE alone — the snippet is what justifies it
+  assert.equal(coherent(
+    'Indian markets slide as crude oil surges above $110 per barrel',
+    { title: 'Sensex, Nifty Fall for Second Straight Session as Small-Cap Stocks Slide Over 2%',
+      snippet: 'Indian benchmark indices fell for a second session as crude oil prices surged '
+             + 'above $110 per barrel, pressuring importers.' }), true,
+    'snippet-supported rewrites must survive');
+  // heavy paraphrase that still tracks the source
+  assert.equal(coherent('Modi government intensifies crackdown on Gen Z street protests',
+    { title: 'Modi Seeks to Calm Allies by Shackling Gen Z Protests',
+      snippet: 'The government has arrested organisers of the Gen Z protest movement.' }), true);
+});
+
+test('coherent handles empty and garbage input without throwing', () => {
+  assert.equal(coherent('', DESYNC), false);
+  assert.equal(coherent(undefined, DESYNC), false);
+  assert.equal(coherent('anything at all here', undefined), false);
+  assert.equal(coherent('anything at all here', {}), false);
+  assert.equal(contentTokens(undefined).size, 0);
+  assert.equal(contentTokens('the of and is').size, 0, 'stopwords only -> no content');
+});
+
+test('resolvePicks drops a desynced pick and pads instead of publishing it', () => {
+  const p = [
+    { title: 'OpenAI acquires Orchestra Bio biotech startup', link: 'https://tc/1', source: 'TechCrunch',
+      snippet: 'OpenAI acquired the biotech startup Orchestra Bio for drug discovery work.' },
+    { title: 'Anthropic pitches AI safety bill', link: 'https://r/2', source: 'Reuters',
+      snippet: 'Anthropic proposed a bill that could block a model posing mass-casualty risk.' },
+  ];
+  const out = resolvePicks(p, [
+    { i: 0, headline: 'SpaceX achieves profitability with $4.4B net income',
+      summary: 'SpaceX reached profitability with net income of $4.4 billion from AI computing.' },
+    { i: 1, headline: 'Anthropic proposes AI safety bill with killswitch',
+      summary: 'Anthropic pitched a safety bill that could block a model if many could be killed.' },
+  ], 2);
+  assert.equal(out.length, 2, 'still returns n items');
+  const titles = out.map(o => o.title);
+  assert.ok(!titles.some(t => t.includes('SpaceX')), 'the desynced headline must not be published');
+  assert.ok(!out.some(o => /\$4\.4/.test(o.summary)), 'the desynced summary must not be published');
+  assert.ok(titles.some(t => t.includes('Anthropic')), 'the coherent pick survives');
+  // the story is kept at its rank, but with the feed's title and an honest placeholder
+  const kept = out.find(o => o.link === 'https://tc/1');
+  assert.ok(kept, 'the story is kept, not silently dropped');
+  assert.equal(kept.title, 'OpenAI acquires Orchestra Bio biotech startup');
+  assert.match(kept.summary, /unavailable/i);
+});
+
+test('coherent relaxes for snippet-less feeds but still catches gross desync', () => {
+  // The Hindu omits snippets on ~32% of items; a fair paraphrase of a short title must survive.
+  const noSnippet = { title: 'Jaishankar meets Swift CEO in Delhi', snippet: '' };
+  assert.equal(coherent('Jaishankar holds talks with Swift chief in Delhi', noSnippet), true,
+    'title-only paraphrase must not be rejected');
+  // ...but prose about an entirely different story still fails on the ratio floor
+  assert.equal(coherent(
+    'SpaceX AI business achieves profitability with $4.4B net income in third quarter',
+    { title: 'OpenAI acquires startup Orchestra Bio to beef up its biotech business', snippet: '' }),
+    false, 'gross desync is caught even without a snippet');
+  // no evidence at all -> cannot vouch
+  assert.equal(coherent('anything plausible here', { title: '', snippet: '' }), false);
 });

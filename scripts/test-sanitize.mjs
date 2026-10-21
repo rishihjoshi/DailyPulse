@@ -1,7 +1,7 @@
 // Render-boundary XSS guards for app.js. Run: node --test scripts/test-sanitize.mjs
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { safeUrl, esc, newsItem } from '../docs/app.js';
+import { safeUrl, newsItem } from '../docs/app.js';   // esc is covered via newsItem
 
 test('safeUrl strips javascript: and other non-http(s) schemes', () => {
   assert.equal(safeUrl('javascript:alert(1)'), '#');

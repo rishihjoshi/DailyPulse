@@ -324,3 +324,17 @@ button, a, [role="button"] { -webkit-tap-highlight-color: transparent; }
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { transition: none !important; scroll-behavior: auto !important; animation: none !important; }
 }
+
+/* Severe-weather alerts: above the news, legible without relying on colour alone. */
+.alerts { margin-bottom: 14px; display: grid; gap: 8px; }
+.alert {
+  border: 1px solid var(--line); border-left: 4px solid #b4541a;
+  border-radius: 10px; padding: 10px 12px; background: rgba(180, 84, 26, 0.06);
+}
+.alert.sev-extreme, .alert.sev-severe { border-left-color: #a11212; background: rgba(161, 18, 18, 0.07); }
+.alert-event { font-weight: 700; font-size: 14px; }
+.alert-text  { font-size: 13px; color: var(--muted); margin-top: 3px; line-height: 1.45; }
+.weather .meta.now { font-size: 14px; color: var(--ink); font-weight: 600; margin-top: 4px; }
+.markets-note { font-size: 14px; line-height: 1.55; color: var(--ink); margin: 0 0 18px; }
+.watch { margin: 0 0 20px; padding-left: 22px; }
+.watch li { font-size: 14px; line-height: 1.55; margin-bottom: 7px; }

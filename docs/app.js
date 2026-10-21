@@ -1,14 +1,14 @@
-// DailyPulse — reads the pre-built digest.json and renders 4 tabs.
+// DailyPulse — reads the pre-built digest.json and renders 5 tabs.
 // No API key, no AI, no network beyond fetching its own digest (built by the Action).
 
-const APP_VERSION = '20'; // keep in sync with CACHE_NAME in sw.js (dailypulse-v20)
+const APP_VERSION = '21'; // keep in sync with CACHE_NAME in sw.js (dailypulse-v21)
 
 const TITLES = {
   local: 'USA',
   world: 'World',
   india: 'India',
   finance: 'Finance',
-  micro: 'Microlearning',
+  micro: 'Learn',   // match the nav button label in index.html
 };
 
 // Every tab leads with an image hero (photo, animated GIF, or animated SVG); same
@@ -66,15 +66,36 @@ function rankedBlock(items) {
   return topStory(top, 1) + rest.map((it, i) => newsItem(it, i + 2)).join('');
 }
 
-function renderWeather(w) {
+// Severe-weather alerts are the only thing in this briefing that's actionable within the
+// hour, so they render above the news rather than inside the weather card.
+function renderAlerts(alerts) {
+  if (!alerts || !alerts.length) return '';
+  return `<div class="alerts" role="alert">` + alerts.map(a =>
+    `<div class="alert sev-${esc(String(a.severity || '').toLowerCase())}">
+      <div class="alert-event">⚠ ${esc(a.event)}</div>
+      ${a.headline ? `<div class="alert-text">${esc(a.headline)}</div>` : ''}
+    </div>`).join('') + `</div>`;
+}
+
+function renderWeather(w, place) {
+  const now = (w.now ?? null) !== null
+    ? `<div class="meta now">Now ${esc(w.now)}°F · ${esc(w.nowLabel || w.label)}</div>` : '';
   return `<div class="weather">
     <div class="emoji">${esc(w.emoji)}</div>
     <div>
       <div class="temps">${esc(w.high)}°F / ${esc(w.highC)}°C</div>
+      ${now}
       <div class="meta">${esc(w.label)} · Low ${esc(w.low)}°F (${esc(w.lowC)}°C) · ${esc(w.precip)}% precipitation</div>
-      <div class="meta">🌅 ${esc(w.sunrise)} · 🌇 ${esc(w.sunset)} · 💨 ${esc(w.wind)} mph · St. Louis, MO</div>
+      <div class="meta">🌅 ${esc(w.sunrise)} · 🌇 ${esc(w.sunset)} · 💨 ${esc(w.wind)} mph · ${esc(place || 'St. Charles, MO')}</div>
     </div>
   </div>`;
+}
+
+// Closes the briefing with what could move tomorrow, the way the reference briefings did.
+function renderWatch(watch) {
+  if (!watch || !watch.length) return '';
+  return `<div class="section-label">🎯 Three things to watch</div>`
+    + `<ol class="watch">` + watch.map(w => `<li>${esc(w)}</li>`).join('') + `</ol>`;
 }
 
 const fmtNum = n => Number(n).toLocaleString('en-US', { maximumFractionDigits: 2 });
@@ -101,8 +122,11 @@ function subSection(label, items, emptyMsg) {
 function renderTab(tab) {
   const t = digest.tabs;
   if (tab === 'local') {
-    return tabHero('./usa-news.jpg', 'USA General News — US Capitol, flag, and city skyline') + renderWeather(digest.weather) + rankedBlock(t.local.items)
-      + subSection('St. Louis Metro', t.local.stlouis, 'No St. Louis metro news today.');
+    return tabHero('./usa-news.jpg', 'USA General News — US Capitol, flag, and city skyline')
+      + renderAlerts(digest.weather && digest.weather.alerts)
+      + renderWeather(digest.weather, digest.location) + rankedBlock(t.local.items)
+      + subSection('St. Louis Metro', t.local.stlouis, 'No St. Louis metro news today.')
+      + renderWatch(digest.watch);
   }
   if (tab === 'world') return tabHero('./world-spinning.gif', 'Spinning globe — world news', 'anchor-top') + rankedBlock(t.world.items);
   if (tab === 'india') {
@@ -110,8 +134,10 @@ function renderTab(tab) {
       + subSection('US–India Immigration', t.india.immigration, 'No US–India immigration news today.');
   }
   if (tab === 'finance') {
+    const note = t.finance && t.finance.note;
     return tabHero('./finance-banner.svg', 'Market Pulse — finance')
       + renderMarkets(t.finance && t.finance.quotes)
+      + (note ? `<div class="markets-note">${esc(note)}</div>` : '')
       + rankedBlock(t.finance && t.finance.items);
   }
   if (tab === 'micro') {
@@ -248,4 +274,4 @@ function init() {
 // Guarded so the pure render helpers can be imported in Node tests without a DOM.
 if (typeof document !== 'undefined') document.addEventListener('DOMContentLoaded', init);
 
-export { esc, safeUrl, newsItem, topStory, renderWeather, rankedBlock, renderTab, show, loadDigest, freshness, showUpdate, APP_VERSION };
+export { esc, safeUrl, newsItem, topStory, renderWeather, renderAlerts, renderWatch, rankedBlock, renderTab, show, loadDigest, freshness, showUpdate, APP_VERSION };

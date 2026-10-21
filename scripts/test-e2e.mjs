@@ -8,11 +8,16 @@ import assert from 'node:assert/strict';
 // --- fixture: a realistic digest with one booby-trapped link -----------------
 const DIGEST = {
   generatedAt: new Date().toISOString(),  // fresh, so the staleness badge stays off
-  location: 'St. Louis, MO',
+  location: 'St. Charles, MO',
   weather: {
     high: 72, low: 54, highC: 22, lowC: 12, precip: 10, wind: 8,
     sunrise: '7:09 AM', sunset: '6:28 PM', label: 'Partly cloudy', emoji: '⛅',
+    now: 50, nowLabel: 'Mostly sunny',
+    // hostile alert text: NWS copy is third-party and flows straight into the DOM
+    alerts: [{ event: 'Tornado Warning', severity: 'Extreme',
+               headline: 'Take shelter <img src=x onerror=alert(1)>' }],
   },
+  watch: ['Oil above $110', 'H-4 EAD litigation', '<script>alert(1)</script>'],
   tabs: {
     local: {
       items: [
@@ -33,7 +38,9 @@ const DIGEST = {
       quotes: [
         { symbol: '^GSPC', name: 'S&P 500', price: 5815.03, changePct: 0.41 },
         { symbol: '^IXIC', name: 'Nasdaq', price: 18502.69, changePct: -0.23 },
+        { symbol: 'BZ=F', name: 'Brent crude · BZ=F', price: 111.2, changePct: 1.8 },
       ],
+      note: 'Oil is the pressure; equities drifted. Watch the inflation print.',
     },
   },
   micro: {
@@ -77,6 +84,29 @@ test('loadDigest renders the Local/USA tab with weather, hero, and St. Louis met
   assert.ok(els.updated.textContent.startsWith('Updated'), 'updated timestamp not set');
 });
 
+test('the USA tab leads with the severe-weather alert and closes with things to watch', () => {
+  const html = els.main.innerHTML;
+  assert.ok(html.includes('Tornado Warning'), 'active NWS alert must render');
+  assert.ok(html.includes('role="alert"'), 'alert must be announced to screen readers');
+  assert.ok(html.indexOf('Tornado Warning') < html.indexOf('class="weather"'),
+    'the alert belongs above the weather card and the news');
+  assert.ok(html.includes('Now 50°F') && html.includes('Mostly sunny'), 'current conditions missing');
+  assert.ok(html.includes('St. Charles, MO') && !html.includes('St. Louis, MO'),
+    'weather place must come from digest.location');
+  assert.ok(html.includes('Three things to watch') && html.includes('H-4 EAD litigation'),
+    'watch list missing');
+});
+
+test('third-party alert and watch copy cannot inject markup', () => {
+  const html = els.main.innerHTML;
+  assert.ok(!html.includes('<img src=x'), 'NWS alert headline was not escaped');
+  assert.ok(!html.includes('<script>'), 'watch entry was not escaped');
+  // esc() neutralizes the angle brackets, so "onerror=" survives as inert visible text.
+  // The real requirement is that no unescaped tag reaches the DOM.
+  assert.ok(html.includes('&lt;img src=x'), 'hostile alert copy should render escaped, as text');
+  assert.ok(!/<(img|script|iframe|svg)/i.test(html), 'an unescaped tag reached the DOM');
+});
+
 test('the javascript: link is neutralized end-to-end (never a live href)', () => {
   const html = els.main.innerHTML;
   assert.ok(!/href="javascript:/i.test(html), 'javascript: href leaked through the pipeline');
@@ -111,6 +141,8 @@ test('switching tabs re-renders the right content', () => {
   assert.ok(finance.includes('S&amp;P 500'), 'market quote name missing');   // & is escaped
   assert.ok(finance.includes('+0.41%'), 'market up change missing');
   assert.ok(finance.includes('-0.23%') && finance.includes('quote down'), 'market down change missing');
+  assert.ok(finance.includes('Brent crude') && finance.includes('+1.80%'), 'Brent crude quote missing');
+  assert.ok(finance.includes('Oil is the pressure'), 'markets note missing');
 
   show('micro');
   const micro = els.main.innerHTML;

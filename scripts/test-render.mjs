@@ -1,7 +1,8 @@
 // Unit tests for the pure render helpers in app.js. Run: node --test scripts/test-render.mjs
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { renderWeather, renderAlerts, renderWatch, rankedBlock, freshness } from '../docs/app.js';
+import { renderWeather, renderAlerts, renderWatch, rankedBlock, freshness,
+         newsItem, topStory } from '../docs/app.js';
 
 test('renderWeather shows °F, °C, sunrise, sunset, and wind', () => {
   const html = renderWeather({
@@ -82,4 +83,43 @@ test('renderWatch lists the three things, escaped, and is empty when absent', ()
   assert.ok(html.includes('Oil above $110') && html.includes('H-4 EAD litigation'));
   assert.ok(!html.includes('<b>'), 'watch entries must be escaped');
   assert.equal((html.match(/<li>/g) || []).length, 3);
+});
+
+test('a story with a body collapses; one without stays a plain article', () => {
+  const withBody = newsItem({ title: 'Oil tops $111', summary: 'Brent rose above $111.',
+    link: 'https://x/1', sources: [{ source: 'Reuters', link: 'https://x/1' }] }, 2, 1);
+  assert.match(withBody, /^<details class="item"/, 'collapsible when there is something to reveal');
+  assert.ok(withBody.includes('<summary>'), 'needs a summary element to be operable');
+  assert.ok(withBody.includes('class="chev"') && withBody.includes('aria-hidden="true"'),
+    'the chevron is decorative and must be hidden from screen readers');
+  assert.ok(withBody.includes('class="reveal"'));
+  assert.ok(withBody.includes('Brent rose above $111.'));
+
+  // No body -> no disclosure arrow that reveals nothing.
+  const noBody = newsItem({ title: 'Headline only', link: 'https://x/2', sources: [] });
+  assert.match(noBody, /^<article class="item"/);
+  assert.ok(!noBody.includes('<summary>') && !noBody.includes('chev'));
+});
+
+test('the lead story is never collapsed', () => {
+  const lead = topStory({ title: 'Lead', summary: 'The lead body.', link: 'https://a', sources: [] });
+  assert.ok(lead.includes('Top Story') && lead.includes('The lead body.'));
+  assert.ok(!lead.includes('<details'), 'the lead is open prose, not a disclosure');
+
+  const html = rankedBlock([
+    { title: 'Lead', summary: 'The lead body.', link: 'https://a', sources: [] },
+    { title: 'Second', summary: 'The second body.', link: 'https://b', sources: [] },
+  ]);
+  assert.equal((html.match(/<details/g) || []).length, 1,
+    'exactly the non-lead items collapse');
+  assert.ok(html.indexOf('Top Story') < html.indexOf('<details'), 'lead comes first, uncollapsed');
+});
+
+test('entrance stagger index is emitted and escapes nothing dangerous', () => {
+  assert.ok(newsItem({ title: 'T', summary: 'S', link: 'https://a', sources: [] }, 3, 4)
+    .includes('style="--i:4"'), 'stagger index drives animation-delay in CSS');
+  // the index is numeric from the renderer, never user data — confirm no interpolation of title
+  const evil = newsItem({ title: '"><script>alert(1)</script>', summary: 'S',
+    link: 'https://a', sources: [] }, 2, 0);
+  assert.ok(!evil.includes('<script>'), 'title still escaped inside summary/h3');
 });

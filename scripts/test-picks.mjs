@@ -158,17 +158,19 @@ test('coherent accepts legitimate rewrites, including loose ones', () => {
   // verbatim-ish
   assert.equal(coherent('Russia releases American Stephen Hubbard from prison',
     { title: 'Russia Releases American Stephen Hubbard From Prison, State Media Reports', snippet: '' }), true);
-  // real case that scored only 10% on the TITLE alone — the snippet is what justifies it
+  // Scores only 10% on the headline alone; the summary is what carries the source's subject.
+  // This is why the guard is fed headline + summary, exactly as resolvePicks does.
   assert.equal(coherent(
-    'Indian markets slide as crude oil surges above $110 per barrel',
-    { title: 'Sensex, Nifty Fall for Second Straight Session as Small-Cap Stocks Slide Over 2%',
-      snippet: 'Indian benchmark indices fell for a second session as crude oil prices surged '
-             + 'above $110 per barrel, pressuring importers.' }), true,
-    'snippet-supported rewrites must survive');
+    'Indian markets slide as crude oil surges above $110 per barrel. '
+    + 'The Sensex and Nifty fell for a second straight session, with small-cap stocks sliding '
+    + 'over 2% as crude oil surged above $110 a barrel.',
+    { title: 'Sensex, Nifty Fall for Second Straight Session as Small-Cap Stocks Slide Over 2%' }),
+    true, 'a rewrite whose summary tracks the source must survive');
   // heavy paraphrase that still tracks the source
-  assert.equal(coherent('Modi government intensifies crackdown on Gen Z street protests',
-    { title: 'Modi Seeks to Calm Allies by Shackling Gen Z Protests',
-      snippet: 'The government has arrested organisers of the Gen Z protest movement.' }), true);
+  assert.equal(coherent(
+    'Modi government intensifies crackdown on Gen Z street protests. Modi seeks to calm allies '
+    + 'by shackling the Gen Z protest movement, arresting organisers.',
+    { title: 'Modi Seeks to Calm Allies by Shackling Gen Z Protests' }), true);
 });
 
 test('coherent handles empty and garbage input without throwing', () => {
@@ -205,16 +207,38 @@ test('resolvePicks drops a desynced pick and pads instead of publishing it', () 
   assert.match(kept.summary, /unavailable/i);
 });
 
-test('coherent relaxes for snippet-less feeds but still catches gross desync', () => {
-  // The Hindu omits snippets on ~32% of items; a fair paraphrase of a short title must survive.
-  const noSnippet = { title: 'Jaishankar meets Swift CEO in Delhi', snippet: '' };
-  assert.equal(coherent('Jaishankar holds talks with Swift chief in Delhi', noSnippet), true,
-    'title-only paraphrase must not be rejected');
-  // ...but prose about an entirely different story still fails on the ratio floor
+test('coherent keeps the legitimate rewrites a live build wrongly rejected', () => {
+  // All four were flagged by the first (forward-ratio) version of this guard and lost
+  // their summaries. They are plainly the same story as their source.
+  // Fed headline + summary, as resolvePicks does in production.
+  const pairs = [
+    ['Trump administration ends H-1B extension deference protections (proposed, not final) '
+     + 'The Trump administration moved to end H-1B extension protections and finalize '
+     + 'restrictions on work permit renewals.',
+     'Trump Administration Moves to End H-1B Extension Protections, Finalizes Restrictions on Work Permit Renewals'],
+    ['SpaceX and Super Micro earnings boost AI stocks. Wall Street gained ground after SpaceX '
+     + 'helped lift AI stocks on strong earnings.',
+     'Wall Street gains ground after SpaceX helps lift AI stocks'],
+    ['OpenAI finds critical PHP security vulnerabilities. OpenAI and Google’s Wiz found '
+     + 'ancient holes in PHP, panicking much of the internet.',
+     'PHP armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet'],
+    ['Anthropic proposes AI safety bill with shutdown clause. Anthropic’s bill would pause '
+     + 'AI models if more than 50 people could be killed.',
+     'Anthropic’s AI safety bill would pause AI models if 50+ people could be killed'],
+  ];
+  for (const [prose, title] of pairs)
+    assert.equal(coherent(prose, { title }), true, `wrongly rejected: ${prose.slice(0, 50)}`);
+});
+
+test('coherent still rejects prose written against a different story', () => {
   assert.equal(coherent(
-    'SpaceX AI business achieves profitability with $4.4B net income in third quarter',
-    { title: 'OpenAI acquires startup Orchestra Bio to beef up its biotech business', snippet: '' }),
-    false, 'gross desync is caught even without a snippet');
-  // no evidence at all -> cannot vouch
-  assert.equal(coherent('anything plausible here', { title: '', snippet: '' }), false);
+    'SpaceX AI business achieves profitability with $4.4B net income. SpaceX reached '
+    + 'profitability in the third quarter with net income of $4.4 billion.',
+    { title: 'OpenAI acquires startup Orchestra Bio to beef up its biotech business' }),
+    false, 'the production desync must stay caught');
+  // a short title still works: 3 of 5 source tokens survive the paraphrase
+  assert.equal(coherent('Jaishankar holds talks with Swift chief in Delhi',
+    { title: 'Jaishankar meets Swift CEO in Delhi' }), true);
+  assert.equal(coherent('anything plausible here', { title: '' }), false);
+  assert.equal(coherent('', { title: 'Senate passes the budget bill today' }), false);
 });

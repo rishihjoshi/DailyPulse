@@ -22,6 +22,17 @@
   --sans:  'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
 
   --t: 200ms cubic-bezier(0.2, 0, 0, 1);   /* shared motion token */
+  --t-slow: 320ms cubic-bezier(0.2, 0, 0, 1);
+
+  /* Type scale. One place to tune reading size — these were 40 hardcoded px values.
+     rem (not px) so the reader's own browser font-size setting is respected. */
+  --fs-micro:   0.75rem;      /* 12px — eyebrow labels, rank chips */
+  --fs-meta:    0.875rem;     /* 14px — secondary / metadata (was 13) */
+  --fs-body:    1.0625rem;    /* 17px — story summaries (was 14) */
+  --fs-body-lg: 1.1875rem;    /* 19px — top-story summary (was 15) */
+  --fs-h3:      1.3125rem;    /* 21px — item headline (was 18) */
+  --fs-h2:      1.8125rem;    /* 29px — top story headline (was 25) */
+  --lh-prose:   1.65;         /* roomier measure for long-form reading */
 }
 
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -35,10 +46,10 @@ html, body {
 
 body {
   font-family: var(--sans);
-  font-size: 16px;
+  font-size: 1rem;           /* honours the reader's browser setting; was a hard 16px */
   background: var(--bg);
   color: var(--text);
-  user-select: none;
+  user-select: none;         /* chrome stays unselectable… */
   -webkit-font-smoothing: antialiased;
 }
 
@@ -97,7 +108,7 @@ button, a, [role="button"] { -webkit-tap-highlight-color: transparent; }
 }
 
 .loading { color: var(--muted); text-align: center; padding: 40px 0; }
-.empty   { color: var(--muted); font-size: 14px; padding: 14px 2px; }
+.empty   { color: var(--muted); font-size: var(--fs-body); padding: 14px 2px; }
 
 /* Error state with a recovery path (retry) */
 .error {
@@ -153,9 +164,9 @@ button, a, [role="button"] { -webkit-tap-highlight-color: transparent; }
   border: 1px solid var(--line); border-radius: 10px;
   padding: 10px 12px; background: var(--card);
 }
-.q-name { font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.04em; }
-.q-price { font-size: 17px; font-weight: 700; font-variant-numeric: tabular-nums; margin-top: 2px; }
-.q-chg { font-size: 12px; font-weight: 600; font-variant-numeric: tabular-nums; margin-top: 1px; }
+.q-name { font-size: var(--fs-micro); color: var(--muted); text-transform: uppercase; letter-spacing: 0.04em; }
+.q-price { font-size: 1.3125rem; font-weight: 700; font-variant-numeric: tabular-nums; margin-top: 2px; }
+.q-chg { font-size: var(--fs-meta); font-weight: 600; font-variant-numeric: tabular-nums; margin-top: 1px; }
 .quote.up .q-chg   { color: #15803d; }
 .quote.down .q-chg { color: #b91c1c; }
 
@@ -173,7 +184,7 @@ button, a, [role="button"] { -webkit-tap-highlight-color: transparent; }
 }
 .weather .emoji { font-size: 40px; line-height: 1; }
 .weather .temps { font-size: 24px; font-weight: 700; font-variant-numeric: tabular-nums; }
-.weather .meta  { font-size: 13px; color: var(--muted); margin-top: 2px; line-height: 1.4; }
+.weather .meta  { font-size: var(--fs-meta); color: var(--muted); margin-top: 2px; line-height: 1.4; }
 
 /* ── Top story — bold editorial rule, no box ── */
 .top-story {
@@ -193,8 +204,8 @@ button, a, [role="button"] { -webkit-tap-highlight-color: transparent; }
   content: ''; width: 7px; height: 7px; border-radius: 50%;
   background: var(--accent);
 }
-.top-story h2 { font-family: var(--serif); font-size: 25px; font-weight: 700; margin: 8px 0 8px; line-height: 1.18; letter-spacing: -0.015em; }
-.top-story .summary { font-size: 15px; color: var(--text); line-height: 1.6; }
+.top-story h2 { font-family: var(--serif); font-size: var(--fs-h2); font-weight: 700; margin: 8px 0 8px; line-height: 1.18; letter-spacing: -0.015em; }
+.top-story .summary { font-size: var(--fs-body-lg); color: var(--text); line-height: var(--lh-prose); }
 
 /* ── News list — flowing rows separated by hairlines ── */
 .section-label {
@@ -212,8 +223,8 @@ button, a, [role="button"] { -webkit-tap-highlight-color: transparent; }
   border-bottom: 1px solid var(--line);
   color: inherit;
 }
-.item h3 { font-family: var(--serif); font-size: 18px; font-weight: 600; line-height: 1.28; letter-spacing: -0.005em; }
-.item .summary { font-size: 14px; color: var(--text); margin-top: 6px; line-height: 1.6; }
+.item h3 { font-family: var(--serif); font-size: var(--fs-h3); font-weight: 600; line-height: 1.28; letter-spacing: -0.005em; }
+.item .summary { font-size: var(--fs-body); color: var(--text); margin-top: 8px; line-height: var(--lh-prose); }
 
 /* ── "Read: AP · BBC · Reuters" source links ── */
 .sources {
@@ -246,8 +257,8 @@ button, a, [role="button"] { -webkit-tap-highlight-color: transparent; }
   margin-bottom: 12px;
   box-shadow: 0 1px 2px rgba(22,19,15,0.04);
 }
-.card h3 { font-family: var(--serif); font-size: 19px; font-weight: 600; margin-bottom: 8px; line-height: 1.25; }
-.card .insight { font-size: 14px; color: var(--text); line-height: 1.6; }
+.card h3 { font-family: var(--serif); font-size: var(--fs-h3); font-weight: 600; margin-bottom: 8px; line-height: 1.25; }
+.card .insight { font-size: var(--fs-body); color: var(--text); line-height: var(--lh-prose); }
 .card .takeaway {
   font-size: 13.5px; line-height: 1.55;
   margin-top: 12px; padding-top: 12px;
@@ -332,9 +343,114 @@ button, a, [role="button"] { -webkit-tap-highlight-color: transparent; }
   border-radius: 10px; padding: 10px 12px; background: rgba(180, 84, 26, 0.06);
 }
 .alert.sev-extreme, .alert.sev-severe { border-left-color: #a11212; background: rgba(161, 18, 18, 0.07); }
-.alert-event { font-weight: 700; font-size: 14px; }
-.alert-text  { font-size: 13px; color: var(--muted); margin-top: 3px; line-height: 1.45; }
-.weather .meta.now { font-size: 14px; color: var(--ink); font-weight: 600; margin-top: 4px; }
-.markets-note { font-size: 14px; line-height: 1.55; color: var(--ink); margin: 0 0 18px; }
+.alert-event { font-weight: 700; font-size: 1.0625rem; }
+.alert-text  { font-size: var(--fs-meta); color: var(--muted); margin-top: 3px; line-height: 1.45; }
+.weather .meta.now { font-size: 1.0625rem; color: var(--ink); font-weight: 600; margin-top: 4px; }
+.markets-note { font-size: var(--fs-body); line-height: var(--lh-prose); color: var(--ink); margin: 0 0 18px; }
 .watch { margin: 0 0 20px; padding-left: 22px; }
-.watch li { font-size: 14px; line-height: 1.55; margin-bottom: 7px; }
+.watch li { font-size: var(--fs-body); line-height: var(--lh-prose); margin-bottom: 9px; }
+
+/* ══ Collapsible stories (native <details>) ══════════════════════════════════
+   The disclosure arrow is drawn by .chev, so the UA marker is removed on both
+   the standard and the WebKit pseudo-element. */
+.item > summary, .card > summary {
+  display: flex; align-items: flex-start; gap: 10px;
+  list-style: none; cursor: pointer;
+  min-height: 44px;              /* comfortable touch target */
+  padding: 2px 0;
+  transition: opacity var(--t);
+}
+.item > summary::-webkit-details-marker,
+.card > summary::-webkit-details-marker { display: none; }
+.item > summary::marker, .card > summary::marker { content: ''; }
+.item > summary > h3, .card > summary > h3 { flex: 1; min-width: 0; }
+.item > summary:active, .card > summary:active { opacity: 0.6; }
+/* Focus the row, not the arrow — the whole header is the control. */
+.item > summary:focus-visible, .card > summary:focus-visible {
+  outline: 2px solid var(--accent); outline-offset: 3px; border-radius: 4px;
+}
+
+/* Chevron: a rotating CSS triangle, no icon font or SVG payload.
+   Two things here are deliberate, both found by testing this in a browser:
+   1. transition LONGHANDS, not the shorthand. --t holds a cubic-bezier, and its commas
+      make `transition: transform var(--t), border-color var(--t)` parse ambiguously —
+      only the border colours ended up animating.
+   2. `transform` is NOT transitioned. Measured in a real browser: with any transition on
+      transform, the open rule's rotation never took effect — the arrow stayed at 45deg
+      through open and close. With `transition: none` it applied immediately and
+      correctly. Literal angles and @property registration both failed to help, so the
+      rotation is instant and only the colour animates. An instant flip still reads as a
+      clear state change; a permanently wrong arrow does not. */
+.chev {
+  flex-shrink: 0; width: 9px; height: 9px; margin-top: 7px;
+  border-right: 2px solid var(--muted); border-bottom: 2px solid var(--muted);
+  transform: rotate(45deg); transform-origin: 60% 60%;
+  transition-property: border-right-color, border-bottom-color;
+  transition-duration: 200ms;
+  transition-timing-function: cubic-bezier(0.2, 0, 0, 1);
+}
+details[open] > summary .chev {
+  transform: rotate(-135deg);
+  border-right-color: var(--accent);
+  border-bottom-color: var(--accent);
+}
+
+.reveal { padding-bottom: 2px; }
+
+/* ══ Motion ═════════════════════════════════════════════════════════════════
+   Every animation below is opt-out via prefers-reduced-motion at the end. */
+
+/* Expand: fade + rise the revealed body. Height isn't animated — `details` can't
+   be transitioned reliably across browsers yet, and a 120ms fade reads as the
+   same gesture without the layout cost. */
+@keyframes reveal-in {
+  from { opacity: 0; transform: translateY(-4px); }
+  to   { opacity: 1; transform: none; }
+}
+details[open] > .reveal { animation: reveal-in 180ms cubic-bezier(0.2, 0, 0, 1) both; }
+
+/* Entrance: stagger items down the list so a tab switch reads as content
+   arriving rather than snapping. --i comes from the renderer; capped so a long
+   list never makes the reader wait. */
+@keyframes item-in {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: none; }
+}
+.item, .card {
+  animation: item-in var(--t-slow) cubic-bezier(0.2, 0, 0, 1) both;
+  animation-delay: calc(min(var(--i, 0), 6) * 45ms);
+}
+.top-story, .weather, .markets, .alerts { animation: item-in var(--t-slow) cubic-bezier(0.2, 0, 0, 1) both; }
+
+/* Tab switch: the panel itself fades, so hero + content move together. */
+@keyframes panel-in { from { opacity: 0; } to { opacity: 1; } }
+#main > :first-child { animation: panel-in 160ms linear both; }
+
+/* A severe-weather alert should draw the eye once, then stop. */
+@keyframes alert-pulse {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(161, 18, 18, 0); }
+  50%      { box-shadow: 0 0 0 4px rgba(161, 18, 18, 0.12); }
+}
+.alert.sev-extreme, .alert.sev-severe { animation: alert-pulse 1.6s ease-in-out 2; }
+
+/* Markets: nudge the eye to the change column without relying on colour alone. */
+.quote {   /* longhands: see the .chev note — var(--t) in a multi-property list is ambiguous */
+  transition-property: background, transform;
+  transition-duration: 200ms;
+  transition-timing-function: cubic-bezier(0.2, 0, 0, 1);
+}
+.quote:active { transform: scale(0.97); }
+
+/* Reading comfort: let people select and copy briefing text. The app chrome
+   stays unselectable so drags on the nav don't highlight it. */
+#main { user-select: text; -webkit-user-select: text; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+  .chev { transition: none; }
+}

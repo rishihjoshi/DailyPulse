@@ -437,22 +437,24 @@ export function contentTokens(s) {
     w => w.length > 2 && !STOPWORDS.has(w)) ?? []);
 }
 
-// floor is deliberately lenient: a false reject costs only the feed's own title (the
-// previous behaviour), while a false accept publishes a confident lie.
-// minShared scales with the evidence available. Measured across the feeds in use,
-// snippets are near-universal (BBC/Guardian/AJ/Google News/TechCrunch/NPR: 0 empty) but
-// The Hindu omits them on ~32% of items and the Federal Register on ~29%. Against a bare
-// short title, demanding two distinctive shared tokens rejects fair paraphrases, so drop
-// to one there — the ratio floor still catches gross desync either way.
-export function coherent(prose, item, floor = 0.25) {
+// Direction matters, and the first version got it backwards. Dividing shared tokens by the
+// PROSE length fails: a 3-5 sentence summary legitimately introduces many new words, so
+// legitimate rewrites scored 3-50% and the real desync scored 3% — no separation, and it
+// rejected four good summaries in a live build.
+// The right question is whether the prose still covers the SOURCE's subject matter: a fair
+// rewrite preserves it, a desync cannot. Measured over 28 model-authored headlines from a
+// real build, that direction separates cleanly:
+//     legitimate rewrites  min 40%, median 79%
+//     the observed desync  12%
+// 0.30 sits in the 28-point gap with margin either side. A false reject costs only the
+// feed's own title (the previous behaviour); a false accept publishes a confident lie.
+export function coherent(prose, item, floor = 0.30, minShared = 2) {
+  const src = contentTokens(item?.title);
+  if (!src.size) return false;              // no evidence -> can't vouch for the prose
   const p = contentTokens(prose);
-  if (!p.size) return false;
-  const snippet = String(item?.snippet ?? '').trim();
-  const src = contentTokens(`${item?.title ?? ''} ${snippet}`);
-  if (!src.size) return false;                 // no evidence at all -> can't vouch for it
   let shared = 0;
-  for (const t of p) if (src.has(t)) shared++;
-  return shared >= (snippet ? 2 : 1) && shared / p.size >= floor;
+  for (const t of src) if (p.has(t)) shared++;
+  return shared >= Math.min(minShared, src.size) && shared / src.size >= floor;
 }
 
 // A model headline is only used if it looks like a headline: long enough to say

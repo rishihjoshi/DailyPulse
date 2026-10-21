@@ -1,7 +1,7 @@
 // DailyPulse — reads the pre-built digest.json and renders 5 tabs.
 // No API key, no AI, no network beyond fetching its own digest (built by the Action).
 
-const APP_VERSION = '21'; // keep in sync with CACHE_NAME in sw.js (dailypulse-v21)
+const APP_VERSION = '22'; // keep in sync with CACHE_NAME in sw.js (dailypulse-v22)
 
 const TITLES = {
   local: 'USA',
@@ -39,14 +39,24 @@ function sourceChips(it) {
 }
 
 // `n` (optional) renders an editorial rank number (#2, #3…) for the ranked list.
-function newsItem(it, n) {
+// `i` (optional) is the position in the list, used only to stagger the entrance animation.
+//
+// Collapsed by default via native <details>/<summary>: keyboard operation, the
+// expanded/collapsed state announced to screen readers, and find-in-page all come free —
+// no JS, no state to keep in sync. A story with no body stays a plain <article> so there
+// is never a disclosure arrow that reveals nothing.
+function newsItem(it, n, i = 0) {
   const num = n ? `<span class="num">#${n}</span> ` : '';
   const summary = it.summary || it.why || '';
-  return `<article class="item">
-    <h3>${num}${esc(it.title)}</h3>
-    ${summary ? `<div class="summary">${esc(summary)}</div>` : ''}
-    ${sourceChips(it)}
-  </article>`;
+  const head = `<h3>${num}${esc(it.title)}</h3>`;
+  if (!summary) return `<article class="item" style="--i:${i}">${head}${sourceChips(it)}</article>`;
+  return `<details class="item" style="--i:${i}">
+    <summary>${head}<span class="chev" aria-hidden="true"></span></summary>
+    <div class="reveal">
+      <div class="summary">${esc(summary)}</div>
+      ${sourceChips(it)}
+    </div>
+  </details>`;
 }
 
 function topStory(it, n = 1) {
@@ -63,7 +73,7 @@ function topStory(it, n = 1) {
 function rankedBlock(items) {
   if (!items || !items.length) return '<div class="empty">No stories yet — check back after the next update.</div>';
   const [top, ...rest] = items;
-  return topStory(top, 1) + rest.map((it, i) => newsItem(it, i + 2)).join('');
+  return topStory(top, 1) + rest.map((it, i) => newsItem(it, i + 2, i + 1)).join('');
 }
 
 // Severe-weather alerts are the only thing in this briefing that's actionable within the
@@ -116,7 +126,7 @@ function renderMarkets(quotes) {
 
 function subSection(label, items, emptyMsg) {
   return `<div class="section-label">${esc(label)}</div>`
-    + (items && items.length ? items.map(it => newsItem(it)).join('') : `<div class="empty">${esc(emptyMsg)}</div>`);
+    + (items && items.length ? items.map((it, i) => newsItem(it, 0, i)).join('') : `<div class="empty">${esc(emptyMsg)}</div>`);
 }
 
 function renderTab(tab) {
@@ -143,11 +153,13 @@ function renderTab(tab) {
   if (tab === 'micro') {
     const m = digest.micro;
     return tabHero('./micro-banner.svg', 'Daily Lesson — microlearning') + `<span class="theme-pill">Today: ${esc(m.theme)}</span>`
-      + m.cards.map(c => `<div class="card">
-          <h3>${esc(c.title)}</h3>
-          <div class="insight">${esc(c.insight)}</div>
-          <div class="takeaway"><b>Try this:</b> ${esc(c.takeaway)}</div>
-        </div>`).join('')
+      + m.cards.map((c, i) => `<details class="card" style="--i:${i}">
+          <summary><h3>${esc(c.title)}</h3><span class="chev" aria-hidden="true"></span></summary>
+          <div class="reveal">
+            <div class="insight">${esc(c.insight)}</div>
+            <div class="takeaway"><b>Try this:</b> ${esc(c.takeaway)}</div>
+          </div>
+        </details>`).join('')
       + subSection('AI News', m.ai, 'No AI news today.');
   }
   return '';

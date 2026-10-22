@@ -3,7 +3,7 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { resolvePicks, splitOutlet, cleanHeadline, JUNK_TITLE, datedWithin,
-         coherent, contentTokens } from './build-digest.mjs';
+         coherent, contentTokens, withDeadline } from './build-digest.mjs';
 
 // Realistic enough to satisfy the coherence guard: these tests are about index mapping,
 // source ordering and headline fallback, not about prose/item agreement.
@@ -241,4 +241,29 @@ test('coherent still rejects prose written against a different story', () => {
     { title: 'Jaishankar meets Swift CEO in Delhi' }), true);
   assert.equal(coherent('anything plausible here', { title: '' }), false);
   assert.equal(coherent('', { title: 'Senate passes the budget bill today' }), false);
+});
+
+test('withDeadline returns real work when it finishes in time', async () => {
+  const got = await withDeadline(Promise.resolve(['a', 'b']), 500, [], 'fast');
+  assert.deepEqual(got, ['a', 'b']);
+});
+
+test('withDeadline falls back instead of hanging the build', async () => {
+  // A triggered build sat 16 minutes on one step with no output. A scheduled job must
+  // degrade to partial data rather than hang.
+  const never = new Promise(() => {});
+  const t0 = Date.now();
+  const got = await withDeadline(never, 60, [], 'stuck pool');
+  assert.deepEqual(got, [], 'falls back to the supplied default');
+  assert.ok(Date.now() - t0 < 2000, 'returns promptly at the deadline');
+});
+
+test('withDeadline clears its timer so the process can exit', async () => {
+  // A dangling setTimeout keeps Node alive and would hang the CI step at the end.
+  const before = process.getActiveResourcesInfo
+    ? process.getActiveResourcesInfo().filter(r => r === 'Timeout').length : 0;
+  await withDeadline(Promise.resolve('x'), 10000, null, 'timer');
+  const after = process.getActiveResourcesInfo
+    ? process.getActiveResourcesInfo().filter(r => r === 'Timeout').length : 0;
+  assert.equal(after, before, 'no timer left pending after the work resolves');
 });

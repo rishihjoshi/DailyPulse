@@ -1,12 +1,13 @@
-const CACHE_NAME = 'dailypulse-v22'; // bump on any static asset change (keep in sync with APP_VERSION in app.js)
+const CACHE_NAME = 'dailypulse-v23'; // bump on any static asset change (keep in sync with APP_VERSION in app.js)
 const STATIC_ASSETS = [
   './index.html',
   './app.js',
   './styles.css',
   './manifest.json',
-  './world-spinning.gif',
-  './india-flag.png',
-  './usa-news.jpg',
+  // Hero images are deliberately NOT precached. They were 3.0 MB of the 3.04 MB
+  // install, and because CACHE_NAME changes on every release, each version bump
+  // re-downloaded all of it. They are cached at runtime on first view instead.
+  './world-globe.svg',
   './finance-banner.svg',
   './micro-banner.svg',
   './icons/icon.svg',

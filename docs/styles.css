@@ -17,6 +17,12 @@
   --text:   #16130f;
   --muted:  #655c51;           /* ≥4.5:1 on --bg for secondary text */
   --accent: #b23b2e;           /* editorial red — top story, flags, active */
+  --on-accent: #ffffff;        /* text on an accent fill */
+  --alert-edge: #b4541a;       /* moderate watch */
+  --alert-edge-hi: #a11212;    /* severe / extreme */
+  --alert-fill: rgba(180, 84, 26, 0.06);
+  --alert-fill-hi: rgba(161, 18, 18, 0.07);
+  color-scheme: light;
 
   --serif: 'Newsreader', Georgia, 'Times New Roman', serif;
   --sans:  'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
@@ -118,7 +124,7 @@ button, a, [role="button"] { -webkit-tap-highlight-color: transparent; }
 .error p { color: var(--text); font-size: 15px; }
 .retry {
   font-family: var(--sans); font-size: 14px; font-weight: 500;
-  color: #fff; background: var(--accent);
+  color: var(--on-accent); background: var(--accent);
   border: none; border-radius: 10px; padding: 10px 20px;
   min-height: 44px; cursor: pointer; transition: opacity var(--t);
 }
@@ -339,10 +345,10 @@ button, a, [role="button"] { -webkit-tap-highlight-color: transparent; }
 /* Severe-weather alerts: above the news, legible without relying on colour alone. */
 .alerts { margin-bottom: 14px; display: grid; gap: 8px; }
 .alert {
-  border: 1px solid var(--line); border-left: 4px solid #b4541a;
-  border-radius: 10px; padding: 10px 12px; background: rgba(180, 84, 26, 0.06);
+  border: 1px solid var(--line); border-left: 4px solid var(--alert-edge);
+  border-radius: 10px; padding: 10px 12px; background: var(--alert-fill);
 }
-.alert.sev-extreme, .alert.sev-severe { border-left-color: #a11212; background: rgba(161, 18, 18, 0.07); }
+.alert.sev-extreme, .alert.sev-severe { border-left-color: var(--alert-edge-hi); background: var(--alert-fill-hi); }
 .alert-event { font-weight: 700; font-size: 1.0625rem; }
 .alert-text  { font-size: var(--fs-meta); color: var(--muted); margin-top: 3px; line-height: 1.45; }
 .weather .meta.now { font-size: 1.0625rem; color: var(--ink); font-weight: 600; margin-top: 4px; }
@@ -428,8 +434,8 @@ details[open] > .reveal { animation: reveal-in 180ms cubic-bezier(0.2, 0, 0, 1) 
 
 /* A severe-weather alert should draw the eye once, then stop. */
 @keyframes alert-pulse {
-  0%, 100% { box-shadow: 0 0 0 0 rgba(161, 18, 18, 0); }
-  50%      { box-shadow: 0 0 0 4px rgba(161, 18, 18, 0.12); }
+  0%, 100% { box-shadow: 0 0 0 0 transparent; }
+  50%      { box-shadow: 0 0 0 4px var(--alert-fill-hi); }
 }
 .alert.sev-extreme, .alert.sev-severe { animation: alert-pulse 1.6s ease-in-out 2; }
 
@@ -454,3 +460,136 @@ details[open] > .reveal { animation: reveal-in 180ms cubic-bezier(0.2, 0, 0, 1) 
   }
   .chev { transition: none; }
 }
+
+/* ══ Dark theme — "newsprint at night" ═══════════════════════════════════════
+   Not an inversion and not OLED-black-with-neon: the surfaces keep the warm
+   paper hue, dropped in luminance, so the editorial character survives. Text is
+   warm off-white rather than #fff to cut halation on a dark field, and the red
+   accent is lifted and desaturated so it reads without glowing.
+
+   Measured contrast against these surfaces (WCAG AA needs 4.5 for body text,
+   3.0 for large text and non-text UI):
+     ink   on bg / card / card2   16.03 / 15.04 / 13.80
+     muted on bg / card / card2    7.06 /  6.62 /  6.08
+     accent on bg / card           6.07 /  5.70   (clears 4.5, safe for body too)
+   Light mode for parity: muted 6.18, ink 17.46, accent 5.56.
+
+   The block is duplicated rather than derived because CSS cannot select on a
+   custom property: one copy follows the OS, one is the manual override. */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg:     #14110d;
+    --card:   #1c1812;
+    --card2:  #242019;
+    --line:   #352e25;
+    --ink:    #f2ece3;
+    --text:   #f2ece3;
+    --muted:  #a89d8d;
+    --accent: #e4705d;
+    --on-accent: #1a1510;
+    --alert-edge:    #d98a4a;
+    --alert-edge-hi: #e86a5c;
+    --alert-fill:    rgba(217, 138, 74, 0.10);
+    --alert-fill-hi: rgba(232, 106, 92, 0.13);
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg:     #14110d;
+  --card:   #1c1812;
+  --card2:  #242019;
+  --line:   #352e25;
+  --ink:    #f2ece3;
+  --text:   #f2ece3;
+  --muted:  #a89d8d;
+  --accent: #e4705d;
+  --on-accent: #1a1510;
+  --alert-edge:    #d98a4a;
+  --alert-edge-hi: #e86a5c;
+  --alert-fill:    rgba(217, 138, 74, 0.10);
+  --alert-fill-hi: rgba(232, 106, 92, 0.13);
+  color-scheme: dark;
+}
+
+/* Hero images are bright paper-era photographs; knock them back in dark so they
+   don't become the only light source on the screen. */
+:root[data-theme="dark"] .tab-hero img { filter: brightness(0.82) saturate(0.92); }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .tab-hero img { filter: brightness(0.82) saturate(0.92); }
+}
+
+/* Theme toggle in the header. Icon-only, so it carries an accessible name. */
+.theme-btn {
+  flex-shrink: 0; width: 36px; height: 36px; display: grid; place-items: center;
+  background: none; border: 1px solid var(--line); border-radius: 9px;
+  color: var(--muted); cursor: pointer;
+  transition-property: color, border-color, background;
+  transition-duration: 200ms;
+  transition-timing-function: cubic-bezier(0.2, 0, 0, 1);
+}
+.theme-btn:hover { color: var(--ink); border-color: var(--muted); }
+.theme-btn:active { background: var(--card2); }
+.theme-btn svg { width: 18px; height: 18px; }
+
+/* ══ New-since-last-visit ════════════════════════════════════════════════════ */
+.new-dot {
+  display: inline-block; vertical-align: 2px;
+  font-family: var(--sans); font-size: 9.5px; font-weight: 700;
+  letter-spacing: 0.08em; text-transform: uppercase;
+  color: var(--on-accent); background: var(--accent);
+  padding: 2px 5px; border-radius: 4px; margin-right: 5px;
+}
+/* Count badge on the nav. Not colour-alone: it carries a number and an aria-label. */
+.nav-btn { position: relative; }
+.nav-btn .badge {
+  position: absolute; top: 4px; left: 50%; margin-left: 6px;
+  min-width: 16px; height: 16px; padding: 0 4px;
+  display: grid; place-items: center;
+  font-size: 10px; font-weight: 700; font-variant-numeric: tabular-nums;
+  color: var(--on-accent); background: var(--accent);
+  border-radius: 8px; line-height: 1;
+}
+
+/* ══ History ═════════════════════════════════════════════════════════════════ */
+.runs { display: grid; gap: 8px; margin-bottom: 16px; }
+.run {
+  display: flex; align-items: center; justify-content: space-between; gap: 10px;
+  width: 100%; min-height: 48px; padding: 11px 13px;
+  font-family: var(--sans); font-size: var(--fs-meta); text-align: left;
+  color: var(--ink); background: var(--card);
+  border: 1px solid var(--line); border-radius: 11px; cursor: pointer;
+  animation: item-in var(--t-slow) cubic-bezier(0.2, 0, 0, 1) both;
+  animation-delay: calc(min(var(--i, 0), 8) * 35ms);
+  transition-property: background, border-color;
+  transition-duration: 200ms;
+  transition-timing-function: cubic-bezier(0.2, 0, 0, 1);
+}
+.run:hover { background: var(--card2); }
+.run:active { background: var(--card2); }
+.run.on { border-color: var(--accent); }
+.run-when { font-weight: 600; font-variant-numeric: tabular-nums; }
+.run-go {
+  flex-shrink: 0; font-size: var(--fs-micro); font-weight: 700;
+  letter-spacing: 0.06em; text-transform: uppercase; color: var(--accent);
+}
+
+/* Archived-run banner: sits above every tab so old news can't read as today's. */
+.archive-bar {
+  display: flex; align-items: center; justify-content: space-between; gap: 10px;
+  margin-bottom: 14px; padding: 10px 12px;
+  background: var(--card2); border: 1px solid var(--line);
+  border-left: 4px solid var(--accent); border-radius: 10px;
+  font-size: var(--fs-meta); color: var(--ink);
+}
+.to-live {
+  flex-shrink: 0; min-height: 32px; padding: 6px 11px;
+  font-family: var(--sans); font-size: var(--fs-micro); font-weight: 700;
+  color: var(--on-accent); background: var(--accent);
+  border: 0; border-radius: 8px; cursor: pointer;
+}
+.to-live:active { opacity: 0.8; }
+
+/* Six nav items now: tighten the label so nothing truncates at 360px. */
+.bottom-nav { gap: 0; }
+.nav-btn span { font-size: 10px; }
+@media (max-width: 359px) { .nav-btn span { font-size: 9px; letter-spacing: -0.01em; } }

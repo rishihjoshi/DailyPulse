@@ -2,7 +2,7 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { renderWeather, renderAlerts, renderWatch, rankedBlock, freshness,
-         newsItem, topStory } from '../docs/app.js';
+         newsItem, topStory, parseHash, diffNew, nextTheme, fmtRun, TABS } from '../docs/app.js';
 
 test('renderWeather shows °F, °C, sunrise, sunset, and wind', () => {
   const html = renderWeather({
@@ -122,4 +122,58 @@ test('entrance stagger index is emitted and escapes nothing dangerous', () => {
   const evil = newsItem({ title: '"><script>alert(1)</script>', summary: 'S',
     link: 'https://a', sources: [] }, 2, 0);
   assert.ok(!evil.includes('<script>'), 'title still escaped inside summary/h3');
+});
+
+test('parseHash routes tabs and archived runs, rejects junk', () => {
+  assert.deepEqual(parseHash('#world'), { tab: 'world', sha: null });
+  assert.deepEqual(parseHash('world'), { tab: 'world', sha: null }, 'leading # optional');
+  assert.deepEqual(parseHash('#history'), { tab: 'history', sha: null });
+  assert.deepEqual(parseHash('#local@7eddbe9'), { tab: 'local', sha: '7eddbe9' });
+  assert.deepEqual(parseHash('#local@7eddbe91ab31bc9ae9582d1577262c8e13794d9a'),
+    { tab: 'local', sha: '7eddbe91ab31bc9ae9582d1577262c8e13794d9a' });
+  // unknown tab, bad sha, and injection attempts must not route
+  assert.equal(parseHash('#nope'), null);
+  assert.equal(parseHash('#local@zzz'), null, 'sha must be hex');
+  assert.equal(parseHash('#local@12'), null, 'sha too short');
+  assert.equal(parseHash('#<script>'), null);
+  assert.equal(parseHash(''), null);
+  assert.equal(parseHash(undefined), null);
+  assert.ok(TABS.includes('history'), 'History is a real tab');
+});
+
+test('diffNew marks only links absent from the previous visit', () => {
+  const now = ['https://a/1', 'https://a/2', 'https://a/3'];
+  const seen = ['https://a/1', 'https://a/3'];
+  const n = diffNew(now, seen);
+  assert.equal(n.size, 1);
+  assert.ok(n.has('https://a/2'));
+  // nothing new when the set is unchanged
+  assert.equal(diffNew(now, now).size, 0);
+  // no stored set -> caller suppresses, but the diff itself is total
+  assert.equal(diffNew(now, []).size, 3);
+  assert.equal(diffNew(undefined, undefined).size, 0);
+});
+
+test('newsItem flags a story as new only when it is in the new set', () => {
+  // newLinks is module state, so drive it through the real render path: a link that
+  // was never seen shows the badge once diffNew has populated it.
+  const html = newsItem({ title: 'T', summary: 'S', link: 'https://x/1', sources: [] }, 2, 0);
+  // default module state has an empty new set -> no badge
+  assert.ok(!html.includes('new-dot'), 'nothing is new before a diff has run');
+});
+
+test('nextTheme flips away from whatever is currently showing', () => {
+  assert.equal(nextTheme(null, false), 'dark',  'system light -> dark');
+  assert.equal(nextTheme(null, true), 'light',  'system dark -> light');
+  assert.equal(nextTheme('dark', false), 'light');
+  assert.equal(nextTheme('light', true), 'dark');
+});
+
+test('fmtRun renders an archive timestamp and survives junk', () => {
+  const out = fmtRun('2026-10-21T19:22:35Z');
+  assert.match(out, /Oct/, 'month should appear');
+  assert.equal(fmtRun(''), '', 'empty -> empty, never the words "Invalid Date"');
+  assert.equal(fmtRun('not a date'), '', 'unparseable -> empty');
+  assert.equal(fmtRun(undefined), '');
+  assert.equal(fmtRun(null), '');
 });

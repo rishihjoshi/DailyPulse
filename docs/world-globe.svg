@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="Spinning globe — world news">
+  <defs>
+    <linearGradient id="wbg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b1a2b"/>
+      <stop offset="1" stop-color="#060f1c"/>
+    </linearGradient>
+    <radialGradient id="wocean" cx="38%" cy="32%" r="72%">
+      <stop offset="0" stop-color="#1d6a8f"/>
+      <stop offset="0.65" stop-color="#11486a"/>
+      <stop offset="1" stop-color="#0a2b45"/>
+    </radialGradient>
+    <radialGradient id="wshade" cx="34%" cy="30%" r="74%">
+      <stop offset="0.55" stop-color="#000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#000" stop-opacity="0.55"/>
+    </radialGradient>
+    <clipPath id="wclip"><circle cx="190" cy="180" r="118"/></clipPath>
+    <style>
+      .title{font-family:Georgia,'Times New Roman',serif;fill:#f5f2ec;font-weight:700}
+      .eyebrow{font-family:Arial,Helvetica,sans-serif;fill:#6fb6d6;font-weight:700;letter-spacing:3px}
+      /* One transform per layer, GPU-friendly. Honour reduced motion. */
+      .spin{animation:wspin 24s linear infinite}
+      @keyframes wspin{to{transform:translateX(-472px)}}
+      @media (prefers-reduced-motion:reduce){.spin{animation:none}}
+    </style>
+  </defs>
+
+  <rect width="640" height="360" fill="url(#wbg)"/>
+
+  <!-- starfield -->
+  <g fill="#9ec8e0" opacity="0.5">
+    <circle cx="470" cy="56" r="1.3"/><circle cx="540" cy="110" r="1"/><circle cx="600" cy="70" r="1.2"/>
+    <circle cx="500" cy="290" r="1"/><circle cx="578" cy="246" r="1.3"/><circle cx="614" cy="320" r="1"/>
+    <circle cx="438" cy="330" r="1"/><circle cx="62" cy="44" r="1.1"/><circle cx="300" cy="36" r="1"/>
+    <circle cx="40" cy="320" r="1.2"/><circle cx="330" cy="328" r="1"/>
+  </g>
+
+  <!-- globe -->
+  <circle cx="190" cy="180" r="118" fill="url(#wocean)"/>
+  <g clip-path="url(#wclip)">
+    <!-- Landmasses drawn twice, 472px apart, so the single translate loops seamlessly. -->
+    <g class="spin" fill="#2f7d52">
+      <g>
+        <path d="M60 104c18-10 40-6 54 4s30 8 42 20-6 26-20 30-28-2-42 6-30 2-38-12-14-38 4-48z"/>
+        <path d="M120 206c16-4 28 6 34 18s-2 30-14 40-30 14-40 4-8-28-2-40 6-20 22-22z"/>
+        <path d="M232 92c22-8 48 2 58 18s2 34-14 40-34-4-46-14-20-36 2-44z"/>
+        <path d="M250 190c20-6 40 8 44 26s-10 36-28 40-34-10-38-28 2-32 22-38z"/>
+        <path d="M196 268c14-6 30 0 36 12s-4 24-18 26-28-6-30-18 -2-16 12-20z"/>
+      </g>
+      <g transform="translate(472)">
+        <path d="M60 104c18-10 40-6 54 4s30 8 42 20-6 26-20 30-28-2-42 6-30 2-38-12-14-38 4-48z"/>
+        <path d="M120 206c16-4 28 6 34 18s-2 30-14 40-30 14-40 4-8-28-2-40 6-20 22-22z"/>
+        <path d="M232 92c22-8 48 2 58 18s2 34-14 40-34-4-46-14-20-36 2-44z"/>
+        <path d="M250 190c20-6 40 8 44 26s-10 36-28 40-34-10-38-28 2-32 22-38z"/>
+        <path d="M196 268c14-6 30 0 36 12s-4 24-18 26-28-6-30-18 -2-16 12-20z"/>
+      </g>
+    </g>
+    <!-- graticule -->
+    <g fill="none" stroke="#8fd0ea" stroke-opacity="0.22" stroke-width="1">
+      <line x1="72" y1="180" x2="308" y2="180"/>
+      <path d="M72 180a118 60 0 0 1 236 0"/>
+      <path d="M72 180a118 60 0 0 0 236 0"/>
+      <path d="M190 62a60 118 0 0 1 0 236"/>
+      <path d="M190 62a60 118 0 0 0 0 236"/>
+    </g>
+    <circle cx="190" cy="180" r="118" fill="url(#wshade)"/>
+  </g>
+  <circle cx="190" cy="180" r="118" fill="none" stroke="#7fc4e2" stroke-opacity="0.35" stroke-width="1.5"/>
+
+  <text class="eyebrow" x="358" y="150" font-size="13">WORLD</text>
+  <text class="title" x="358" y="196" font-size="40">World News</text>
+  <text class="title" x="358" y="228" font-size="15" opacity="0.62">Today, across the globe</text>
+</svg>

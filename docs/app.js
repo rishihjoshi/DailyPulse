@@ -1,7 +1,7 @@
 // DailyPulse — reads the pre-built digest.json and renders 5 tabs.
 // No API key, no AI, no network beyond fetching its own digest (built by the Action).
 
-const APP_VERSION = '23'; // keep in sync with CACHE_NAME in sw.js (dailypulse-v23)
+const APP_VERSION = '24'; // keep in sync with CACHE_NAME in sw.js (dailypulse-v24)
 
 const TITLES = {
   local: 'USA',
@@ -25,6 +25,7 @@ function tabHero(src, alt, mod = '') {
     loading="eager" decoding="async" fetchpriority="high"></div>`;
 }
 
+let loadedAt = 0;          // when the live digest was last fetched
 let digest = null;         // the digest currently on screen (live, or a historical one)
 let live = null;           // the latest digest, kept so "Back to latest" is instant
 let current = 'local';
@@ -106,12 +107,14 @@ function renderWeather(w, place) {
   const now = (w.now ?? null) !== null
     ? `<div class="meta now">Now ${esc(w.now)}°F · ${esc(w.nowLabel || w.label)}</div>` : '';
   return `<div class="weather">
-    <div class="emoji">${esc(w.emoji)}</div>
+    <div class="emoji" aria-hidden="true">${esc(w.emoji)}</div>
     <div>
       <div class="temps">${esc(w.high)}°F / ${esc(w.highC)}°C</div>
       ${now}
       <div class="meta">${esc(w.label)} · Low ${esc(w.low)}°F (${esc(w.lowC)}°C) · ${esc(w.precip)}% precipitation</div>
-      <div class="meta">🌅 ${esc(w.sunrise)} · 🌇 ${esc(w.sunset)} · 💨 ${esc(w.wind)} mph · ${esc(place || 'St. Charles, MO')}</div>
+      <div class="meta"><span aria-hidden="true">🌅</span> ${esc(w.sunrise)}
+        · <span aria-hidden="true">🌇</span> ${esc(w.sunset)}
+        · <span aria-hidden="true">💨</span> ${esc(w.wind)} mph · ${esc(place || 'St. Charles, MO')}</div>
     </div>
   </div>`;
 }
@@ -436,6 +439,7 @@ async function loadDigest() {
     const res = await fetch(DIGEST_URL, { cache: 'no-cache' });
     if (!res.ok) throw new Error(res.status);
     live = await res.json();
+    loadedAt = Date.now();
     digest = live;
     computeNew(digest);
     const f = freshness(digest.generatedAt);
@@ -446,7 +450,8 @@ async function loadDigest() {
     // Deep link wins over the default tab; an archived sha loads that run.
     const route = parseHash(hashNow());
     if (route && route.sha) { current = route.tab; await openRun(route.sha); }
-    else show(route ? route.tab : current);
+    else show(route ? route.tab : current);   // `current` survives a refresh, so a
+                                              // background refresh keeps you in place
   } catch (err) {
     main.removeAttribute('aria-busy');
     main.innerHTML =
@@ -495,6 +500,27 @@ function registerSW() {
   }).catch(err => console.warn('SW:', err));
 }
 
+
+// The digest was fetched once per page load and never again, while
+// raw.githubusercontent serves it with Cache-Control: max-age=300. Two consequences,
+// both seen in a real browser: a load landing inside that 5-minute window kept showing
+// the previous briefing even after a new one published, and an installed PWA left open
+// overnight still showed yesterday's news in the morning.
+// So re-fetch when the app returns to the foreground, if the copy on screen is old
+// enough to be worth replacing. Skipped while reading an archived run.
+const REFRESH_AFTER_MS = 10 * 60 * 1000;
+
+export function shouldRefresh(loadedAtMs, now, viewingArchive, minAgeMs = REFRESH_AFTER_MS) {
+  if (viewingArchive) return false;         // never yank an archived run out from under the reader
+  if (!loadedAtMs) return false;            // nothing loaded yet; loadDigest is already running
+  return now - loadedAtMs >= minAgeMs;
+}
+
+function refreshIfStale() {
+  if (typeof document === 'undefined' || document.visibilityState !== 'visible') return;
+  if (!shouldRefresh(loadedAt, Date.now(), !!viewingSha)) return;
+  loadDigest();
+}
 
 // ── Theme ─────────────────────────────────────────────────────────────────────
 // Default follows the OS; the toggle sets an explicit override that persists.
@@ -552,6 +578,8 @@ function init() {
     if (run) { openRun(run.dataset.sha); return; }
     if (e.target.closest('.to-live')) backToLive();
   });
+  // Returning to the app re-checks the briefing, not just the service worker.
+  document.addEventListener('visibilitychange', refreshIfStale);
   // Browser Back / forward between tabs.
   addEventListener('hashchange', () => {
     const r = parseHash(hashNow());

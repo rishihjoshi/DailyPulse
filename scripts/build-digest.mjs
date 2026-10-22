@@ -121,6 +121,39 @@ const WMO = {
   95: ['Thunderstorm', '⛈️'], 96: ['Thunderstorm + hail', '⛈️'], 99: ['Thunderstorm + hail', '⛈️'],
 };
 
+// A feed's own <title> is often not the publisher's name: The Hill's is "Just In News",
+// NPR's is "NPR Topics: National", a Google News search feed's is the whole query. Those
+// strings became the link text, so one tab showed 9 of 10 source links collapsed into
+// three indistinguishable groups ("Just In News" x4) in a screen-reader links list — and
+// srcRank could not recognise the outlet either.
+// The article's own hostname is the reliable signal, so map the hosts we actually link to.
+const OUTLET_BY_HOST = {
+  'apnews.com': 'AP News', 'reuters.com': 'Reuters', 'bbc.co.uk': 'BBC', 'bbc.com': 'BBC',
+  'npr.org': 'NPR', 'pbs.org': 'PBS NewsHour', 'thehill.com': 'The Hill',
+  'bbci.co.uk': 'BBC',
+  'theguardian.com': 'The Guardian', 'aljazeera.com': 'Al Jazeera', 'axios.com': 'Axios',
+  'cbsnews.com': 'CBS News', 'abcnews.go.com': 'ABC News', 'nbcnews.com': 'NBC News',
+  'cnbc.com': 'CNBC', 'techcrunch.com': 'TechCrunch', 'thehindu.com': 'The Hindu',
+  'ndtv.com': 'NDTV', 'timesofindia.indiatimes.com': 'Times of India',
+  'economictimes.indiatimes.com': 'Economic Times', 'indianexpress.com': 'Indian Express',
+  'federalregister.gov': 'Federal Register', 'uscis.gov': 'USCIS', 'travel.state.gov': 'State Dept',
+  'nytimes.com': 'The New York Times', 'wsj.com': 'The Wall Street Journal',
+  'washingtonpost.com': 'The Washington Post', 'bloomberg.com': 'Bloomberg', 'ft.com': 'Financial Times',
+};
+
+// Falls back to the feed's title only when the host is unknown, so nothing regresses to
+// a worse name than before.
+export function outletFor(link, feedTitle) {
+  try {
+    const host = new URL(link).hostname.replace(/^www\./, '');
+    if (OUTLET_BY_HOST[host]) return OUTLET_BY_HOST[host];
+    // strip a leading subdomain once (e.g. feeds.bbci.co.uk -> bbci.co.uk) and retry
+    const shorter = host.replace(/^[^.]+\./, '');
+    if (OUTLET_BY_HOST[shorter]) return OUTLET_BY_HOST[shorter];
+  } catch { /* not a parseable URL — fall through */ }
+  return String(feedTitle || 'Source').trim();
+}
+
 // Google News items title themselves "Real Headline - The Washington Post" and expose
 // only the feed name ("U.S. - Latest - Google News") as the source, so srcRank's paywall
 // check never fired and the UI credited Google instead of the publisher. Split the suffix.
@@ -192,12 +225,12 @@ async function fetchPool(urls, maxAgeDays = NEWS_MAX_AGE_DAYS) {
       const dated = raw.filter(it => datedWithin(it.isoDate || it.pubDate, Date.now(), maxAgeDays));
       const items = dated
         .map(it => {
+          const link = String(it.link).trim();
           const { title, source } = isGoogle
-            ? splitOutlet(it.title, feedName)
-            : { title: String(it.title).trim(), source: feedName };
+            ? splitOutlet(it.title, feedName)             // opaque redirect URL; use the suffix
+            : { title: String(it.title).trim(), source: outletFor(link, feedName) };
           return {
-            title, source,
-            link: String(it.link).trim(),
+            title, source, link,
             isoDate: it.isoDate || it.pubDate || '',
             snippet: (it.contentSnippet || it.content || '').replace(/\s+/g, ' ').trim().slice(0, 300),
           };

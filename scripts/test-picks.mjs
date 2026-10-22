@@ -3,7 +3,7 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { resolvePicks, splitOutlet, cleanHeadline, JUNK_TITLE, datedWithin,
-         coherent, contentTokens, withDeadline } from './build-digest.mjs';
+         coherent, contentTokens, withDeadline, outletFor } from './build-digest.mjs';
 
 // Realistic enough to satisfy the coherence guard: these tests are about index mapping,
 // source ordering and headline fallback, not about prose/item agreement.
@@ -266,4 +266,24 @@ test('withDeadline clears its timer so the process can exit', async () => {
   const after = process.getActiveResourcesInfo
     ? process.getActiveResourcesInfo().filter(r => r === 'Timeout').length : 0;
   assert.equal(after, before, 'no timer left pending after the work resolves');
+});
+
+test('outletFor names the publisher from the article host, not the feed title', () => {
+  // The real failure: one tab showed 9 of 10 source links as three identical groups,
+  // because these feed <title>s are not publisher names.
+  assert.equal(outletFor('https://thehill.com/blogs/in-the-know/6160240-x/', 'Just In News'),
+    'The Hill', 'The Hill’s feed is titled "Just In News"');
+  assert.equal(outletFor('https://www.npr.org/2026/10/22/x', 'NPR Topics: National'), 'NPR');
+  assert.equal(outletFor('https://apnews.com/article/abc123', 'AP'), 'AP News');
+  assert.equal(outletFor('https://www.bbc.co.uk/news/articles/x', 'BBC News'), 'BBC');
+  assert.equal(outletFor('https://feeds.bbci.co.uk/news/x', 'BBC News'), 'BBC',
+    'subdomain is stripped once before giving up');
+  // paywalled hosts resolve to names srcRank can actually recognise
+  assert.equal(outletFor('https://www.washingtonpost.com/x', 'U.S. - Google News'),
+    'The Washington Post');
+  // unknown host or junk input must never produce a worse name than before
+  assert.equal(outletFor('https://example.invalid/x', 'Some Feed'), 'Some Feed');
+  assert.equal(outletFor('not-a-url', 'Fallback Feed'), 'Fallback Feed');
+  assert.equal(outletFor('', ''), 'Source');
+  assert.equal(outletFor(undefined, undefined), 'Source');
 });

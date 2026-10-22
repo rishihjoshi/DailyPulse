@@ -149,6 +149,20 @@ async function parseFeed(url, tries = 2) {
 
 const byNewest = (a, b) => new Date(b.isoDate) - new Date(a.isoDate);
 
+// Hard ceiling on the whole feed phase. Returns whatever `work` produced by the
+// deadline instead of hanging the build; a short pool is recoverable, a hung job is not.
+const FETCH_DEADLINE_MS = 90000;
+export function withDeadline(work, ms, fallback, label = 'task') {
+  let timer;
+  const guard = new Promise(resolve => {
+    timer = setTimeout(() => {
+      console.warn(`${label}: deadline hit after ${ms}ms — continuing with partial data`);
+      resolve(fallback);
+    }, ms);
+  });
+  return Promise.race([work, guard]).finally(() => clearTimeout(timer));
+}
+
 // Age window, per pool. A dry run showed finance spanning 12 years and stlouis 390 days;
 // inspecting the items showed the dates were CORRECT and the content was simply old —
 // broad Google News keyword queries return evergreen vendor content (J.P. Morgan
@@ -611,9 +625,12 @@ async function main() {
   const dayOfYear = Math.floor((Date.now() - Date.UTC(new Date().getUTCFullYear(), 0, 0)) / 864e5);
   const theme = THEMES[dayOfYear % THEMES.length];
 
+  const pool = (name, urls, age) =>
+    withDeadline(fetchPool(urls, age), FETCH_DEADLINE_MS, [], `pool ${name}`);
   const [local, stlouis, world, india, immigration, finance, ai, weather, markets] = await Promise.all([
-    fetchPool(FEEDS.local), fetchPool(FEEDS.stlouis), fetchPool(FEEDS.world), fetchPool(FEEDS.india),
-    fetchPool(FEEDS.immigration, STANDING_MAX_AGE_DAYS), fetchPool(FEEDS.finance), fetchPool(FEEDS.ai),
+    pool('local', FEEDS.local), pool('stlouis', FEEDS.stlouis), pool('world', FEEDS.world),
+    pool('india', FEEDS.india), pool('immigration', FEEDS.immigration, STANDING_MAX_AGE_DAYS),
+    pool('finance', FEEDS.finance), pool('ai', FEEDS.ai),
     fetchWeather(), fetchMarkets(),
   ]);
   const pools = { local, stlouis, world, india, immigration, finance, ai };
@@ -645,7 +662,11 @@ TOTAL candidates the model would see: ${total}`);
     return;
   }
 
-  const client = new Anthropic({ apiKey });
+  const client = new Anthropic({
+    apiKey,
+    timeout: 180000,   // 3 min per attempt (SDK default is 10 min)
+    maxRetries: 1,     // worst case ~6 min, not ~30
+  });
   const msg = await client.messages.create({
     model: MODEL,
     max_tokens: 10000,  // 31 multi-sentence summaries + micro cards; headroom so JSON never truncates

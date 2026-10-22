@@ -2,7 +2,8 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { renderWeather, renderAlerts, renderWatch, rankedBlock, freshness,
-         newsItem, topStory, parseHash, diffNew, nextTheme, fmtRun, TABS, isSha } from '../docs/app.js';
+         newsItem, topStory, parseHash, diffNew, nextTheme, fmtRun, TABS, isSha,
+         shouldRefresh } from '../docs/app.js';
 
 test('renderWeather shows °F, °C, sunrise, sunset, and wind', () => {
   const html = renderWeather({
@@ -188,4 +189,32 @@ test('isSha accepts real commit refs and rejects path-traversal attempts', () =>
   assert.ok(!isSha(''));
   assert.ok(!isSha(undefined));
   assert.ok(!isSha('7eddbe9?x=1'));
+});
+
+test('shouldRefresh re-fetches a stale briefing but never disturbs an archived run', () => {
+  const MIN = 10 * 60 * 1000;
+  const now = 1700000000000;
+  // The bug: the digest was fetched once per page load and never again, so a PWA left
+  // open overnight still showed yesterday's briefing.
+  assert.equal(shouldRefresh(now - 11 * 60 * 1000, now, false), true, 'stale -> refresh');
+  assert.equal(shouldRefresh(now - 2 * 60 * 1000, now, false), false, 'fresh -> leave it');
+  assert.equal(shouldRefresh(now - MIN, now, false), true, 'exactly at the threshold');
+  assert.equal(shouldRefresh(now - 11 * 60 * 1000, now, true), false, 'archive stays pinned');
+  assert.equal(shouldRefresh(0, now, false), false, 'nothing loaded yet');
+  assert.equal(shouldRefresh(undefined, now, false), false);
+});
+
+test('renderWeather hides decorative glyphs from the accessibility tree', () => {
+  const html = renderWeather({ high: 77, low: 47, highC: 25, lowC: 8, precip: 0, wind: 4,
+    sunrise: '7:17 AM', sunset: '6:12 PM', label: 'Clear', emoji: 'SUNGLYPH' }, 'St. Charles, MO');
+  // the condition is already written out as text, so the glyph is redundant announcement
+  assert.match(html, /class="emoji" aria-hidden="true"/, 'weather glyph must be hidden');
+  assert.ok(html.includes('Clear'), 'the condition stays available as text');
+  // sunrise/sunset/wind glyphs each sit in their own aria-hidden span
+  const spans = html.match(/<span aria-hidden="true">/g) || [];
+  assert.equal(spans.length, 3, 'three decorative glyphs, three aria-hidden spans');
+  // the data beside them stays announceable
+  for (const v of ['7:17 AM', '6:12 PM', '4 mph', 'St. Charles, MO']) {
+    assert.ok(html.includes(v), `${v} must remain readable`);
+  }
 });

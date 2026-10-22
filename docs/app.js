@@ -149,6 +149,10 @@ function subSection(label, items, emptyMsg) {
 // branch, so that branch IS the archive (41 runs at the time of writing). Both calls
 // below are public, keyless and CORS-enabled.
 const HISTORY_API = `https://api.github.com/repos/${REPO}/commits?sha=data&path=digest.json&per_page=40`;
+// The sha reaches here from the commits API and from the URL hash. parseHash already
+// validates its copy; this validates every caller, so nothing can be smuggled into the
+// path (a '..' segment would otherwise point the fetch somewhere else in the repo).
+export const isSha = v => /^[0-9a-f]{7,40}$/i.test(String(v ?? ''));
 const digestAtSha = sha => `https://raw.githubusercontent.com/${REPO}/${sha}/digest.json`;
 
 export function fmtRun(iso) {
@@ -216,6 +220,7 @@ function archiveBanner() {
 }
 
 async function openRun(sha) {
+  if (!isSha(sha)) { console.warn('ignoring malformed archive ref:', sha); return; }
   const main = document.getElementById('main');
   main.setAttribute('aria-busy', 'true');
   try {

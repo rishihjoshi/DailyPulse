@@ -2,7 +2,7 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { renderWeather, renderAlerts, renderWatch, rankedBlock, freshness,
-         newsItem, topStory, parseHash, diffNew, nextTheme, fmtRun, TABS } from '../docs/app.js';
+         newsItem, topStory, parseHash, diffNew, nextTheme, fmtRun, TABS, isSha } from '../docs/app.js';
 
 test('renderWeather shows °F, °C, sunrise, sunset, and wind', () => {
   const html = renderWeather({
@@ -176,4 +176,16 @@ test('fmtRun renders an archive timestamp and survives junk', () => {
   assert.equal(fmtRun('not a date'), '', 'unparseable -> empty');
   assert.equal(fmtRun(undefined), '');
   assert.equal(fmtRun(null), '');
+});
+
+test('isSha accepts real commit refs and rejects path-traversal attempts', () => {
+  assert.ok(isSha('7eddbe9'));
+  assert.ok(isSha('7eddbe91ab31bc9ae9582d1577262c8e13794d9a'));
+  assert.ok(!isSha('../../main/secrets'), 'must not allow a path segment');
+  assert.ok(!isSha('7eddbe9/../x'));
+  assert.ok(!isSha('abc'), 'too short');
+  assert.ok(!isSha('zzzzzzz'), 'not hex');
+  assert.ok(!isSha(''));
+  assert.ok(!isSha(undefined));
+  assert.ok(!isSha('7eddbe9?x=1'));
 });

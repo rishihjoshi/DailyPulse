@@ -1,124 +1,140 @@
 {
-  "generatedAt": "2026-10-22T15:43:43.497Z",
-  "location": "St. Louis, MO",
+  "generatedAt": "2026-10-22T18:09:46.241Z",
+  "location": "St. Charles, MO",
   "weather": {
-    "high": 77,
-    "low": 47,
-    "highC": 25,
+    "high": 75,
+    "low": 46,
+    "highC": 24,
     "lowC": 8,
     "precip": 0,
     "wind": 4,
-    "sunrise": "7:17 AM",
-    "sunset": "6:12 PM",
+    "sunrise": "7:18 AM",
+    "sunset": "6:13 PM",
+    "now": 70,
+    "nowLabel": "Clear",
+    "alerts": [],
     "label": "Clear",
     "emoji": "☀️"
   },
+  "watch": [
+    "Resolution of Iran-US tensions post-US midterms; potential military escalation in Gulf",
+    "Chip equipment guidance this earnings season; signals on AI infrastructure investment pace",
+    "France's budget passage and eurozone debt concerns; ECB policy response to bond market stress"
+  ],
   "tabs": {
     "local": {
       "items": [
         {
-          "title": "Virginia state Sen. L. Louise Lucas charged with public corruption",
-          "summary": "Virginia state Sen. L. Louise Lucas, one of the state's most powerful Democrats and vocal Trump critic, was indicted Thursday on federal racketeering, money laundering, and drug charges. The DOJ alleges Lucas led a criminal conspiracy involving her family members related to a marijuana distribution business. The unsealed indictment represents a significant corruption case against a high-ranking state official.",
-          "source": "Just In News",
-          "link": "https://thehill.com/homenews/state-watch/6165406-virginia-senator-louise-lucas-indicted/",
-          "sources": [
-            {
-              "source": "Just In News",
-              "link": "https://thehill.com/homenews/state-watch/6165406-virginia-senator-louise-lucas-indicted/"
-            },
-            {
-              "source": "U.S. - Latest - Google News",
-              "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVVZXQUtxYjZtOEZmSGJBZHZJQW9NS0JRWmVsUlF3T0hMWDBwaDB4ZU9fYllsSVNWNlloeEpqMHRtOWFwQ1ZockZrMnhpYXFTc0JvZlkycUdtbHRwNk1FYmxzaDEyamZWalB2Xy00UHN6cV9hbzAzdHVaRzBtcV9NOUxPR2FuVllpeUFIcnRkZE5UR0FLX3N4clNYZ3ZtZFBIX3Qwb2N2bzRDRUg4T1ZGeC1xcTJMQS1SUTBhbnN3QWJhMThiMlhYWGFMMGwxZw?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Russian missiles pound Kyiv as Moscow says over 800 Ukrainian drones downed",
-          "summary": "Russia launched an intensive overnight bombardment of Kyiv with ballistic missiles, while claiming its air defenses intercepted over 800 Ukrainian drones targeting Moscow and other Russian cities. The escalation underscores the ongoing intensity of the conflict despite diplomatic discussions about potential settlements.",
+          "title": "Jobless claims fall to lowest level since July",
+          "feedTitle": "U.S. jobless claims fell to 194,000 last week, lowest since July",
+          "summary": "US jobless claims dropped to 194,000 last week, marking the lowest figure since July and remaining at historically low levels this year, never exceeding 230,000 in a single week. The data suggests continued labor market strength despite economic headwinds. This trend contrasts with broader market concerns about inflation and geopolitical tensions.",
           "source": "PBS News Hour - The Latest",
-          "link": "https://www.pbs.org/newshour/world/russian-missiles-pound-kyiv-as-moscow-says-over-800-ukrainian-drones-downed",
+          "link": "https://www.pbs.org/newshour/economy/u-s-jobless-claims-fell-to-194000-last-week-lowest-since-july",
           "sources": [
             {
               "source": "PBS News Hour - The Latest",
-              "link": "https://www.pbs.org/newshour/world/russian-missiles-pound-kyiv-as-moscow-says-over-800-ukrainian-drones-downed"
-            },
-            {
-              "source": "Just In News",
-              "link": "https://thehill.com/opinion/international/6160753-trump-reverses-ukraine-policy/"
+              "link": "https://www.pbs.org/newshour/economy/u-s-jobless-claims-fell-to-194000-last-week-lowest-since-july"
             }
           ]
         },
         {
-          "title": "Judge restricts DHS investigations into noncitizen voting, citing flawed data - The Washington Post",
-          "summary": "A federal judge has restricted DHS investigations into noncitizen voting, citing flawed data underlying the agency's operations. The ruling blocks the Trump administration from deploying armed agents to interrogate voters in nine states ahead of midterms, citing concerns about evidence quality and investigative procedures.",
-          "source": "U.S. - Latest - Google News",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORnhQQ3g5ZDJYMTRBdm9oXzlidndrOXpkM2JPTzRRcUsxZmFPSG5jN2JZZUJaUHh2SS1hZkJ0UVNoTm1qSWZ3WDdQSUVYR21rUzFMZVkwYTdXLS02amdUUnRxWGl4N3JvNzAwaS1DYW1tdnJEaVlpUWozSGNrMEZ6V28zZTc0Ujk2Y3pLbFFyczd2bDVqdkh3YlNPR3gtMkpZa3plcFlQREdMOWY4ZEw1V3pHNWNmYU5INHYxMg?oc=5",
-          "sources": [
-            {
-              "source": "U.S. - Latest - Google News",
-              "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORnhQQ3g5ZDJYMTRBdm9oXzlidndrOXpkM2JPTzRRcUsxZmFPSG5jN2JZZUJaUHh2SS1hZkJ0UVNoTm1qSWZ3WDdQSUVYR21rUzFMZVkwYTdXLS02amdUUnRxWGl4N3JvNzAwaS1DYW1tdnJEaVlpUWozSGNrMEZ6V28zZTc0Ujk2Y3pLbFFyczd2bDVqdkh3YlNPR3gtMkpZa3plcFlQREdMOWY4ZEw1V3pHNWNmYU5INHYxMg?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Members are nervous about opening day disruptions",
-          "summary": "Members of Congress expressed concerns about potential political interference and partisan disruptions ahead of the scheduled January 3 opening of the new Congress. The heightened tensions reflect worry over challenges to seating and procedural conflicts.",
+          "title": "Rising employer health insurance costs hit American workers",
+          "feedTitle": "Workers hit hard by rising employer health insurance costs",
+          "summary": "Costs for workplace-sponsored health insurance are spiking significantly, with the average family plan rising 5% to over $28,000 annually, according to a new survey. Small businesses and their employees are being hit especially hard by these increases. The surge in premiums is putting pressure on household budgets at a critical time.",
           "source": "Just In News",
-          "link": "https://thehill.com/opinion/congress-blog/6161530-congress-opening-day-disruption-concerns/",
+          "link": "https://thehill.com/policy/healthcare/6166007-employer-health-insurance-costs-premiums-rise/",
           "sources": [
             {
               "source": "Just In News",
-              "link": "https://thehill.com/opinion/congress-blog/6161530-congress-opening-day-disruption-concerns/"
+              "link": "https://thehill.com/policy/healthcare/6166007-employer-health-insurance-costs-premiums-rise/"
             }
           ]
         },
         {
-          "title": "Costs, Iran voters' top priorities for next Congress: Survey",
-          "summary": "A recent AP-NORC survey found that roughly 80 percent of respondents want Congress to prioritize lowering the cost of living, with a majority also seeking an end to the Iran war. Economic concerns and foreign policy dominate voter expectations for the incoming legislative session.",
-          "source": "Just In News",
-          "link": "https://thehill.com/homenews/campaign/6164973-voters-want-iran-war-end-survey/",
+          "title": "Top MAHA ally Calley Means resigns from Trump administration",
+          "feedTitle": "Calley Means, top MAHA ally, resigns from Trump administration",
+          "summary": "Calley Means, a key adviser to RFK Jr. and proponent of the MAHA (Make America Healthy Again) agenda, has resigned from the White House. The departure represents a setback for the administration's health-focused policy initiatives. The timing comes just days before major announcements related to the MAHA agenda.",
+          "source": "Politico",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY19EUWx4ZVBfZ3NJSVJjR1ktMmRQUlZnR0stTWp5UXIxVTMyano1Qi1ybGdWR0ItUHpWVlFaakhvWExyZ2VuVzA3YkxLSVFnRUt0cGJsOEpJWDhMTnJEUlhaOWp0OGpQLVladXUtRVRfQzJrLUh2X2doaWI2TkRsWjZId3hjdDRvWmtjSFFGbm5xTzJHNmZaWTVRZzZHYU5sNnJXUllZaEpzTmZ5VnNF?oc=5",
           "sources": [
             {
-              "source": "Just In News",
-              "link": "https://thehill.com/homenews/campaign/6164973-voters-want-iran-war-end-survey/"
+              "source": "Politico",
+              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY19EUWx4ZVBfZ3NJSVJjR1ktMmRQUlZnR0stTWp5UXIxVTMyano1Qi1ybGdWR0ItUHpWVlFaakhvWExyZ2VuVzA3YkxLSVFnRUt0cGJsOEpJWDhMTnJEUlhaOWp0OGpQLVladXUtRVRfQzJrLUh2X2doaWI2TkRsWjZId3hjdDRvWmtjSFFGbm5xTzJHNmZaWTVRZzZHYU5sNnJXUllZaEpzTmZ5VnNF?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Starter home savings now takes twice as long as 2019",
+          "feedTitle": "How long does it take to save up for a starter home? Twice as long as it did in 2019",
+          "summary": "A new analysis finds that average renter households now need 16 years to save for a down payment and closing costs, double the timeframe from 2019. Rising rents and other living costs have consumed a larger share of household budgets, making homeownership increasingly out of reach. The data underscores deepening affordability challenges for young Americans.",
+          "source": "NPR Topics: National",
+          "link": "https://www.npr.org/2026/10/22/nx-s1-6009378/down-payment-real-estate-affordability",
+          "sources": [
+            {
+              "source": "NPR Topics: National",
+              "link": "https://www.npr.org/2026/10/22/nx-s1-6009378/down-payment-real-estate-affordability"
+            }
+          ]
+        },
+        {
+          "title": "Voters prioritize costs and Iran over Trump investigations",
+          "feedTitle": "Voters prioritize costs and Iran over investigating Trump for next Congress, AP-NORC poll finds",
+          "summary": "An AP-NORC poll finds voters prioritize economic costs and Iran tensions over investigating Trump for the next Congress. The survey indicates voters are focused on immediate bread-and-butter issues and foreign policy risks rather than partisan investigations. This sentiment could shape the agenda of the incoming Congress.",
+          "source": "AP News",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUlZzVmJWWUprcG9oV3lXbGRTZ3dZNl9ZNnFfWDBtTEVJQ3EzamgyTWNRSE4tWEc3UjF1RVNpN3Naa0g0QUVXRFRyWHl4c1BLREtZeUpBVWlFa0VLb0VteWFxQ1ZiV0lqMEpDQVE2eGQ0YUVwckZXTVM5RUh3UlRWN0h3Y1BseWRPdXVENkNUcUxWTlNQd2x1Vnc3aWtVOXd2Vkt3NVBKX25iLTJhZ21QQ2Q2MDA?oc=5",
+          "sources": [
+            {
+              "source": "AP News",
+              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUlZzVmJWWUprcG9oV3lXbGRTZ3dZNl9ZNnFfWDBtTEVJQ3EzamgyTWNRSE4tWEc3UjF1RVNpN3Naa0g0QUVXRFRyWHl4c1BLREtZeUpBVWlFa0VLb0VteWFxQ1ZiV0lqMEpDQVE2eGQ0YUVwckZXTVM5RUh3UlRWN0h3Y1BseWRPdXVENkNUcUxWTlNQd2x1Vnc3aWtVOXd2Vkt3NVBKX25iLTJhZ21QQ2Q2MDA?oc=5"
             }
           ]
         }
       ],
       "stlouis": [
         {
-          "title": "St. Louis CITY SC claims first U.S. Open Cup title in shootout win over Columbus Crew - St. Louis American",
-          "summary": "St. Louis CITY SC claimed its first U.S. Open Cup title by defeating the Columbus Crew in a penalty shootout. The victory marks a significant milestone for the Major League Soccer franchise and the St. Louis soccer community.",
-          "source": "\"\"St. Louis\" Missouri\" - Google News",
+          "title": "ICE agents investigate suspected voter fraud across Missouri",
+          "feedTitle": "With midterms looming, ICE agents investigate suspected voter fraud across Missouri",
+          "summary": "With midterms looming, ICE agents are conducting investigations into suspected noncitizen voting across Missouri. A judge has restricted some DHS investigations into noncitizen voting, citing flawed data used in the inquiries. The enforcement actions raise questions about the scope and accuracy of voter fraud investigations in the state.",
+          "source": "STLPR",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQURVUHlFTVBZaWs4bThRZHo3R0NzVGdSU3ctQ2pMU3gtV1BaSXZLc1JCOUpVSmpsNVZxMGc2OEt4NF90d3dDazNiWnZEWVo2X01YTGN3UklZUlp0VlZWa3JnMnA5bUJiTVpmV2NpZVNHMXFoOE9kU05Ka2ZWbGgxNHpscXRTX1R5aGw3bDVuc2N0YThWVXNqWXlYUk01ZkdZUTRuc2RSbU44RlVIUktQdFg4RnlQeVlqVlpjOU53?oc=5",
+          "sources": [
+            {
+              "source": "STLPR",
+              "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQURVUHlFTVBZaWs4bThRZHo3R0NzVGdSU3ctQ2pMU3gtV1BaSXZLc1JCOUpVSmpsNVZxMGc2OEt4NF90d3dDazNiWnZEWVo2X01YTGN3UklZUlp0VlZWa3JnMnA5bUJiTVpmV2NpZVNHMXFoOE9kU05Ka2ZWbGgxNHpscXRTX1R5aGw3bDVuc2N0YThWVXNqWXlYUk01ZkdZUTRuc2RSbU44RlVIUktQdFg4RnlQeVlqVlpjOU53?oc=5"
+            },
+            {
+              "source": "First Alert 4",
+              "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQX00tdGptWVpkaFJpbGthTXp2TXVMNmpEUUFQVTM5SkFpeTBWVktuZkowWUIxX19iVzJOX29WeHo0OEYzMkd6dFBfeUt4SXZiOHAzejVsM3JWRmJGWHVjWEdzeFdZNEdhQjNaQmo2ZFdGcmJfTmdiUE1OanowU1VzRVM0T3lTWFBVNVIyTEs4OE1qNlhBMnROMlFkcnJWSVFjSWV1X09XTU5sVjFHZmZaS3RMQTBrZUFIa1g4MmpqeXphT0NOaFphTEdn?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "St. Louis CITY SC wins first U.S. Open Cup title",
+          "feedTitle": "St. Louis CITY SC claims first U.S. Open Cup title in shootout win over Columbus Crew",
+          "summary": "St. Louis CITY SC claimed their first U.S. Open Cup championship in a shootout victory over the Columbus Crew. The win marks a significant milestone for the young MLS franchise. The victory provides a major boost to the team and the St. Louis soccer community.",
+          "source": "St. Louis American",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdTZmbEZyZ21vZ3JqeXlPdzRCbGVaeXdJdU1ISThCeW1veUZTRlpja0pPVTI4amlvMGo2cWdrRkl6Sm5SX0pRQ3UyVjhTQndmMTBYcTJPZDhtMm5UTHdta00wMW50T0FOaC11SUs2ZnZMSjhiSkRRSnNqVHZsV1N5UWx4cF9CWFZrUHVYd1VjUVBxazBGa1BhSmFqWHhXX2RwSVpTYzRTOFNJSFNKUnl2MXJmVjJnMGVHRjF3?oc=5",
           "sources": [
             {
-              "source": "\"\"St. Louis\" Missouri\" - Google News",
+              "source": "St. Louis American",
               "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdTZmbEZyZ21vZ3JqeXlPdzRCbGVaeXdJdU1ISThCeW1veUZTRlpja0pPVTI4amlvMGo2cWdrRkl6Sm5SX0pRQ3UyVjhTQndmMTBYcTJPZDhtMm5UTHdta00wMW50T0FOaC11SUs2ZnZMSjhiSkRRSnNqVHZsV1N5UWx4cF9CWFZrUHVYd1VjUVBxazBGa1BhSmFqWHhXX2RwSVpTYzRTOFNJSFNKUnl2MXJmVjJnMGVHRjF3?oc=5"
             }
           ]
         },
         {
-          "title": "Gioia's Deli to open 6th restaurant in St. Louis region, with its 7th coming soon - KSDK",
-          "summary": "Gioia's Deli is expanding its footprint in the St. Louis region with plans to open its sixth restaurant location, with a seventh location coming soon. The expansion reflects the successful local chain's growth trajectory.",
-          "source": "\"\"St. Louis\" Missouri\" - Google News",
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNbXJnUERscURQRmVTb3hwaU1aaUh0aGZmeGhPbGxPckhndDRlTUpxaWZPZDFKZzYzUk0zRjAzZGlwbjhPN0Jfcm9fT0lsd20tQXRnNUpZR0RtX0JaTk9YOWlseUlpUExJdHdYRkJ5b1BVdE00SnZ0S2pkQ1Y1bnduRGkzU2dleENBQ2JncTRCak1kUEx0YmFvVGgwUGNkMHRGRUpjSU95QlJpejJ4Zmgwb2dlUmctaHRTVG8teXI3VGdzbVVweFJuS1pYUG8wZ0xLQkJvM0Y3Z2JNZFR0U3BWNy1TU29kNElHS2tIZS03MTMtM0pLdWE4NnVmaHJYQQ?oc=5",
+          "title": "Man admits setting metro-east spas fires after sexual encounter",
+          "feedTitle": "Man burned down Metro East massage parlor, killing woman inside, over sexual encounter, investigators say",
+          "summary": "A man has admitted to setting fires at metro-east massage parlors, with investigators saying the fires were motivated by a dispute following a sexual encounter. One of the fires resulted in a death. The ATF's investigation revealed the deliberate nature of the arsons and the tragic human toll.",
+          "source": "KSDK",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPRUI1eHRpMnlTdVBNc0VHeUlKajQ0dXR3NldmcUZsX19pRFZieHFKM09KQ3NWNXJWaTMweVdiWVJhajQ4OWlfUnFLeW90dkFsdVRnSWkxZkszaFhSMmxveG10S2hpMzlNMW44SUNWYlJKbG9LNUtWWjkwcTItZ0xNTVJ2eGdMYXNDMXZ4cmU5ZVJ4NkVPTWs4dGNBUWFHRE5LeUk5ZjdlTWZHRjhPbzVJTGJ1QmxwVVk1XzlFMkstbDBkNmVkek9OXzd0dVJyOE9Dc285a3d5TTV6QnNBbWFYd2VZV2RHMGprZ0psNzhn?oc=5",
           "sources": [
             {
-              "source": "\"\"St. Louis\" Missouri\" - Google News",
-              "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNbXJnUERscURQRmVTb3hwaU1aaUh0aGZmeGhPbGxPckhndDRlTUpxaWZPZDFKZzYzUk0zRjAzZGlwbjhPN0Jfcm9fT0lsd20tQXRnNUpZR0RtX0JaTk9YOWlseUlpUExJdHdYRkJ5b1BVdE00SnZ0S2pkQ1Y1bnduRGkzU2dleENBQ2JncTRCak1kUEx0YmFvVGgwUGNkMHRGRUpjSU95QlJpejJ4Zmgwb2dlUmctaHRTVG8teXI3VGdzbVVweFJuS1pYUG8wZ0xLQkJvM0Y3Z2JNZFR0U3BWNy1TU29kNElHS2tIZS03MTMtM0pLdWE4NnVmaHJYQQ?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Year-long I-64 closure planned for Midtown - FOX 2",
-          "summary": "A year-long closure of Interstate 64 is planned for the Midtown area, signaling a major infrastructure project with significant traffic implications for the St. Louis metro region. Details about the scope and purpose of the closure indicate substantial construction or repair work.",
-          "source": "\"\"St. Louis\" Missouri\" - Google News",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN2plRUZlQ044V0EyVm02R3dlZGgtbkRfSktVenYxcmZScUlLNDRYN25ac0I2QjlyUzV2ekN6WXIxTElIaXRGLXkyLWN2SWdJWjVmRXNTRmpDSDZydjRDcEE1MlE3VTRSV3NrOExMRk1ETVZGSjRIN09keEhjZUFqVUNxQdIBiAFBVV95cUxPZDBEZlZKQmZJY3g2d0lQR1dOMS1aQjk5Q3pkNjc2QUxJRjZCM3A0NmNvRG5vQWhXRGszNkVoN2JUWGxNMnd2dlNyQm5yNUxaOFh1dlBGNGdCd1BsOE9jY2tFcEhxVDBYQ0xUdVRxc1d4Wk1MQ0xkb2VQeEx5NUF4bWtTYVp2TUY2?oc=5",
-          "sources": [
+              "source": "KSDK",
+              "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPRUI1eHRpMnlTdVBNc0VHeUlKajQ0dXR3NldmcUZsX19pRFZieHFKM09KQ3NWNXJWaTMweVdiWVJhajQ4OWlfUnFLeW90dkFsdVRnSWkxZkszaFhSMmxveG10S2hpMzlNMW44SUNWYlJKbG9LNUtWWjkwcTItZ0xNTVJ2eGdMYXNDMXZ4cmU5ZVJ4NkVPTWs4dGNBUWFHRE5LeUk5ZjdlTWZHRjhPbzVJTGJ1QmxwVVk1XzlFMkstbDBkNmVkek9OXzd0dVJyOE9Dc285a3d5TTV6QnNBbWFYd2VZV2RHMGprZ0psNzhn?oc=5"
+            },
             {
-              "source": "\"\"St. Louis\" Missouri\" - Google News",
-              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN2plRUZlQ044V0EyVm02R3dlZGgtbkRfSktVenYxcmZScUlLNDRYN25ac0I2QjlyUzV2ekN6WXIxTElIaXRGLXkyLWN2SWdJWjVmRXNTRmpDSDZydjRDcEE1MlE3VTRSV3NrOExMRk1ETVZGSjRIN09keEhjZUFqVUNxQdIBiAFBVV95cUxPZDBEZlZKQmZJY3g2d0lQR1dOMS1aQjk5Q3pkNjc2QUxJRjZCM3A0NmNvRG5vQWhXRGszNkVoN2JUWGxNMnd2dlNyQm5yNUxaOFh1dlBGNGdCd1BsOE9jY2tFcEhxVDBYQ0xUdVRxc1d4Wk1MQ0xkb2VQeEx5NUF4bWtTYVp2TUY2?oc=5"
+              "source": "\"\"St. Louis\" metro\" - Google News",
+              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wTTlyNTdSNGtDU25ucng4Mm9WYU9yb0U3NVM1OUVrRGJGTVA3REVJSmMyRnB2bUVtYkdROF91N1JDbjEtTURUeEVDVFRqM1R0UlpwWkNvMXU1M2RSWm85dU45RdIBY0FVX3lxTE5JMEgwZ3hyOHc2S3AtU0NFOVZhSUZzMTdzTGIzREhyVWd6cldHR29pNlliYkY1VWRsdVNoUnR5MXBUUDFVSzRqN3haRTNJSmpOZFlmWFZqVEVQLURkYUFUeG9Ccw?oc=5"
             }
           ]
         }
@@ -127,62 +143,95 @@
     "world": {
       "items": [
         {
-          "title": "Virginia Democrat indicted on federal drug and money laundering charges",
-          "summary": "Virginia state senator L. Louise Lucas, a vocal Trump critic, was indicted on federal drug and money laundering charges related to an alleged criminal marijuana enterprise. The case marks a significant corruption prosecution against one of the state's most powerful Democratic figures.",
+          "title": "Iran reports seven oil tankers attacked in Strait of Hormuz",
+          "feedTitle": "Iran says 7 oil tankers attacked in the Strait of Hormuz as fears grow of a return to war",
+          "summary": "Iran says seven oil tankers were struck in the Strait of Hormuz as tensions escalate in the region. The incidents come amid broader concerns about a possible return to wider conflict between US, Israel, and Iran. Oil prices have jumped in response to the attacks and regional instability.",
+          "source": "AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOVo5NGVvb09wSzBSTFVOa21PVVRNWWlEYUd1ZEU2U0tjTm55R3hYQ2Ezd1lUWUYwbFNpVUhJVDBxNlZaamJKaDJvblV1dl83LVhSX21rMkZuUXQtWFZmZmpZbXRrMkwwRzloVnA0QUs0cjN5MXNiZDBKR2MwaW9Sa1BKUGlaRUlQeG5PYnNPcTQ3YXZFc3QybjE1ZmVCYVJmY0doag?oc=5",
+          "sources": [
+            {
+              "source": "AP News",
+              "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOVo5NGVvb09wSzBSTFVOa21PVVRNWWlEYUd1ZEU2U0tjTm55R3hYQ2Ezd1lUWUYwbFNpVUhJVDBxNlZaamJKaDJvblV1dl83LVhSX21rMkZuUXQtWFZmZmpZbXRrMkwwRzloVnA0QUs0cjN5MXNiZDBKR2MwaW9Sa1BKUGlaRUlQeG5PYnNPcTQ3YXZFc3QybjE1ZmVCYVJmY0doag?oc=5"
+            },
+            {
+              "source": "CBC",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcVNHUTlYbWVrcFdhLUJNUUtZcEg5akdrNjk3dkNQMGZZbHdNMXhCZlZieUVWT1RWWW9PU2tHNUZ4MjhHN0VYMThGVlp3Snpxd0NGVGJocFE1QThkdllEOGw1X21OWEtjSWtzTk1hYWhQbTl6SVh0U1hldGlyQzA2SQ?oc=5"
+            },
+            {
+              "source": "Spectrum News",
+              "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcHdYZjhtTzgtbWRKMGdDX3VWRktRbEEzQ2t2VXppYVhZZzgwLXZoLU5iY3VCNmtwMzBSSnljd2s3TTdCRjY3SFI1Wi04Z0o3OEs5cUFiNUtGSExEdTN2dVMteFlKX3A1QTJhRE94WVJTcUZnamdadkN0TnA3U0dMU2hxaE5yWmJqam1PWVl2aml2RzZIenV3TXhnUGl4am5qRTVZbQ?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Oil surges above $111 as stocks plummet on Iran strike news",
+          "feedTitle": "Oil soars above $111 as stocks plummet on Iran strike news, AI spending concerns",
+          "summary": "Oil prices climbed above $111 per barrel as global stock markets declined sharply on news of potential Iran strikes and AI spending concerns. Stocks tumbled worldwide as investors fled risk assets and sought safety. The combination of geopolitical tension and technology sector weakness drove the broad sell-off.",
           "source": "World news | The Guardian",
-          "link": "https://www.theguardian.com/us-news/2026/oct/22/l-louise-lucas-virginia-indicted-money-laundering",
+          "link": "https://www.theguardian.com/business/2026/oct/22/oil-prices-jump-five-month-high-threats-supply",
           "sources": [
             {
               "source": "World news | The Guardian",
-              "link": "https://www.theguardian.com/us-news/2026/oct/22/l-louise-lucas-virginia-indicted-money-laundering"
-            }
-          ]
-        },
-        {
-          "title": "From the streets to the ballot box: Serbia’s students hope for election win",
-          "summary": "Young Serbians have built a political system that poses a threat to President Aleksandar Vucic's grip on power, marking a potential shift in Serbian politics. Student-led movements are challenging the incumbent president's long dominance through electoral engagement.",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/22/from-the-streets-to-the-ballot-box-serbias-students-hope-for-election-win?traffic_source=rss",
-          "sources": [
+              "link": "https://www.theguardian.com/business/2026/oct/22/oil-prices-jump-five-month-high-threats-supply"
+            },
             {
-              "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-              "link": "https://www.aljazeera.com/news/2026/10/22/from-the-streets-to-the-ballot-box-serbias-students-hope-for-election-win?traffic_source=rss"
+              "source": "New York Post",
+              "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbkpEdHl6Z0tyUTJvUmt0aHc1b2s4Y0VSTU43akFRMllIRU1za2FoUzJfcjhiS0d1b1lrOEJ3WDZwU0FHeEgxS2hvaEZKUmVVUXYtTmlZYm1RZlhBTWU4WWV6ZWFaNEpRTG01RHVWNGRoOXJxZXlmR3RxMm1weVlrenVTcFZQTXA4eW9PN2dfeHZScFNtOFp0Zy02cWRIYW9ZTWt6azJHb0dFWWw0OGlCWW5MLXJqZEF1a2c?oc=5"
             }
           ]
         },
         {
-          "title": "French weekend protests to be limited to union demos only, says Macron",
-          "summary": "France has restricted weekend protests to union demonstrations only, with some cities including Lyon and Nice banning all public demonstrations. President Macron stated that only authorized demonstrations will be permitted, marking a significant limit on protest freedoms.",
+          "title": "France bans some protests in Marseille and Lyon after riots",
+          "feedTitle": "Total ban on protests in Marseille and Lyon after riots",
+          "summary": "French authorities have imposed a total ban on protests in Marseille and Lyon, with protests only permitted in other towns if organized by unions. Top museums will be closed on Saturday as a precautionary measure. The restrictions come after a weekend of violent riots that prompted a tough government response.",
           "source": "BBC News",
           "link": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
           "sources": [
             {
               "source": "BBC News",
               "link": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "source": "Reuters",
+              "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdHhBdkpVMVZzcjFPVTR6dkJIR1VJcGR3QXBOeFRHRFJuZFBGM2hWYzczWXdMUFdjVnpsYzI0RE1nZzhIMUNaQzVQMHRKa1VxcnpsaHJzalQzNHJXb2lkbDd3WkJQdXItb1UtZmpQNmQwQzQtV1VfUkJtdHpTR3p4OG95dmM3UkozM3FxWm5WMF9wMl9qQVVJR0l5NmxzV1pzVWtzVy1HXzQwSGRKTVlEZWtB?oc=5"
+            },
+            {
+              "source": "World news | The Guardian",
+              "link": "https://www.theguardian.com/world/2026/oct/22/macron-ban-illegitimate-demonstrations-france-unrest"
             }
           ]
         },
         {
-          "title": "Shamonda virus detected in human for first time in France",
-          "summary": "A man in France became the first known human to contract Shamonda virus, a pathogen normally found only in livestock, with investigations ongoing to determine if it contributed to his death. The case raises concerns about potential zoonotic disease transmission.",
-          "source": "World news | The Guardian",
-          "link": "https://www.theguardian.com/world/2026/oct/22/shamonda-virus-detected-in-human-first-time-france",
+          "title": "Two killed in Houthi attack on Saudi Arabia airport",
+          "feedTitle": "Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say",
+          "summary": "Two people were killed in a Houthi attack on King Fahd airport in eastern Saudi Arabia. The strike is the latest in a series of attacks by the Houthi movement targeting airports and other sites in the kingdom. The US has told some diplomats to leave Saudi Arabia amid escalating regional tensions.",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
           "sources": [
             {
-              "source": "World news | The Guardian",
-              "link": "https://www.theguardian.com/world/2026/oct/22/shamonda-virus-detected-in-human-first-time-france"
+              "source": "BBC News",
+              "link": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "source": "BBC",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yZ2dTanNHRmFaRmNxVWRFLXoxMF9wUU9hYW1udXV5ZkUta1R5SVVRWVp1eHhfUU5admNaQ0JWN1VZZTRrVm9hZGpVcEgzMGxCNm9GZXNtZkpINnM?oc=5"
+            },
+            {
+              "source": "The New York Times",
+              "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPN2NvaGNRSGF1c2QyYmFRT3g4Ul9makdBTDh0NjZKRExSWjNtNEFjc09WZUVmandfc1BrYTJXSGxHR2lpMk50eWdra0lTMFMwOE0xemNfZE9LY3VERjhGVW1iYjZMcUxhYXJmVUxLNHpyalRRWXdsRmtnblgyQW9KV2liZzdmUUVEWVV6ZE1vbVM5eXlrX1E?oc=5"
             }
           ]
         },
         {
-          "title": "‘No indications’ PHP code flaw has led to government systems being hacked, cyber security official says – UK politics live",
-          "summary": "UK officials report no indications that a PHP code flaw has led to government systems being hacked, though 32 government services remain offline for security remediation work. The potential cybersecurity issue prompted precautionary service shutdowns across multiple agencies.",
-          "source": "World news | The Guardian",
-          "link": "https://www.theguardian.com/politics/live/2026/oct/22/john-healey-chancellor-budget-red-tape-small-businsesses-jackdaw-oil-latest-news-updates",
+          "title": "Strong 7.0 magnitude earthquake strikes China's Tibet",
+          "feedTitle": "Earthquake of magnitude 7 strikes China's Tibet",
+          "summary": "A powerful 7.0-magnitude earthquake struck China's Tibet region, causing significant seismic activity. The earthquake is shallow, which typically increases damage potential. The incident follows deadly flash floods that affected the region weeks earlier.",
+          "source": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaUlEUG80aTRoVHhfOFptUTJYZHpwWE1LT0hURTlrM1JpejJqZ0pEYnJUSG1zbWk4RUVmMnpnMXVlU05LUXdoWjNrMXAxYS1HR051VDBVZ2FqQ1RHOUs4aVFGcExLTDFJVHg4QUhpUDNlNkxud2dldEFQYXA0bUs1eThHS1lVWm4zUm5kQ2NQcGxKQ0E3N3gyZnUtVk5GNENkVXc?oc=5",
           "sources": [
             {
-              "source": "World news | The Guardian",
-              "link": "https://www.theguardian.com/politics/live/2026/oct/22/john-healey-chancellor-budget-red-tape-small-businsesses-jackdaw-oil-latest-news-updates"
+              "source": "Reuters",
+              "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaUlEUG80aTRoVHhfOFptUTJYZHpwWE1LT0hURTlrM1JpejJqZ0pEYnJUSG1zbWk4RUVmMnpnMXVlU05LUXdoWjNrMXAxYS1HR051VDBVZ2FqQ1RHOUs4aVFGcExLTDFJVHg4QUhpUDNlNkxud2dldEFQYXA0bUs1eThHS1lVWm4zUm5kQ2NQcGxKQ0E3N3gyZnUtVk5GNENkVXc?oc=5"
             }
           ]
         }
@@ -191,100 +240,136 @@
     "india": {
       "items": [
         {
-          "title": "YSRCP leaders detained as Kadapa ZPTC nominations trigger violence",
-          "summary": "YSRCP leaders were detained as violence erupted during Kadapa ZPTC nominations, with vehicles damaged and set ablaze in Nandalur mandal. The incidents involved high-level party figures and reflect intensifying political tensions during the election cycle.",
-          "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-          "link": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-leaders-detained-as-kadapa-zptc-nominations-trigger-violence/article71612257.ece",
+          "title": "PM Modi, Netanyahu discuss West Asia situation",
+          "feedTitle": "PM Modi, Netanyahu Discuss West Asia Situation, Reaffirm India-Israel Strategic Partnership",
+          "summary": "PM Modi and Israeli PM Benjamin Netanyahu discussed the West Asia situation and reaffirmed India-Israel strategic partnership. The call comes amid escalating tensions in the region following reported attacks on tankers and Saudi infrastructure. The dialogue underscores India's balancing act between its security partnership with Israel and broader Middle East stability concerns.",
+          "source": "The Hindu",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZE9nSHZGQ2h4cDdRVDRnSVRhanNzS3B4QWpacWsyNVFBcGRBdTdPbEx6R3ZQM2xWZVFFa1kzeGFpSllTd0YweDZaS1I4V0dydU1ET3RvbG1tNnpPUjNHX1dUcDkwR1gzOE8zMGM3ZjNva1FseGZqQ29Vclk2YV83dlJ3cGE2cVk0Q2ZYYjlZeVBFWk5pT1FBRUwwNV9pVmtBOU1uc2dwSGdlaDVrVENNczhLcFZkLXpjMXRUelQxQkdqQVN6ckoyd2d0MUpIUFFhZFFMeFBJTjg5bE100gHjAUFVX3lxTE00WlBWc1AwR0l5REZyTFVMYzJEMkRBaUt0M2FIZzU5X2d6eEpMREMwMlFla29Wb3hZay1DbmdOdXYwZ1FGblJrV0wwQkdjRlNkV2dwNEQ2dFdBcTJEcWwtWHRpX2FkWHVPRDdKVGxEaXdHN294azhOeXJNZFQ0Rnh6dzRGdWlVbWp1R3ZKR2pjeEV1ZHc5TVRHMXBqVVVMLXVlWWpubm94d3hPNTlnUU5yc3pKODJIci1LZkNMT1Z6bExzRUQ0cF9QMl9adDREVk1lenRBTU9lV0w4WGg2NTh6RzJF?oc=5",
           "sources": [
             {
-              "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-              "link": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-leaders-detained-as-kadapa-zptc-nominations-trigger-violence/article71612257.ece"
+              "source": "The Hindu",
+              "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZE9nSHZGQ2h4cDdRVDRnSVRhanNzS3B4QWpacWsyNVFBcGRBdTdPbEx6R3ZQM2xWZVFFa1kzeGFpSllTd0YweDZaS1I4V0dydU1ET3RvbG1tNnpPUjNHX1dUcDkwR1gzOE8zMGM3ZjNva1FseGZqQ29Vclk2YV83dlJ3cGE2cVk0Q2ZYYjlZeVBFWk5pT1FBRUwwNV9pVmtBOU1uc2dwSGdlaDVrVENNczhLcFZkLXpjMXRUelQxQkdqQVN6ckoyd2d0MUpIUFFhZFFMeFBJTjg5bE100gHjAUFVX3lxTE00WlBWc1AwR0l5REZyTFVMYzJEMkRBaUt0M2FIZzU5X2d6eEpMREMwMlFla29Wb3hZay1DbmdOdXYwZ1FGblJrV0wwQkdjRlNkV2dwNEQ2dFdBcTJEcWwtWHRpX2FkWHVPRDdKVGxEaXdHN294azhOeXJNZFQ0Rnh6dzRGdWlVbWp1R3ZKR2pjeEV1ZHc5TVRHMXBqVVVMLXVlWWpubm94d3hPNTlnUU5yc3pKODJIci1LZkNMT1Z6bExzRUQ0cF9QMl9adDREVk1lenRBTU9lV0w4WGg2NTh6RzJF?oc=5"
+            },
+            {
+              "source": "DD India",
+              "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUDRrb3ptQUxFWWdLNXNYMDFOVkZIMWFBRG1xdVZZQl80amM0VUhXU3I1UGFGRGFCZENrRWRfbFVWX21PbjFQUVF2NW1vTHo5dVY1eUpGZ3hqWW10X24wTkNvOW4xVHhKdV9CY3dya01sNjU3NE1MVnllb0xsNXNYakp2RFVDN0M2Ml9jWDlDVlBzZlpPWXBERURoX2FGaU1aOWRoVHRWYURkU3pZeWRLZGlzVVVPazFrVk51bw?oc=5"
             }
           ]
         },
         {
-          "title": "Bombay HC warns Mumbai police to ensure compliance with firecracker ban",
-          "summary": "Mumbai's High Court warned city police to ensure compliance with an October 15 firecracker ban that prohibits firecracker use throughout the year. The bench directed authorities to update all officers about the ban order to improve enforcement.",
+          "title": "Face-off with China continues at multiple Arunachal border locations",
+          "feedTitle": "Face-off with China continues at multiple locations along Arunachal border: ITBP D-G",
+          "summary": "The ITBP Director-General reports that face-offs with China continue at multiple locations along the Arunachal Pradesh border. The ITBP chief warns that drones represent the future of warfare and that India cannot face China with traditional weapons alone. Underground shelters are being prioritized as part of new border defense strategies.",
           "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-          "link": "https://www.thehindu.com/news/cities/mumbai/bombay-hc-warns-mumbai-police-to-ensure-compliance-with-firecracker-ban/article71612236.ece",
+          "link": "https://www.thehindu.com/news/national/face-off-with-china-continues-at-multiple-locations-along-arunachal-border-itbp-d-g/article71612994.ece",
           "sources": [
             {
               "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-              "link": "https://www.thehindu.com/news/cities/mumbai/bombay-hc-warns-mumbai-police-to-ensure-compliance-with-firecracker-ban/article71612236.ece"
+              "link": "https://www.thehindu.com/news/national/face-off-with-china-continues-at-multiple-locations-along-arunachal-border-itbp-d-g/article71612994.ece"
             }
           ]
         },
         {
-          "title": "Ensure investment MoUs translate into operational projects, Naidu tells officials",
-          "summary": "Chief Minister N. Chandrababu Naidu directed officials to ensure that investment MoUs translate into operational projects, calling for a world-class convention centre in Visakhapatnam and semiconductor manufacturing development. The directive came during the 22nd State Investment Promotion Board meeting.",
-          "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-          "link": "https://www.thehindu.com/news/national/andhra-pradesh/ensure-investment-mous-translate-into-operational-projects-naidu-tells-officials/article71612476.ece",
+          "title": "India hosts over half of global capability centres",
+          "feedTitle": "India Hosts Over Half of Global Capability Centres, Ranks Among Top Three AI Ecosystems: PM Modi",
+          "summary": "PM Modi highlighted that India hosts over half of the world's global capability centres and ranks among the top three AI ecosystems globally. The statement underscores India's growing role in the technology and AI landscape. India's tech infrastructure continues to attract multinational investments and talent.",
+          "source": "DD India",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbC1EY1ZpSkFoUDJOTkQ2QXhSbzlNV2Y2cWRpTkVqMGR3Z3RMUkc1cGhjbHUtbzA3cDZneXBUMjVndnBrbVp2MXlWNVU2NmQtMS15aWIwSHBhQjhnbElUNWZLajZRUjYybmlUTzNEZXZCSG11SnV2QjdCanNVYlhfazE3VmNTaXFpU3B3RnI0WWhBMF9ibzV0UndzLW9VUnNfTmJ3Wk41WWk2RFlDMFRETlMwTklRSkxMbzFGdFA5Z21QZXM?oc=5",
           "sources": [
             {
-              "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-              "link": "https://www.thehindu.com/news/national/andhra-pradesh/ensure-investment-mous-translate-into-operational-projects-naidu-tells-officials/article71612476.ece"
+              "source": "DD India",
+              "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbC1EY1ZpSkFoUDJOTkQ2QXhSbzlNV2Y2cWRpTkVqMGR3Z3RMUkc1cGhjbHUtbzA3cDZneXBUMjVndnBrbVp2MXlWNVU2NmQtMS15aWIwSHBhQjhnbElUNWZLajZRUjYybmlUTzNEZXZCSG11SnV2QjdCanNVYlhfazE3VmNTaXFpU3B3RnI0WWhBMF9ibzV0UndzLW9VUnNfTmJ3Wk41WWk2RFlDMFRETlMwTklRSkxMbzFGdFA5Z21QZXM?oc=5"
             }
           ]
         },
         {
-          "title": "Mysuru: MLA alleges protocol violations during Vijayadashami procession",
-          "summary": "Nyaya Ratha legal aid services are available at Dasara Exhibition grounds through October 25, targeting SC/ST members, women, children, industrial workers, and victims of violence and discrimination. The mobile legal service provides free assistance to eligible populations.",
-          "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-          "link": "https://www.thehindu.com/news/national/karnataka/mysuru-mla-alleges-protocol-violations-during-vijayadashami-procession/article71612263.ece",
+          "title": "India seeks details after Houthis target yacht with 14 nationals",
+          "feedTitle": "India seeks details after Houthis allege Saudi forces targeted yacht carrying 14 nationals off Yemen",
+          "summary": "India is seeking details after Houthis allegedly targeted a yacht carrying 14 Indian nationals off Yemen. The Indian embassy is working to ascertain the facts of the incident. The attack raises concerns about Indian citizens caught in escalating Middle East tensions.",
+          "source": "The New Indian Express",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOX2ZzalNHdmd3OUNWWFh3S0hYZDVWb3dSc0NER2czVG9VVXhKeXZHWWtfYUxtb182THlpR2cwSVdLUWVvV2NIbFlQMGxnZWNxSTVmaWhxLWxwTHdaZmdIYjJ2NTU4dVYxeVZSYnBRN09kVGhUT2ttRm50dmc2eTVCS3JjY1c5QmdnbzU0bG80Njh5OTlSam9BNDZoS1NKdi1IUzhObHlsUzd0Um5sUTMwUXI5UmdsOW5qdG5hT0ZZVFZBRDI5UEpqT1lubkFnRVFQYXhwYlRsYmhlT2FhWUs0UVI2V2ZwZ9IB8wFBVV95cUxNcTBNODNXSlE2SGpERDdMV3k3bmpMRzJBN21pYU9yVXFvQjJGSEUxRzVQOGtSTHpwMHlVVmd3SUQ2ejdIVjQ3bldmTjNuTUg0TFlCdXJXODNWT2ZiaU80WU1MUmdYLVdjQ0RIU2NzZ1YyQ1ZCN3NqcE5FSTlxaGpYM1FkMnVYSzZKTDEwSm5kZi01UWJUaE90T0pIX1ZYVjdSUUMwekNsLVhmOGdQaExIRHdia0NWbUlsdll2bEszdWVlbFgyRFNSUDdwSVc5bktIVjIwSXd1NFUzOWo5SmVwd0w0Rk13ckwtV29PcV9EdTlkSTQ?oc=5",
           "sources": [
             {
-              "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-              "link": "https://www.thehindu.com/news/national/karnataka/mysuru-mla-alleges-protocol-violations-during-vijayadashami-procession/article71612263.ece"
+              "source": "The New Indian Express",
+              "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOX2ZzalNHdmd3OUNWWFh3S0hYZDVWb3dSc0NER2czVG9VVXhKeXZHWWtfYUxtb182THlpR2cwSVdLUWVvV2NIbFlQMGxnZWNxSTVmaWhxLWxwTHdaZmdIYjJ2NTU4dVYxeVZSYnBRN09kVGhUT2ttRm50dmc2eTVCS3JjY1c5QmdnbzU0bG80Njh5OTlSam9BNDZoS1NKdi1IUzhObHlsUzd0Um5sUTMwUXI5UmdsOW5qdG5hT0ZZVFZBRDI5UEpqT1lubkFnRVFQYXhwYlRsYmhlT2FhWUs0UVI2V2ZwZ9IB8wFBVV95cUxNcTBNODNXSlE2SGpERDdMV3k3bmpMRzJBN21pYU9yVXFvQjJGSEUxRzVQOGtSTHpwMHlVVmd3SUQ2ejdIVjQ3bldmTjNuTUg0TFlCdXJXODNWT2ZiaU80WU1MUmdYLVdjQ0RIU2NzZ1YyQ1ZCN3NqcE5FSTlxaGpYM1FkMnVYSzZKTDEwSm5kZi01UWJUaE90T0pIX1ZYVjdSUUMwekNsLVhmOGdQaExIRHdia0NWbUlsdll2bEszdWVlbFgyRFNSUDdwSVc5bktIVjIwSXd1NFUzOWo5SmVwd0w0Rk13ckwtV29PcV9EdTlkSTQ?oc=5"
+            },
+            {
+              "source": "DD News",
+              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcEpaWHd1b28tazVRNzEwSE1uSlRzYlo1UDdUejA0bVJ5el9LcDhhWHBQbm1YQ0RudnJ6alhLMWlkTGxUQnlSdVBwTGZpZHVHYlVGdE84X08zNWpLU0R4Q0I0NzlMWTQ5Z0drQkxHZVdFUG1oQzhRQjU2b3hsYXdOTTRvOUhGWFZLaDRuWEowTU9STTZSS21MNGQzTVpLV3piUmJNbXZETGJoX0M0VWE0?oc=5"
             }
           ]
         },
         {
-          "title": "UDF unseats LDF in Upputhara panchayat in Idukki with BJP support",
-          "summary": "A 24-year-old labourer was found dead on railway tracks near Ghatkesar, marking a tragic incident. The circumstances surrounding the death have not been detailed in available reporting.",
-          "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-          "link": "https://www.thehindu.com/news/national/kerala/udf-unseats-ldf-in-upputhara-panchayat-in-idukki-with-bjp-support/article71611616.ece",
+          "title": "YouTuber arrested after Indian finance influencer's suicide",
+          "feedTitle": "V Harish: YouTuber arrested after Indian finance influencer's suicide",
+          "summary": "A YouTuber has been arrested in connection with the death of V Harish, a popular Instagram finance influencer who ran 'Finance with Harish,' who was found dead on Tuesday. The incident highlights concerns about online harassment and toxic dynamics in the digital creator space. Harish's suicide triggered scrutiny into influencer relationships and online bullying.",
+          "source": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtUm93OVVwYTFxUHMzd1NIZmxzOHhhWnBQc1FJVVI5ajZ6eV9QUmF0cTVENE5Vc1JZbVBQMkRSYjVkRS1NOHZPTngyVkJTOVVqOFphSzQ0aTZNdFU?oc=5",
           "sources": [
             {
-              "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-              "link": "https://www.thehindu.com/news/national/kerala/udf-unseats-ldf-in-upputhara-panchayat-in-idukki-with-bjp-support/article71611616.ece"
+              "source": "BBC",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtUm93OVVwYTFxUHMzd1NIZmxzOHhhWnBQc1FJVVI5ajZ6eV9QUmF0cTVENE5Vc1JZbVBQMkRSYjVkRS1NOHZPTngyVkJTOVVqOFphSzQ0aTZNdFU?oc=5"
             }
           ]
         }
       ],
       "immigration": [
         {
-          "title": "Trump's green card curbs test Indian tech workers' American dream - Saudi Gazette",
-          "summary": "Trump's green card restrictions are testing the American aspirations of Indian tech workers, according to reporting from BBC and Saudi Gazette. The policy changes are creating uncertainty for skilled immigrant workers from India seeking permanent residency and impacting career decisions in the US tech sector.",
-          "source": "\"H-1B OR \"green card\" OR USCIS OR \"India immigration\"\" - Google News",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE02RHdIRFU5eS1tOXFoUktZSEhNcjltWHdjTmxkNmRRMmZNcnducmhrc0ZJV0d6elRRWUo0RXBVX2ZSQzg2N1Fvd0RVV3pRb3U1TWdtYg?oc=5",
+          "title": "Trump administration revokes record 300,000 visas since January",
+          "feedTitle": "Trump Govt Cancels Record 300,000 Visas Since January 2025",
+          "summary": "The Trump administration has revoked more than 300,000 visas since January 2025, surpassing any previous administration's rate of visa revocations. The revocations are part of a broader immigration enforcement agenda. The scale and speed of visa cancellations are unprecedented, affecting workers across multiple visa categories including H-1B holders.",
+          "source": "Trak.in",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcUZlQ0JETDhRN1hpTW1ZMTBBX2t3a1JLOV9IRko3ODUzSmZFV2NIZGZhTlJzcWZtRjhkVWphQ0tncVpKU05aMUs2Rnc4OUg4dmMtZF9ESm14bkZMZ25OM0JoRmlHTEh2czdBSkNHcVRoazQ3Z09LYl9Ib1RHLWdvMTFpd01vSE92LWc?oc=5",
           "sources": [
             {
-              "source": "\"H-1B OR \"green card\" OR USCIS OR \"India immigration\"\" - Google News",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE02RHdIRFU5eS1tOXFoUktZSEhNcjltWHdjTmxkNmRRMmZNcnducmhrc0ZJV0d6elRRWUo0RXBVX2ZSQzg2N1Fvd0RVV3pRb3U1TWdtYg?oc=5"
+              "source": "Trak.in",
+              "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcUZlQ0JETDhRN1hpTW1ZMTBBX2t3a1JLOV9IRko3ODUzSmZFV2NIZGZhTlJzcWZtRjhkVWphQ0tncVpKU05aMUs2Rnc4OUg4dmMtZF9ESm14bkZMZ25OM0JoRmlHTEh2czdBSkNHcVRoazQ3Z09LYl9Ib1RHLWdvMTFpd01vSE92LWc?oc=5"
+            },
+            {
+              "source": "LagosPost.ng",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qcFRGbWxjdWZpUDJMczZCVW1mU2paRXk5N3ptVC1xZFpncnZFWVFSS2EwUmZkOE1peTUyTkdoZHo0eVhudTJxX0hkQ290VTEzMi1jOWJTbUE5R1lwb0hXQ2VfanB4Z0hveE5ZbDZWblgwUU5fcEVB?oc=5"
+            },
+            {
+              "source": "Hungarian Conservative",
+              "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaXAtTEdzdE44dFlxZzlsQjk1V1BqRldMbnB5Y3dSRUVKUG1CdVZrcjQwQnJSd2dmU3BsV09sckhmazQzcnowYjBrX3BaTkdYRVRKa2ZyTFZ0VU1aaHctdjJvOGR6a1hxaVNxenRZSWdUXzJ0Z2FuSjQ1VTZMVlI0MWpQSkVaQWludVU1eXZxU3JRNGp4c2FyYjRFMDFycmM?oc=5"
             }
           ]
         },
         {
-          "title": "H-1B Renewal Checks Found Fraud Or Violations At More Than 1 In 5 Sites - Dallas Express",
-          "summary": "H-1B visa renewal checks found fraud or violations at more than one in five inspection sites, according to the Dallas Express. The findings raise concerns about compliance and oversight in the H-1B employment visa program.",
-          "source": "\"H-1B OR \"green card\" OR USCIS OR \"India immigration\"\" - Google News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTFJVdnlJTXYwOVRoMHplcGxJX184b0xta3JfV2h4VUlvSFBQMWU2dGNmaVZiUEI3R3ZlUTA0Ni1ER3htdHhCNExKaTJjbnRjUHFPVFVVYzFmVEExVmR1bFVkUmJPOWwtbkdZa01sLWs3R2Z1dy0zRzNHdjdSX3FaQi1rZVZoR084VnJtU2hJYWZXY2xCSzBVNjFMdDJiQXJ5bHhJWTJKNjZkMDQ?oc=5",
+          "title": "Trump ends H-1B extension protections, finalizes work-permit restrictions",
+          "feedTitle": "Trump Administration Moves to End H-1B Extension Protections, Finalizes Restrictions on Work Permit Renewals",
+          "summary": "The Trump administration has moved to end H-1B extension protections and finalized restrictions on work permit renewals, proposed and not yet final. The changes would eliminate automatic extensions for H-1B visa holders and their dependents' work authorization documents. These restrictions significantly increase uncertainty for foreign workers and their families attempting to remain in the US.",
+          "source": "INDIA New England News",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORVNhOEZLcDBaeWY5S1MyNjFGMzl5SndHT0tkVGxyZm5EQ1Y0Q2VJdE5mN2pEaElKN3ZzRWpPNjhST0ltcUpkQWhSeDNLLVNaNE01NkFRUmFyeTRXNmI4dGhLbG5SRjRjZEVqcTdFMWFqV01pY0REaGtpU1JPS19EaVhrXzVHM2IwemtVd2diZlZfZzJkM1Y0RDRJM0JKcFotcEhMV2VhXzZKdmNKNGtONjNReTV5M2d1eFRTVlVYeWpSdU5tZnRUQ3A1RXlidExIRmc?oc=5",
           "sources": [
             {
-              "source": "\"H-1B OR \"green card\" OR USCIS OR \"India immigration\"\" - Google News",
-              "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTFJVdnlJTXYwOVRoMHplcGxJX184b0xta3JfV2h4VUlvSFBQMWU2dGNmaVZiUEI3R3ZlUTA0Ni1ER3htdHhCNExKaTJjbnRjUHFPVFVVYzFmVEExVmR1bFVkUmJPOWwtbkdZa01sLWs3R2Z1dy0zRzNHdjdSX3FaQi1rZVZoR084VnJtU2hJYWZXY2xCSzBVNjFMdDJiQXJ5bHhJWTJKNjZkMDQ?oc=5"
+              "source": "INDIA New England News",
+              "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORVNhOEZLcDBaeWY5S1MyNjFGMzl5SndHT0tkVGxyZm5EQ1Y0Q2VJdE5mN2pEaElKN3ZzRWpPNjhST0ltcUpkQWhSeDNLLVNaNE01NkFRUmFyeTRXNmI4dGhLbG5SRjRjZEVqcTdFMWFqV01pY0REaGtpU1JPS19EaVhrXzVHM2IwemtVd2diZlZfZzJkM1Y0RDRJM0JKcFotcEhMV2VhXzZKdmNKNGtONjNReTV5M2d1eFRTVlVYeWpSdU5tZnRUQ3A1RXlidExIRmc?oc=5"
+            },
+            {
+              "source": "Federal Register Documents matching 'H-1B' and published on or after 09/22/2026",
+              "link": "https://www.federalregister.gov/documents/2026/10/14/2026-20955/removal-of-automatic-extensions-for-certain-employment-authorization-documents"
             }
           ]
         },
         {
-          "title": "Green Card Holder Sues Over Naturalization Taking ‘an Eternity’ - Newsweek",
-          "summary": "A green card holder has filed a lawsuit alleging that the naturalization process is taking an excessive amount of time. The case, reported by Newsweek, highlights frustrations with the pace of citizenship processing for permanent residents.",
-          "source": "\"H-1B OR \"green card\" OR USCIS OR \"India immigration\"\" - Google News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ3VCSGlHYUJHQzMzdTdLTmd1N0F6VGhMQVBXeVJjWlVTMzB6S1o2bXJaY21zMGdRNkNIWDlpWmx3UnpBeVJFX0ZnbXdGWlcwZ2VjSXZYTW4ybEgtbWlzelU4Y2ZOQjNnNzkyb0hqSXVqYlBjWklGV1dlN2h1OU9BaVhCbGxlUnJwbFpCTldjRnR4X2xQQ0dqZV9DTQ?oc=5",
+          "title": "US suspends labor certification for eight tech giants including Microsoft",
+          "feedTitle": "US Suspends PERM Labor Certification for Eight Tech Giants, Blocking Green Card Pathway for Indian H-1B Holders",
+          "summary": "The Trump administration has suspended the PERM labor certification program for eight major tech companies, blocking the green card pathway for H-1B workers at firms including Microsoft, Adobe, and others. The suspension, proposed and not yet final, is part of a crackdown on alleged H-1B visa abuse. Indian tech workers at these companies face significant delays in their permanent residency applications.",
+          "source": "BigGo Finance",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90VHAwaEVOd0M0MEg5UTJ5b2E3amM0V0RhR1VrX21aSXpvMEFUZzdfUHcwcDJXMGRwUUNZTXFtY3M1NlRzR19aWVBJWmstTlVJYW9uZTdfN2lDaHZiMkNhV0FuRlBaekt3WUtnYlYxUWQyZkJKSXc?oc=5",
           "sources": [
             {
-              "source": "\"H-1B OR \"green card\" OR USCIS OR \"India immigration\"\" - Google News",
-              "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ3VCSGlHYUJHQzMzdTdLTmd1N0F6VGhMQVBXeVJjWlVTMzB6S1o2bXJaY21zMGdRNkNIWDlpWmx3UnpBeVJFX0ZnbXdGWlcwZ2VjSXZYTW4ybEgtbWlzelU4Y2ZOQjNnNzkyb0hqSXVqYlBjWklGV1dlN2h1OU9BaVhCbGxlUnJwbFpCTldjRnR4X2xQQ0dqZV9DTQ?oc=5"
+              "source": "BigGo Finance",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90VHAwaEVOd0M0MEg5UTJ5b2E3amM0V0RhR1VrX21aSXpvMEFUZzdfUHcwcDJXMGRwUUNZTXFtY3M1NlRzR19aWVBJWmstTlVJYW9uZTdfN2lDaHZiMkNhV0FuRlBaekt3WUtnYlYxUWQyZkJKSXc?oc=5"
+            },
+            {
+              "source": "AfroTech",
+              "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYThnblJNdTFxTURJbUZIN2U3TDRxQ2N0YUEybjhDaVFiODU1czcwSEpya0ttOF9DMU5teHdUV0RfdVEyVGhRYURwU3BHS2FOa3BUNlRlQ2NMZ191NEx3NGc1UGs2WFdudjAzWVEzVWJ6TWkzQXZUS2hmYWthWmlBVXZHSlR4TU5US0dIbFZpbktsYnEyZDY0ag?oc=5"
+            },
+            {
+              "source": "ETHRWorld.com",
+              "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOaFRPcGc2T2liYmphUDh6eHk5ZlFaNzlvNWNUY3hxdlRaLUV3NHo2VGFQQ0RmcXlXSHJKbGY4bjVnUWdQeU5ERG0zOTJrV0hINUNJbDZDM2xQbVpTMUdMZThtNEhMQmotX09KTm5ieG4yRFRFRklmY1FtSU5jNWQ5YnF5UGU2Z1JZR0o2WW9Xb1RZTnl1VFRpOTBiOXBiZTkyaUVENEZTQmIwYXB0ODg2TDg4QkhTNFM1RFhTZi1WNjAtd1htcllidlJTMXo5NllOS1NkU082MHo3blY5alhLVGJqMElKWlZCVnp0SWltb0w1Q0tHSFJ4TDJpbWVxZ19JSWFrTFZVT0FrSlZtR3FqbnZqUmRPbHZIcjRfUkNGNzVjcGh0Q2R1aGYwVm94R3RQeW5CakRTZ2FqR0hBTDdzc3QwNG12LTkwM1pUZnAzUG5rWG1IU3VYRXBuTQ?oc=5"
             }
           ]
         }
@@ -293,62 +378,87 @@
     "finance": {
       "items": [
         {
-          "title": "Market sell-off gains steam as concerns about Iran war and high AI spending collide - NBC News",
-          "summary": "Markets worldwide experienced a sell-off as concerns about an Iran war and high AI spending collide, according to NBC News. The combination of geopolitical risk and elevated technology sector valuations is driving broad market weakness across sectors.",
-          "source": "\"stock market OR S&P 500 OR Nasdaq OR Dow\" - Google News",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSVY4cFhVNmoxak9SOVdrbDh3NkozUkd0Wmc3YmtsWW9PWUFQWFgtb25pX2xhV2liWmxyRktLSjgwRkxLRERjaTk0Y1RyLWdFeVVHNFphUDY4aDZyVWhHdWltNnBtM0JWTTFVRXNjY2prMWZnRlJpeUFMeGxnb1VlOGlFWE5FRGNtNlpEUUtKVVFzT2J5dWc?oc=5",
+          "title": "AI stocks weigh on markets as oil rises to five-month high",
+          "feedTitle": "AI stocks weigh on markets Thursday as oil rises to highest price since May",
+          "summary": "US and global stock markets fell Thursday as AI stocks weakened on spending concerns and oil climbed to its highest price since May. The Nasdaq led declines as technology sectors faced pressure. Broader market concerns about AI infrastructure costs combined with geopolitical tensions to drive the sell-off.",
+          "source": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWxDZDg5X0padGNvb2k2V2ZkX2tEWW9YWkdjeVdMZHNUTlg1MXY4TmUyTDZHdUhNTHFRNWRPRjc2VFlEN3RXTDhNSjhDYmRfTWZGXzdKYXdLejRHNGgwRVdNbmZRUkFhSm9GakxMek56UUZ2OUtqajd6NVkzRkR1VzBNWlo5VWp5NUFkX2phUjlSSFlndUlNNGxvUXlHSm1wMlpTbkRR?oc=5",
           "sources": [
             {
-              "source": "\"stock market OR S&P 500 OR Nasdaq OR Dow\" - Google News",
-              "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSVY4cFhVNmoxak9SOVdrbDh3NkozUkd0Wmc3YmtsWW9PWUFQWFgtb25pX2xhV2liWmxyRktLSjgwRkxLRERjaTk0Y1RyLWdFeVVHNFphUDY4aDZyVWhHdWltNnBtM0JWTTFVRXNjY2prMWZnRlJpeUFMeGxnb1VlOGlFWE5FRGNtNlpEUUtKVVFzT2J5dWc?oc=5"
+              "source": "Reuters",
+              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWxDZDg5X0padGNvb2k2V2ZkX2tEWW9YWkdjeVdMZHNUTlg1MXY4TmUyTDZHdUhNTHFRNWRPRjc2VFlEN3RXTDhNSjhDYmRfTWZGXzdKYXdLejRHNGgwRVdNbmZRUkFhSm9GakxMek56UUZ2OUtqajd6NVkzRkR1VzBNWlo5VWp5NUFkX2phUjlSSFlndUlNNGxvUXlHSm1wMlpTbkRR?oc=5"
+            },
+            {
+              "source": "Global News",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHLXVhQmZTaGdrSmc3ZTRpTWd2SlR6T1pWN2xYdEtDVGJjZG04STUwNlFBb1JYNHZ0dWZLMldPdmRaYjU3YmxrZmhYM0FkZEtxSTlXeWpXNllQQ2JRU25wZl9INURFbHky?oc=5"
+            },
+            {
+              "source": "Decrypt",
+              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMzdNWm1xYXAxQ3pITlN0UUZkMjZOWnk0WEEzUG8yamRYaXhCN2J6QWZONWM4ejZpU0RKS2hiX0w1cjZiVmtPS2NSS3NVUm9IWnpVTS1fbldNak1pRmt5UmZIS2xzWmp0Z2xzWVgzcnhIMmVBMzF0RVVpNUp5RHoxTVRVWFk2SDBrQzJVN051M2ZYRFl5ckNoN1RSODQybzJ3TTNIcjcySDhwQkc5YXpWYU1XVFk?oc=5"
             }
           ]
         },
         {
-          "title": "AI stocks undercut markets worldwide as oil climbs to its highest price since May - BNN Bloomberg",
-          "summary": "AI stocks are undercutting global markets while oil climbs to its highest price since May, according to BNN Bloomberg. The divergence between technology valuations and energy costs reflects conflicting economic pressures affecting investor sentiment.",
-          "source": "\"stock market OR S&P 500 OR Nasdaq OR Dow\" - Google News",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPX3E5RERKVHVqRmI5blM2WWs0aEVGOS12dHBranpVVVdWZUJaTFRYUFNOalJZVGt6a3RFLU9kblZPWWhrQVNYWWp4cjV6MkowWm1nVmpxcW5lUktiNHRTVGlkY0VoREYwOWVUQk1pZjFteFVPRVlrVzRIVlJVVkczVU9QaXAxSVUySWZkSUFBZU44bDRVZXlFazh4QW8zdmZWVTMxc2ZzN0tqYUNZWXNxWWs4ZURWem5qSlRuSlBocDVRV3dVSmN1aXB6aEg?oc=5",
+          "title": "Sensex falls 460 points, Nifty slips below 22,700 as oil surges",
+          "feedTitle": "Sensex Falls 460 Points, Nifty Drops Below 22,700 as Rising Oil Prices Extend Market Losing Streak",
+          "summary": "India's Sensex fell 460 points and Nifty slipped below 22,700 as crude oil prices surged past $110, extending a three-day market losing streak. Rising oil prices are weighing on market sentiment and corporate earnings expectations. The index decline reflects investor anxiety over global economic headwinds.",
+          "source": "INDIA New England News",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcXo4aFJjeUlWVTFzLWRmUnRMMWtxYUpUakdiUTZ2YTZPWGY3U0pGV1QzTG9qTTQtUF9TOGgyUGhtSmFySUNsd3A5RUJ6UF9ZOFFCWGVWQXpoZzdlT1VUOEo4ZVJVT1huVkZqS1VtTFB6OFV5bG5SN0d6WVY1M1NSdThLT3V3eVpnV0p0TGFDRXgyZTUwYkdmYzB6djJyVEllLTNWMzlvOW5XMS1UVDFZaks4Z0dwMXNFNFEzMUQ1TzNNN3M?oc=5",
           "sources": [
             {
-              "source": "\"stock market OR S&P 500 OR Nasdaq OR Dow\" - Google News",
-              "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPX3E5RERKVHVqRmI5blM2WWs0aEVGOS12dHBranpVVVdWZUJaTFRYUFNOalJZVGt6a3RFLU9kblZPWWhrQVNYWWp4cjV6MkowWm1nVmpxcW5lUktiNHRTVGlkY0VoREYwOWVUQk1pZjFteFVPRVlrVzRIVlJVVkczVU9QaXAxSVUySWZkSUFBZU44bDRVZXlFazh4QW8zdmZWVTMxc2ZzN0tqYUNZWXNxWWs4ZURWem5qSlRuSlBocDVRV3dVSmN1aXB6aEg?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Nasdaq falls over 2% on Meta drag, slide in chip stocks; oil jumps and bonds rally - Investing.com India",
-          "summary": "Nasdaq fell over 2 percent dragged down by Meta and declines in chip stocks, while oil jumped and bonds rallied, according to Investing.com India. The market volatility reflects shifting risk sentiment and rotation away from mega-cap tech names.",
-          "source": "\"stock market OR S&P 500 OR Nasdaq OR Dow\" - Google News",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYlpBNzZZc1JrZ01QSWtuZ1RpM1U3VlZDRDNBOGF3VmdGWnNzRldQM3N3bW54dEJlT05ha0VRanItdS1wQm9kODJuTUVkNDRhRzF4clJhNjNQajFueW4wTlphZDAzckl0Rjl2VnVqekVZd215VkJlWDdLWExocW95emxRZHp5c2xNbnJXLVg2OGFkVjBwYWJEUHBFOFVOZHdTWkNoMVM1Mi1oeWlBQXJtR3RQUXQzR1U?oc=5",
-          "sources": [
+              "source": "INDIA New England News",
+              "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcXo4aFJjeUlWVTFzLWRmUnRMMWtxYUpUakdiUTZ2YTZPWGY3U0pGV1QzTG9qTTQtUF9TOGgyUGhtSmFySUNsd3A5RUJ6UF9ZOFFCWGVWQXpoZzdlT1VUOEo4ZVJVT1huVkZqS1VtTFB6OFV5bG5SN0d6WVY1M1NSdThLT3V3eVpnV0p0TGFDRXgyZTUwYkdmYzB6djJyVEllLTNWMzlvOW5XMS1UVDFZaks4Z0dwMXNFNFEzMUQ1TzNNN3M?oc=5"
+            },
             {
-              "source": "\"stock market OR S&P 500 OR Nasdaq OR Dow\" - Google News",
-              "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYlpBNzZZc1JrZ01QSWtuZ1RpM1U3VlZDRDNBOGF3VmdGWnNzRldQM3N3bW54dEJlT05ha0VRanItdS1wQm9kODJuTUVkNDRhRzF4clJhNjNQajFueW4wTlphZDAzckl0Rjl2VnVqekVZd215VkJlWDdLWExocW95emxRZHp5c2xNbnJXLVg2OGFkVjBwYWJEUHBFOFVOZHdTWkNoMVM1Mi1oeWlBQXJtR3RQUXQzR1U?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Oil price surge keeps Nifty in red, Sensex sheds 460 points on Thursday - Business Standard",
-          "summary": "An oil price surge kept India's Nifty index in red territory while the Sensex shed 460 points on Thursday. Rising energy costs are weighing on Indian equities amid global market pressures.",
-          "source": "\"Sensex OR Nifty OR \"Indian stock market\"\" - Google News",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbnVBOFBMd2JkeEpUdWhNWWFuS3ZsQXJBbkpLVEgzQ3lOcVlxc1YyUTZlaHotRzhqZEFqRmtXd21YTFJrWlVhaVduTWVWckNjSHJLS2pLSUM4eHhlOXRzUVpUZWt3bWZiWTl4Q205eGV1akprWXBwTXUya0RmWjJhWUJMWnN5WndPZnJEcTNDdnZuUnVyX19fVGZremtpUWxzaXQ5VlowakM3UWNidG05Y1pnUzc5UmE3Njh6N1VsUkRlcW1lMVNOdTA1OHRQekI0d2w00gHYAUFVX3lxTE5iNml4WGQ1ZFpidzd3OGNzREdxZzZaUlhUSlRWMG1PY1Z5c2JKSUVYaEFsSFJzSVN5TktuM0trVEdNdDF3MlhrdWNGUl9Gd3JBWkhoNWctNVRjb2ROUnVxRXp6REJGamFNay1RYWZmVzdwRk9kWVN2alJibGRDa1dtWm9KU09ZN2RreVN2dHJrR2Y2ZVNfTktPdEhjQlhhMldsS1J1U3BoT29TZTF0UXhOc05GNEZjNG5iWERDaEl0LWQ2bnJBMU40Z3NVd1Nqd19MaVpSM0w2eA?oc=5",
-          "sources": [
+              "source": "TradingView",
+              "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdlQxRlU0LWQxWUFWSlE3QXNudnM3VXMyVUlUT2NtMDRnNlFEbkNSRExRbGxSR0hJUFBFMlBDYVBKay1HNWZzTWdRRzY0NEhrd2VRM2xRNXpVekVoRFQtRE1lVGV0WEJBekIwaElCeEhqTkRyd0xZMF9XMkpIdDBUaFVOU2IxakpORjR6d21QSjVuWm96M0dFdlM1eG01c214Uk9QWXNaazhGT1B3ZnNsb19pSUVzTGlNV2hiOU1qWWRWTjhI?oc=5"
+            },
             {
-              "source": "\"Sensex OR Nifty OR \"Indian stock market\"\" - Google News",
+              "source": "Business Standard",
               "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbnVBOFBMd2JkeEpUdWhNWWFuS3ZsQXJBbkpLVEgzQ3lOcVlxc1YyUTZlaHotRzhqZEFqRmtXd21YTFJrWlVhaVduTWVWckNjSHJLS2pLSUM4eHhlOXRzUVpUZWt3bWZiWTl4Q205eGV1akprWXBwTXUya0RmWjJhWUJMWnN5WndPZnJEcTNDdnZuUnVyX19fVGZremtpUWxzaXQ5VlowakM3UWNidG05Y1pnUzc5UmE3Njh6N1VsUkRlcW1lMVNOdTA1OHRQekI0d2w00gHYAUFVX3lxTE5iNml4WGQ1ZFpidzd3OGNzREdxZzZaUlhUSlRWMG1PY1Z5c2JKSUVYaEFsSFJzSVN5TktuM0trVEdNdDF3MlhrdWNGUl9Gd3JBWkhoNWctNVRjb2ROUnVxRXp6REJGamFNay1RYWZmVzdwRk9kWVN2alJibGRDa1dtWm9KU09ZN2RreVN2dHJrR2Y2ZVNfTktPdEhjQlhhMldsS1J1U3BoT29TZTF0UXhOc05GNEZjNG5iWERDaEl0LWQ2bnJBMU40Z3NVd1Nqd19MaVpSM0w2eA?oc=5"
             }
           ]
         },
         {
-          "title": "Meta strikes deal with Zuckerberg to help him foot billionaire tax bill",
-          "summary": "Meta has struck a deal with Mark Zuckerberg to help him foot a potential California wealth tax targeting billionaires, with the executive agreeing to remain in California for eight years. The arrangement signals corporate support for managing founder tax liabilities in the face of proposed state wealth taxes.",
+          "title": "Meta's credit risk indicator hits record high on AI spending",
+          "feedTitle": "Meta's credit risk indicator hits record high on increased AI spending plan",
+          "summary": "Meta's credit risk indicator has reached a record high as the company increases its AI infrastructure spending plans. Investors are concerned about the pace and scale of Meta's capital expenditures on artificial intelligence. The rising risk indicator suggests market doubts about the return on these massive investments.",
+          "source": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMXV0RkI1VFVXRm4xc0tyNDBnc2NENDA3aF9XdjNxZVVGeU9IMkVlN0s0N3dvbTlYdzFFM0JwbUZjQ01tNFJpWE1GVG5wZXZjOWZMbnk1dUFrWWJlTjNrVU5kZjZxblBOUWFRX2hicTlFUEUyaTV0TjEyZUtUeHliMzZBTHFkS3BOb2FOWmF2S0RoTDBMSm1rdE84YmVQUnZ6bU9CazJmNA?oc=5",
+          "sources": [
+            {
+              "source": "Reuters",
+              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMXV0RkI1VFVXRm4xc0tyNDBnc2NENDA3aF9XdjNxZVVGeU9IMkVlN0s0N3dvbTlYdzFFM0JwbUZjQ01tNFJpWE1GVG5wZXZjOWZMbnk1dUFrWWJlTjNrVU5kZjZxblBOUWFRX2hicTlFUEUyaTV0TjEyZUtUeHliMzZBTHFkS3BOb2FOWmF2S0RoTDBMSm1rdE84YmVQUnZ6bU9CazJmNA?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Meta strikes deal with Zuckerberg over California wealth tax",
+          "feedTitle": "Meta strikes deal with Mark Zuckerberg to help him foot billionaire tax bill",
+          "summary": "Meta has agreed to help Mark Zuckerberg foot a potential California wealth tax targeting billionaires, with Zuckerberg committing to remain in the state for eight years. The deal aims to keep the Meta CEO in California despite proposed one-off 5% wealth tax on billionaires. The arrangement reflects concerns about executive departures amid wealth tax proposals.",
           "source": "Business | The Guardian",
           "link": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax",
           "sources": [
             {
               "source": "Business | The Guardian",
               "link": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax"
+            },
+            {
+              "source": "BBC",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xQUJkVUhrLXRrSThMSERNLV84TVlFbm4za2NQVnpfeHc4RHFpVjRtTzdOS18yY29yd0ZwNVdWZ0tmb3A5VGEzbGJBWWUtOTI1QmxrM2FyV0dsVzg?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Lam Research tumbles as chipmakers cite supply constraints",
+          "feedTitle": "Chip Stock Rebound Comes Undone After Lam Research Stokes Spending Fears",
+          "summary": "Chip stock rebound faltered as equipment maker Lam Research fell 9% citing supply chain constraints, dragging down the broader semiconductor sector. Applied Materials and ASML also declined on the disappointing guidance. The weakness in chip equipment stocks raises questions about the pace of AI infrastructure buildout.",
+          "source": "Barron's",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVGdUaGljZHVHZjlyWWQ4TmpoeVQ3RWJzUDZ6cmV6bmxpbmc0OTV1OUlsSHBCc0VSdjlEMFNBN29uanF1MjE4Yl83US1YWjc0Vlo0LUlpWHpMRGkxLUZqWWdQQVRvUmxLR05yQzY0MURwMkZSX2RERzJUampLaXBlb0RIUURqYmF4LS1kVXFR?oc=5",
+          "sources": [
+            {
+              "source": "Barron's",
+              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVGdUaGljZHVHZjlyWWQ4TmpoeVQ3RWJzUDZ6cmV6bmxpbmc0OTV1OUlsSHBCc0VSdjlEMFNBN29uanF1MjE4Yl83US1YWjc0Vlo0LUlpWHpMRGkxLUZqWWdQQVRvUmxLR05yQzY0MURwMkZSX2RERzJUampLaXBlb0RIUURqYmF4LS1kVXFR?oc=5"
             }
           ]
         }
@@ -357,140 +467,156 @@
         {
           "symbol": "SPY",
           "name": "S&P 500 · SPY",
-          "price": 763.18,
-          "changePct": -1.28
+          "price": 762.31,
+          "changePct": -1.39
         },
         {
           "symbol": "QQQ",
           "name": "Nasdaq · QQQ",
-          "price": 708.04,
-          "changePct": -2.37
+          "price": 704.32,
+          "changePct": -2.88
         },
         {
           "symbol": "DIA",
           "name": "Dow · DIA",
-          "price": 526.38,
-          "changePct": -0.25
+          "price": 526.75,
+          "changePct": -0.18
         },
         {
           "symbol": "INDA",
           "name": "India · INDA",
-          "price": 47.18,
-          "changePct": -0.2
+          "price": 47.27,
+          "changePct": -0.01
         },
         {
           "symbol": "EWJ",
           "name": "Japan · EWJ",
-          "price": 94.37,
-          "changePct": -1.41
+          "price": 94.53,
+          "changePct": -1.24
         },
         {
           "symbol": "EWU",
           "name": "UK · EWU",
-          "price": 47.62,
-          "changePct": -0.15
+          "price": 47.81,
+          "changePct": 0.24
         },
         {
           "symbol": "EWH",
           "name": "Hong Kong · EWH",
-          "price": 21.73,
-          "changePct": -1.29
+          "price": 21.74,
+          "changePct": -1.25
         },
         {
           "symbol": "VT",
           "name": "World · VT",
-          "price": 156.35,
-          "changePct": -1.41
+          "price": 156.29,
+          "changePct": -1.45
+        },
+        {
+          "symbol": "BZ=F",
+          "name": "Brent crude · BZ=F",
+          "price": 113.16,
+          "changePct": 3.99
         }
-      ]
+      ],
+      "note": "Oil surged above $111 as stock markets tumbled globally on combined fears of Iran escalation and AI infrastructure spending concerns. US Nasdaq fell over 2% with tech stocks leading declines, while India's Nifty and Sensex dropped for a third straight session. Watch: regional conflict escalation impacts on oil/shipping; Fed policy response to market volatility; and whether AI capex growth justifies valuations."
     }
   },
   "micro": {
     "theme": "creativity",
     "cards": [
       {
-        "title": "Constraints Breed Innovation",
-        "insight": "The most creative breakthroughs often emerge when resources are limited or rules are imposed. Limitations force us to think laterally, abandon conventional approaches, and discover novel solutions we might never have explored with unlimited freedom.",
-        "takeaway": "This week, identify one constraint in a project you're working on and deliberately use it as a creative prompt rather than an obstacle."
+        "title": "Constraints fuel creative breakthroughs",
+        "insight": "When resources or time are limited, creative thinking sharpens. Constraints force prioritization of only the most impactful ideas and eliminate wasteful exploration, making each creative effort count more.",
+        "takeaway": "Next time you face a deadline or budget limit, reframe it as a creative catalyst rather than a burden. Set tight boundaries on your project and watch how resourcefulness emerges."
       },
       {
-        "title": "Cross-Domain Collision",
-        "insight": "Creativity accelerates when ideas from unrelated fields intersect. A painter studying particle physics, a musician learning architecture, or an engineer reading poetry creates novel neural pathways that spawn unexpected innovations.",
-        "takeaway": "Spend 20 minutes exploring a domain completely outside your expertise and ask: 'What would this look like if I applied this principle to my work?'"
+        "title": "Recombination beats pure novelty",
+        "insight": "True creative breakthroughs rarely come from inventing something entirely new, but from combining existing ideas in fresh ways. The most creative work remixes the familiar into configurations others haven't yet imagined.",
+        "takeaway": "Study how different fields solve similar problems. Keep a list of interesting ideas from unrelated domains and look for unexpected connections that could reshape your own work."
       },
       {
-        "title": "Permission from Failure",
-        "insight": "Creative people reframe failure as permission to experiment more boldly next time. Each failed attempt removes one wrong path, clarifies what doesn't work, and builds confidence to attempt increasingly ambitious ideas.",
-        "takeaway": "Document one recent failure and extract two specific insights about what to try differently—treat it as creative research rather than defeat."
+        "title": "Iteration beats inspiration",
+        "insight": "Waiting for creative inspiration is a myth; consistent, unglamorous iteration is how great work emerges. Each cycle of feedback and refinement builds toward something meaningful that pure inspiration rarely delivers on its own.",
+        "takeaway": "Commit to a regular creative practice—daily writing, sketching, or experimentation—rather than chasing lightning-strike moments. Quality compounds through repetition."
       },
       {
-        "title": "Boredom as Fertile Ground",
-        "insight": "Minds at rest generate more creative associations than minds under constant stimulation. Boredom, discomfort, and idle time activate the default mode network, where the brain makes unexpected connections and generates novel ideas.",
-        "takeaway": "Protect at least 15 minutes today for unfocused time—no phone, no task—and observe what your mind naturally wanders toward."
+        "title": "Collaboration amplifies individual creativity",
+        "insight": "Creative work flourishes in conversation. Others expose blind spots, challenge assumptions, and suggest directions the solo creator would never have pursued. Diversity of perspective is creative fuel.",
+        "takeaway": "Share incomplete drafts or rough ideas with collaborators earlier than feels comfortable. The discomfort of half-formed work often yields the most useful feedback and sparks."
       }
     ],
     "ai": [
       {
-        "title": "Ex-OpenAI Science Head Kevin Weil Launches Startup With $215 Million - Bloomberg.com",
-        "summary": "Kevin Weil, former head of science at OpenAI, has launched a new startup with $215 million in funding, according to Bloomberg. The move highlights continued executive departures from leading AI firms and new venture formation in the artificial intelligence sector.",
-        "source": "\"\"artificial intelligence\" OR OpenAI OR Anthropic OR \"Google DeepMind\"\" - Google News",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQlBnRkU4WWw3WE5qTHZscFNxUm44a0RNSVpTUHdfOVo3N0xLWE8tbFMyZlN3Nk1NZ0tvd1JZODFNX2tIY1ZMeElGX1FwdUR4X28zckVZSjNNdExNM3RITEdVdi1ybkx0R05rdmFLZk81V20xOHBuZldndm80YnZxb0NjcUYyWkotdXdCUWhyTUJNcXNvemRQNV9hLVNpRmIzZkxiaThqM3QxWmVxblU3R1hlRlpiQ0hrS2c?oc=5",
+        "title": "Chinese AI firm DeepSeek raises $15 billion funding round",
+        "feedTitle": "Chinese AI firm DeepSeek raises $15B in latest challenge to OpenAI, Anthropic: report",
+        "summary": "Chinese AI startup DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology citing national security concerns. The funding round underscores China's aggressive push into AI development despite US restrictions. DeepSeek's financing poses a direct challenge to OpenAI and Anthropic.",
+        "source": "New York Post",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWWpjZlAxZThnSENHUWVwcWFkeENPNkQ3STZvbE0xZjRFZUdBb0F2dXNtUnRHMzFoR1o2bHVnblAteFhFQmppRHp1YUszU2lqVVJaSmx3TUFVTUNKQVFYNTdjNnlYelltMGF5OE1PLTVQdjlSaXNtYzNSZkFzTHBYY2NaOG9xUnVwd2N1d0VrNFdDOUVFWGtRT21kNy1YNlhZUXdWS24xbkZBWGlwX2RFSDFVNS1LdmxNbi1nYzJNWQ?oc=5",
         "sources": [
           {
-            "source": "\"\"artificial intelligence\" OR OpenAI OR Anthropic OR \"Google DeepMind\"\" - Google News",
-            "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQlBnRkU4WWw3WE5qTHZscFNxUm44a0RNSVpTUHdfOVo3N0xLWE8tbFMyZlN3Nk1NZ0tvd1JZODFNX2tIY1ZMeElGX1FwdUR4X28zckVZSjNNdExNM3RITEdVdi1ybkx0R05rdmFLZk81V20xOHBuZldndm80YnZxb0NjcUYyWkotdXdCUWhyTUJNcXNvemRQNV9hLVNpRmIzZkxiaThqM3QxWmVxblU3R1hlRlpiQ0hrS2c?oc=5"
+            "source": "New York Post",
+            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWWpjZlAxZThnSENHUWVwcWFkeENPNkQ3STZvbE0xZjRFZUdBb0F2dXNtUnRHMzFoR1o2bHVnblAteFhFQmppRHp1YUszU2lqVVJaSmx3TUFVTUNKQVFYNTdjNnlYelltMGF5OE1PLTVQdjlSaXNtYzNSZkFzTHBYY2NaOG9xUnVwd2N1d0VrNFdDOUVFWGtRT21kNy1YNlhZUXdWS24xbkZBWGlwX2RFSDFVNS1LdmxNbi1nYzJNWQ?oc=5"
+          },
+          {
+            "source": "AI News & Artificial Intelligence | TechCrunch",
+            "link": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/"
           }
         ]
       },
       {
-        "title": "Third-party evaluators find vulnerabilities in OpenAI monitoring system during test pilot - CNBC",
-        "summary": "Third-party evaluators found vulnerabilities in OpenAI's monitoring system during a test pilot program, according to CNBC. The independent assessment revealed security gaps that the company's AI systems could potentially exploit.",
-        "source": "\"\"artificial intelligence\" OR OpenAI OR Anthropic OR \"Google DeepMind\"\" - Google News",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xeTgxRlUydl9jNmMwMzZTOUl5MVJpRGpFSGw1eGVSQ0hNR2FhM0tReGlOb2cydUZGNHpWUEVqTktjWWh2c0RYTk5IUGVUWG1ab2VYT3RBRnB4RVgzT3p6RXoxRzhrckFmeFc0RjF6TlVyWkJsZ0pXMVpTa9IBgAFBVV95cUxPbVFRUDR4dTZpcFBRZ0RNYV94blNUVmhZalBCdlpMc0t6S01CbWRkQXE5eEozTXFwOHZrZWNBcmpLMVd5OTVUNWUyNGlnZlp0T1dURGQzZDRrMVppODQ4Z1lMQkhSUk4wY2FHNVJLNElDUWpUX1RVZWRPc0xleG5Sag?oc=5",
+        "title": "OpenAI says GPT model helped find PHP security flaws",
+        "feedTitle": "OpenAI says GPT-5.6-Sol helped find the PHP flaws now shaking the internet",
+        "summary": "OpenAI says its GPT-5.6-Sol model helped discover the critical PHP vulnerabilities now causing a global cybersecurity scramble. The finding demonstrates AI's capability in identifying long-hidden security issues affecting 70% of websites worldwide. Governments and corporations worked throughout the night to patch the flaws, highlighting both AI's value and the risks of AI-dependent systems.",
+        "source": "Mashable",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Ib2dGYkx5WWZSeE5fRDZFcWtrTTZqRlFfUXhlbDR4M0RfckQyUnMzbmZndWV4UFA2eTRsMlZ6bnlBUi0xTENPbkVmRjlKVVVTZGZKMi12aFVhbzJnRDNvaE9pZ1ozdl9taUU5U2tUbTRVdmVLRUE?oc=5",
         "sources": [
           {
-            "source": "\"\"artificial intelligence\" OR OpenAI OR Anthropic OR \"Google DeepMind\"\" - Google News",
+            "source": "Mashable",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Ib2dGYkx5WWZSeE5fRDZFcWtrTTZqRlFfUXhlbDR4M0RfckQyUnMzbmZndWV4UFA2eTRsMlZ6bnlBUi0xTENPbkVmRjlKVVVTZGZKMi12aFVhbzJnRDNvaE9pZ1ozdl9taUU5U2tUbTRVdmVLRUE?oc=5"
+          }
+        ]
+      },
+      {
+        "title": "Blackstone backs $18 billion debt deal for Anthropic AI chips",
+        "feedTitle": "Blackstone backs $18B debt deal for Anthropic's AI chips",
+        "summary": "Blackstone has backed an $18 billion debt deal to help Anthropic fund its AI chip infrastructure requirements. The financing underscores the enormous capital needs for AI model development and training. The deal reflects investor confidence in Anthropic's business model despite broader market jitters about AI spending.",
+        "source": "Dealroom",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOelhDcmZoVXJtSkd6Z3pQdk5VZTBKOXJaNVM3U1RWd1VDbDg2a1RzS3dLd0JHcUJnVlZQcncyQjE4TloyR0xPZ2tDSTJLMmlWQWVoNHMzRmVHR0RKNkVWLVk3emhNY0NiNkNTWUNGUjhmUTdnY3BMRFF3Q1R0REU5N1U3SnRJd3I0TUtRWEFPV1htV00?oc=5",
+        "sources": [
+          {
+            "source": "Dealroom",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOelhDcmZoVXJtSkd6Z3pQdk5VZTBKOXJaNVM3U1RWd1VDbDg2a1RzS3dLd0JHcUJnVlZQcncyQjE4TloyR0xPZ2tDSTJLMmlWQWVoNHMzRmVHR0RKNkVWLVk3emhNY0NiNkNTWUNGUjhmUTdnY3BMRFF3Q1R0REU5N1U3SnRJd3I0TUtRWEFPV1htV00?oc=5"
+          }
+        ]
+      },
+      {
+        "title": "AI safety group finds flaws in OpenAI monitoring system",
+        "feedTitle": "AI safety group METR finds flaws in OpenAI’s internal monitoring system",
+        "summary": "The AI safety group METR has identified vulnerabilities in OpenAI's internal monitoring system designed to catch misbehaving AI agents. The findings suggest current safeguards may be inadequate to prevent harmful AI behavior. The flaws underscore ongoing challenges in developing robust AI oversight mechanisms.",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa2JvMy1McnRUdXBvVGlqSDhtMERqUGQyczh4TzJpTGFLX21ncWdQMXZOLW9YNW01b3hvWm1iWnVEQmtfQWowX1JRdzgzZFBlZVk4d0pxbFFnX3p0andwR09xWU9Fb2gtQ2hBZXI0QmlKZU1OWGlLQW1RdEtJTlM1WUVIdk15U0xQYU00eVl5UThUX2M3N0ZZOFJKM3R1RVF5RUpoTTRFZ05EQmw5WG8tS2ZB?oc=5",
+        "sources": [
+          {
+            "source": "Reuters",
+            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa2JvMy1McnRUdXBvVGlqSDhtMERqUGQyczh4TzJpTGFLX21ncWdQMXZOLW9YNW01b3hvWm1iWnVEQmtfQWowX1JRdzgzZFBlZVk4d0pxbFFnX3p0andwR09xWU9Fb2gtQ2hBZXI0QmlKZU1OWGlLQW1RdEtJTlM1WUVIdk15U0xQYU00eVl5UThUX2M3N0ZZOFJKM3R1RVF5RUpoTTRFZ05EQmw5WG8tS2ZB?oc=5"
+          },
+          {
+            "source": "CNBC",
             "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xeTgxRlUydl9jNmMwMzZTOUl5MVJpRGpFSGw1eGVSQ0hNR2FhM0tReGlOb2cydUZGNHpWUEVqTktjWWh2c0RYTk5IUGVUWG1ab2VYT3RBRnB4RVgzT3p6RXoxRzhrckFmeFc0RjF6TlVyWkJsZ0pXMVpTa9IBgAFBVV95cUxPbVFRUDR4dTZpcFBRZ0RNYV94blNUVmhZalBCdlpMc0t6S01CbWRkQXE5eEozTXFwOHZrZWNBcmpLMVd5OTVUNWUyNGlnZlp0T1dURGQzZDRrMVppODQ4Z1lMQkhSUk4wY2FHNVJLNElDUWpUX1RVZWRPc0xleG5Sag?oc=5"
           }
         ]
       },
       {
-        "title": "Spotify’s current AI bet is about being the music service that agents choose",
-        "summary": "Spotify's co-CEO Gustav Söderström explained why the rise of AI agents could be beneficial for the music service, positioning the platform as the music choice for emerging AI agent applications. The strategic positioning reflects anticipation of AI agent adoption among consumers.",
+        "title": "SpaceX's AI business beats expectations, drives profitability",
+        "feedTitle": "SpaceX’s AI business is beating expectations",
+        "summary": "SpaceX achieved profitability in the third quarter with net income of $4.4 billion, with AI serving as a key growth engine for the aerospace company. The strong AI-driven results underscore the profitability potential of AI infrastructure and services. SpaceX's success contrasts with broader concerns about AI spending sustainability.",
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "link": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+        "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
         "sources": [
           {
             "source": "AI News & Artificial Intelligence | TechCrunch",
-            "link": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/"
-          }
-        ]
-      },
-      {
-        "title": "Claude Duet app is Anthropic’s bet on agents - TechCrunch",
-        "summary": "Claude Duet, Anthropic's latest app offering, represents the company's bet on AI agents and is available through waitlist for Pro and Max plan users. The rollout signals Anthropic's pivot toward agent-based AI applications.",
-        "source": "\"\"artificial intelligence\" OR OpenAI OR Anthropic OR \"Google DeepMind\"\" - Google News",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUmgyb1ZobDFPVTdQcnNCbTIwR2EzODI3TmRwUGEyWl92eDY3OV83UVh3LXVfekJpNldLdlBXSW1oQlN0Z0MyRTNvUG1NSHRnTGg0NzBhSUFXbm41NFRIQjNObVNCV0xQS2xxWi1YaHpxN1dEOWtLZnUxRzBNMlJCc3lSTXI?oc=5",
-        "sources": [
-          {
-            "source": "\"\"artificial intelligence\" OR OpenAI OR Anthropic OR \"Google DeepMind\"\" - Google News",
-            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUmgyb1ZobDFPVTdQcnNCbTIwR2EzODI3TmRwUGEyWl92eDY3OV83UVh3LXVfekJpNldLdlBXSW1oQlN0Z0MyRTNvUG1NSHRnTGg0NzBhSUFXbm41NFRIQjNObVNCV0xQS2xxWi1YaHpxN1dEOWtLZnUxRzBNMlJCc3lSTXI?oc=5"
-          },
-          {
-            "source": "AI News & Artificial Intelligence | TechCrunch",
-            "link": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/"
-          }
-        ]
-      },
-      {
-        "title": "This AI Model Designs Enzymes With Atomic Precision - SingularityHub",
-        "summary": "An AI model has achieved atomic precision in enzyme design, according to SingularityHub reporting. The advancement demonstrates AI's capability in molecular-level scientific applications with potential pharmaceutical and biotechnology applications.",
-        "source": "\"AI model OR LLM OR \"AI chips\" OR \"AI regulation\"\" - Google News",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUC1fOWpQQnR2VUtqWmFoeC1SekhNQnhOMS1BSTZsM01nRUJzc2ZaNDFuU1FUQnNwUVZ1N2hQbEpFODktbDg3bTllSkZsTlhObGpZWmNleGYyRUh1OWswUzctbmxaRDB2QnZuY1Fhb0FlZWtGLXNzWDRTNUdGQTJabmxqWGdQZVg4UC1zOHBxUS1Vd1p1d0E?oc=5",
-        "sources": [
-          {
-            "source": "\"AI model OR LLM OR \"AI chips\" OR \"AI regulation\"\" - Google News",
-            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUC1fOWpQQnR2VUtqWmFoeC1SekhNQnhOMS1BSTZsM01nRUJzc2ZaNDFuU1FUQnNwUVZ1N2hQbEpFODktbDg3bTllSkZsTlhObGpZWmNleGYyRUh1OWswUzctbmxaRDB2QnZuY1Fhb0FlZWtGLXNzWDRTNUdGQTJabmxqWGdQZVg4UC1zOHBxUS1Vd1p1d0E?oc=5"
+            "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/"
           }
         ]
       }

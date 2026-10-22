@@ -695,6 +695,8 @@ TOTAL candidates the model would see: ${total}`);
     return;
   }
 
+  console.log(`pools ready (${Object.values(pools).reduce((a, p) => a + p.length, 0)} candidates); calling model`);
+  const t0 = Date.now();
   const client = new Anthropic({
     apiKey,
     timeout: 180000,   // 3 min per attempt (SDK default is 10 min)
@@ -705,6 +707,7 @@ TOTAL candidates the model would see: ${total}`);
     max_tokens: 10000,  // 31 multi-sentence summaries + micro cards; headroom so JSON never truncates
     messages: [{ role: 'user', content: buildPrompt(pools, theme) }],
   });
+  console.log(`model replied in ${((Date.now() - t0) / 1000).toFixed(1)}s`);
   const r = extractJson(msg.content[0].text);
 
   const digest = {
@@ -731,6 +734,15 @@ TOTAL candidates the model would see: ${total}`);
 
 // Only run the network build when executed directly, not when imported by a test.
 // (Portable across Node 20 — import.meta.main predates it by years.)
+//
+// Exit explicitly. withDeadline resolves its race but cannot cancel the request it
+// abandoned, and an abandoned feed socket keeps Node's event loop alive — so main()
+// can finish while the process never exits. Two triggered builds hung on the digest
+// step for 20+ minutes with the work already done. A batch job should end when its
+// work ends, so say so rather than relying on every handle being closable.
 if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
-  main().catch(err => { console.error(err); process.exit(1); });
+  main().then(
+    () => { console.log('done'); process.exit(0); },
+    err => { console.error(err); process.exit(1); },
+  );
 }

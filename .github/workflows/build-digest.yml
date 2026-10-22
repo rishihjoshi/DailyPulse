@@ -13,6 +13,10 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    # Platform-level ceiling, independent of anything the script gets right. A healthy
+    # run takes ~50s; two hung runs sat 20+ minutes and would otherwise have burned the
+    # 6-hour default before anyone noticed. On timeout the failure step opens the issue.
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4

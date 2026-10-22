@@ -3,12 +3,13 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "Personal daily-briefing PWA: St. Louis local + weather, world, India + US–India immigration, and microlearning.",
+  "description": "Personal daily-briefing PWA: St. Charles weather + US, world, India, US-India immigration, markets and AI news, plus microlearning.",
   "scripts": {
     "build": "node scripts/build-digest.mjs",
     "check": "node scripts/build-digest.mjs --selfcheck",
     "test": "node --test scripts/test-sanitize.mjs scripts/test-weather.mjs scripts/test-picks.mjs scripts/test-render.mjs scripts/test-markets.mjs scripts/test-e2e.mjs && node scripts/build-digest.mjs --selfcheck",
-    "serve": "npx serve docs -l 3000"
+    "serve": "npx serve docs -l 3000",
+    "dryrun": "node scripts/build-digest.mjs --dryrun"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.68.0",

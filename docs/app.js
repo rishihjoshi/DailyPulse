@@ -1,14 +1,14 @@
-// DailyPulse — reads the pre-built digest.json and renders 4 tabs.
+// DailyPulse — reads the pre-built digest.json and renders 5 tabs.
 // No API key, no AI, no network beyond fetching its own digest (built by the Action).
 
-const APP_VERSION = '20'; // keep in sync with CACHE_NAME in sw.js (dailypulse-v20)
+const APP_VERSION = '22'; // keep in sync with CACHE_NAME in sw.js (dailypulse-v22)
 
 const TITLES = {
   local: 'USA',
   world: 'World',
   india: 'India',
   finance: 'Finance',
-  micro: 'Microlearning',
+  micro: 'Learn',   // match the nav button label in index.html
 };
 
 // Every tab leads with an image hero (photo, animated GIF, or animated SVG); same
@@ -39,14 +39,24 @@ function sourceChips(it) {
 }
 
 // `n` (optional) renders an editorial rank number (#2, #3…) for the ranked list.
-function newsItem(it, n) {
+// `i` (optional) is the position in the list, used only to stagger the entrance animation.
+//
+// Collapsed by default via native <details>/<summary>: keyboard operation, the
+// expanded/collapsed state announced to screen readers, and find-in-page all come free —
+// no JS, no state to keep in sync. A story with no body stays a plain <article> so there
+// is never a disclosure arrow that reveals nothing.
+function newsItem(it, n, i = 0) {
   const num = n ? `<span class="num">#${n}</span> ` : '';
   const summary = it.summary || it.why || '';
-  return `<article class="item">
-    <h3>${num}${esc(it.title)}</h3>
-    ${summary ? `<div class="summary">${esc(summary)}</div>` : ''}
-    ${sourceChips(it)}
-  </article>`;
+  const head = `<h3>${num}${esc(it.title)}</h3>`;
+  if (!summary) return `<article class="item" style="--i:${i}">${head}${sourceChips(it)}</article>`;
+  return `<details class="item" style="--i:${i}">
+    <summary>${head}<span class="chev" aria-hidden="true"></span></summary>
+    <div class="reveal">
+      <div class="summary">${esc(summary)}</div>
+      ${sourceChips(it)}
+    </div>
+  </details>`;
 }
 
 function topStory(it, n = 1) {
@@ -63,18 +73,39 @@ function topStory(it, n = 1) {
 function rankedBlock(items) {
   if (!items || !items.length) return '<div class="empty">No stories yet — check back after the next update.</div>';
   const [top, ...rest] = items;
-  return topStory(top, 1) + rest.map((it, i) => newsItem(it, i + 2)).join('');
+  return topStory(top, 1) + rest.map((it, i) => newsItem(it, i + 2, i + 1)).join('');
 }
 
-function renderWeather(w) {
+// Severe-weather alerts are the only thing in this briefing that's actionable within the
+// hour, so they render above the news rather than inside the weather card.
+function renderAlerts(alerts) {
+  if (!alerts || !alerts.length) return '';
+  return `<div class="alerts" role="alert">` + alerts.map(a =>
+    `<div class="alert sev-${esc(String(a.severity || '').toLowerCase())}">
+      <div class="alert-event">⚠ ${esc(a.event)}</div>
+      ${a.headline ? `<div class="alert-text">${esc(a.headline)}</div>` : ''}
+    </div>`).join('') + `</div>`;
+}
+
+function renderWeather(w, place) {
+  const now = (w.now ?? null) !== null
+    ? `<div class="meta now">Now ${esc(w.now)}°F · ${esc(w.nowLabel || w.label)}</div>` : '';
   return `<div class="weather">
     <div class="emoji">${esc(w.emoji)}</div>
     <div>
       <div class="temps">${esc(w.high)}°F / ${esc(w.highC)}°C</div>
+      ${now}
       <div class="meta">${esc(w.label)} · Low ${esc(w.low)}°F (${esc(w.lowC)}°C) · ${esc(w.precip)}% precipitation</div>
-      <div class="meta">🌅 ${esc(w.sunrise)} · 🌇 ${esc(w.sunset)} · 💨 ${esc(w.wind)} mph · St. Louis, MO</div>
+      <div class="meta">🌅 ${esc(w.sunrise)} · 🌇 ${esc(w.sunset)} · 💨 ${esc(w.wind)} mph · ${esc(place || 'St. Charles, MO')}</div>
     </div>
   </div>`;
+}
+
+// Closes the briefing with what could move tomorrow, the way the reference briefings did.
+function renderWatch(watch) {
+  if (!watch || !watch.length) return '';
+  return `<div class="section-label">🎯 Three things to watch</div>`
+    + `<ol class="watch">` + watch.map(w => `<li>${esc(w)}</li>`).join('') + `</ol>`;
 }
 
 const fmtNum = n => Number(n).toLocaleString('en-US', { maximumFractionDigits: 2 });
@@ -95,14 +126,17 @@ function renderMarkets(quotes) {
 
 function subSection(label, items, emptyMsg) {
   return `<div class="section-label">${esc(label)}</div>`
-    + (items && items.length ? items.map(it => newsItem(it)).join('') : `<div class="empty">${esc(emptyMsg)}</div>`);
+    + (items && items.length ? items.map((it, i) => newsItem(it, 0, i)).join('') : `<div class="empty">${esc(emptyMsg)}</div>`);
 }
 
 function renderTab(tab) {
   const t = digest.tabs;
   if (tab === 'local') {
-    return tabHero('./usa-news.jpg', 'USA General News — US Capitol, flag, and city skyline') + renderWeather(digest.weather) + rankedBlock(t.local.items)
-      + subSection('St. Louis Metro', t.local.stlouis, 'No St. Louis metro news today.');
+    return tabHero('./usa-news.jpg', 'USA General News — US Capitol, flag, and city skyline')
+      + renderAlerts(digest.weather && digest.weather.alerts)
+      + renderWeather(digest.weather, digest.location) + rankedBlock(t.local.items)
+      + subSection('St. Louis Metro', t.local.stlouis, 'No St. Louis metro news today.')
+      + renderWatch(digest.watch);
   }
   if (tab === 'world') return tabHero('./world-spinning.gif', 'Spinning globe — world news', 'anchor-top') + rankedBlock(t.world.items);
   if (tab === 'india') {
@@ -110,18 +144,22 @@ function renderTab(tab) {
       + subSection('US–India Immigration', t.india.immigration, 'No US–India immigration news today.');
   }
   if (tab === 'finance') {
+    const note = t.finance && t.finance.note;
     return tabHero('./finance-banner.svg', 'Market Pulse — finance')
       + renderMarkets(t.finance && t.finance.quotes)
+      + (note ? `<div class="markets-note">${esc(note)}</div>` : '')
       + rankedBlock(t.finance && t.finance.items);
   }
   if (tab === 'micro') {
     const m = digest.micro;
     return tabHero('./micro-banner.svg', 'Daily Lesson — microlearning') + `<span class="theme-pill">Today: ${esc(m.theme)}</span>`
-      + m.cards.map(c => `<div class="card">
-          <h3>${esc(c.title)}</h3>
-          <div class="insight">${esc(c.insight)}</div>
-          <div class="takeaway"><b>Try this:</b> ${esc(c.takeaway)}</div>
-        </div>`).join('')
+      + m.cards.map((c, i) => `<details class="card" style="--i:${i}">
+          <summary><h3>${esc(c.title)}</h3><span class="chev" aria-hidden="true"></span></summary>
+          <div class="reveal">
+            <div class="insight">${esc(c.insight)}</div>
+            <div class="takeaway"><b>Try this:</b> ${esc(c.takeaway)}</div>
+          </div>
+        </details>`).join('')
       + subSection('AI News', m.ai, 'No AI news today.');
   }
   return '';
@@ -248,4 +286,4 @@ function init() {
 // Guarded so the pure render helpers can be imported in Node tests without a DOM.
 if (typeof document !== 'undefined') document.addEventListener('DOMContentLoaded', init);
 
-export { esc, safeUrl, newsItem, topStory, renderWeather, rankedBlock, renderTab, show, loadDigest, freshness, showUpdate, APP_VERSION };
+export { esc, safeUrl, newsItem, topStory, renderWeather, renderAlerts, renderWatch, rankedBlock, renderTab, show, loadDigest, freshness, showUpdate, APP_VERSION };

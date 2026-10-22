@@ -1,6 +1,6 @@
 {
   "generatedAt": "2026-10-17T11:00:00.000Z",
-  "location": "St. Louis, MO",
+  "location": "St. Charles, MO",
   "weather": {
     "high": 72,
     "low": 54,
@@ -11,7 +11,16 @@
     "sunrise": "7:12 AM",
     "sunset": "6:20 PM",
     "label": "Partly cloudy",
-    "emoji": "⛅"
+    "emoji": "⛅",
+    "now": 50,
+    "nowLabel": "Partly cloudy",
+    "alerts": [
+      {
+        "event": "Flood Watch",
+        "severity": "Moderate",
+        "headline": "Flood Watch in effect until 7:00 PM CDT (placeholder seed data)"
+      }
+    ]
   },
   "tabs": {
     "local": {
@@ -30,7 +39,8 @@
               "source": "Reuters",
               "link": "https://www.reuters.com/seed/2"
             }
-          ]
+          ],
+          "feedTitle": "USA placeholder story 1"
         },
         {
           "title": "USA placeholder story 2",
@@ -46,7 +56,8 @@
               "source": "Reuters",
               "link": "https://www.reuters.com/seed/4"
             }
-          ]
+          ],
+          "feedTitle": "USA placeholder story 2"
         },
         {
           "title": "USA placeholder story 3",
@@ -62,7 +73,8 @@
               "source": "Reuters",
               "link": "https://www.reuters.com/seed/6"
             }
-          ]
+          ],
+          "feedTitle": "USA placeholder story 3"
         },
         {
           "title": "USA placeholder story 4",
@@ -78,7 +90,8 @@
               "source": "Reuters",
               "link": "https://www.reuters.com/seed/8"
             }
-          ]
+          ],
+          "feedTitle": "USA placeholder story 4"
         },
         {
           "title": "USA placeholder story 5",
@@ -94,7 +107,8 @@
               "source": "Reuters",
               "link": "https://www.reuters.com/seed/10"
             }
-          ]
+          ],
+          "feedTitle": "USA placeholder story 5"
         }
       ],
       "stlouis": [
@@ -112,7 +126,8 @@
               "source": "Reuters",
               "link": "https://www.reuters.com/seed/12"
             }
-          ]
+          ],
+          "feedTitle": "St. Louis metro placeholder story 1"
         },
         {
           "title": "St. Louis metro placeholder story 2",
@@ -128,7 +143,8 @@
               "source": "Reuters",
               "link": "https://www.reuters.com/seed/14"
             }
-          ]
+          ],
+          "feedTitle": "St. Louis metro placeholder story 2"
         },
         {
           "title": "St. Louis metro placeholder story 3",
@@ -144,7 +160,8 @@
               "source": "Reuters",
               "link": "https://www.reuters.com/seed/16"
             }
-          ]
+          ],
+          "feedTitle": "St. Louis metro placeholder story 3"
         }
       ]
     },
@@ -164,7 +181,8 @@
               "source": "Reuters",
               "link": "https://www.reuters.com/seed/18"
             }
-          ]
+          ],
+          "feedTitle": "World placeholder story 1"
         },
         {
           "title": "World placeholder story 2",
@@ -180,7 +198,8 @@
               "source": "Reuters",
               "link": "https://www.reuters.com/seed/20"
             }
-          ]
+          ],
+          "feedTitle": "World placeholder story 2"
         },
         {
           "title": "World placeholder story 3",
@@ -196,7 +215,8 @@
               "source": "Reuters",
               "link": "https://www.reuters.com/seed/22"
             }
-          ]
+          ],
+          "feedTitle": "World placeholder story 3"
         },
         {
           "title": "World placeholder story 4",
@@ -212,7 +232,8 @@
               "source": "Reuters",
               "link": "https://www.reuters.com/seed/24"
             }
-          ]
+          ],
+          "feedTitle": "World placeholder story 4"
         },
         {
           "title": "World placeholder story 5",
@@ -228,7 +249,8 @@
               "source": "Reuters",
               "link": "https://www.reuters.com/seed/26"
             }
-          ]
+          ],
+          "feedTitle": "World placeholder story 5"
         }
       ]
     },
@@ -248,7 +270,8 @@
               "source": "Reuters",
               "link": "https://www.reuters.com/seed/28"
             }
-          ]
+          ],
+          "feedTitle": "India placeholder story 1"
         },
         {
           "title": "India placeholder story 2",
@@ -264,7 +287,8 @@
               "source": "Reuters",
               "link": "https://www.reuters.com/seed/30"
             }
-          ]
+          ],
+          "feedTitle": "India placeholder story 2"
         },
         {
           "title": "India placeholder story 3",
@@ -280,7 +304,8 @@
               "source": "Reuters",
               "link": "https://www.reuters.com/seed/32"
             }
-          ]
+          ],
+          "feedTitle": "India placeholder story 3"
         },
         {
           "title": "India placeholder story 4",
@@ -296,7 +321,8 @@
               "source": "Reuters",
               "link": "https://www.reuters.com/seed/34"
             }
-          ]
+          ],
+          "feedTitle": "India placeholder story 4"
         },
         {
           "title": "India placeholder story 5",
@@ -312,7 +338,8 @@
               "source": "Reuters",
               "link": "https://www.reuters.com/seed/36"
             }
-          ]
+          ],
+          "feedTitle": "India placeholder story 5"
         }
       ],
       "immigration": [
@@ -330,7 +357,8 @@
               "source": "Reuters",
               "link": "https://www.reuters.com/seed/38"
             }
-          ]
+          ],
+          "feedTitle": "US–India immigration placeholder story 1"
         },
         {
           "title": "US–India immigration placeholder story 2",
@@ -346,7 +374,8 @@
               "source": "Reuters",
               "link": "https://www.reuters.com/seed/40"
             }
-          ]
+          ],
+          "feedTitle": "US–India immigration placeholder story 2"
         },
         {
           "title": "US–India immigration placeholder story 3",
@@ -362,7 +391,8 @@
               "source": "Reuters",
               "link": "https://www.reuters.com/seed/42"
             }
-          ]
+          ],
+          "feedTitle": "US–India immigration placeholder story 3"
         }
       ]
     },
@@ -382,7 +412,8 @@
               "source": "Reuters",
               "link": "https://www.reuters.com/seed/44"
             }
-          ]
+          ],
+          "feedTitle": "Markets placeholder story 1"
         },
         {
           "title": "Markets placeholder story 2",
@@ -398,7 +429,8 @@
               "source": "Reuters",
               "link": "https://www.reuters.com/seed/46"
             }
-          ]
+          ],
+          "feedTitle": "Markets placeholder story 2"
         },
         {
           "title": "Markets placeholder story 3",
@@ -414,7 +446,8 @@
               "source": "Reuters",
               "link": "https://www.reuters.com/seed/48"
             }
-          ]
+          ],
+          "feedTitle": "Markets placeholder story 3"
         },
         {
           "title": "Markets placeholder story 4",
@@ -430,7 +463,8 @@
               "source": "Reuters",
               "link": "https://www.reuters.com/seed/50"
             }
-          ]
+          ],
+          "feedTitle": "Markets placeholder story 4"
         },
         {
           "title": "Markets placeholder story 5",
@@ -446,7 +480,8 @@
               "source": "Reuters",
               "link": "https://www.reuters.com/seed/52"
             }
-          ]
+          ],
+          "feedTitle": "Markets placeholder story 5"
         }
       ],
       "quotes": [
@@ -468,7 +503,8 @@
           "price": 52.18,
           "changePct": 0.62
         }
-      ]
+      ],
+      "note": "Placeholder markets note: oil, equities and one other pressure, then what to watch. Replaced on the next real build."
     }
   },
   "micro": {
@@ -510,7 +546,8 @@
             "source": "Reuters",
             "link": "https://www.reuters.com/seed/ai1"
           }
-        ]
+        ],
+        "feedTitle": "AI placeholder story 1"
       },
       {
         "title": "AI placeholder story 2",
@@ -526,7 +563,8 @@
             "source": "Reuters",
             "link": "https://www.reuters.com/seed/ai2"
           }
-        ]
+        ],
+        "feedTitle": "AI placeholder story 2"
       },
       {
         "title": "AI placeholder story 3",
@@ -542,7 +580,8 @@
             "source": "Reuters",
             "link": "https://www.reuters.com/seed/ai3"
           }
-        ]
+        ],
+        "feedTitle": "AI placeholder story 3"
       },
       {
         "title": "AI placeholder story 4",
@@ -558,7 +597,8 @@
             "source": "Reuters",
             "link": "https://www.reuters.com/seed/ai4"
           }
-        ]
+        ],
+        "feedTitle": "AI placeholder story 4"
       },
       {
         "title": "AI placeholder story 5",
@@ -574,8 +614,14 @@
             "source": "Reuters",
             "link": "https://www.reuters.com/seed/ai5"
           }
-        ]
+        ],
+        "feedTitle": "AI placeholder story 5"
       }
     ]
-  }
+  },
+  "watch": [
+    "Placeholder: first thing to watch today",
+    "Placeholder: second thing to watch today",
+    "Placeholder: third thing to watch today"
+  ]
 }

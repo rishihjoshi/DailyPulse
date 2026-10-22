@@ -12,6 +12,9 @@ newspaper-style, installable, offline-capable. Five tabs, refreshed on a schedul
 4. **Finance** — live index quotes (S&P/Nasdaq/Dow, India, world via ETF proxies) + 5 ranked markets stories
 5. **Learn** — 3–5 original microlearning cards on a theme that rotates daily + an **AI News** section with 5 ranked AI stories
 
+The USA tab also closes with **Three things to watch** (3 forward-looking lines), and Finance carries a
+short **markets note** synthesising oil, stocks and one other pressure.
+
 ## How it works
 
 A scheduled **GitHub Action** (`.github/workflows/build-digest.yml`, 2×/day) runs
@@ -55,13 +58,30 @@ also works as an alternative static host.)
 npm install
 npm test                                      # unit + render + browser-flow e2e, then digest self-check
 npm run check                                 # validate the committed seed digest shape
+npm run dryrun                                # all fetches, no Claude call: pool diversity report
 ANTHROPIC_API_KEY=sk-ant-... npm run build    # do a real build (writes docs/data/digest.json locally)
 npm run serve                                 # http://localhost:3000  (do NOT open via file://)
 ```
 
 ## Notes / tuning
 
-- **Weather** is hardcoded to St. Louis (lat/lon in `build-digest.mjs`); the St. Louis Metro news feed is separate.
+- **Weather** is St. Charles, MO (lat/lon + `PLACE` in `build-digest.mjs`), with current conditions and
+  active **NWS alerts** (keyless, `api.weather.gov`); a severe alert renders above the news. The
+  St. Louis Metro *news* feed is separate and still metro-wide.
+- **Story selection**: feeds are capped **per feed** (`PER_FEED_CAP`), not per pool. Capping after the
+  merge let the chattiest feed take the whole pool — measured at 14 of 15 India slots from one outlet
+  over an 18-minute window, which is how the DeepSeek federal ban and the Sudan strike went unbriefed.
+  Run `npm run dryrun` to see pool size, outlet share and time span per pool without an API call; it
+  warns when one outlet holds >60% of a pool.
+- **Age windows** differ by pool: news pools keep the last `NEWS_MAX_AGE_DAYS` (4), because broad
+  Google News keyword queries otherwise return correctly-dated but evergreen vendor content
+  (research notes, conference notices, partner hires) months old. `immigration` uses
+  `STANDING_MAX_AGE_DAYS` (90) on purpose — it is status tracking, and the rule governing a decision
+  today may have been finalized weeks ago. Undated items are always dropped: `new Date('')` is NaN,
+  which makes the recency sort implementation-defined.
+- **Headlines** are written by the model from the feed title + snippet (feed titles are often
+  procedural live-blog updates); the original is kept as `feedTitle`. Google News titles are split on
+  their " - Outlet" suffix so paywall ranking and source credits name the real publisher.
 - **Finance quotes** use US-listed ETF proxies labelled with their ticker; the Finance tab degrades to news-only if both quote sources are unreachable.
 - **Cadence**: cron is `0 11,23 * * *` UTC (~6am/6pm CT). Drop to once/day to cut cost.
 - **Version**: keep `APP_VERSION` in `docs/app.js` in sync with `CACHE_NAME` in `docs/sw.js` when shipping a UI change.

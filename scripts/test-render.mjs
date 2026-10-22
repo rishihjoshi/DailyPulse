@@ -1,7 +1,8 @@
 // Unit tests for the pure render helpers in app.js. Run: node --test scripts/test-render.mjs
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { renderWeather, rankedBlock, freshness } from '../docs/app.js';
+import { renderWeather, renderAlerts, renderWatch, rankedBlock, freshness,
+         newsItem, topStory } from '../docs/app.js';
 
 test('renderWeather shows °F, °C, sunrise, sunset, and wind', () => {
   const html = renderWeather({
@@ -43,4 +44,82 @@ test('freshness flags a day-old briefing as stale', () => {
   assert.ok(old.label.includes('⚠') && old.label.includes('may be stale'));
 
   assert.deepEqual(freshness('garbage', now), { label: '', stale: false });
+});
+
+test('renderWeather shows current conditions and the configured place', () => {
+  const html = renderWeather({ high: 75, low: 50, highC: 24, lowC: 10, precip: 0, wind: 6,
+    sunrise: '7:20 AM', sunset: '6:10 PM', label: 'Mainly clear', emoji: '☀️',
+    now: 50, nowLabel: 'Partly cloudy' }, 'St. Charles, MO');
+  assert.ok(html.includes('Now 50°F'), 'current temperature should render');
+  assert.ok(html.includes('Partly cloudy'));
+  assert.ok(html.includes('St. Charles, MO'), 'place must come from the digest, not be hardcoded');
+  assert.ok(!html.includes('St. Louis, MO'));
+});
+
+test('renderWeather omits the current line when the field is absent', () => {
+  const html = renderWeather({ high: 60, emoji: '☀️' });
+  assert.ok(!html.includes('Now'), 'no current temp -> no current line');
+  assert.ok(!html.includes('undefined'));
+});
+
+test('renderAlerts renders nothing when there are no alerts', () => {
+  assert.equal(renderAlerts([]), '');
+  assert.equal(renderAlerts(undefined), '');
+});
+
+test('renderAlerts marks severity and escapes alert text', () => {
+  const html = renderAlerts([
+    { event: 'Tornado Warning', severity: 'Extreme', headline: 'Take shelter now <script>' },
+  ]);
+  assert.ok(html.includes('role="alert"'), 'must be announced to screen readers');
+  assert.ok(html.includes('sev-extreme'));
+  assert.ok(html.includes('Tornado Warning'));
+  assert.ok(!html.includes('<script>'), 'alert text must be escaped');
+});
+
+test('renderWatch lists the three things, escaped, and is empty when absent', () => {
+  assert.equal(renderWatch([]), '');
+  const html = renderWatch(['Oil above $110', 'H-4 EAD litigation', '<b>x</b>']);
+  assert.ok(html.includes('Oil above $110') && html.includes('H-4 EAD litigation'));
+  assert.ok(!html.includes('<b>'), 'watch entries must be escaped');
+  assert.equal((html.match(/<li>/g) || []).length, 3);
+});
+
+test('a story with a body collapses; one without stays a plain article', () => {
+  const withBody = newsItem({ title: 'Oil tops $111', summary: 'Brent rose above $111.',
+    link: 'https://x/1', sources: [{ source: 'Reuters', link: 'https://x/1' }] }, 2, 1);
+  assert.match(withBody, /^<details class="item"/, 'collapsible when there is something to reveal');
+  assert.ok(withBody.includes('<summary>'), 'needs a summary element to be operable');
+  assert.ok(withBody.includes('class="chev"') && withBody.includes('aria-hidden="true"'),
+    'the chevron is decorative and must be hidden from screen readers');
+  assert.ok(withBody.includes('class="reveal"'));
+  assert.ok(withBody.includes('Brent rose above $111.'));
+
+  // No body -> no disclosure arrow that reveals nothing.
+  const noBody = newsItem({ title: 'Headline only', link: 'https://x/2', sources: [] });
+  assert.match(noBody, /^<article class="item"/);
+  assert.ok(!noBody.includes('<summary>') && !noBody.includes('chev'));
+});
+
+test('the lead story is never collapsed', () => {
+  const lead = topStory({ title: 'Lead', summary: 'The lead body.', link: 'https://a', sources: [] });
+  assert.ok(lead.includes('Top Story') && lead.includes('The lead body.'));
+  assert.ok(!lead.includes('<details'), 'the lead is open prose, not a disclosure');
+
+  const html = rankedBlock([
+    { title: 'Lead', summary: 'The lead body.', link: 'https://a', sources: [] },
+    { title: 'Second', summary: 'The second body.', link: 'https://b', sources: [] },
+  ]);
+  assert.equal((html.match(/<details/g) || []).length, 1,
+    'exactly the non-lead items collapse');
+  assert.ok(html.indexOf('Top Story') < html.indexOf('<details'), 'lead comes first, uncollapsed');
+});
+
+test('entrance stagger index is emitted and escapes nothing dangerous', () => {
+  assert.ok(newsItem({ title: 'T', summary: 'S', link: 'https://a', sources: [] }, 3, 4)
+    .includes('style="--i:4"'), 'stagger index drives animation-delay in CSS');
+  // the index is numeric from the renderer, never user data — confirm no interpolation of title
+  const evil = newsItem({ title: '"><script>alert(1)</script>', summary: 'S',
+    link: 'https://a', sources: [] }, 2, 0);
+  assert.ok(!evil.includes('<script>'), 'title still escaped inside summary/h3');
 });

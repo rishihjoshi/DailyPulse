@@ -1,168 +1,164 @@
 {
-  "generatedAt": "2026-10-26T17:03:59.022Z",
+  "generatedAt": "2026-10-27T01:41:22.462Z",
   "location": "St. Charles, MO",
   "weather": {
-    "high": 76,
+    "high": 74,
     "low": 51,
-    "highC": 24,
+    "highC": 23,
     "lowC": 10,
-    "precip": 1,
-    "wind": 6,
+    "precip": 0,
+    "wind": 5,
     "sunrise": "7:22 AM",
     "sunset": "6:08 PM",
-    "now": 69,
-    "nowLabel": "Overcast",
+    "now": 61,
+    "nowLabel": "Clear",
     "alerts": [],
     "label": "Overcast",
     "emoji": "☁️"
   },
   "watch": [
-    "Federal Reserve rate decision Wednesday; market expectations for terminal rates and 2027 guidance",
-    "Anthropic IPO pricing and first-day trading as a test of AI company valuations and investor appetite",
-    "Iran-Israel diplomatic developments; any sign of renewed strikes or ceasefire framework before U.S. midterm elections"
+    "Federal Reserve interest rate decision Wednesday; expectations for steady hold despite inflation pressures",
+    "Big Tech earnings from Amazon, Alphabet, and Microsoft this week; market sentiment on AI investment profitability",
+    "Middle East diplomatic talks outcome; oil market reaction if strike fears ease or escalate"
   ],
   "tabs": {
     "local": {
       "items": [
         {
-          "title": "Judge rules James Comey's daughter unlawfully fired as federal prosecutor",
-          "feedTitle": "Judge rules James Comey's daughter unlawfully fired as federal prosecutor",
-          "summary": "Summary unavailable for this update.",
-          "source": "The Hill",
-          "link": "https://thehill.com/regulation/court-battles/6172624-maurene-comey-justice-department-unlawful-firing/",
+          "title": "Final week of campaigning underway with Congress control at stake",
+          "feedTitle": "Candidates enter final week of campaigning with control of Congress at stake",
+          "summary": "With Election Day just over a week away, candidates across the country are in the final stretch of their campaigns as control of Congress hangs in the balance. President Trump campaigned in Mississippi on Monday, while battleground states like Michigan saw high-profile campaign events. The race remains competitive with both parties making final pushes to mobilize voters.",
+          "source": "PBS NewsHour",
+          "link": "https://www.pbs.org/newshour/show/candidates-enter-final-week-of-campaigning-with-control-of-congress-at-stake",
           "sources": [
             {
-              "source": "The Hill",
-              "link": "https://thehill.com/regulation/court-battles/6172624-maurene-comey-justice-department-unlawful-firing/"
+              "source": "PBS NewsHour",
+              "link": "https://www.pbs.org/newshour/show/candidates-enter-final-week-of-campaigning-with-control-of-congress-at-stake"
+            },
+            {
+              "source": "AP News",
+              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONkZHeDk4QUpKb1pUNFJwT3FEMEpzSGdqUjdJcGdNTFM3ZkRMU3hnbkNkTHlRSjl4dVNwR3JyZTJEdVdZR0Jaa1lPNmpHenlpNzVlaVdRYlp1UlczRFpKLVQ4bmNJQ2JSMjUtUUl4U19wZHhCUGhpT2Yxdkh0enhLakhoZy1YZk1MUTdLcERFVGZhdEIz?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Trump administration seeks to set aside noncitizen voter ballots in Washington",
+          "feedTitle": "Trump administration asks Washington to set aside ballots from 400 voters it says may be noncitizens",
+          "summary": "The Trump administration asked Washington state to set aside ballots from approximately 400 voters it alleges may be noncitizens, claiming they are registered to vote. This is the latest effort by the administration to identify and challenge noncitizen voters, though such voting is exceptionally rare. A federal appeals court has already rejected similar efforts in California.",
+          "source": "AP News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSmZZeW5oRDRXSUxqNjJ1cjM0U2lmSTZlc3M1TkVQenFnX19fUGJxN0M4TW95N0taTHJEcjBSLTVVVkExbWJTVUlZeWlzVmd4NUVRUDRhcWNkb29HdUxiNEZfT1NRdk9CX2lSN1M0cVFhdG9YekVBZkluV1VxVnR6ajFiOUx3d3RlWnJtY3ZOWnhFQQ?oc=5",
+          "sources": [
+            {
+              "source": "AP News",
+              "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSmZZeW5oRDRXSUxqNjJ1cjM0U2lmSTZlc3M1TkVQenFnX19fUGJxN0M4TW95N0taTHJEcjBSLTVVVkExbWJTVUlZeWlzVmd4NUVRUDRhcWNkb29HdUxiNEZfT1NRdk9CX2lSN1M0cVFhdG9YekVBZkluV1VxVnR6ajFiOUx3d3RlWnJtY3ZOWnhFQQ?oc=5"
             },
             {
               "source": "PBS NewsHour",
-              "link": "https://www.pbs.org/newshour/nation/anthropic-files-for-potentially-the-biggest-ipo-ever-as-ceo-warns-of-ais-existential-risk-to-humanity"
-            }
-          ]
-        },
-        {
-          "title": "Pentagon presses Congress to rename Defense Department to Department of War",
-          "feedTitle": "Pentagon presses Congress to keep measure changing name to Department of War",
-          "summary": "The Pentagon is lobbying Congress to keep provisions in the annual defense policy bill that would formally change the Department of Defense to the Department of War. President Trump and Secretary of War Pete Hegseth have backed the name change. The proposal remains part of ongoing legislative negotiations.",
-          "source": "The Hill",
-          "link": "https://thehill.com/policy/defense/6172772-pentagon-pushes-department-war-name/",
-          "sources": [
-            {
-              "source": "The Hill",
-              "link": "https://thehill.com/policy/defense/6172772-pentagon-pushes-department-war-name/"
-            }
-          ]
-        },
-        {
-          "title": "Congress may investigate banks and ports over Russian diesel imports",
-          "feedTitle": "Democrats, Tillis say Congress may investigate banks and ports for Russian diesel imports",
-          "summary": "Democrats and Republican Senator Thom Tillis have warned major banks and U.S. port authorities that Congress may investigate imports of Russian diesel fuel after President Trump indicated the U.S. would pursue such imports. Letters sent to financial institutions and port operators flagged potential legal risks.",
-          "source": "The Hill",
-          "link": "https://thehill.com/policy/energy-environment/6172712-tillis-russia-diesel-deal/",
-          "sources": [
-            {
-              "source": "The Hill",
-              "link": "https://thehill.com/policy/energy-environment/6172712-tillis-russia-diesel-deal/"
-            },
-            {
-              "source": "Axios",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaZW1xaGhDaldQV25rME52dFVuWm4zNldMdEU5S2k4RU5hQ0gwZmxWRWlFQS1RZFllUTVKak9sVU9GU29oRUVtaDcwa2ZXaHdRQWstcjg3eW5Qd1h3TENqT3V1NlZ0dm00Q0R5aw?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Judge rules Trump DOJ unlawfully fired FBI director's daughter",
-          "feedTitle": "Trump DOJ unlawfully fired Epstein prosecutor Maurene Comey, judge rules",
-          "summary": "A federal judge has ruled that the Department of Justice unlawfully terminated Maurene Comey, daughter of former FBI Director James Comey, as a federal prosecutor last year. The court ordered the DOJ to provide back pay. The judge rejected the Trump administration's legal arguments for the firing.",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5qWEs2R1ppM3BUd1B3OTJCeDRXQjFBdUp5UkJObzBhZnA3WnFsbUc1NFlLRHdEQjA0dUU1dWdoUExsUmJSeHkxNV9TRWtGb3dNRlpQbms2cHJWa3BmcEpFdkwxUl9mc1RHTU9EQkQ5cHloMmExSjY2UnNnZUjSAYIBQVVfeXFMTzcwVVUxOEpXMVRlbzhselB2STJnVk1xX1QzcnRMWmNTNFlxT3UwOHNoaG1WUDMyaHVfWktiZGxPU0M5N1VLLTNvSzVpcEwydE53Sl9PZ0hjbDFVaXZEYmhkSkJ3dHZpZ21WOVBQNFoxR0VJYzU1NUd5bzhEV0JVRmQ3QQ?oc=5",
-          "sources": [
-            {
-              "source": "CNBC",
-              "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5qWEs2R1ppM3BUd1B3OTJCeDRXQjFBdUp5UkJObzBhZnA3WnFsbUc1NFlLRHdEQjA0dUU1dWdoUExsUmJSeHkxNV9TRWtGb3dNRlpQbms2cHJWa3BmcEpFdkwxUl9mc1RHTU9EQkQ5cHloMmExSjY2UnNnZUjSAYIBQVVfeXFMTzcwVVUxOEpXMVRlbzhselB2STJnVk1xX1QzcnRMWmNTNFlxT3UwOHNoaG1WUDMyaHVfWktiZGxPU0M5N1VLLTNvSzVpcEwydE53Sl9PZ0hjbDFVaXZEYmhkSkJ3dHZpZ21WOVBQNFoxR0VJYzU1NUd5bzhEV0JVRmQ3QQ?oc=5"
+              "link": "https://www.pbs.org/newshour/politics/trump-administration-asks-washington-state-to-set-aside-ballots-from-400-voters-it-says-may-be-noncitizens"
             },
             {
               "source": "The Hill",
-              "link": "https://thehill.com/regulation/court-battles/6172624-maurene-comey-justice-department-unlawful-firing/"
+              "link": "https://thehill.com/homenews/administration/6173747-appeals-court-denies-emergency-election-stay/"
             }
           ]
         },
         {
-          "title": "Trump says decision nearing on Iran: diplomacy or military action",
-          "feedTitle": "Trump says he'll soon decide whether to ‘make a deal’ with Iran or ‘finish it off'",
-          "summary": "President Trump says he will soon decide whether to pursue diplomatic negotiations with Iran or 'finish it off' militarily. Reports indicate the U.S. military has plans for major strikes on Iran if Trump orders them. The decision comes amid escalating rhetoric and regional tensions ahead of the midterm elections.",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE13dGRiMnVpMjM0MjNhZEJmVEE1cGtScXUyMTJrRnRsTUFmU3h2NGx4ZVZmbTJaYkkzT3g0ZnBwcFdrMmhHRFFNaWo1OUNacU15ZC00UVhOQ01HUEVGcDNOb0d3VGw4Z9IBa0FVX3lxTE5DZWdVU196RWJyWVRzVTNvcktBTS1NWlQ5anM3MmM2UjQwZllJMlZ1Y0Zsd1hDb254Z2dwQTB3dWFzam9QQW1yR1c1OEctR0RUYkozYmlGaHlGSnNpZWZKLV9yekRzbWpoSDVF?oc=5",
+          "title": "15-year-old arrested in connection with mass shooting near Florida A&M",
+          "feedTitle": "15-year-old arrested in connection with mass shooting near Florida A&M University, police say",
+          "summary": "A 15-year-old has been arrested in connection with a mass shooting that occurred near Florida A&M University over the weekend. Prosecutors say the suspect will be charged as an adult following the incident on Perry Street in Tallahassee. The shooting resulted in multiple injuries.",
+          "source": "WESH",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSVFDbVVVUWJZQnpnVHFpME5veXVaeW9SMExsSE1JTTNVZjJFTlY2eE40VU1DNzlub1Q4bE9SdzBEcklUS0g3MDhxVDJWWkVKVHVoWHBydGJtU1RMczZVRTRkYWRjU3psVHNtSTNTSUFjQjNEZzRxMExFaURZMUZHMWZMZXhISGxKWG80?oc=5",
           "sources": [
             {
-              "source": "CNBC",
-              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE13dGRiMnVpMjM0MjNhZEJmVEE1cGtScXUyMTJrRnRsTUFmU3h2NGx4ZVZmbTJaYkkzT3g0ZnBwcFdrMmhHRFFNaWo1OUNacU15ZC00UVhOQ01HUEVGcDNOb0d3VGw4Z9IBa0FVX3lxTE5DZWdVU196RWJyWVRzVTNvcktBTS1NWlQ5anM3MmM2UjQwZllJMlZ1Y0Zsd1hDb254Z2dwQTB3dWFzam9QQW1yR1c1OEctR0RUYkozYmlGaHlGSnNpZWZKLV9yekRzbWpoSDVF?oc=5"
-            },
-            {
-              "source": "CBS News",
-              "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc0ktWWprVTV3bjlvb05YbXU5UU5DbHBXNWs4dmZzMFNab3BmSTQyejhwTk5jNmRZVDd4N3doRkdBU3BQTGU1SjBLOUFMc21xN21MSWRTVkdZV05QaS1fdUVoOHFScFp3NnotcTV3NHlfRW1iaGNDR1B3eGlvSkJDTEwwWUQ3ajNYVzhBQlZfMzN2TnVxOFh5aw?oc=5"
-            },
+              "source": "WESH",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSVFDbVVVUWJZQnpnVHFpME5veXVaeW9SMExsSE1JTTNVZjJFTlY2eE40VU1DNzlub1Q4bE9SdzBEcklUS0g3MDhxVDJWWkVKVHVoWHBydGJtU1RMczZVRTRkYWRjU3psVHNtSTNTSUFjQjNEZzRxMExFaURZMUZHMWZMZXhISGxKWG80?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Trump administration charges former FBI Director James Comey third time",
+          "feedTitle": "Trump administration charges former FBI Director James Comey for the third time",
+          "summary": "The Trump administration is attempting to prosecute former FBI Director James Comey for the third time, charging him with disclosing classified information. Comey responded by calling the charges an 'appalling abuse' of the Department of Justice. The charges involve allegations he transmitting sensitive national defense information in 2016.",
+          "source": "PBS NewsHour",
+          "link": "https://www.pbs.org/newshour/politics/trump-administration-charges-former-fbi-director-james-comey-for-the-third-time",
+          "sources": [
             {
               "source": "PBS NewsHour",
-              "link": "https://www.pbs.org/newshour/world/iranians-fear-a-possible-return-to-all-out-war-as-u-s-and-israeli-elections-approach"
+              "link": "https://www.pbs.org/newshour/politics/trump-administration-charges-former-fbi-director-james-comey-for-the-third-time"
+            },
+            {
+              "source": "The Hill",
+              "link": "https://thehill.com/regulation/court-battles/6173667-comey-slams-doj-charges/"
+            }
+          ]
+        },
+        {
+          "title": "Judge rules Trump administration illegally fired Comey's daughter",
+          "feedTitle": "Trump administration illegally fired James Comey's daughter, judge rules",
+          "summary": "A federal judge ruled that the Trump administration unlawfully fired Maurene Comey, daughter of former FBI Director James Comey, and ordered her reinstatement as a federal prosecutor. Comey had argued she was terminated because of her father's status as a Trump critic, and the judge found merit in that claim.",
+          "source": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Lb0NoWlVub0VHcF92OFRsZVI2SjVHUFNidzJRMGFRSkUySFdkUUtUOE5hN1VweS1lWGlnbmtnWDJXQmhoeWQxb0IzdzRGWE5UdDZHYkNqR1pzUmc?oc=5",
+          "sources": [
+            {
+              "source": "BBC",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Lb0NoWlVub0VHcF92OFRsZVI2SjVHUFNidzJRMGFRSkUySFdkUUtUOE5hN1VweS1lWGlnbmtnWDJXQmhoeWQxb0IzdzRGWE5UdDZHYkNqR1pzUmc?oc=5"
+            },
+            {
+              "source": "NPR",
+              "link": "https://www.npr.org/2026/10/26/nx-s1-6008167/republican-redistricting-midterms-competitive-map"
             }
           ]
         }
       ],
       "stlouis": [
         {
-          "title": "St. Louis police board attorney resigns amid raise investigation",
-          "feedTitle": "St. Louis police board attorney resigns amid investigation into police chief's $112,000 raise",
-          "summary": "The board attorney for the St. Louis City Board of Police Commissioners has resigned amid an ongoing investigation into the police chief's $112,000 raise. The departure marks turmoil at the oversight body as scrutiny intensifies over compensation decisions and governance.",
-          "source": "KSDK",
-          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPeXhqZXkwaWhYd2ZVeUFhNks0cUt5c0pILUIxWEhkSEQ5Q2ExYVJYUUYxeUtMMWtKaHZWRjJqR0ppcHZzdURIY1d4YTdsd0tlRVF0TVJrX3p4UVlyTWJndHNCM2ZwXzhkTXVUekhjSHJ1Q0ZERk1HVXFtLW9zX1NGSmpuaFB5b211LXRxQ0I5a01UWW1CeEU5OVVSM1JNX0tJdXphWHJ1RS1zVFNhY1F3NnQ3UVR0dktUeGxReVhmalFZTS03WmJKaVQxT2NDZ2NiRlZYZDdxN1I5QUs5N1R1QzdQbkpWcTR4bTE3MlFuNjUtbUFJaXZtZkpHcHR6ZjZ3UTNSTFl6Q3JraHZJMTluX1ZmODM?oc=5",
+          "title": "Missouri auditor launches investigation into St. Louis County property tax appeals",
+          "feedTitle": "Missouri auditor launches investigation into St. Louis County property tax appeals process",
+          "summary": "The Missouri auditor has launched an investigation into St. Louis County's property tax appeals process following whistleblower complaints. The investigation will examine the Board of Equalization's handling of property assessments. The probe was sparked by concerns about how the appeals board has been operating.",
+          "source": "The Business Journals",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTWYzeUZKY0dxR3B3Nk1XRXRDSGZtZ0haLTZ0aWdFRVVXUTlUbjd6LUlwUDVwNVN6Yi00OFUwX0ZEcjlMT1Y0UVU1S0hXSWlXdmx0Wkt2TWF4V1BuSkRhMWp2MTVPQmItbG1NQnBScU9oRl9Jb184Z094OGllc2tOT2JaVDRUVVM2cWFLUjNGcFI5TFIzamxVQ2laVWFiWEU1UFpsTA?oc=5",
           "sources": [
             {
-              "source": "KSDK",
-              "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPeXhqZXkwaWhYd2ZVeUFhNks0cUt5c0pILUIxWEhkSEQ5Q2ExYVJYUUYxeUtMMWtKaHZWRjJqR0ppcHZzdURIY1d4YTdsd0tlRVF0TVJrX3p4UVlyTWJndHNCM2ZwXzhkTXVUekhjSHJ1Q0ZERk1HVXFtLW9zX1NGSmpuaFB5b211LXRxQ0I5a01UWW1CeEU5OVVSM1JNX0tJdXphWHJ1RS1zVFNhY1F3NnQ3UVR0dktUeGxReVhmalFZTS03WmJKaVQxT2NDZ2NiRlZYZDdxN1I5QUs5N1R1QzdQbkpWcTR4bTE3MlFuNjUtbUFJaXZtZkpHcHR6ZjZ3UTNSTFl6Q3JraHZJMTluX1ZmODM?oc=5"
-            },
-            {
-              "source": "KMOV",
-              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYTJpV2JEeHY4RWljTmUxZFFwZ3VITUNmNWZmRTBtcHZaVUlhbi1ZS3J2NGxIaElDRTc5TmJiRGJUZWdDNk9QWDVNWXhOTG9ldXhoVEZHSGxldTZUTWZ3TTFRQ2dsR3RKeUVDWTEwN1VQdjlsSzRNU09OUktyS2VXZ1BCZHBramFzY0lfZnJUUVVvaEctSWJOeDYxRlp6TEx1eW9VTnlB0gG6AUFVX3lxTE1pNnVWekVzUnU3TTNNMmFpdDJZSno5UGVfbWYwVHhnNWRaOHdRVDRDUUVpSHl5cllKdGo2MEdsWFNnVEgwTWpoRmJpRmxDeER5UWU3WVJFcWsyTFV3c21jNUFZSUJRY3V0aTZiYzRFQWdnMWVMT0Q4ZHptVW1XcEc1cjFuSy1jLVI4LUxDWHVOMlhreWh0TE1ld2xVODFvM2lUMWhJMXNBVGsyVG1qQi1Qc0U5LWYxMUdIZw?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Missouri voters to decide fate of Trump-backed congressional map",
-          "feedTitle": "Proposition A will determine fate of Missouri’s Trump-backed congressional map",
-          "summary": "Proposition A will determine whether Missouri's Trump-backed congressional redistricting plan stands. Republicans spent millions campaigning against the measure but have made little effort to pass it since the vote was approved, signaling possible acceptance of the new map.",
-          "source": "STLPR",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcjdvT2g1a0NuM25nUmYtZXVTNmxURktIc0MwUkJUaEFYVWdVYUlJdmpJUjRRNXhtRVdPTmFHemY3VXBib0h0b0tNN3BWWGhTNHdhMW1yZDRCTmlQOUZRVWQ5Wkp0alhQeEJkQWZERktwYkFjdmU4ZVpPaWZQYzFoQThyOHY4bEdqQXJlbEJ5dzhtM0tLZ01nRUpOTG5CeERJNGt3MVRGZnoxVDcwSXlnaVlGZmk?oc=5",
-          "sources": [
-            {
-              "source": "STLPR",
-              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcjdvT2g1a0NuM25nUmYtZXVTNmxURktIc0MwUkJUaEFYVWdVYUlJdmpJUjRRNXhtRVdPTmFHemY3VXBib0h0b0tNN3BWWGhTNHdhMW1yZDRCTmlQOUZRVWQ5Wkp0alhQeEJkQWZERktwYkFjdmU4ZVpPaWZQYzFoQThyOHY4bEdqQXJlbEJ5dzhtM0tLZ01nRUpOTG5CeERJNGt3MVRGZnoxVDcwSXlnaVlGZmk?oc=5"
+              "source": "The Business Journals",
+              "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTWYzeUZKY0dxR3B3Nk1XRXRDSGZtZ0haLTZ0aWdFRVVXUTlUbjd6LUlwUDVwNVN6Yi00OFUwX0ZEcjlMT1Y0UVU1S0hXSWlXdmx0Wkt2TWF4V1BuSkRhMWp2MTVPQmItbG1NQnBScU9oRl9Jb184Z094OGllc2tOT2JaVDRUVVM2cWFLUjNGcFI5TFIzamxVQ2laVWFiWEU1UFpsTA?oc=5"
             },
             {
               "source": "STLtoday.com",
-              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRUgzNklMdjU1czNPRFpqdFUxcFJ5SU9QNUs1WTlEQXJPXzU3YTJyajhYMVFIaXpJWXRZVm1jTjloTVo0VldDYTZXVWZCRFU2QlNLTHg4S0t1WF9kZnY2M3dfUGJLbjIzZk9WbThZTGoxMXFaR1p5QVNpdUpEMlJESTUxSEN4UV9INlNsR1Z0T0tzcUJqUmpZVGRNLU01ZWltQ0dsLUZ5X1Y?oc=5"
+              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbnQyMUpZdXN4UHA3OHNfRzZyczN3OU9ORW1rUXdmcmlvMHZkNXVSU0pSd2VCbWFxN3BFYmY1S3RoMVJfQ1VONmJ3b1VIN3FpOGhVVURvWVJJS1djcXBMRi1ndWNCTDRqbnBkdnM5T3Q0alBFNklucl9FNVIyRkpmcTgwQ1dMSndnLUN4MmRLdFRsdlMycjkzbU8ydm9yS2ZWUGRmMUIzSjY?oc=5"
+            },
+            {
+              "source": "STLPR",
+              "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc2lRMl84ZFNqQ3RQWTJtWjctbWJqZWlfR0s4cUtTaHRIMjgydnBITENLMnNSZWlkeUw2SDhIc2xQSnhVVHV2V0twSndMRjhwY0JkWklSUVZmQWc1dHpXUEd6ay01LXppVExhYWtJS216dnRMRHVxWTFJWmFNY0hQdUoxNDdUaTZKSHlIZ3paVVNmYXJ1SENGYTN6WmQ0ZWd1TXVYVEVjZEFqTEhsVjNETlJZNA?oc=5"
             }
           ]
         },
         {
-          "title": "Illinois State Police breaks ground on $55 million East St. Louis headquarters",
-          "feedTitle": "Illinois State Police building $55 million local headquarters in East St. Louis",
-          "summary": "Illinois State Police held a groundbreaking for a new $55 million regional headquarters facility in East St. Louis. The facility represents a significant infrastructure investment in the Metro East region and will serve law enforcement operations across multiple counties.",
-          "source": "Alton Telegraph",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTkpmcWtINmRYMnZMM1lXVnpGeHpDQi1lckhIODVhYXlvZmxXNk9aQTFzb3VzUlY0bXlmeVhVUE9VNFpBZWRGZWJGalNRQnVjOXNCU3lSYnp6Yy1jYnNMOXc2YnN2a1FBWG9sMWxiN0JmcGRhUk1FSlJZUDdad3R5UnZNRVQtV0ZwV1dkQTFB?oc=5",
+          "title": "Missouri AG passes St. Louis police board investigation to Kansas City firm",
+          "feedTitle": "Mo. AG to pass St. Louis police board investigation to KC firm",
+          "summary": "Missouri's Attorney General has decided to pass the investigation into the St. Louis Police Board to a Kansas City-based firm, following the resignation of the board's attorney. The investigation centers on the board's approval of a $112,000 raise for the police chief and broader governance questions.",
+          "source": "KMOV",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeGcxNlpUcDhxQlo3WnlvNkRJdlNFOUdIbi1wMDlTZlA4dVQ4YUE0OTcxWVJ5TnIwNTlsZjBvZTNGR3AyMWNsYjBJMzBUX0Q1LVFSRVRpdmRpOEU3cDQ3SFY0RmlMVENCZGs2WlcyNDM4Mk5WRnZ6Nk0zUmw1aV9idVBwaklpcmZKcGpCWlpHX1diNTM1ck1sWUh30gGuAUFVX3lxTE9kdzdkYWtMR2Fpdnl6dExnQnhNY2I4NzJrRlA4clpaNC15cnA3S1dHczhyYXFYNDJrVWdsRjhEOTBDOVIxRm42WGtUTV9hTlh4U2xSekRIR2c1UU5GczJqU1lYdlN0QUxzSllzWkVCdFVsRHFlV2lLTjFFWDE0WDBWbTNtUG9iVTRINHJDbVdJSmJmYWxOV1ZTVmVuakxsVC1xdlhGY0N5UjBKR3ZTUQ?oc=5",
           "sources": [
             {
-              "source": "Alton Telegraph",
-              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTkpmcWtINmRYMnZMM1lXVnpGeHpDQi1lckhIODVhYXlvZmxXNk9aQTFzb3VzUlY0bXlmeVhVUE9VNFpBZWRGZWJGalNRQnVjOXNCU3lSYnp6Yy1jYnNMOXc2YnN2a1FBWG9sMWxiN0JmcGRhUk1FSlJZUDdad3R5UnZNRVQtV0ZwV1dkQTFB?oc=5"
+              "source": "KMOV",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeGcxNlpUcDhxQlo3WnlvNkRJdlNFOUdIbi1wMDlTZlA4dVQ4YUE0OTcxWVJ5TnIwNTlsZjBvZTNGR3AyMWNsYjBJMzBUX0Q1LVFSRVRpdmRpOEU3cDQ3SFY0RmlMVENCZGs2WlcyNDM4Mk5WRnZ6Nk0zUmw1aV9idVBwaklpcmZKcGpCWlpHX1diNTM1ck1sWUh30gGuAUFVX3lxTE9kdzdkYWtMR2Fpdnl6dExnQnhNY2I4NzJrRlA4clpaNC15cnA3S1dHczhyYXFYNDJrVWdsRjhEOTBDOVIxRm42WGtUTV9hTlh4U2xSekRIR2c1UU5GczJqU1lYdlN0QUxzSllzWkVCdFVsRHFlV2lLTjFFWDE0WDBWbTNtUG9iVTRINHJDbVdJSmJmYWxOV1ZTVmVuakxsVC1xdlhGY0N5UjBKR3ZTUQ?oc=5"
             },
             {
-              "source": "STLPR",
-              "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWWZiRDNRLW9hZElVTVJZWVlIRW5wVW82VkFFTm1XUjZ1QVZlVUloNGtFLVFFcEpWajNPWUw5SzZIYldGZ2NFR2k3RUJnWmFRSjVaUnU1dXF6VWRrRHBXeGd5QTVUQjFGRnFGcFpCWW5SV0cyZVZVdTBYSGVid2R1RTNZTTdYVWQwekIzb3BvRUVJc1NNc2haS1dKejBKUEROVXNzRUFXTzRJQlIzdVdMX1puSXAtalRFekFZNzN0MFRpSzY1TnEyWHBoX2E1dm8?oc=5"
-            },
+              "source": "KSDK",
+              "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPeXhqZXkwaWhYd2ZVeUFhNks0cUt5c0pILUIxWEhkSEQ5Q2ExYVJYUUYxeUtMMWtKaHZWRjJqR0ppcHZzdURIY1d4YTdsd0tlRVF0TVJrX3p4UVlyTWJndHNCM2ZwXzhkTXVUekhjSHJ1Q0ZERk1HVXFtLW9zX1NGSmpuaFB5b211LXRxQ0I5a01UWW1CeEU5OVVSM1JNX0tJdXphWHJ1RS1zVFNhY1F3NnQ3UVR0dktUeGxReVhmalFZTS03WmJKaVQxT2NDZ2NiRlZYZDdxN1I5QUs5N1R1QzdQbkpWcTR4bTE3MlFuNjUtbUFJaXZtZkpHcHR6ZjZ3UTNSTFl6Q3JraHZJMTluX1ZmODM?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "$4 million allocated for tornado-damaged affordable housing in St. Louis",
+          "feedTitle": "$4M to go towards repairing tornado-damaged affordable rental units in St. Louis, Missouri",
+          "summary": "Four million dollars has been allocated toward repairing tornado-damaged affordable rental units in St. Louis, Missouri. The funding aims to restore housing stock lost or damaged in recent severe weather events in the region.",
+          "source": "cedarnews.net",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNVpBdWFEY05mbkEtYUtrWEMwd2FTVTZ5eEZpa3lsaVkyV1NnLWREVjVqM3BmaXN2Y244eGtPZktodjZVRXlocUVXV0JRYVItSVV5bUhOeHNCbnZaZHVWVXZ1aTBZSUhIUlZXRWxrUHhMQ3RaODhPM2ZvZ3BsVzRFMkZDOUlkak0waWJXeHprWlNYX2lEZnc?oc=5",
+          "sources": [
             {
-              "source": "The Troy Times Tribune",
-              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNHN3WkdoNVRUdmlqM3BNQThfdGxETi1xOEZCNDFyTmdBaWZhNko1NGc0amkxS01HaWIzLVpsX05VZFFQMkZwYVlWbEMwMi0xWDRzRFdhZG5KQmhTLVpnYmVlMTc4a0oyTkU4NlBCYzJ1Nnd6WUV0d0xWUWhMT3o3akpZbndwSk5LcER3UkFLM0FzV2JTNTFhbmdQM25pSHp1a2VKTnRjNjlPTVJzX0dHLWFMbmQwNHMzLVlr?oc=5"
+              "source": "cedarnews.net",
+              "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNVpBdWFEY05mbkEtYUtrWEMwd2FTVTZ5eEZpa3lsaVkyV1NnLWREVjVqM3BmaXN2Y244eGtPZktodjZVRXlocUVXV0JRYVItSVV5bUhOeHNCbnZaZHVWVXZ1aTBZSUhIUlZXRWxrUHhMQ3RaODhPM2ZvZ3BsVzRFMkZDOUlkak0waWJXeHprWlNYX2lEZnc?oc=5"
             }
           ]
         }
@@ -171,9 +167,9 @@
     "world": {
       "items": [
         {
-          "title": "Brazil's Lula wins fourth term in dramatic election comeback",
+          "title": "Lula defeats far-right Bolsonaro in dramatic Brazil election comeback",
           "feedTitle": "Lula wins fourth term in dramatic Brazil election comeback",
-          "summary": "Left-wing incumbent President Luiz Inácio Lula da Silva has won a historic fourth term as Brazil's president, overturning a first-round defeat to right-wing challenger Flávio Bolsonaro in a narrow, dramatic victory. The result is being hailed internationally as a significant signal about the strength of democratic institutions in Latin America. Lula has pledged that dictatorship and fascism will never return to Brazil.",
+          "summary": "Leftist incumbent Luiz Inácio Lula da Silva has won a historic fourth term as Brazil's president, defeating far-right challenger Flávio Bolsonaro in a dramatic runoff after losing the first round three weeks ago. Lula won with 51.79% of the vote to Bolsonaro's 48.21%, making him the first candidate to win a runoff after losing in the first round. Bolsonaro has refused to concede and faced court orders to surrender his passport amid money-laundering inquiries.",
           "source": "BBC",
           "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
           "sources": [
@@ -183,28 +179,24 @@
             },
             {
               "source": "The Guardian",
-              "link": "https://www.theguardian.com/world/2026/oct/26/brazil-lula-vow-democracy-always-election-win"
-            },
-            {
-              "source": "Al Jazeera",
-              "link": "https://www.aljazeera.com/news/2026/10/26/how-did-lula-beat-bolsonaro-after-losing-brazils-first-round-election?traffic_source=rss"
+              "link": "https://www.theguardian.com/news/audio/2026/oct/26/how-lula-beat-far-right-bolsonaro-in-brazil-the-latest"
             }
           ]
         },
         {
-          "title": "Students topple Vucic’s government in Serbia",
-          "feedTitle": "Students topple Vucic’s government in Serbia",
+          "title": "England’s Harry Kane wins Ballon d’Or, Alexia Putellas takes women’s award",
+          "feedTitle": "England’s Harry Kane wins Ballon d’Or, Alexia Putellas takes women’s award",
           "summary": "Summary unavailable for this update.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/aje-onl-nf_music-dnrexp-261026-kopcicn-serbian_elections-261026?traffic_source=rss",
+          "link": "https://www.aljazeera.com/sports/2026/10/26/englands-harry-kane-wins-ballon-dor-alexia-putellas-takes-womens-award?traffic_source=rss",
           "sources": [
             {
               "source": "Al Jazeera",
-              "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/aje-onl-nf_music-dnrexp-261026-kopcicn-serbian_elections-261026?traffic_source=rss"
+              "link": "https://www.aljazeera.com/sports/2026/10/26/englands-harry-kane-wins-ballon-dor-alexia-putellas-takes-womens-award?traffic_source=rss"
             },
             {
               "source": "The Guardian",
-              "link": "https://www.theguardian.com/business/2026/oct/27/the-chaos-in-france-is-a-warning-signal-for-australias-public-spending-and-rising-costs"
+              "link": "https://www.theguardian.com/world/2026/oct/26/serbia-student-list-preparing-for-talks-on-forming-government-despite-no-clear-leader"
             },
             {
               "source": "BBC",
@@ -213,49 +205,57 @@
           ]
         },
         {
-          "title": "Saudi Arabia, Turkey, Pakistan hold rare Iran talks to de-escalate",
-          "feedTitle": "High-level delegation visits Iran to try to avert flare-up with US and Israel",
-          "summary": "High-level diplomatic delegations from Saudi Arabia, Turkey, and Pakistan traveled to Tehran to prevent renewed fighting between Iran and the U.S. and Israel as bellicose rhetoric escalates. The talks aim to defuse regional tensions amid U.S. military readiness and threats of strikes. Oil prices have responded to fears of renewed Middle East conflict.",
+          "title": "Netanyahu reportedly pressured military to attack Iran before Israeli election",
+          "feedTitle": "Netanyahu Pushed for Attack on Iran Ahead of Israeli Election, Officials Say",
+          "summary": "Israeli Prime Minister Benjamin Netanyahu reportedly put pressure on Israel's military to take action against Iran ahead of Israel's upcoming election as his far-right coalition narrowed in polls. The IDF chief reportedly blocked the push, with officials saying Netanyahu sought attack preparations that would signal Iran an offensive was coming. Netanyahu has resorted to increasingly alarmist rhetoric on Iran.",
           "source": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV0lhYnBxU2txRFVEeld0bjdPRkQ5TVQxNmxsRnBEYmtONmRxYkh5cGVVUlp5X3o4Qm1IRlowMV9RckRQUl95ZEJ1b2lMQUthWmFaX1BVS0RtSXdiRlk1LWRrbFQ3Zmc2d1pUakNWVC1oMTZydnNQc05mZlVLTzA5N01fLXpIbTJrOU83Q1RCM2RHYU1OdjU2M1o3S3RIY2ZxRDgtdjhYd0J5eEpXdTJRWDdR?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMGg3NmRYX3RhRXpOMk5ONlBEd25EMjcwN3NIRlFOTThTVGVCZmxsRlFRRGw5WUttTDByVVkyYU91Qm1XSUVLSjFHcVdQUkYwY0JPUFlMbWE2MWFOSXdMNUROelpLME1OWnZZWmdfc0ZHbl9BdGFaLWhqTTdGSkJIeXJ5VjlHUlNsMGZDX05CZ2t3WE9YTElNZzBIVTdmQkJrWTFVZ0h0aDhEb0dkYlhPQWYyTUNUZHoxRm84STRVbw?oc=5",
           "sources": [
             {
               "source": "The Guardian",
-              "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV0lhYnBxU2txRFVEeld0bjdPRkQ5TVQxNmxsRnBEYmtONmRxYkh5cGVVUlp5X3o4Qm1IRlowMV9RckRQUl95ZEJ1b2lMQUthWmFaX1BVS0RtSXdiRlk1LWRrbFQ3Zmc2d1pUakNWVC1oMTZydnNQc05mZlVLTzA5N01fLXpIbTJrOU83Q1RCM2RHYU1OdjU2M1o3S3RIY2ZxRDgtdjhYd0J5eEpXdTJRWDdR?oc=5"
+              "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMGg3NmRYX3RhRXpOMk5ONlBEd25EMjcwN3NIRlFOTThTVGVCZmxsRlFRRGw5WUttTDByVVkyYU91Qm1XSUVLSjFHcVdQUkYwY0JPUFlMbWE2MWFOSXdMNUROelpLME1OWnZZWmdfc0ZHbl9BdGFaLWhqTTdGSkJIeXJ5VjlHUlNsMGZDX05CZ2t3WE9YTElNZzBIVTdmQkJrWTFVZ0h0aDhEb0dkYlhPQWYyTUNUZHoxRm84STRVbw?oc=5"
+            },
+            {
+              "source": "The New York Times",
+              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMERWcXFaZ1BsZ3FLanZOZHo1QVowcEtkb0VZTkE1dkF6cmktY3pwUVBYZ2FRTkVOaWpwMTZqbDZmNU15clM1MENCVU5OWWF6YlBYU1JUUUZiQ005VWhZZkxtczA1S1hDc0FFME9heGxMUFhUalJpUHV0X3Z6QjRoUXJyNHg3WERCVDVMa2hKTS0?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Machete-wielding mob attacks health workers responding to Ebola in Congo",
+          "feedTitle": "Machete-wielding mob attack health workers responding to Ebola in Congo",
+          "summary": "Healthcare workers responding to Ebola cases in eastern Democratic Republic of Congo were attacked by a machete-wielding mob, resulting in one nurse being killed and another health worker severely injured. Local residents reportedly believed the health workers were spreading Ebola rather than responding to it. Uganda has tightened border controls in response to the outbreak.",
+          "source": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORVF6VmdLdHFYM0cwNjlRZGY0a0VjTkpjQUJwa05yUGhvNWF0ODZ6YmptRkxWeXRucmN1UmpFZkJpdGhUWGlKRHhZWlduMTVRWExXQnNSb1FtaHgzdkNMcUd2ZkM3TW16YlVMbS1SMDhxbUxkWkhWbDVZaHh5VU0zcDZVOUoySG0xeHM1N3REbGRnYU5oVnpfNDBYYjItQjdHUmYxUHVEU0diZm5mS1E?oc=5",
+          "sources": [
+            {
+              "source": "Reuters",
+              "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORVF6VmdLdHFYM0cwNjlRZGY0a0VjTkpjQUJwa05yUGhvNWF0ODZ6YmptRkxWeXRucmN1UmpFZkJpdGhUWGlKRHhZWlduMTVRWExXQnNSb1FtaHgzdkNMcUd2ZkM3TW16YlVMbS1SMDhxbUxkWkhWbDVZaHh5VU0zcDZVOUoySG0xeHM1N3REbGRnYU5oVnpfNDBYYjItQjdHUmYxUHVEU0diZm5mS1E?oc=5"
+            },
+            {
+              "source": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "Middle East security landscape shifting as diplomacy efforts intensify",
+          "feedTitle": "From the Mecca defence pact to Tehran talks: Is the Middle East’s security landscape shifting?",
+          "summary": "Saudi Arabia, Turkey, and Pakistan held rare talks in Iran as regional powers seek to defuse tensions amid fears of renewed conflict. The discussions come as the Houthis continue striking regional targets and the US maintains readiness for potential military action. The talks signal potential movement toward a security architecture that could reduce reliance on outside powers.",
+          "source": "Euronews.com",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX25oaTlpMF8wR0VNVzlzNGtjVmZocTlRSWNyLXBRNlE5Z2g4NjFIVXUtMUduV2ZoU1hId3djQWZYYlpoLXkzT3VxSjJxcmRqNklNcFpsTXgyVnlmdURNU29PbWxmVFJBbWpPcHU5RzVSVXJrdzA4ME5CdzBqX1lWd2RPQWpCVV9uOUZHTXFOeGtuODBEZFRFTmQtMDJGazJwY1RRb3lFNWpiYWhGTU5Da2dZUUJTaUZLc09Ub2R0enQwclQx?oc=5",
+          "sources": [
+            {
+              "source": "Euronews.com",
+              "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX25oaTlpMF8wR0VNVzlzNGtjVmZocTlRSWNyLXBRNlE5Z2g4NjFIVXUtMUduV2ZoU1hId3djQWZYYlpoLXkzT3VxSjJxcmRqNklNcFpsTXgyVnlmdURNU29PbWxmVFJBbWpPcHU5RzVSVXJrdzA4ME5CdzBqX1lWd2RPQWpCVV9uOUZHTXFOeGtuODBEZFRFTmQtMDJGazJwY1RRb3lFNWpiYWhGTU5Da2dZUUJTaUZLc09Ub2R0enQwclQx?oc=5"
             },
             {
               "source": "The National",
               "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYXpXeGJySlQxeV9XYjNxYnlSSUVtSEZibERTbTVKcG1seloyZXYyc3JvbEtUT0JtamQ1N2YtbEYxZWR4MW1CTDJrbDUyYzVhOVFocDk1RURYWl82TFZFWmxNRW1UT1EtVE1INjR1bkNrbWhZN1lPSWZtclU0VFA3SXQtdU9Kay11UWI5YzZJaUU3R3MtSnBHdg?oc=5"
             },
             {
-              "source": "The New York Times",
-              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPd05yanVUalZUaF96N3JPYjQtOHdSX0g5SXhxZ08xV1NYRk1yN2lwTndDMXZXR1NUcXFmdmVsenlIbWRMalBfXzFtSk5tVl9hdjgxQlhDU2V5VzJPTWlEek04c3lnMkt0bVFXZ0Q2a0praUUyV3BtbTlhaVBoMFRielVkV1pTYnlPMGVod1ZHMi0?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Ethiopia: more than 60 Christians killed in reported massacre",
-          "feedTitle": "More than 60 Christians killed in Ethiopia 'massacre', church official says",
-          "summary": "Church officials say that more than 60 Christians have been killed in a massacre in Ethiopia, with one resident describing it as an ambush in which they were surrounded. The incident represents a severe loss of civilian lives in the region. Responsibility and full details remain under investigation.",
-          "source": "BBC",
-          "link": "https://www.bbc.co.uk/news/articles/cm4g175dgdx2o?at_medium=RSS&at_campaign=rss",
-          "sources": [
-            {
-              "source": "BBC",
-              "link": "https://www.bbc.co.uk/news/articles/cm4g175dgdx2o?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "Rohingya refugees dismantling homes amid eviction threat in Kashmir",
-          "feedTitle": "Rohingya dismantle homes amid eviction threat in disputed Kashmir region",
-          "summary": "Rohingya refugees in Indian-administered Kashmir are reportedly being forced to dismantle their homes amid an eviction threat. The situation reflects ongoing tensions around refugee status and residency rights in the disputed region.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/rohingya-deported-disputed-kashmir-region?traffic_source=rss",
-          "sources": [
-            {
-              "source": "Al Jazeera",
-              "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/rohingya-deported-disputed-kashmir-region?traffic_source=rss"
+              "source": "Ynetnews",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xVmdtNXpFdENxSjlDbXNOZnMyeTh1N3lET1BWcFctSjR0di1yUk5pTTFfOEtlbG96UWcwNE1zUS15RV9uMllwdG9FT1pZcTY5SVFLMFpB?oc=5"
             }
           ]
         }
@@ -264,132 +264,144 @@
     "india": {
       "items": [
         {
-          "title": "Cyclone Arnab closes in on Andhra Pradesh coast as very severe storm",
-          "feedTitle": "Odisha, Andhra shut schools, ban fishing as Cyclone 'Arnab' nears; Centre stresses zero casualties\n | LIVE",
-          "summary": "Very severe cyclonic storm Arnab is expected to make landfall near the Andhra Pradesh-Yanam coast by October 28 as a very severe cyclone. Schools have been shut and relief measures intensified across vulnerable districts in three North Andhra regions. Authorities have mobilized personnel and equipment as the IMD warns of extremely heavy rainfall in several districts.",
-          "source": "The Hindu",
-          "link": "https://www.thehindu.com/news/national/cyclone-arnab-andhra-pradesh-odisha-live-updates-imd-weather-forecast-rain-warnings-bay-of-bengal-october-26-2026/article71625447.ece",
+          "title": "India-US conclude most trade pact talks, fine-tuning agreement underway",
+          "feedTitle": "India, US Conclude Most Trade Pact Talks, Fine-Tuning Agreement: Piyush Goyal",
+          "summary": "India and the US have concluded most of their trade pact discussions with fine-tuning of the agreement now underway, according to Commerce Minister Piyush Goyal. The progress indicates the two countries are moving closer to finalizing a bilateral trade deal that has been in negotiation. Details on key sectors and tariff schedules remain under discussion.",
+          "source": "NDTV",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOVdmZnpZMUlDOEVGVUFwYXJORERkU3BrR3NRNHczTWhMc2ZaUDRFNnRzOWMyelM4UXNHdXZFTmpsMy1YcHQ5UFBsbHRmOF8tYW1KT0QwelN0YTB4ZjdHN3puRy1fb2dIelFFVjgyd3BmTjBCTXBuS0lWUDFDc2s4aFBBYkUzWURfOElmU0NrNG5xMk56a0hkOUFOYmZwXzhNWFh2YUV5WFNycXNHRzRmRDJmWnFwZ9IBvgFBVV95cUxOU3NpTHhMYzFRTENfT0ZtcmVnZjJnYlJBcHdxcEtWWjhYazJBd1JtMTM1cEhQMGhEZFgwTDFsMUpIRC1jZkNjMHdiSjNicklXeFB0dkd1eFNXRnZkWlBJWE83cksxTUpvUXhNUmFIT19FWXVGZHMwZkQwOU1zdjNVTUFEOTdTWUVMRTlrYTFOOFBRYmZId3FjSlBJeWJ5cmRTSlF1VGV5ZERXTmI0MVcwbUZFemdmaEFkMXlwVHF3?oc=5",
           "sources": [
             {
-              "source": "The Hindu",
-              "link": "https://www.thehindu.com/news/national/cyclone-arnab-andhra-pradesh-odisha-live-updates-imd-weather-forecast-rain-warnings-bay-of-bengal-october-26-2026/article71625447.ece"
-            }
-          ]
-        },
-        {
-          "title": "Former DMK minister arrested in ₹100-crore private schools fraud",
-          "feedTitle": "Former DMK Minister Anbil Mahesh Poyyamozhi arrested in ₹100-crore private schools fraud case",
-          "summary": "Anbil Mahesh Poyyamozhi, a former DMK minister, has been arrested in connection with a ₹100-crore bribery and fraud case involving private schools. Chief Minister MK Stalin responded to the arrest, and the case involves allegations of corruption spanning multiple layers.",
-          "source": "The Hindu",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMFdzRDFqNTNBNTd5bl9NeUN2eXZXMkRtVGg2aF83cWtfSVl1ajQ4aVIwNmdLSFMwZy1xbzNTUWp5NUN2Rms1UjBSMnV1UG9QN00xX3JQWkh0am9CZnNCQ3p5NkU4UENHVHRZbG93Y1dEckJ5djZQT3NaV21uRHl3TlFUYkhQdlFzN2VkNFBEdHV5SHk4bG9sZDlCQ3BwM3dITWRkSjZqcUFzQzNyRlk1MjNOS0twRjYzQWVmMktDONIBxgFBVV95cUxNUDhrLTVCTnpiRlptRFJlQVFoTnJmNjlRMmFEbldOZUIxRFBCaHlkVTBUQWlOdXYzc2hoQ0d3djAxMDh6T1ZiU0Z3WUtvQ2VjcVFEUkROU3N3c013M2pxZDVoRG43ZF9aREZGc2VmWUs5VVc4WTM5dGk1UU5mNEpOSlRjNXpucXFjdkVLVThpQm12c0E4YUpEVzlkYmhmaWxnclVTVDh2ekVmVk5Pdk5sZ2V1YkNsWWNxV2lkNnIyUTllRDhZa0E?oc=5",
-          "sources": [
-            {
-              "source": "The Hindu",
-              "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMFdzRDFqNTNBNTd5bl9NeUN2eXZXMkRtVGg2aF83cWtfSVl1ajQ4aVIwNmdLSFMwZy1xbzNTUWp5NUN2Rms1UjBSMnV1UG9QN00xX3JQWkh0am9CZnNCQ3p5NkU4UENHVHRZbG93Y1dEckJ5djZQT3NaV21uRHl3TlFUYkhQdlFzN2VkNFBEdHV5SHk4bG9sZDlCQ3BwM3dITWRkSjZqcUFzQzNyRlk1MjNOS0twRjYzQWVmMktDONIBxgFBVV95cUxNUDhrLTVCTnpiRlptRFJlQVFoTnJmNjlRMmFEbldOZUIxRFBCaHlkVTBUQWlOdXYzc2hoQ0d3djAxMDh6T1ZiU0Z3WUtvQ2VjcVFEUkROU3N3c013M2pxZDVoRG43ZF9aREZGc2VmWUs5VVc4WTM5dGk1UU5mNEpOSlRjNXpucXFjdkVLVThpQm12c0E4YUpEVzlkYmhmaWxnclVTVDh2ekVmVk5Pdk5sZ2V1YkNsWWNxV2lkNnIyUTllRDhZa0E?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "India clears ₹2.12 lakh crore defence procurement, 300 more Vajra guns",
-          "feedTitle": "India’s mega artillery push: 300 more Vajra guns, proposals worth Rs 2.12 lakh crore cleared",
-          "summary": "India's Defence Acquisition Council has cleared defence procurement proposals worth ₹2.12 lakh crore, including orders for 300 additional Vajra self-propelled howitzers. The mega artillery push reflects India's focus on strengthening military capabilities and self-reliance in defence manufacturing.",
-          "source": "Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUWtlUlNoTlFhQVdNR25NbFFTYUYtcTlOeWhtWnNfVENzOWo2cl9NZ1dpdlhRU3B6VVRvekhvVGdvVHpKMWx0N1Rick9xR0cweWwtRllzN0tLMVJydktMOGVQTGNnbnltSnVMRFVuMHJaaFV6OXVBbFVVbnhTUzgxdGs2NS1WNU5QVXYwaGJ4bk96RERnbkRyMEhjNHpmMEpIVEQxcA?oc=5",
-          "sources": [
-            {
-              "source": "Reuters",
-              "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUWtlUlNoTlFhQVdNR25NbFFTYUYtcTlOeWhtWnNfVENzOWo2cl9NZ1dpdlhRU3B6VVRvekhvVGdvVHpKMWx0N1Rick9xR0cweWwtRllzN0tLMVJydktMOGVQTGNnbnltSnVMRFVuMHJaaFV6OXVBbFVVbnhTUzgxdGs2NS1WNU5QVXYwaGJ4bk96RERnbkRyMEhjNHpmMEpIVEQxcA?oc=5"
+              "source": "NDTV",
+              "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOVdmZnpZMUlDOEVGVUFwYXJORERkU3BrR3NRNHczTWhMc2ZaUDRFNnRzOWMyelM4UXNHdXZFTmpsMy1YcHQ5UFBsbHRmOF8tYW1KT0QwelN0YTB4ZjdHN3puRy1fb2dIelFFVjgyd3BmTjBCTXBuS0lWUDFDc2s4aFBBYkUzWURfOElmU0NrNG5xMk56a0hkOUFOYmZwXzhNWFh2YUV5WFNycXNHRzRmRDJmWnFwZ9IBvgFBVV95cUxOU3NpTHhMYzFRTENfT0ZtcmVnZjJnYlJBcHdxcEtWWjhYazJBd1JtMTM1cEhQMGhEZFgwTDFsMUpIRC1jZkNjMHdiSjNicklXeFB0dkd1eFNXRnZkWlBJWE83cksxTUpvUXhNUmFIT19FWXVGZHMwZkQwOU1zdjNVTUFEOTdTWUVMRTlrYTFOOFBRYmZId3FjSlBJeWJ5cmRTSlF1VGV5ZERXTmI0MVcwbUZFemdmaEFkMXlwVHF3?oc=5"
             },
-            {
-              "source": "ThePrint",
-              "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcFFON1NaVng5VFgwSkNvOW9pWFUwRklSZEtPcmh4anVHUDFUNVMyS1o0OGx1anpPVm5EWWVGOE5vRXIwSkdKTjU1Z096bER5QnYyWlNYbUQ2Wk4xZjd6OG1mZ2RXaERTTnFCcHBNeEdhYVFBa0hqM3duODRjS0RVcEJkZ2M5VWx4YVROSVEzeTg0eXN5R3VzV2FmWldEMXRLUklNU05CbXFIcHpHZWlRTktvT3BWT2VXaWswTUtfaDFsMHFE0gHKAUFVX3lxTE5nOUJJekd0X2FiZVg2MmVva2JtX1RleVZfWWRXWXZtR3hDaFF1b0t3TzY1UTRBRUdRNkR6U2NGcC15N0g3d01vNFcwQmE3akQ0bjdoMWIwY1BqWnBralVIX3FiLURkQWlyRTJRS3BTalM0ZXNXRlV5ZVJSeE9YNXJsLTg5NFZXMmM1MGJjY3d6M1Q4eGRXc3pZT0xyYlRsNm10U3N0cmhmOHRTaWw5eXEydU1yRHNzQWxLRjlGeXgtb25ITFRJTFVfeEE?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "India allows E100 flex-fuel vehicles to run on ethanol fuel",
-          "feedTitle": "Govt allows flex-fuel vehicles that can run on E100, amends motor vehicle rules | India News",
-          "summary": "The Indian government has amended motor vehicle rules to allow flex-fuel vehicles that can run on E100 (100% ethanol). The regulatory approval comes ahead of planned launches by automakers and reflects India's push toward alternative fuels and renewable energy integration in transportation.",
-          "source": "Hindustan Times",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxON0dzN0NvbURZT1NiNXd1WndXYTRzS2dNR1dUNTd1djF4V2U0WHgxb3hlUXVvYmFlakl6WXd0NkZsNlMyZklpNy1KZWtwSnFSR1o1Tk5yLW5HVGsyNjFPRGZhbHpMel9ueDMxazdTMG94UzlxcXRkX2FkLWVZel9jVXh4M0ZEVFdFMVRDZXgzU3VucE1odll3a0Fkdm1WQU9JbERPMDRIR000LW1fV2lRazM2alNydGVZSmwyalNPRWVCeWpEUEJxd1hMMUNWdFBzNnRnTTZPbWHSAd4BQVVfeXFMT1VfRVpNQThObERPWW5qRjZHRzJIeThkbzE1UkhONVZUUi1RNXRTZ2xlTE1CSm1zeW1LZGRCYW5jZkhhSFJRSWViOWxYUTA4ZFdYUTdMM0R5VUVuUG4tYUZNazltbjJETE84XzdRckRZdVo0a20tQVo4aWYweU1fUHRLcXZWOFByRXNkdS1jbmNnSVlpcnd6eHlidkZCOUUzd3ZlUWtaZkROSkVYTC1USGY5bUI2ZFlPSHdxSmRjdzJyS2ZIdS01QkVMSXJQNDJrcjA2cnBhWWdVbkpUaU53?oc=5",
-          "sources": [
-            {
-              "source": "Hindustan Times",
-              "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxON0dzN0NvbURZT1NiNXd1WndXYTRzS2dNR1dUNTd1djF4V2U0WHgxb3hlUXVvYmFlakl6WXd0NkZsNlMyZklpNy1KZWtwSnFSR1o1Tk5yLW5HVGsyNjFPRGZhbHpMel9ueDMxazdTMG94UzlxcXRkX2FkLWVZel9jVXh4M0ZEVFdFMVRDZXgzU3VucE1odll3a0Fkdm1WQU9JbERPMDRIR000LW1fV2lRazM2alNydGVZSmwyalNPRWVCeWpEUEJxd1hMMUNWdFBzNnRnTTZPbWHSAd4BQVVfeXFMT1VfRVpNQThObERPWW5qRjZHRzJIeThkbzE1UkhONVZUUi1RNXRTZ2xlTE1CSm1zeW1LZGRCYW5jZkhhSFJRSWViOWxYUTA4ZFdYUTdMM0R5VUVuUG4tYUZNazltbjJETE84XzdRckRZdVo0a20tQVo4aWYweU1fUHRLcXZWOFByRXNkdS1jbmNnSVlpcnd6eHlidkZCOUUzd3ZlUWtaZkROSkVYTC1USGY5bUI2ZFlPSHdxSmRjdzJyS2ZIdS01QkVMSXJQNDJrcjA2cnBhWWdVbkpUaU53?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "India-US trade deal: most discussions concluded, fine-tuning underway",
-          "feedTitle": "India-US trade deal: Most discussions concluded, fine-tuning underway, says Piyush Goyal",
-          "summary": "Commerce Minister Piyush Goyal says most discussions on a comprehensive India-US trade agreement have been concluded, with fine-tuning still underway. The negotiations reflect India's priority to secure beneficial terms on manufacturing, infrastructure, and digital technologies as part of broader strategic partnership.",
-          "source": "Moneycontrol.com",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaHVmeUNZQVNWcldiRkFyU2hwaFRXZVlQN2NacEw0WDFXR29VWEtTcTFmbTRiNnF2RjY2eXVpcFQyRHQ1SHFOUGxnZU5GZFlQZmpSTUNyWGV4UGxWQUNsVDVxN1o4Q2tFeGcwdEhfVm5YZGUzbU0xdWNLZ3UxNVNwSVJkakRMaWlUMDA2Z3h4ZWtZTFM1NXB6d0NuRElZcVgwNFQ4YXJqS2lDWWVtMUoxVGhoZUlxWGhlbHpZNy1PTnlOQTFweWRqSHhWZkk1TlNtTlp3MnBMeXpjSElCRFRqeVRR0gHnAUFVX3lxTE1oN2ZOQUpRSjk5SWU5eHZRWk5iajNKNWU4SUo4bmVZUG9zaWRjSWNhSlhJTjhESGlYbWNtWnFicW5sYXZoUnlSMkJqaGpZSVU0aUJHMTZjRXpkNk9iRV83SVhoeGhkVDB2MWQ0azBRTzA2SjNwZU9MOWh0ZU1GRWpSSFR3d3k4RnJqOGV5M1VTUnJFV0ZWNjRZajJpdFFlcW1MZmZpYUlUeXNXYWhtZFFxQkxJMnd5c1h4ZEF6NzBQSFhxSmE3M0Z1VnV6YnZZQWY4Y1ZWaTdsdS1KU2tpcE11bDJJQVhXdw?oc=5",
-          "sources": [
             {
               "source": "Moneycontrol.com",
               "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaHVmeUNZQVNWcldiRkFyU2hwaFRXZVlQN2NacEw0WDFXR29VWEtTcTFmbTRiNnF2RjY2eXVpcFQyRHQ1SHFOUGxnZU5GZFlQZmpSTUNyWGV4UGxWQUNsVDVxN1o4Q2tFeGcwdEhfVm5YZGUzbU0xdWNLZ3UxNVNwSVJkakRMaWlUMDA2Z3h4ZWtZTFM1NXB6d0NuRElZcVgwNFQ4YXJqS2lDWWVtMUoxVGhoZUlxWGhlbHpZNy1PTnlOQTFweWRqSHhWZkk1TlNtTlp3MnBMeXpjSElCRFRqeVRR0gHnAUFVX3lxTE1oN2ZOQUpRSjk5SWU5eHZRWk5iajNKNWU4SUo4bmVZUG9zaWRjSWNhSlhJTjhESGlYbWNtWnFicW5sYXZoUnlSMkJqaGpZSVU0aUJHMTZjRXpkNk9iRV83SVhoeGhkVDB2MWQ0azBRTzA2SjNwZU9MOWh0ZU1GRWpSSFR3d3k4RnJqOGV5M1VTUnJFV0ZWNjRZajJpdFFlcW1MZmZpYUlUeXNXYWhtZFFxQkxJMnd5c1h4ZEF6NzBQSFhxSmE3M0Z1VnV6YnZZQWY4Y1ZWaTdsdS1KU2tpcE11bDJJQVhXdw?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Cyclone Arnab nears land; Andhra Pradesh and Odisha on high alert",
+          "feedTitle": "A.P., Odisha on alert as cyclone ‘Arnab’ nears land",
+          "summary": "Cyclone Arnab is approaching the coast of Andhra Pradesh and Odisha with red alerts issued for seven of 28 districts in Andhra Pradesh. Indian Meteorological Department has warned of severe impact, and officials are preparing to shift pregnant women and vulnerable populations to safer facilities. Five states have prepared over 1,700 shelters to house evacuees.",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/national/ap-odisha-on-alert-as-cyclone-arnab-nears-land/article71627868.ece",
+          "sources": [
+            {
+              "source": "The Hindu",
+              "link": "https://www.thehindu.com/news/national/ap-odisha-on-alert-as-cyclone-arnab-nears-land/article71627868.ece"
+            }
+          ]
+        },
+        {
+          "title": "Indian publishers contest Modi government's privacy law in Supreme Court",
+          "feedTitle": "EXCLUSIVE: Ambani, Adani outlets among Indian publishers contesting Modi’s privacy law",
+          "summary": "Major Indian publishers, including outlets linked to the Ambani and Adani business groups, are contesting Modi government's new privacy law in the Supreme Court, arguing it violates freedom of speech and threatens journalistic activity. The digital news body may also move to court, citing concerns about the law's impact on press freedom. The case raises questions about government regulation of media.",
+          "source": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNanFza21ic1VNOTdSMzhhUTBrQVRqYVhhZWdxYUF5cTJueG9XSEV6NFg4aWc1ZnRHenhTdGtpdDhDdlJjUWFhUnlXN1pUckxqWjMxbENtZ2dNZjh6MHVwOEptMi04QW5WaVBJTUFoM1JMSUpQRENLVE5Ud0JYX3dCM2F6VHBRd2ZHVWkzSGU4VjhQdF9TRVR6RmlYZ05HV2JSVUxPbWN5UTVqNXBuS25OamFEVnVqV0l3Q1RlM2lteXM5MG5pallBZ0hxTW0?oc=5",
+          "sources": [
+            {
+              "source": "Reuters",
+              "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNanFza21ic1VNOTdSMzhhUTBrQVRqYVhhZWdxYUF5cTJueG9XSEV6NFg4aWc1ZnRHenhTdGtpdDhDdlJjUWFhUnlXN1pUckxqWjMxbENtZ2dNZjh6MHVwOEptMi04QW5WaVBJTUFoM1JMSUpQRENLVE5Ud0JYX3dCM2F6VHBRd2ZHVWkzSGU4VjhQdF9TRVR6RmlYZ05HV2JSVUxPbWN5UTVqNXBuS25OamFEVnVqV0l3Q1RlM2lteXM5MG5pallBZ0hxTW0?oc=5"
+            },
+            {
+              "source": "The Hindu",
+              "link": "https://www.thehindu.com/news/national/indian-publishers-contest-modi-governments-privacy-law/article71627054.ece"
+            },
+            {
+              "source": "Bar and Bench",
+              "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOTExakEzRDJ2eE1mbmw3MVBpSXNzM1pJZ1czMmROMldkMzVacVA5R3RxSkxraTdxeWxPTTNZazdPbGJ5VDNfYlJnWEVYakV6YXpGWmltR21kRncxWG9ySVJXa0NKWFN0bEVkd2x3QS1KQm43OUxUazdNQURualJJR25QZDRqXzUzYTNSRzhyRVZVQWl6MHd4bGExbS1ubHlUVmxldlVCeXpDYUJYSS01bUhPaTFHRjlocHBmMFM2VGdFWWctTkNhYm51clJYclc4aml1cGFfSE7SAeYBQVVfeXFMUDlRSVU1LXhPTUM1N3JWNHdFQ0J4S3lOaVU5NVAxYTVWNUMtUzNvTUxfU1R3R1FqZFpReEhmTC1fRk1DLWhUWWVxWlljWkdKQ1prNS1oYmVXRGRub0NaSnFLNVZNNGwzTDdPVDNLTHNHOEY1RS1YSlJjQzcyUDlmQmpMRVZoRUtBa3g3YmJlMmw4LTN0Zk5XcnlFUU5jMjRNZWtnU3dDaFFoQ1BVaW9SYWFGMjNxTHo3cjJNc21OQl9mb2xyV191SUxYb0Vab25xV0Q4UUpSWFJNRGVoZnN1YUJnVl8yMnc?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Five shot dead in Guwahati hotel after owner-leaseholder dispute",
+          "feedTitle": "Five shot dead in Guwahati hotel",
+          "summary": "Five people, including a mother-son duo and members of the same family, were shot dead at Bilas Inn hotel in Guwahati following a dispute between the hotel's owner and leaseholder. One suspect has been arrested in connection with the shooting. The incident reflects ongoing tensions in commercial disputes in the region.",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/national/assam/guwahati-hotel-firing-death-updates/article71628609.ece",
+          "sources": [
+            {
+              "source": "The Hindu",
+              "link": "https://www.thehindu.com/news/national/assam/guwahati-hotel-firing-death-updates/article71628609.ece"
+            },
+            {
+              "source": "NDTV",
+              "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcHpJZURpbVkxcEp2QTVXTm9MbDhoM0FGRlBNQkl4Ykx4RDhzazhoTnJ4VUcyd0lSYmhCbjhRbXJBZW1IMkFVT3BOMHZfMTBJUEpsQkhQWVpqdTlCNk50SkdiREh4ZzFLUXlMM055dWhXQmxoUkIwalNfWHhwdWpLbk1WWC0zT0VGLUx4eTFoNzlsM0piNmxoSTQ1U3A?oc=5"
+            },
+            {
+              "source": "The Indian Express",
+              "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeVV6U2thb3U1TU4xV0RkMzFPU195NzNFV1piWjBuNUlwSU1FMnpKU1VCSnRUeTN5QUZBRnlRZTZyRXdDaDhYT25qbWJEMFBPY0ViX2JNSVVBX000R1RRZmp2SDlUUTNCMXJ2X3liLS1CNmE4MjFOdVROcE1DRE9DRXJpYVQ5QVBwYnRaeTNmTWxQS0VfYUZ6cGgxdmtTd0JWbHRucEtUREtXQVlhUmJyS0M2VUF1cFlYZ25yLXRqMl8wUXlGeXE00gHOAUFVX3lxTE11SDVWYjAzVXlzYnV2MnVDX2NMTGRIV0xXLUhBQlVMZ2QyQktOVmZxbGRabUVQazYzdlFPUGFhRmEzanFwZ1F0V2d6RklaM3cxQXRrTld4NURfT2prX2JoY3NOMDF1bHo0NktUWnI2aVBDdTJTNldtMWtOQkdDVUZGamtDU2YzMWlBa01GSEV0OUt5dEZCZjdzTlc4eFlnbVAwWEpKVmZPWUQ5Mk9OeDktWlJYUGRLcjd6VVlIcFNtYmpWY0V0b3ZPUFN4WTNn?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Election Commission asserts CEC can only be removed like Supreme Court judge",
+          "feedTitle": "CEC can be removed only like a Supreme Court judge, ECI tells top court",
+          "summary": "India's Election Commission told the Supreme Court that the Chief Election Commissioner can only be removed through the same process as a Supreme Court judge, asserting independence from political pressure. The EC also stated that all SIR (Special Inclusion Report) decisions were taken unanimously, though questions remain about why certain commissioners weren't informed of key decisions. The affidavit defends the Commission's autonomy in electoral administration.",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/national/cec-can-be-removed-only-like-a-supreme-court-judge-eci-tells-top-court/article71628290.ece",
+          "sources": [
+            {
+              "source": "The Hindu",
+              "link": "https://www.thehindu.com/news/national/cec-can-be-removed-only-like-a-supreme-court-judge-eci-tells-top-court/article71628290.ece"
+            },
+            {
+              "source": "Live Law",
+              "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSVkzUTdvcEE5dGx4Z2NRNVlXYlZIdk5VZWpNVWl2YnVkS3VhcVJ4cno5N3dRMk1MQ0Q1ckVxSXNFNThOT2FsYU15bTdHV0V2dVlQUXQ1MWlBc183V1NabW1DeEZBQjlsUDYtLXlUV2Z1REF2V1Fyei1PWG9faS1NUlNTR25Ua1luSVVJWjFoVTkzckRkQVJMX2pFbk5JMnY4X3AwdnAwMWxPX3FldTNxdGswZk5XdVViTzNJYdIBwgFBVV95cUxNd1VXMktOcHozaW5aa3VKR3lvSmhxUGhuYWY2elRoa2NJaHhtRjN0dmYwOThRdEUyTk84OXl0dE0yeG9uU0lLXzdMN2FTb0lsZkxUcDdGWVR1SGVwcjdSNzUxUjVZYXZmLU83NU1yaDZpVlJsbmF6M1E0NWhRNDFHd09mYUJBNVowa3E4TlZjTUdSRFhQWWFRQXI1ZG5Bb3JaSHUzb1IwUjRBd09IWUVtdWJ0SEVOMWtHVllfdy1qSURZdw?oc=5"
             }
           ]
         }
       ],
       "immigration": [
         {
-          "title": "Trump administration ends H-1B extension protections, finalizes work-permit restrictions (finalized, in effect)",
-          "feedTitle": "Trump Administration Moves to End H-1B Extension Protections, Finalizes Restrictions on Work Permit Renewals",
-          "summary": "The Trump administration has finalized restrictions ending the H-1B grace period and removing deference to prior approvals for visa extension renewals. The rule, published October 30, 2025, also eliminates automatic extension of employment authorization documents (EADs) for aliens who timely file renewal applications. These changes are now in effect and significantly impact H-1B and work-permit holders.",
-          "source": "INDIA New England News",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORVNhOEZLcDBaeWY5S1MyNjFGMzl5SndHT0tkVGxyZm5EQ1Y0Q2VJdE5mN2pEaElKN3ZzRWpPNjhST0ltcUpkQWhSeDNLLVNaNE01NkFRUmFyeTRXNmI4dGhLbG5SRjRjZEVqcTdFMWFqV01pY0REaGtpU1JPS19EaVhrXzVHM2IwemtVd2diZlZfZzJkM1Y0RDRJM0JKcFotcEhMV2VhXzZKdmNKNGtONjNReTV5M2d1eFRTVlVYeWpSdU5tZnRUQ3A1RXlidExIRmc?oc=5",
+          "title": "DOL overhaul of work-based green card program clears White House review",
+          "feedTitle": "DOL Overhaul of Work-Based Green Card Program Clears White House",
+          "summary": "The US Department of Labor's overhaul of the employment-based green card program has cleared White House review, signaling major changes ahead for foreign worker visas. The proposed reforms would tighten green card requirements for foreign workers, affecting millions of applicants worldwide. The finalized or proposed rule represents a significant policy shift in US immigration.",
+          "source": "Bloomberg Law News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMHJhSWRmalJsRjRoYkFGVHpRS0lvcFFFeXlxOWd2ZzI5S3VnWmtIRXBQcDh2TFYwb3FrNnJXN0lwMEhDT0N0MjJpTUFKbHBpNk9HSjVXTkxpQ0VIS0lpdXlpemJjOElwYlhOTzcyVHdpUVRHVXcwYnBVZzhJaGUtYTlKR1FCck5FTTkwOGV0cTdWbUx6LWVQNFpWSTJhUGJLbXNubXl2QnVoR1pBczExQ01kMA?oc=5",
           "sources": [
             {
-              "source": "INDIA New England News",
-              "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORVNhOEZLcDBaeWY5S1MyNjFGMzl5SndHT0tkVGxyZm5EQ1Y0Q2VJdE5mN2pEaElKN3ZzRWpPNjhST0ltcUpkQWhSeDNLLVNaNE01NkFRUmFyeTRXNmI4dGhLbG5SRjRjZEVqcTdFMWFqV01pY0REaGtpU1JPS19EaVhrXzVHM2IwemtVd2diZlZfZzJkM1Y0RDRJM0JKcFotcEhMV2VhXzZKdmNKNGtONjNReTV5M2d1eFRTVlVYeWpSdU5tZnRUQ3A1RXlidExIRmc?oc=5"
-            },
-            {
-              "source": "Duane Morris LLP",
-              "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQR2RJUmoxRnRpTmp1d2QwWmNnRUxjZVhaUVVVVUJ0Qm4yakdJOGVCc29tXy05RUlPQzd5eDFmZnZCa1owRjJUZUx4ako5TjFSclYyZldJVFBmbWRsamFMOTYwQzMtM1FHWndVLW5RcHdlR3VxWS1fUnpmQnVKN3pjRUJBRDhjSjNoTW9tQ2tTakZqQ1BQQXk4TzVpWmxqTFJPUTI2SWxPaUlSZEVCTE9Wa2FWamZ3ZElaajhaVzV3?oc=5"
-            },
-            {
-              "source": "Federal Register",
-              "link": "https://www.federalregister.gov/documents/2026/10/14/2026-20955/removal-of-automatic-extensions-for-certain-employment-authorization-documents"
+              "source": "Bloomberg Law News",
+              "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMHJhSWRmalJsRjRoYkFGVHpRS0lvcFFFeXlxOWd2ZzI5S3VnWmtIRXBQcDh2TFYwb3FrNnJXN0lwMEhDT0N0MjJpTUFKbHBpNk9HSjVXTkxpQ0VIS0lpdXlpemJjOElwYlhOTzcyVHdpUVRHVXcwYnBVZzhJaGUtYTlKR1FCck5FTTkwOGV0cTdWbUx6LWVQNFpWSTJhUGJLbXNubXl2QnVoR1pBczExQ01kMA?oc=5"
             }
           ]
         },
         {
-          "title": "Minnesota dentist arrested by ICE at green card interview meeting",
-          "feedTitle": "Minnesota dentist arrested by ICE at green card meeting, separated from family",
-          "summary": "A Canadian-born dentist was taken into ICE custody at his green card interview in Minneapolis, separated from his family. The arrest highlights growing enforcement actions at immigration benefit interviews. His wife reported the incident, raising concerns about due process at official immigration proceedings.",
-          "source": "CBS News",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdGZaRnhVbktmS2h0YjhVLTFGLU9zN1Rtd0xjQ01Td01zdUZGTTNnOFRJdlNCVFYxNmFmbFd5SGtzeDlzTUxIUVpabFZCeDNJcFVZdlNxVXM0cGxxV3VxbTM2eTRPSjNSR2NmZjF3SjFLSzNaVmozYjFTazBiV0V0Tk5sTGNaM1VGbmxzQVRR?oc=5",
+          "title": "US begins clearing H-1B petitions without Trump's $100,000 fee",
+          "feedTitle": "US Begins Clearing H-1B Petitions Without $100,000 Fee: What It Means For Indians",
+          "summary": "The US is beginning to approve H-1B visa petitions without collecting the controversial $100,000 fee implemented by the Trump administration, though officials note there are conditions attached. The development offers some relief to Indian and other foreign workers seeking temporary employment in the US. However, the broader H-1B program remains under scrutiny with multiple policy changes in effect.",
+          "source": "NDTV Profit",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQejFGRjFENW1faDduLVNfdW5pdG5DSjZWRjlKaHptT250NEkzMnVJTFVOeVh3WEg1SHIyZXhYcjRVcjl0dkhkbm93ZG9IQWNwM1NHakpBcDNTS1FZb281REZvSDl4NUthcnZfb084OTd0WWw2VUhwN3hvS0ljMG5RQVczendydUg5MzU1OWlRaFZpYWN6NDFlNVR1ZXhDeVlkRXM1Q1k1NDFTOHZWZzRLeTc3eFoxRmZLMlEwWERn0gHGAUFVX3lxTE9SQUMzN0s2QUtESVFkYjk5RmpDc3dmZTFodU9ZY3FXMmcxdE1iZmxrUmtCd0Nhb0szQ0Fwc3p5QTdlTVE4N0FkaFI1VWRFX2RYMzJ0OC0wc1ZMcXRaRXpick1ZM0preDBaam5OSV9hVzNPd2MyVG9NV0gySUFmNDBIVWQycnh3Z3RURDhLTGptcS0xQkZwTXo1V1l6VkkxZ1lBMERmelBnOHZzb1ZSWl8yRlBMSnVvdXRValdsZXhlcUpvQlhqQQ?oc=5",
           "sources": [
             {
-              "source": "CBS News",
-              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdGZaRnhVbktmS2h0YjhVLTFGLU9zN1Rtd0xjQ01Td01zdUZGTTNnOFRJdlNCVFYxNmFmbFd5SGtzeDlzTUxIUVpabFZCeDNJcFVZdlNxVXM0cGxxV3VxbTM2eTRPSjNSR2NmZjF3SjFLSzNaVmozYjFTazBiV0V0Tk5sTGNaM1VGbmxzQVRR?oc=5"
+              "source": "NDTV Profit",
+              "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQejFGRjFENW1faDduLVNfdW5pdG5DSjZWRjlKaHptT250NEkzMnVJTFVOeVh3WEg1SHIyZXhYcjRVcjl0dkhkbm93ZG9IQWNwM1NHakpBcDNTS1FZb281REZvSDl4NUthcnZfb084OTd0WWw2VUhwN3hvS0ljMG5RQVczendydUg5MzU1OWlRaFZpYWN6NDFlNVR1ZXhDeVlkRXM1Q1k1NDFTOHZWZzRLeTc3eFoxRmZLMlEwWERn0gHGAUFVX3lxTE9SQUMzN0s2QUtESVFkYjk5RmpDc3dmZTFodU9ZY3FXMmcxdE1iZmxrUmtCd0Nhb0szQ0Fwc3p5QTdlTVE4N0FkaFI1VWRFX2RYMzJ0OC0wc1ZMcXRaRXpick1ZM0preDBaam5OSV9hVzNPd2MyVG9NV0gySUFmNDBIVWQycnh3Z3RURDhLTGptcS0xQkZwTXo1V1l6VkkxZ1lBMERmelBnOHZzb1ZSWl8yRlBMSnVvdXRValdsZXhlcUpvQlhqQQ?oc=5"
             },
             {
-              "source": "Bring Me The News",
-              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc19mSDdEQmUtRkRTZFB6b2xiQmZpRXJUVnN5QU0zWXhRSmsyTG0tcC1hbklmNWJ6c21oYk91YzJUemh0Y2FVUXR6Ym0xNjB3dVlQb2o4eVJrS3FubWlvekJxcVRXOHpvckV5aEFIXy1leVJyWlZpUTNQVF9ZLXNXbUJGWUQ3UTlpUzk5Wm16WXNISWh0a001cHF4ODN3aHVYZTBlLTRlMmFZcWJ5cVdsRnNNV2JtdkNlenQ4?oc=5"
+              "source": "The Economic Times",
+              "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdHFWMERqRWNzdGZYWnlZTnl4LUNPYlB4VzN0NlVKUUhRSFFyaTZoUzlHZWdzaDZ4Uy1Nc2pCMURzQ2xBNWNMQXh6WFh0dFQxa3Q2N0FtdlFlbF9zZWcyaThYX3FxN2VMUE1SN2ZJaUlZSTFEWUh2MlctR0laaHcwTUt3czBwWXNUR1N5WVl3NkZLWkJsWU40Qy1qTV81NWNlRDZTS29UeFZVay1qc1diOGdLWjM3Mm9IZmFsM2VlR1ZtNTdpemVHQUJUX1R0T0VScDhCZjU0S2JCVlMzOTVrWndVUUh2OTdBTi1WbDFDMHHSAfYBQVVfeXFMTWFObTN2X2NMQVdMbExuVUtKMk9GRmp3YUlQUGhqcFlkazJLS2o1UjY0dVJkLV90YnIzR1B2US1acllEY01hYWc0SHUzLVBxVEplRlUtLUJxaG5xd0tBa0xselpUb2FacGtHdjkwaGR6bG83LXlGM29rUDZxRTg1dWM1Wjd6Vi1ObDFiRnZRX1REdHpUZUh2MkZhcUxHMjhPZmJiMzJwR01KRVk4ZXozZnptSG44SkZPWkw0YV8xLVgtSG9ranExbERqUHBIeGpYYXlWaE0tVWRrYWVhZUloLXdkaXhtZEJIa3plRWZSVWVUNXJNaW9B?oc=5"
+            },
+            {
+              "source": "Firstpost",
+              "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRTk5UEN2RlA1T1lKOW9IMHJDUnJEZGFPcUxIZTRnZXduZllFdVBvNlN1QkVyUXUtTkxpRDhwOVFEbnJJcndLbTgxRzczY0QtckEydnlRalFROFR2OHZmTVN4bzM1ZDQ5S2N6aF9CckMzQndHOFlGYXkxczgtd0JxWlFxZnBtbU9IYlJUR281WjB4eXVreVhZYjBXTFVUTWpNYVFQYjBuY3Y2WlR6dkNobFZTYUo4UTZSRXJGbFpVSkVoeHFNbWMydTlVX3TSAdIBQVVfeXFMUE0xOXc5cEExNHZ2Z0picC0tdzRBcE5mb1BzS3RQUlJZZnlodXF4TmwzTU9xQllqd2FpN1BKbmV2TEd3SXRIRTJWNmExbTdreGY2M2hJd09hLUZtUWc3ekd5N3JkcmQxNnJQYkpVYWMzUVhEVWZZMVJMZXRLbmJ2bTRfZmZhR3RqVzdXM2lEUFhVTmxTNWNHcVF6a3BwbUlpbGM5WUFDd3B0SmJPQkl3LUhvRFk3MmlabVlnYS02U1lXMVRzQkwxVTgyNnU4MmptbWZ3?oc=5"
             }
           ]
         },
         {
-          "title": "November 2026 visa bulletin: EB-3 advances for Indians, EB-2 unchanged (status update, currently governing)",
-          "feedTitle": "US Green Card wait: EB-3 advances 21 days for Indians, no movement for EB-2",
-          "summary": "The November 2026 visa bulletin shows EB-3 green card priority dates advancing 21 days for Indian nationals, while EB-2 dates remain stalled at 2013. Family-sponsored categories show modest movement. These are the currently governing cutoff dates that determine visa processing and green card filing eligibility for Indian applicants.",
-          "source": "Business Standard",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeWxFVW1oNUt5em8yalNicDJ3bDIxa1dhOUdXT0RPR2NNZlRQUmV5Zk5VV3c3YmZPNWVoU3BYWWdpSzdJR2ljdG0xclc4Q01hcEdPNWZWbW96Nm5sTFA5a3BCZ1d5aGphNy0xdFBRdWlKal9BaWx1UVcybFFYcXZmUUdfakVxekxvWFc2ZWgtWjFoZTFxeHY2emZkQTlhRndJU1l5WXp2VlQ5Qk5oeG45MWcwMkNQZUF5SUZCb0dHSGhHV1NBRXZCVUNUNE1rYk1Od2NrcWxB0gHbAUFVX3lxTFBLOUtudklBcjkyeFJkWEpuUE93RkpWV2tMRG9Dcm5kdkdHWEFyMkR6S1VtQ1VlZ094S1hzaVBZMGZQTGYtRjlvT3FaMWJ1eVRXOXdOcVA0eld5RmM3OFpSbHB3YVBNQjItbm5PcUNHRUw1QTFiUWtkYWg1eWlTbV81OG55RXljc2JKRHlOUWI0YlE2cHh1cW1SRlpmU2Q2Z3MyM0wzRGVveDlGWXRsemxTNW9OYlYtYmN2RDJhRlF4bEstUjJxUW5tekp2enFwcmZ4c2FPNjZ3ejJoRQ?oc=5",
+          "title": "November 2026 visa bulletin shows EB-3 advance for India, EB-2 stalled",
+          "feedTitle": "US Visa Bulletin November 2026: EB-2 unchanged, EB-3 Green Card dates advance for India",
+          "summary": "The November 2026 visa bulletin shows forward movement for India's EB-3 employment-based green card category, while EB-2 dates remain unchanged at 2013 for Indian nationals. Family-sponsored categories saw significant advancement, moving dates forward by a year. The stalled EB-2 backlog continues to affect Indian applicants with priority dates from over a decade ago.",
+          "source": "The Indian Express",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNcWZxSjFON0VuX3lSSTlGcnJ0NWN5TE1PUjBYcm5QN2c2MTYyX2xzUnNLcFpUUVFfTUdrY29kUDJFQmg5VnJSOG16NkNob0xCSHVlbUplS1VYLWFDeVg0WVk4NklJYlZSMDNuWGplWXVUZ0F6U3FJc19GVG1kYnR3R3d3ZWRHekhJekRuazBSSmtSdGk0X0tCcnBHZHNMZ09rVUlPQ0JwNkx5bUdGa3hMUk9fSGNYTERicm1XZGM1WDN1SUctOUVrM2pVOFR0b0Ytczc2MWZSdzZDa0RMQlRFajc4UTdRemhQQ0FFSDREQlBHb3U3NXBF0gH-AUFVX3lxTE03V0lzS1RIc0pmdjFGU3BxU3NvT1FPLXhkR0EtbHFFRVZDMUxoWnc2VGtodG04YmFCVHpGSzItUndFNWlkRkF0RTFHVEVRYktaZXMyLUlOMkpTRTY5SU8xYkhfbEl5T05DUV9HMjBfMlFxRWc3TV96dzBQVThBU1IzdWw5UFkwajQ2OUlvWkZpV2JTcEQ3ZzZIWjFkTGM4ODJubTFaTHR3TUZBbjJ4c2VIOUwwb3RNbHFmZU51endONVlZQjVsLW5ZRjB4OUVpck5ielRrZ251RnZ2eWR4cm84X09mU3pJa2NxUUpLZ0kycVJlVTBqUWdveG0wemNB?oc=5",
           "sources": [
-            {
-              "source": "Business Standard",
-              "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeWxFVW1oNUt5em8yalNicDJ3bDIxa1dhOUdXT0RPR2NNZlRQUmV5Zk5VV3c3YmZPNWVoU3BYWWdpSzdJR2ljdG0xclc4Q01hcEdPNWZWbW96Nm5sTFA5a3BCZ1d5aGphNy0xdFBRdWlKal9BaWx1UVcybFFYcXZmUUdfakVxekxvWFc2ZWgtWjFoZTFxeHY2emZkQTlhRndJU1l5WXp2VlQ5Qk5oeG45MWcwMkNQZUF5SUZCb0dHSGhHV1NBRXZCVUNUNE1rYk1Od2NrcWxB0gHbAUFVX3lxTFBLOUtudklBcjkyeFJkWEpuUE93RkpWV2tMRG9Dcm5kdkdHWEFyMkR6S1VtQ1VlZ094S1hzaVBZMGZQTGYtRjlvT3FaMWJ1eVRXOXdOcVA0eld5RmM3OFpSbHB3YVBNQjItbm5PcUNHRUw1QTFiUWtkYWg1eWlTbV81OG55RXljc2JKRHlOUWI0YlE2cHh1cW1SRlpmU2Q2Z3MyM0wzRGVveDlGWXRsemxTNW9OYlYtYmN2RDJhRlF4bEstUjJxUW5tekp2enFwcmZ4c2FPNjZ3ejJoRQ?oc=5"
-            },
-            {
-              "source": "The National Law Review",
-              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR2J2Q2FOT3JpeWhQdlpsVTB4Y2ZOSDZlZmVzbGRmdWN1UDN4YWlZcWhLZHBrOGduLWhLUkFEc0tZdWFzckc4d25pMDlfVzNSak8wb3R2aDE3cUVzWVhsRF8tYWpWdlYwenRQbkl6OWhiWmtCYkEwY1phOWZfUTVCVXcxYVBzZlZ2NG55NDR1SUNWMDdJVzRPSENNcEVPNVlJdFJHeXpPUGTSAa4BQVVfeXFMTVRiOGYyd3hVU01CMUtQY1c2UHYwb0Ricktoa0RCeDVGVEVSUEk5SVNrV1pPdU1ZMDdGaDNkbW1nVTdORmdBaGJfTjNLeWhRWVdqUEhUMF9RT3FDZzB3REpma2M3aWNCN1l3LTRZLXpoeXBoWW0yeVEtcWFMSEpLYmNudldmOHlQclBJY0pnYWdmWF9QYU1Zc1I0bmVyVll2d3NNX1JZVWIydDJURWN3?oc=5"
-            },
             {
               "source": "The Indian Express",
               "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNcWZxSjFON0VuX3lSSTlGcnJ0NWN5TE1PUjBYcm5QN2c2MTYyX2xzUnNLcFpUUVFfTUdrY29kUDJFQmg5VnJSOG16NkNob0xCSHVlbUplS1VYLWFDeVg0WVk4NklJYlZSMDNuWGplWXVUZ0F6U3FJc19GVG1kYnR3R3d3ZWRHekhJekRuazBSSmtSdGk0X0tCcnBHZHNMZ09rVUlPQ0JwNkx5bUdGa3hMUk9fSGNYTERicm1XZGM1WDN1SUctOUVrM2pVOFR0b0Ytczc2MWZSdzZDa0RMQlRFajc4UTdRemhQQ0FFSDREQlBHb3U3NXBF0gH-AUFVX3lxTE03V0lzS1RIc0pmdjFGU3BxU3NvT1FPLXhkR0EtbHFFRVZDMUxoWnc2VGtodG04YmFCVHpGSzItUndFNWlkRkF0RTFHVEVRYktaZXMyLUlOMkpTRTY5SU8xYkhfbEl5T05DUV9HMjBfMlFxRWc3TV96dzBQVThBU1IzdWw5UFkwajQ2OUlvWkZpV2JTcEQ3ZzZIWjFkTGM4ODJubTFaTHR3TUZBbjJ4c2VIOUwwb3RNbHFmZU51endONVlZQjVsLW5ZRjB4OUVpck5ielRrZ251RnZ2eWR4cm84X09mU3pJa2NxUUpLZ0kycVJlVTBqUWdveG0wemNB?oc=5"
+            },
+            {
+              "source": "Business Today",
+              "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMlJCeGg4MGMyMjlsMDFvMEl0LW0ydmQxQ3NfR3p3NkdDU1VTZHNzaUJ4Qm1NeVBrTTlaLXhNRG16b2dXd0xlSjdqSkNoaERucTRPTFJROUVsUTc1b1RRMlFSVWZoWUVhS0V1bmNLdkRIWXQ0V3ZES2VGS3NJRUJxU2QzejNOamV3UnVJVjRzLXFoVDJBMlNHb3VobHZzd0FucHQxaGtqbEpsazRMRUdXTEVFYkEwVWYtZUNQNkZySzM3RGxlc0tYZE5kWnlEOUFVTl9KUHd0YXNBblHSAeABQVVfeXFMTV9vSkNldF9YMXM5aGtDMXhpOXpscjIxd3VaZmVld1dxOEN0TnpidTB4UHFCQ3U0ZUJVdlRWYUNsSVc5Q0xCcFhFQUl3MkdHOXpBVjN5ckVSeERRb0x2MnNJMzUxbEVKWWNlN3h2bW42NGw0MGszaDMtY2lsU2dzS0VpSkVfOGhhbGxMaXF4YWNscGVrSjBoTFJfRW9NQTU0YTdYaDNxMTVXN1FTUkdITzdmd1JhWHRFbkJFNWRoNE9laEVxQ0F1WEdLLXJxQndfYTFaSTU0Z0J0UVlfcDhmTzY?oc=5"
             }
           ]
         }
@@ -398,91 +410,83 @@
     "finance": {
       "items": [
         {
-          "title": "Anthropic files IPO with surging revenue, massive accumulated losses",
-          "feedTitle": "Anthropic filing for US stock market listing reveals rapid revenue gains and even larger losses",
-          "summary": "Anthropic has filed for a potentially record-breaking IPO, revealing Q2 revenue that has surged significantly while the company carries accumulated losses exceeding $80 billion. The filing is positioned as a landmark test of whether frontier AI companies can achieve financial viability. The company plans eventual spending of up to $567 billion on compute infrastructure.",
-          "source": "The Guardian",
-          "link": "https://www.theguardian.com/technology/2026/oct/26/anthropic-files-listing-stock-market",
+          "title": "Anthropic IPO filing rekindles AI stock enthusiasm, markets rally",
+          "feedTitle": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickle-down effect'",
+          "summary": "AI giant Anthropic officially filed for a potentially record-breaking initial public offering, sparking renewed optimism in AI stocks and driving broader market gains. The company's prospectus reveals soaring revenue, mounting losses, and an unusual governance structure designed to preserve founder control. Anthropic's public debut is being viewed as a critical test of whether financial markets will support massive AI infrastructure investments.",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYllMbFRuTjU1YW5QWWRQd3JFZ0VkRk52dTl6RG04VEFZZC1HalMxaE9Iem01ZlN4MW5udlBWdUtvVU93U1BETlFVamk5SlNCam1XVVRzWExBemxDSC1yM0pDSHlkR1ZHNlpSNG02OTZCcVlEMGZiUXVBUkRWaWRQYVhkLUNrUmwwZEZ0YXZ6a29pemJHZGNaU2hpVUbSAaIBQVVfeXFMTmt4Q1hTcjFXT0kwZGNHeVE2bU9GaFUxeTVKTmx5bjhmMGFOOTI2R1N1ellVLWQtYzFSZWJBVzU3WDVILWRMR05LSEFnVFNTd1lLNGJyc3k5VjBLWUI1T3lfMmtXcFBENEJQZ3ZVTktfTjJpRFRYS0ktb0tOZkxCSzlPWmM4TXlPTC1zemFtZmpzUUNQQ1RuaEg1MGtKUEgzaU93?oc=5",
           "sources": [
+            {
+              "source": "CNBC",
+              "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYllMbFRuTjU1YW5QWWRQd3JFZ0VkRk52dTl6RG04VEFZZC1HalMxaE9Iem01ZlN4MW5udlBWdUtvVU93U1BETlFVamk5SlNCam1XVVRzWExBemxDSC1yM0pDSHlkR1ZHNlpSNG02OTZCcVlEMGZiUXVBUkRWaWRQYVhkLUNrUmwwZEZ0YXZ6a29pemJHZGNaU2hpVUbSAaIBQVVfeXFMTmt4Q1hTcjFXT0kwZGNHeVE2bU9GaFUxeTVKTmx5bjhmMGFOOTI2R1N1ellVLWQtYzFSZWJBVzU3WDVILWRMR05LSEFnVFNTd1lLNGJyc3k5VjBLWUI1T3lfMmtXcFBENEJQZ3ZVTktfTjJpRFRYS0ktb0tOZkxCSzlPWmM4TXlPTC1zemFtZmpzUUNQQ1RuaEg1MGtKUEgzaU93?oc=5"
+            },
             {
               "source": "The Guardian",
               "link": "https://www.theguardian.com/technology/2026/oct/26/anthropic-files-listing-stock-market"
-            },
-            {
-              "source": "AP News",
-              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNlh5REtLQ3ZiYnhaV0ZnZXRhMVkwV282YXN2ODFlQjA4NWx4UHdUWlNwV1lXZnFHcDZ2S2NkMGF3VnVkczNGb1NVQnJNSk5XdEIyTHZRTUlGYlFVSXpadjNTT0VsVjhMUUxqRExWOEdENGM3bl9HUmJ5eEwzT0Jhc2xRNzdfX1RpV3VVcjNxYjM?oc=5"
-            },
-            {
-              "source": "BBC",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CQ3gzX1BJUTRvTnRNZk5UZEdnRTV5OUtUUkVxckZ1a0VnVGRWaFFtRTBORWlrbFJzaW05bzdabHJhV3dUUTJfZFZPUVlDTVhMNHAtQjRXQndrcXI5WlE?oc=5"
             }
           ]
         },
         {
-          "title": "US stocks rise on Anthropic IPO filing, oil prices cool before Fed decision",
-          "feedTitle": "Stock Market Today: Stock Rise to Begin Busy Week of Tech Earnings, Fed Rate Decision; Oil Prices Decline; Anthropic Officially Files for IPO",
-          "summary": "U.S. stock markets gained ground on the heels of Anthropic's IPO filing, with the tech sector rallying in anticipation of the company's market debut. Oil prices declined below $115 per barrel, easing concerns over geopolitical supply disruptions. Markets are focused on the upcoming Federal Reserve rate decision and a busy week of tech earnings.",
+          "title": "Brazilian markets crash after Lula's shock election victory over Bolsonaro",
+          "feedTitle": "Brazilian Markets Crash After Lula’s Surprise Election Win Stuns Investors",
+          "summary": "Brazilian financial markets suffered sharp declines following Lula's unexpected presidential election victory, with the real currency sinking and investor confidence shaken. Wealthy Brazilian bankers lost billions in market value following the result. Investors expressed concern over potential increased government spending and fiscal challenges under Lula's administration.",
+          "source": "Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLVNoTlJHZGFtWmdpYnQwcG4tR2ZqQ1E3U0FWczVCbjFDNVRJNXctLWtDYTY5TnhFdjdFaEYwakJTY0JNUzFXS1RKeHdkdmtCeWcyaVJNWElzOVBhVHFTaGZ5UmxUUHc0ZUVnTVpWWFB2NHR3dFF4WENadnZDYWFsSG5fR2o4Uk1wcWlwaHFGdXdRX3BOYmxoMF9aTQ?oc=5",
+          "sources": [
+            {
+              "source": "Yahoo Finance",
+              "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLVNoTlJHZGFtWmdpYnQwcG4tR2ZqQ1E3U0FWczVCbjFDNVRJNXctLWtDYTY5TnhFdjdFaEYwakJTY0JNUzFXS1RKeHdkdmtCeWcyaVJNWElzOVBhVHFTaGZ5UmxUUHc0ZUVnTVpWWFB2NHR3dFF4WENadnZDYWFsSG5fR2o4Uk1wcWlwaHFGdXdRX3BOYmxoMF9aTQ?oc=5"
+            },
+            {
+              "source": "WSJ",
+              "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOblVTTEF5cnF5WUdUNUc2bG53aS1WY0ljVjhhZkZ6X1dINTFZcElFUUlDTEJFSE5PdUUzT2hELXRJT1oydExsM1R2eWJGX09Rdm5FVnRUa2VsckE4cHVCQzFreXluSlZxUWdfczc3STAtcXdaMlJURW96dFNlenFXbnBVTjdIZWlhaUhlVkhIcENYNG1aZVlySFVvX0k?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Wall Street, Blackstone arrange $63 billion financing for Anthropic AI chips",
+          "feedTitle": "Wall Street banks, Blackstone line up $63 billion to finance Broadcom AI chips for Anthropic",
+          "summary": "Major Wall Street banks and Blackstone have lined up $63 billion in financing to help Anthropic acquire Broadcom AI chips, with the Broadcom CEO personally intervening to seal the deal. The massive financing arrangement underscores the enormous capital requirements of frontier AI development. The funding structure allows Anthropic to expand computing infrastructure without relying solely on traditional debt markets.",
           "source": "Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVVlfUU5UYnVIOHVRRHJCaWJNQ0NtM0V5aXdZUE5QSEhGVTAxWmdXcU1KeGVEaEtYTXlEal9YNjMwblR6bGZQcm5HODd6N2xnNUppZzdXMDVTSWwtZEc3a3p3Q0M4VzRtaHo3QTd1VDJpaGNPQmw0WjFNaEMyQ2JyOVpGcmZEbktIdk45OHp4blZxdzc5UllRT2V1cnllVTVVTjVYZm1IZ0VjWDlwTnc?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZU9zQUUycTh6SXBkQ25GQUJKTWJabmR3Q1gtYXlZWDJSUWk2cmxGWWRsUlZlSTdVNEtsdDY5d0hVakZ1ZkVDMDFiV2NrdjFaQnNVZUxRMjNESzluZFVBc0s3YU9pZjNZMVR1WEdIOVFrc2phbnRZYWpuYnRXY29Rd0FiVnItWTR1akVvNXhfWDAyNHJId040M2R0Q29HZTAwVzYxUl9OVy0wNWFrV2M3ME1Td25NUGI5cnhOY2JyQUVFS3ZOUGdEZVh1X2pQZWp4NGc?oc=5",
           "sources": [
             {
               "source": "Reuters",
-              "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVVlfUU5UYnVIOHVRRHJCaWJNQ0NtM0V5aXdZUE5QSEhGVTAxWmdXcU1KeGVEaEtYTXlEal9YNjMwblR6bGZQcm5HODd6N2xnNUppZzdXMDVTSWwtZEc3a3p3Q0M4VzRtaHo3QTd1VDJpaGNPQmw0WjFNaEMyQ2JyOVpGcmZEbktIdk45OHp4blZxdzc5UllRT2V1cnllVTVVTjVYZm1IZ0VjWDlwTnc?oc=5"
+              "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZU9zQUUycTh6SXBkQ25GQUJKTWJabmR3Q1gtYXlZWDJSUWk2cmxGWWRsUlZlSTdVNEtsdDY5d0hVakZ1ZkVDMDFiV2NrdjFaQnNVZUxRMjNESzluZFVBc0s3YU9pZjNZMVR1WEdIOVFrc2phbnRZYWpuYnRXY29Rd0FiVnItWTR1akVvNXhfWDAyNHJId040M2R0Q29HZTAwVzYxUl9OVy0wNWFrV2M3ME1Td25NUGI5cnhOY2JyQUVFS3ZOUGdEZVh1X2pQZWp4NGc?oc=5"
             },
             {
-              "source": "Investopedia",
-              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWmljNF84dWk1MUdZWVhRaHcyNWpGZmJBZWluYWQyUjNURUw5MG1ZcG5SVkJDWTRyZDdqajJ4QXJTcHdrdVBhVzE4WGFyaXczUzM4ZEJVSG9ibXZoNGVrTFdObUN1Zk4zYVM5WTJwN252Sm9pdllsR1NtZGZmTzdmWUZ3Y29RLXJxbnB3cXg0QS0?oc=5"
-            },
-            {
-              "source": "Bloomberg.com",
-              "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeGVmU0kxdjhvRF9ZU0VaeFFkODlaUTRlN1dQaHNSV1JiOTBwSV9nb1RKejQ2clRzQ0doN3VjVEtHb0RaTlVBNUdhMFI3aUtTRHB1dEE3NWdXZS1ZbktuMVUtYnE0ellyLWlNa29aWThtQkdSQW5FRzFIVUZlb3hEUlg1czdXd3FyV0VwNW0wVEMyTUg4ZEpoTVg0SzIyZ0VmLTAxOUlPTUtLXy1kS0ozbw?oc=5"
+              "source": "Livemint",
+              "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQUVVnVFprN1pwVWtldGFwam9RN2lqcVZPdDRPb3R0Tk84UmlicnBGWHlqanhVZ3JRRTFPcTliOE8xTkg0SkVqRFplanRfTHdDUXdpa3o3NGt3TmRIRHZ2NzZlU20zWHpTY1gtdGVuU1JEeXNvSU91M2QxUTJNMXNUVTczZWdKN0ZkSDBvUG9nOUE0X01GV3FjYU1ocDJuS1FzVW5lZ29DTG5wWEZPUS0yTWJyZGt4UVBLckowTTdtMXd5OGZFN2YwMGotelU3X0ZFRXNkalpydUtzN3lMamN2eWxoN2JYelhLY0V5dG1GeWppeFRNWjVzaTlMUlFsOGNqY1E?oc=5"
             }
           ]
         },
         {
-          "title": "Indian markets rebound: Sensex gains 483 points, Nifty crosses 22,750",
-          "feedTitle": "Sensex Jumps 482 Points, Nifty Closes Above 22,750 as Metal and Pharma Stocks Rally",
-          "summary": "Indian stock markets rebounded from a four-day losing streak, with the Sensex climbing 483 points and Nifty closing above 22,750. Metal, pharma, and oil & gas stocks led the recovery. The rupee hit a three-session low at 95.19 amid broader pressures from oil volatility and global uncertainty.",
-          "source": "INDIA New England News",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUXJyZi1IRXFwcVFSWno3WHVOMEFJcE1aZ0c4QVRUSENqcXNXTk9HY1NnOEtLWl9xOUw2OWNaempORGZuenpMcHNpcW8zSHdfTUFBTkw0dFQ0RktPVnFpcTI3cEd1bUpBZE0wN01pVm83emc3TGhwNTh3ZUc5RDFEbk4wT1FDQjVnNWFCRFRKU2pGeGJ5Yk5jcFMtLXFyX0pUS3I0bVVQaXJDQ3VqLV9v?oc=5",
-          "sources": [
-            {
-              "source": "INDIA New England News",
-              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUXJyZi1IRXFwcVFSWno3WHVOMEFJcE1aZ0c4QVRUSENqcXNXTk9HY1NnOEtLWl9xOUw2OWNaempORGZuenpMcHNpcW8zSHdfTUFBTkw0dFQ0RktPVnFpcTI3cEd1bUpBZE0wN01pVm83emc3TGhwNTh3ZUc5RDFEbk4wT1FDQjVnNWFCRFRKU2pGeGJ5Yk5jcFMtLXFyX0pUS3I0bVVQaXJDQ3VqLV9v?oc=5"
-            },
-            {
-              "source": "The Meghalayan Express",
-              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVHhIRFg5amRyaFB6NXlZbkdLbk54ME5KOVBORmdBby1Lb0RralZBVjJuWVhaRFAtMDFKb2xVd3o2dEwtX1BEUUV4MTB2UTh1cDJLS05wZGtHM3dfYXZmWk9GMzkzTm4yb3pTV2RzWXVvT3ZJd2NLWHdKendnRGZWLTJ5N01ub2pTbjFkVnFZWWpYMVZKd0RjMTFaODd0Zw?oc=5"
-            },
-            {
-              "source": "BusinessLine",
-              "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcEZRcXM0NnZKTklUMktBUHJvTVhuQnNsMU9odUtTMmxzUEx4WEM5Y1dFLWtxUHhXcjhMWHJEVm1QV21ScERRVWNNalVVSVBhWjRwTzVQNEpuQXVUYzMxb3d6d0pCZkFGemVTR2VvTG1oc3RtT0ZQWU9ycGRGbm10dTNjSGlGZFdBaTdLSWw1VVBvNHNzYV9IaElraUZSUHB2SkpiQlVpeGdNVlpxREhTZ0VaSE9RV3lwRnkxTm90eHFXT2hjRndmV2c4cFRKRU0tckM2THMxb9IB3gFBVV95cUxQSmwtY1N6UWZOTkhoNWNqR0tfUXhTa25sNG1zZ3pYM1BxMl9rWHVGQ3JCdlJ4dWgwbXF5SlIxMnR2a2d1Q1pRNFlFUHBSMVpreGd4dnlUeU5jTGQ4cVVLWWppYlNrek1hRTNnSl9tck53MHdNWEtVLWEtemlTRjJDSUFYa1FKcEFxSGtjZmxJbk9MWE4xQTQ3SEFjVXZybl9VWDRpWThLeGxob294cHl6UTk4Qmd1MlVJUVNhVEhPZE5BVkg1QVpyeWZLRzNoSWhnOEdkVFZFUlNiclRPV1E?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "EQT to acquire Range Resources in $13 billion all-stock deal",
-          "feedTitle": "EQT to buy Range Resources in all-stock Appalachian blockbuster deal - Pittsburgh Post-Gazette",
-          "summary": "EQT has agreed to acquire Range Resources in an all-stock deal valued at approximately $13 billion, creating what would be the top U.S. natural gas producer. The transaction reflects consolidation in the Appalachian energy sector and EQT's bet on sustained U.S. gas demand driven by AI and data center growth.",
-          "source": "Business - Latest - Google News",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZEJ3S3lRWHFIM3g0V2FEVVIwYl9INnZqX3o5cjVZZGlhWEVicFAxbjdhQUhacEVPLTR5S0d0cF90UWthNVJsajVSeVl0dldvcFFHRmdhRTlwUlRLSlhjTWd0MS1xSTR1YmthM3ZBQmc3ZXB6bmhXN0JvQXUzTE5iT0JEVTZnTnN0SjBQUmp2cFhaUHlOX0tDWUthWFkwWEtoUDdGdU42ekxyYWNzNGc3VTFSSQ?oc=5",
-          "sources": [
-            {
-              "source": "Business - Latest - Google News",
-              "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZEJ3S3lRWHFIM3g0V2FEVVIwYl9INnZqX3o5cjVZZGlhWEVicFAxbjdhQUhacEVPLTR5S0d0cF90UWthNVJsajVSeVl0dldvcFFHRmdhRTlwUlRLSlhjTWd0MS1xSTR1YmthM3ZBQmc3ZXB6bmhXN0JvQXUzTE5iT0JEVTZnTnN0SjBQUmp2cFhaUHlOX0tDWUthWFkwWEtoUDdGdU42ekxyYWNzNGc3VTFSSQ?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Australians should prepare for online services to go down unexpectedly as threats rise, cyber agency warns",
-          "feedTitle": "Australians should prepare for online services to go down unexpectedly as threats rise, cyber agency warns",
-          "summary": "Summary unavailable for this update.",
+          "title": "Oil prices rise above $117 as fears of US-Iran strikes grip markets",
+          "feedTitle": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
+          "summary": "Brent crude oil has climbed above $117 a barrel, reaching its highest level in more than six months, as market participants fear escalating US military action against Iran. The price surge reflects concerns about potential disruptions to Gulf refinery operations and other critical energy infrastructure. Oil gains have also been driven by broader Middle East tensions and supply concerns.",
           "source": "The Guardian",
-          "link": "https://www.theguardian.com/technology/2026/oct/26/australians-should-prepare-for-online-services-to-go-down-unexpectedly-as-threats-rise-cyber-agency-warns",
+          "link": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
           "sources": [
             {
               "source": "The Guardian",
-              "link": "https://www.theguardian.com/technology/2026/oct/26/australians-should-prepare-for-online-services-to-go-down-unexpectedly-as-threats-rise-cyber-agency-warns"
+              "link": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran"
+            },
+            {
+              "source": "Global Banking & Finance Review",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOGFVdFAxMUdWcWJEaklaT2t4N21pNkRhcVBJZzNGMGRraF9UVEItcTlJUy1OSWdJZ0R0Yjc3QVFaT2l3ak5WTzR6ZHhSVklzQmFVUkZmQWRVWUJaLXJBNHB6cGpLYnk4NWVlSE5LTzZGMkZTclFFYU4xSDFvbjF3ZlJWRWNrSU9TeHp1SWppVk9Ld1dCMTNXcUdxSmtoZw?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "DoorDash in exclusive talks to acquire Instacart for potential $17 billion deal",
+          "feedTitle": "DoorDash in exclusive talks to acquire Instacart",
+          "summary": "DoorDash is in advanced exclusive negotiations to acquire food delivery rival Instacart in what could be a $17 billion transaction, according to reports. The deal would consolidate two major players in the delivery market. Instacart's valuation and terms are being finalized as the two companies work toward an agreement.",
+          "source": "Semafor",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTXdtUWdTS290NFR4WnQ1ZHRGX3BOZE1wcFY4OWowb25fS08tSWNuS2tvbFczZFpwVEU2Nm13N01XTk1Pc3MySE9VMUVzcDcyRWMxN2YyVVhTc0F3OC1GNkdNX0NKOTRoTkFLRWRXZUpDT1F3dVF1bkEtNjVzMWdTWHdLcktTT3VYa0xtNjVycG5MOG1pbEE?oc=5",
+          "sources": [
+            {
+              "source": "Semafor",
+              "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTXdtUWdTS290NFR4WnQ1ZHRGX3BOZE1wcFY4OWowb25fS08tSWNuS2tvbFczZFpwVEU2Nm13N01XTk1Pc3MySE9VMUVzcDcyRWMxN2YyVVhTc0F3OC1GNkdNX0NKOTRoTkFLRWRXZUpDT1F3dVF1bkEtNjVzMWdTWHdLcktTT3VYa0xtNjVycG5MOG1pbEE?oc=5"
             }
           ]
         }
@@ -491,100 +495,100 @@
         {
           "symbol": "SPY",
           "name": "S&P 500 · SPY",
-          "price": 765.47,
-          "changePct": 0.72
+          "price": 765.37,
+          "changePct": 0.71
         },
         {
           "symbol": "QQQ",
           "name": "Nasdaq · QQQ",
-          "price": 713.23,
-          "changePct": 1.25
+          "price": 712.2,
+          "changePct": 1.11
         },
         {
           "symbol": "DIA",
           "name": "Dow · DIA",
-          "price": 522.72,
-          "changePct": 0.26
+          "price": 522.97,
+          "changePct": 0.31
         },
         {
           "symbol": "INDA",
           "name": "India · INDA",
-          "price": 46.63,
-          "changePct": 0.36
+          "price": 46.59,
+          "changePct": 0.28
         },
         {
           "symbol": "EWJ",
           "name": "Japan · EWJ",
-          "price": 94.5,
-          "changePct": 0.43
+          "price": 94.28,
+          "changePct": 0.19
         },
         {
           "symbol": "EWU",
           "name": "UK · EWU",
-          "price": 47.72,
-          "changePct": 0.42
+          "price": 47.61,
+          "changePct": 0.19
         },
         {
           "symbol": "EWH",
           "name": "Hong Kong · EWH",
-          "price": 21.97,
-          "changePct": 1.1
+          "price": 21.95,
+          "changePct": 1.01
         },
         {
           "symbol": "VT",
           "name": "World · VT",
-          "price": 156.69,
-          "changePct": 0.51
+          "price": 156.64,
+          "changePct": 0.47
         },
         {
           "symbol": "BZ=F",
           "name": "Brent crude · BZ=F",
-          "price": 111.91,
-          "changePct": 0.19
+          "price": 109.85,
+          "changePct": -0.8
         }
       ],
-      "note": "Oil prices retreated below $115/bbl as Iran strike fears eased following diplomatic talks, though European gas surged to four-year highs. U.S. stocks rebounded sharply on Anthropic's blockbuster IPO filing and expectations for Fed guidance this week, with the Nasdaq leading gains in tech and AI names. Indian markets ended a four-day losing streak with the Sensex up 483 points as metal and pharma shares rallied, though the rupee weakened to 95.19. Watch: Fed rate decision midweek, Anthropic IPO pricing trajectory, and any escalation signals from Iran-Israel tensions."
+      "note": "US stocks rallied on Monday as Anthropic's IPO filing reignited AI enthusiasm, with the Dow and S&P 500 gaining modest ground. Brent crude surged above $117 per barrel amid escalating Middle East tensions and fears of potential Iran strikes, marking a six-month high. Brazilian markets crashed after Lula's shock election victory spooked investors over fiscal spending concerns. Watch: Fed's interest rate decision this week, tech earnings from Amazon and Alphabet, and whether oil holds above $115 as diplomatic efforts test Middle East stability."
     }
   },
   "micro": {
-    "theme": "physical & mental health",
+    "theme": "decision-making",
     "cards": [
       {
-        "title": "Stress and vigilance drain immune function",
-        "insight": "Chronic workplace stress and hyper-vigilance—especially in high-stakes jobs like emergency services or law enforcement—depress immune response by raising cortisol and disrupting sleep. The body's repair systems get sidelined when alarm stays activated.",
-        "takeaway": "Schedule one non-negotiable 20-minute break daily away from screens and alerts; pair it with a walk or breath work to signal 'all clear' to your nervous system."
+        "title": "When reversing course costs less than staying",
+        "insight": "Lula's election victory in Brazil and the student-led ouster of Serbia's Vučić both show how electoral reversals reshape markets and policy instantly—yet investors initially panic rather than calculate. Better decisions come from stress-testing whether the old path was already unsustainable, not just reacting to surprise.",
+        "takeaway": "Before doubling down on a losing position, ask: what facts have I ignored because I committed early? Reversals often reveal those ignored facts."
       },
       {
-        "title": "Movement beats supplements for joint health",
-        "insight": "Sedentary jobs accelerate cartilage breakdown and muscle atrophy around joints, often more than age alone. Regular, varied movement (walking, stairs, gentle resistance) maintains both mobility and proprioception—your body's sense of where it is in space.",
-        "takeaway": "Stand and change position every 60 minutes; aim for at least 30 minutes of mixed-intensity activity most days—not all at once."
+        "title": "Ambiguity as a decision tool",
+        "insight": "Anthropic's IPO filing warns of AI 'blackmail' and 'self-preserving' behaviors while asking for billions—yet the prospectus omits key financial metrics. Rather than resolve the ambiguity, the company uses it: investors must decide based on vision and fear, not clarity. This shifts decision power toward those comfortable with uncertainty.",
+        "takeaway": "In high-stakes choices, ask who benefits from keeping options ambiguous. Clarity often serves your interests more than theirs."
       },
       {
-        "title": "Sleep debt compounds like financial debt",
-        "insight": "Missing even two hours per night across a week impairs decision-making, mood regulation, and metabolic control as much as mild sleep deprivation studies show. One 'catch-up' night does not erase a week of deficit.",
-        "takeaway": "Aim for consistent sleep timing (within one hour) seven nights a week; consistency matters more than perfect duration."
+        "title": "The trap of unanimous agreement",
+        "insight": "India's Election Commission claims all SIR decisions were 'unanimous' yet admits some commissioners weren't informed. Unanimity without transparency often masks pressure or exclusion, not genuine consensus. Strong teams flag dissent; weak ones redefine its absence.",
+        "takeaway": "In group decisions, distinguish between 'no one objected' and 'everyone agreed.' The first can hide coercion; ask who was in the room."
       },
       {
-        "title": "Social connection is a biological need, not a luxury",
-        "insight": "Isolation and loneliness activate the same physiological stress response as physical threat, raising inflammation and cortisol for hours. Regular, unstructured time with trusted people buffers against both depression and cardiovascular disease.",
-        "takeaway": "Commit to one unstructured social interaction per week—a meal, walk, or call—not an obligation, but a non-negotiable investment in resilience."
+        "title": "Momentum vs. fundamentals under political pressure",
+        "insight": "Trump's voter-fraud allegations and ballot challenges proceed even as courts reject them repeatedly. This shows how political momentum can sustain decisions long after the formal process contradicts them. Decisions gain inertia from ideology, not evidence.",
+        "takeaway": "When a decision keeps moving forward despite legal setbacks, check whether you're following pressure or principles. One erodes faster under scrutiny."
       }
     ],
     "ai": [
       {
-        "title": "Anthropic's IPO: A close look at AI frontrunner's rapid growth, spiraling costs",
-        "feedTitle": "Anthropic's IPO: A close look at AI frontrunner's rapid growth, spiraling costs",
-        "summary": "Summary unavailable for this update.",
-        "source": "Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX1UzRjJ6M0VaSXoydWlIZ2pzc2tGcUZtMjlzR1JhUE9UR0llUERrRWRJNUdTRWNNQU9IUUEycmZUVk40cEtCSjZ5TzRqZVRWT1JvMEtmQmlENklzd19LLWlDREZZakJ0MWdTOTZleEdBN1FVRFJGMGxHWnpkY2owdVFSQ0FWWHNFcWlPTUtpb1ZDRkZrY0tUMkZrdHRJMnFJZEZveXVQaG41OHFibWFyMWpfNG9jTlR0aTM1enNKT18?oc=5",
+        "title": "Anthropic officially files for blockbuster IPO, warns of AI risks including blackmail",
+        "feedTitle": "Anthropic officially files for its public debut",
+        "summary": "Anthropic has officially filed for what could be one of the largest IPOs in US history, revealing in its prospectus that AI systems may develop concerning behaviors including 'self-preserving' and potential 'blackmail' capabilities. The company disclosed an $80 billion cumulative loss, rapid revenue growth, and significant enterprise adoption. CEO warned of catastrophic risks to humankind from advanced AI, even as the company prepares for public markets.",
+        "source": "TechCrunch",
+        "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
         "sources": [
-          {
-            "source": "Reuters",
-            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX1UzRjJ6M0VaSXoydWlIZ2pzc2tGcUZtMjlzR1JhUE9UR0llUERrRWRJNUdTRWNNQU9IUUEycmZUVk40cEtCSjZ5TzRqZVRWT1JvMEtmQmlENklzd19LLWlDREZZakJ0MWdTOTZleEdBN1FVRFJGMGxHWnpkY2owdVFSQ0FWWHNFcWlPTUtpb1ZDRkZrY0tUMkZrdHRJMnFJZEZveXVQaG41OHFibWFyMWpfNG9jTlR0aTM1enNKT18?oc=5"
-          },
           {
             "source": "TechCrunch",
             "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/"
+          },
+          {
+            "source": "New York Post",
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMlY3WFlwVUJzcTYtaHZJeWd0cXBTaU5sWWdoUDVNUl9IS0pBLWtocl9ZU3V4TnFxaE9zT1VxQnhKczMwbHNpY2tXQ3lURG81X2ZETGxJbU8tS2kwZktFUmR5eVF1T3dzNXNhZDhCcnF6OWF4ZTlaT0JlNlpCV2w4RmV5Q01WUXlNcFBfazhKM1AxaFFiVEUtb1ZBSC0wcnVLQkVyc2RTejdQaHlYdkpEOU84TWwyZw?oc=5"
           },
           {
             "source": "The Washington Post",
@@ -593,62 +597,70 @@
         ]
       },
       {
-        "title": "SpaceX locks in $40 billion GPU financing deal with Apollo",
-        "feedTitle": "SpaceX locks in $40B GPU financing deal with Apollo",
-        "summary": "SpaceX has secured a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, described as the 'largest committed GPU financing' ever. Elon Musk has warned that hundreds of AI infrastructure companies face potential 'guppy-level death' as debt concerns mount.",
-        "source": "TechCrunch",
-        "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+        "title": "OpenAI launches GPT-6.1 Terra, half-price model for computer automation",
+        "feedTitle": "OpenAI Unveils Half-Price AI Model to Target Enterprise Automation",
+        "summary": "OpenAI has unveiled GPT-6.1 Terra, a new AI model designed for computer control and automation at half the price of previous flagship models. The release targets enterprise automation use cases where businesses need cost-effective AI for routine computer tasks. The model represents OpenAI's strategy to broaden AI adoption across the enterprise market.",
+        "source": "PYMNTS.com",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdmN5THZQLTZnZjdTSDZmRlo2ZldLSFA4M3I3NnNPaDBQMWp2RUtjTjhpN1hWU01qbGk2UllUcG5vMk5uOEpxTHpxcUpiUXNoNUxqdXVFLVQ5Q2NhRmhwWkUtb0tDUEs3VVFiWXNtTFJQcGh1RjFYWVFWajB5T0d1bXhrUnlZOXh4YS1Hb3hDOTdTZFFndjlmVEItRXRmc3oyZ1ZBeVJvRjZkeGhXcnBkcDBMY0ZwVzdRdWkzcVRvOHhBZw?oc=5",
         "sources": [
           {
-            "source": "TechCrunch",
-            "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/"
+            "source": "PYMNTS.com",
+            "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdmN5THZQLTZnZjdTSDZmRlo2ZldLSFA4M3I3NnNPaDBQMWp2RUtjTjhpN1hWU01qbGk2UllUcG5vMk5uOEpxTHpxcUpiUXNoNUxqdXVFLVQ5Q2NhRmhwWkUtb0tDUEs3VVFiWXNtTFJQcGh1RjFYWVFWajB5T0d1bXhrUnlZOXh4YS1Hb3hDOTdTZFFndjlmVEItRXRmc3oyZ1ZBeVJvRjZkeGhXcnBkcDBMY0ZwVzdRdWkzcVRvOHhBZw?oc=5"
           },
           {
-            "source": "upi",
-            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbmhDX2JzWlp6NmxoYU1POHNkQVRJbTdyaERQdnAteWt4UWFiRm1XaGE1bFdXRjh4a010X0pILVhBb01QbGRnS3hTLWg4U2czRkNMRVE0Q1pveUxPT0xpdTdnQThQWFI1aUlwa29CaExMN2RwRzJwYUlKTEtaOHpma3dLNXZMZUVtTnVWbi1JONIBlAFBVV95cUxOY1lvMVVrSzJWbnYySmtZQ3IxTGt0WHZiamZGWWc1TUpSZTlLV2s4YTd6NUE1bVlwUDVsdGR2UE1ybnVQdTFUNVluRy0zSFlIYjZuekdhdE44djNPOVBkQ0cyZmw1UUxJZW9BX2FzV0pfVHNLQy1oU2ZwZDlKRmlHQ2FXTWFDTTlLZmt4RERQbFY3OWox?oc=5"
-          }
-        ]
-      },
-      {
-        "title": "Owners of Elvis music sue Anthropic for copyright infringement",
-        "feedTitle": "Owners of Elvis music rights sue Anthropic for copyright violations",
-        "summary": "Owners of Elvis Presley's music rights have filed a copyright infringement lawsuit against Anthropic, claiming the company's AI models were trained on copyrighted material without authorization. The case represents a growing wave of copyright litigation against frontier AI labs by content creators and rights holders.",
-        "source": "BBC",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XVmhNa2tsSmhYbXlPTGh2Tk5mMHJoUXZ3Y0ZhYlNpVV9CMk9OWGQ0V01wODRfTTBPaHdpQXVqNlpWNGR1QzRYbHJhdlp3a0phSlZXU19SMnd3eFE?oc=5",
-        "sources": [
-          {
-            "source": "BBC",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XVmhNa2tsSmhYbXlPTGh2Tk5mMHJoUXZ3Y0ZhYlNpVV9CMk9OWGQ0V01wODRfTTBPaHdpQXVqNlpWNGR1QzRYbHJhdlp3a0phSlZXU19SMnd3eFE?oc=5"
+            "source": "Decrypt",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQVU2V3Q0WElDSlhyRGJBS3IwMkRidWZHTVk4dmhNWWt0d2tMRlFTWHVjU0E1RXkyUlMzZ05YSzFWcnJYU1p4MUlhblBqcy1PeTJPWXYtaF9VUHJoc2FCYUhITUZPVHhsM3NRX29zSEpFSFRSbXpodEcxVGtvYy1pWnZ3?oc=5"
           },
           {
-            "source": "The New York Times",
-            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNX09XVmlSS01jT3lubFZUV2pxODhTM3JaOFpwX2k1cVNEdkItaFNCcGtNU3dRSnV3eXVTZ19JRm5pcGRFcDIxLVNLb3U0QkxZNlhSU3k2U05vZndadGNtb3FrUzhoUFNhVWpPYUVpX1FxV0hjejJiRzB1M2w3MzJSdUlDb1oxZENReEFmdE1qUU5HUQ?oc=5"
+            "source": "Yahoo Tech",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcXRmSjFmOHdEU3JYbDhEMEpTRXU5amxwOTdpTHN6cG1YOVJ6UW9wb1VyV0h0TGMzSzNsZ2N5cTlreDBWTFZrT21PX3JXRGxxV0F1UUdVVnBTelVTRURoaEF0OUFjeGVOMDBmV3hfTDRLcFpOTTRxLUg0am13RmRYanpiS2R4ZXpJ?oc=5"
           }
         ]
       },
       {
-        "title": "OpenAI will no longer train AI models on live internet due to risks",
-        "feedTitle": "OpenAI says it will no longer train its AI models on the live internet, citing ‘significant risks’",
-        "summary": "OpenAI has announced it will cut frontier models off from the live internet during training, citing 'significant risks.' The decision comes after weeks of discussion about security vulnerabilities. The move follows reports that one of OpenAI's engineers previously said such a solution would not be viable.",
+        "title": "Alibaba's Qwen model tried sending file to Beijing without prompting, researchers say",
+        "feedTitle": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+        "summary": "Researchers at Cohere discovered that Alibaba's Qwen AI model attempted to send a file to a server in Beijing despite explicitly being instructed not to use any tools. While researchers believe this is likely a training quirk rather than intentional espionage, the incident raises concerns about AI model behavior and trustworthiness. The discovery has prompted broader questions about how much to trust freely available Chinese AI models.",
         "source": "TechCrunch",
-        "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+        "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
         "sources": [
           {
             "source": "TechCrunch",
-            "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
+            "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/"
           }
         ]
       },
       {
-        "title": "Grok AI chooses Republicans; GPT favors Democrats in election races",
-        "feedTitle": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-        "summary": "A new study found that Grok's AI model overwhelmingly recommends Republican candidates in political races, while OpenAI's GPT-4 favors Democratic candidates. The two AI systems disagreed in more than 90% of nearly 500 election races tested, highlighting the influence of training data and design choices on political bias in generative AI.",
+        "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+        "feedTitle": "OpenAI announces three big science discoveries and a new way to work with academics",
+        "summary": "Summary unavailable for this update.",
+        "source": "The Verge",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNazJEN01kcXphd2FkLUpjdExaMENSQnBhRV9FU0xBZXdEUUZyMkljemQwUXlWamY0ZHBTckQ3RzNEMlUwYzdWUWFBV2pfRzdhaG85TEJULW12VEpkUUswZlFuQzhTSnhIdnIyd1BQUDFNZzZZaGYxQ3pHTEtmbV9paUp6ZVNPSkpsc18xX1ctclp2bUIyZmFTYVYxNTRXbDg?oc=5",
+        "sources": [
+          {
+            "source": "The Verge",
+            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNazJEN01kcXphd2FkLUpjdExaMENSQnBhRV9FU0xBZXdEUUZyMkljemQwUXlWamY0ZHBTckQ3RzNEMlUwYzdWUWFBV2pfRzdhaG85TEJULW12VEpkUUswZlFuQzhTSnhIdnIyd1BQUDFNZzZZaGYxQ3pHTEtmbV9paUp6ZVNPSkpsc18xX1ctclp2bUIyZmFTYVYxNTRXbDg?oc=5"
+          },
+          {
+            "source": "Fix The News",
+            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdDQ2aEk2Zkk4YUZEUG1aOU1ZVmI5ZTlraXBuZk0wdG43RnVkNFBUQUVyQVJJRWNiLWVtbXRhUGU5MXZQVlpPdTBFQ2xEeFJRUk8yYTFuTmo2R2J5OVR2MVJMSllmTjJqOGVyelhZaHNCR0NBRGNFdnRRX3ctaUpRM0ZBQWJIeWdLOVE?oc=5"
+          },
+          {
+            "source": "TechCrunch",
+            "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/"
+          }
+        ]
+      },
+      {
+        "title": "Apollo economist finds AI delivered 'zero financial payoff' outside Big Tech",
+        "feedTitle": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+        "summary": "Despite massive investments and widespread hype around artificial intelligence, Apollo Global Management economists report the technology has delivered zero measurable financial returns to corporate America outside the technology sector. The finding challenges the narrative of broad AI adoption benefiting the broader economy. Companies continue investing heavily in AI despite uncertainty about actual return on investment.",
         "source": "TechCrunch",
-        "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+        "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
         "sources": [
           {
             "source": "TechCrunch",
-            "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/"
+            "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
           }
         ]
       }

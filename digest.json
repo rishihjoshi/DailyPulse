@@ -1,172 +1,152 @@
 {
-  "generatedAt": "2026-11-02T01:58:20.494Z",
+  "generatedAt": "2026-11-02T20:34:55.058Z",
   "location": "St. Charles, MO",
   "weather": {
-    "high": 62,
-    "low": 58,
-    "highC": 17,
-    "lowC": 15,
-    "precip": 24,
-    "wind": 10,
-    "sunrise": "6:29 AM",
-    "sunset": "5:01 PM",
-    "now": 59,
+    "high": 66,
+    "low": 56,
+    "highC": 19,
+    "lowC": 13,
+    "precip": 2,
+    "wind": 13,
+    "sunrise": "6:30 AM",
+    "sunset": "5:00 PM",
+    "now": 64,
     "nowLabel": "Overcast",
     "alerts": [],
-    "label": "Overcast",
-    "emoji": "☁️"
+    "label": "Fog",
+    "emoji": "🌫️"
   },
   "watch": [
-    "US midterm election results Tuesday determining House/Senate control and potential shift in fiscal, trade, and immigration policy",
-    "November employment report (Friday) and Fed rate trajectory amid persistent inflation concerns",
-    "OpenAI and Anthropic IPO progress and investor appetite for high-valuation AI companies amid spending skepticism"
+    "US midterm elections Nov 3: control of Congress affects AI regulation, tariffs, H-1B immigration policy",
+    "Apple earnings and AI spending sustainability concerns as Anthropic reports losses despite $17B revenue",
+    "Iran diplomatic talks collapse risk; oil prices and geopolitical tensions remain volatile through midweeks"
   ],
   "tabs": {
     "local": {
       "items": [
         {
-          "title": "Connecticut senator Chris Murphy hospitalized after stroke",
-          "feedTitle": "Connecticut senator Chris Murphy hospitalized after stroke",
-          "summary": "Sen. Chris Murphy (D-Conn.), 53, was hospitalized after suffering a stroke while attending his son's hockey game on Saturday. His office said he is \"awake and alert\" and expected to make a full recovery. Murphy is a fierce Trump critic who is not up for re-election in the midterms, according to reports.",
-          "source": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPa3VVWXN1YUVUYXZQajFjMjNxcXVlRnpXTjZHbVpZbWM1eU1IQU1FVVNROUhROUpUQ0dsZkJFd0JhQXRkMWprMUNhQkM5UHpyMUxmWk1fYlNpaWl3QkR1dmRzdHlKNDlWaEVLM1VCaS1TTlExclhHWUZtdWNJbkY1cnctNExVbm8?oc=5",
-          "sources": [
-            {
-              "source": "The Guardian",
-              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPa3VVWXN1YUVUYXZQajFjMjNxcXVlRnpXTjZHbVpZbWM1eU1IQU1FVVNROUhROUpUQ0dsZkJFd0JhQXRkMWprMUNhQkM5UHpyMUxmWk1fYlNpaWl3QkR1dmRzdHlKNDlWaEVLM1VCaS1TTlExclhHWUZtdWNJbkY1cnctNExVbm8?oc=5"
-            },
-            {
-              "source": "PBS NewsHour",
-              "link": "https://www.pbs.org/newshour/politics/connecticut-sen-chris-murphy-is-in-the-hospital-after-having-a-stroke-his-office-says"
-            }
-          ]
-        },
-        {
-          "title": "Democrats show strength in final days before midterm elections",
-          "feedTitle": "Democrats Show Strength in Final Days of Race for the Senate, New Polls Find",
-          "summary": "New polls released over the weekend show Democrats leading in nearly all key Senate races as the nation heads into Tuesday's midterm elections. Multiple forecasting partners predict Democrats will \"likely\" win back the House, with control of the Senate also in play. The final weekend of campaigning is underway across competitive districts.",
+          "title": "Nine killed in South Florida business jet crash",
+          "feedTitle": "Woman identifies daughter, 20, as one of the pilots on jet that crashed in Florida",
+          "summary": "A business jet crashed near a busy roadway in Palm Beach County on Sunday, killing all nine people on board, including a 20-year-old co-pilot. The aircraft departed from Austin, Texas, bound for the Bahamas. Evidence suggests parts of the plane broke apart before impact during heavy thunderstorm conditions. The crash occurred in a heavily populated area and erupted into flames upon impact.",
           "source": "The Hill",
-          "link": "https://thehill.com/newsletters/this-week-on-the-hill/6185603-midterm-election-house-senate-control/",
+          "link": "https://thehill.com/policy/transportation/6189823-florida-plane-crash-jet-copilot/",
           "sources": [
             {
               "source": "The Hill",
-              "link": "https://thehill.com/newsletters/this-week-on-the-hill/6185603-midterm-election-house-senate-control/"
+              "link": "https://thehill.com/policy/transportation/6189823-florida-plane-crash-jet-copilot/"
             },
             {
-              "source": "NPR",
-              "link": "https://www.npr.org/2026/11/01/g-s1-151146/how-to-think-about-the-midterms-and-the-political-moment-the-country-is-in"
+              "source": "PBS NewsHour",
+              "link": "https://www.pbs.org/newshour/nation/evidence-suggests-parts-of-jet-broke-off-before-florida-crash-ntsb-investigator-says"
             },
             {
-              "source": "The New York Times",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPS1FWU3dzc1ljclFJa2ZkLWhzdU1vSWRmQVV4R01VdEV4TFFCLUd4cUNzLXJkemtKX1RjbzlENnU5dC1IR09sMWp1c3E1cGxpaWFhUzdidzNONjF0UEZYRUFtcE5QbHk5Q0dmN28wUmJIM0Q4TmtVOTZ4eXNhMmhUUg?oc=5"
+              "source": "BBC",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRMzBMTG9NVUsxMGZDaE1kaHBDRmZpaFNwVlM3Nm5faGI2cTQtRG5ldEpQWVBNY2tacEMtTTNHSHg5SXJjcm0xSEMwbW5wYlNSY0ctU0p3?oc=5"
             }
           ]
         },
         {
-          "title": "Halloween weekend shootings kill at least six nationwide",
-          "feedTitle": "Shootings over Halloween weekend leave at least 6 dead and dozens injured across U.S.",
-          "summary": "A series of shootings across the United States over Halloween weekend left at least six people dead and dozens injured. The deadliest violence occurred in Dallas' Deep Ellum neighborhood, where four people were killed and 15 injured in multiple incidents. Additional shootings were reported in Boulder, Colorado; Bloomington, Illinois; and other cities.",
+          "title": "Flood watch in effect for South Florida as heavy rains continue",
+          "feedTitle": "Flood watch in effect for South Florida as heavy rains continue",
+          "summary": "Summary unavailable for this update.",
           "source": "PBS NewsHour",
-          "link": "https://www.pbs.org/newshour/nation/dozens-injured-at-least-6-dead-in-halloween-weekend-gun-violence-at-nightlife-districts-across-u-s",
+          "link": "https://www.pbs.org/newshour/nation/ice-officer-charged-with-ramming-man-with-suv-in-houston-turns-himself-in",
           "sources": [
             {
               "source": "PBS NewsHour",
-              "link": "https://www.pbs.org/newshour/nation/dozens-injured-at-least-6-dead-in-halloween-weekend-gun-violence-at-nightlife-districts-across-u-s"
+              "link": "https://www.pbs.org/newshour/nation/ice-officer-charged-with-ramming-man-with-suv-in-houston-turns-himself-in"
             },
             {
-              "source": "WFAA",
-              "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNUUx1TzJkaW9wcnRSaTZrNzNXY1JWLXRyUXdRbEZaZzJJLXE3bG95REh2d0NKT2NwM3N5bU56TWpzT2Y1S2tOck5MYjZvUHJ6VlVMTElORHZxdU9fMXUxbmZKMGlXc2FHb21wUG55UzNzYWdQY0ZOR3EzQ3NJaUVsT1BYNS1kZlJfbHdDZS05Sm0yQVRkSE83LWY2T2hraDdsalZHbHZmZHVZZ3ZreTd3X2hyNzI1Um8xTk1UNDcxd2dLLXI1U2ZlYTBfU0NHdmQ2Ym5jR3BwdDZfTjRWS2taNV9zcVp0ajR2S2g3Q2FBblVmVEI4ZU5lM0V5QU1CamxX?oc=5"
+              "source": "The Hill",
+              "link": "https://thehill.com/homenews/state-watch/6189621-nyc-mayor-threatens-ice-lawsuit/"
             },
             {
-              "source": "ABC7 Chicago",
-              "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZHBQeGtOVzRiNEtPTmlDU3A4V25HVkQ2c1FHR20xS3J5bXotQ1JZSEtTci1OeDRVSGRJOE1qa3pIUTkwM1VLVWdsZHhMWXVKQzdpdTIxT2xIdmt2WklpYmFSUTB0Vk80YnpxQkhlalBRTkp5WElGa3hxR2Jza3BHcFZnTklodktPOVRZT0NjR0pweWRpYk5JVEpnSmtxZjFzdTBybzhvNkVsMzlpMFA2c3NabXlNRENkN1NybTdfWHF1LWhL0gHKAUFVX3lxTE1vT29uWVBMZkVMNmE1dWZxSmRTS2xLNEZtVHQyX0hjWmlGMUlOT202R0NTXzZwUEVzVXRYbnVudXFQLXg4QzZaSTFxMEdGZS1vbW9nbEhRekEtME16S0lnay1UVURkTFRtaG9IakdXNVRNVmpfMDNESTFnYVdBa1NaZldpZ3JZQ1JhM1BDNEZUaUE2a3Fvc0dOdkR6UERSRFVYV1NvVDUteVRBa2l5YnZLR0NxZnUtVWp2MkE0eUxLcnI4ZXRJd0djSFE?oc=5"
+              "source": "WPBF",
+              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMEM0cXNNMjZDek1UZE5HeGJnd1JRWVlKRDZGRUxoOGdZcmhSUC03ZWVQNlVYdFpRdkI1Z1gwa0dUYWs5RV84UDJMUk9KaU9udVpIekZzOTJ6N1AteXJEOVZ1dHBlUk5XU3ZLdkFrb2VUMmVrX21pb29qNW9faDQ4VkZnejhBenot?oc=5"
             }
           ]
         },
         {
-          "title": "Business jet crashes in Florida, killing all nine on board",
-          "feedTitle": "Jet crashes in Florida, killing all 9 on board",
-          "summary": "A business jet traveling from Austin, Texas, to the Bahamas crashed near West Palm Beach, Florida, killing all nine people aboard. The aircraft erupted in a massive fireball near a busy roadway. The Federal Aviation Administration is investigating the cause of the crash.",
+          "title": "Multiple killed in Monterey County shooting near beach",
+          "feedTitle": "Monterey County shooting: Multiple killed, several injured after shooting near Moss Landing State Beach, CA authorities say",
+          "summary": "A shooting near Moss Landing State Beach in Monterey County, California resulted in multiple deaths and several injuries. Authorities responded to the incident near Jetty Road but details on the exact casualty count and motive remain under investigation. The shooting occurred in a recreational area popular with beachgoers.",
+          "source": "ABC7 Los Angeles",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNUhCQzlSaUtvUzFVSDBwbkZEanhpaGxHWDdhdjFZTGtFaUFaaEl4b2RLSlBfcW5jM3I5T1lJT0w3aVFicWtiSmtXMkpkN2MxMVBnY3E3ZnE3c3FyWERGaWVEbU9tbzRkQ001a1lUTzBQSHJGR1F0R2QtcENLR3AxV3FiX3dpUHcxYUtsUUtXZGE0NTd4UjBKWFdQVkZoYUJGRlRkRmdRQjRrNlhjbHkzd0NZZG0yclhqaF9HVU5feVJfVnRxUHhLcDBnTmXSAdIBQVVfeXFMTkhEZ0U3LVBoZDE4NkZzQjFYVmhiV3ZTbkMydFZod3B0VU4yQW5hbkJRM2pVbnZRV0dqWThBRlRPbmRRNTdRcnFHcmpSQXVjRFliREZiTmFPSHJEOVlQUDVFVnA4M1Y1enZIXzI5WFJWTFp2ME1LZk5KV25JVURtb3FZaHc4dU1URzZRaDE5UzFlR1k1M0lzN1pwY2V2QUZ3b09CeVFYYzluWjczZ2N6TEo0ZU55S054elJnakhoZWNXaEJIOHR2T2JpdS0ta25KNllR?oc=5",
+          "sources": [
+            {
+              "source": "ABC7 Los Angeles",
+              "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNUhCQzlSaUtvUzFVSDBwbkZEanhpaGxHWDdhdjFZTGtFaUFaaEl4b2RLSlBfcW5jM3I5T1lJT0w3aVFicWtiSmtXMkpkN2MxMVBnY3E3ZnE3c3FyWERGaWVEbU9tbzRkQ001a1lUTzBQSHJGR1F0R2QtcENLR3AxV3FiX3dpUHcxYUtsUUtXZGE0NTd4UjBKWFdQVkZoYUJGRlRkRmdRQjRrNlhjbHkzd0NZZG0yclhqaF9HVU5feVJfVnRxUHhLcDBnTmXSAdIBQVVfeXFMTkhEZ0U3LVBoZDE4NkZzQjFYVmhiV3ZTbkMydFZod3B0VU4yQW5hbkJRM2pVbnZRV0dqWThBRlRPbmRRNTdRcnFHcmpSQXVjRFliREZiTmFPSHJEOVlQUDVFVnA4M1Y1enZIXzI5WFJWTFp2ME1LZk5KV25JVURtb3FZaHc4dU1URzZRaDE5UzFlR1k1M0lzN1pwY2V2QUZ3b09CeVFYYzluWjczZ2N6TEo0ZU55S054elJnakhoZWNXaEJIOHR2T2JpdS0ta25KNllR?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Missing Utah teenager found safe in Oregon",
+          "feedTitle": "Utah girl missing for more than 500 days found in Oregon; FBI says ‘gore groups’ suspected",
+          "summary": "A Utah girl missing for over 500 days was found safe in Oregon. The FBI suspects involvement of 'gore groups'—online communities focused on extreme content. The case had sparked a major search operation across multiple states. The teenager's recovery marks a significant development in a widely-publicized missing persons case.",
+          "source": "OregonLive.com",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdENMQ3lFbXZyUDctbVEyUnNEWHlZM2sxbngxMG1QNXpYM2VxTnMtWi1QUnAzeTFzM2xCVFZLQXFCbmZPZld6YU15WDZEclFuMklycGpCV3NRcXR6QzJjQ2xsV1FnU2R1ZmJTSUFIdGNWREljLWJub2J5OHczT2pYbnVCcVV1SWZqUy11UkJCbkRaSy1QbWtWSHM5M24tNVpwX19nbFYxUHBVYXZGZlBUekdZZ2FkaFNodFNrY0dYOE9sUDgyYktuaEx3bmNpUdIB4gFBVV95cUxObW9oYmJtZkRNcjBoa0poMnV0N1lEZ1Rya1QzaG5PNWtObkZEUjlzVFd5T05kWl9yODNTVmVGRE84UVVjMUlNdENMRlpZdnE0c0ZKOG1lZHlIcmFpbElGaUlKOWR2UWItR2EwQ09VcVhNVHdWXzY5VnNBN3d5XzhCNHdkaEM4VThaUUZHc2kwSHZ5TkJkMUxROHFmLVpDY3NjQUZRdTVhMTdmVzVDOWlGeldCVU1GejBZVjhlOFZQYlRMZi1iRW9xQWd1ZEJIOEJ4ME81TzJhUmhLYXpEUXpRcldB?oc=5",
+          "sources": [
+            {
+              "source": "OregonLive.com",
+              "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdENMQ3lFbXZyUDctbVEyUnNEWHlZM2sxbngxMG1QNXpYM2VxTnMtWi1QUnAzeTFzM2xCVFZLQXFCbmZPZld6YU15WDZEclFuMklycGpCV3NRcXR6QzJjQ2xsV1FnU2R1ZmJTSUFIdGNWREljLWJub2J5OHczT2pYbnVCcVV1SWZqUy11UkJCbkRaSy1QbWtWSHM5M24tNVpwX19nbFYxUHBVYXZGZlBUekdZZ2FkaFNodFNrY0dYOE9sUDgyYktuaEx3bmNpUdIB4gFBVV95cUxObW9oYmJtZkRNcjBoa0poMnV0N1lEZ1Rya1QzaG5PNWtObkZEUjlzVFd5T05kWl9yODNTVmVGRE84UVVjMUlNdENMRlpZdnE0c0ZKOG1lZHlIcmFpbElGaUlKOWR2UWItR2EwQ09VcVhNVHdWXzY5VnNBN3d5XzhCNHdkaEM4VThaUUZHc2kwSHZ5TkJkMUxROHFmLVpDY3NjQUZRdTVhMTdmVzVDOWlGeldCVU1GejBZVjhlOFZQYlRMZi1iRW9xQWd1ZEJIOEJ4ME81TzJhUmhLYXpEUXpRcldB?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Senator Chris Murphy hospitalized after suffering stroke",
+          "feedTitle": "Connecticut Sen. Chris Murphy is in the hospital after having a stroke, his office says",
+          "summary": "Connecticut Senator Chris Murphy, 53, was hospitalized after experiencing numbness in his arm while attending his son's hockey game on Saturday. His chief of staff confirmed the stroke diagnosis. Murphy represents Connecticut in the U.S. Senate and serves on several key committees. His condition and recovery timeline remain to be disclosed.",
           "source": "PBS NewsHour",
-          "link": "https://www.pbs.org/newshour/nation/all-9-people-aboard-a-jet-that-crashed-in-florida-have-died-transportation-secretary-says",
+          "link": "https://www.pbs.org/newshour/politics/connecticut-sen-chris-murphy-is-in-the-hospital-after-having-a-stroke-his-office-says",
           "sources": [
             {
               "source": "PBS NewsHour",
-              "link": "https://www.pbs.org/newshour/nation/all-9-people-aboard-a-jet-that-crashed-in-florida-have-died-transportation-secretary-says"
-            },
-            {
-              "source": "NBC News",
-              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONUkxcDZGX2dOUUVfOEpxQU5tSjh3eHhHOVBKVVZFajdsSWNsRzhibUM3UGcxVGdBYlVQQUM5S3NidjA3WDIyS0lYaWFyUEotZ2E5MHF5V245MDFmMGF4SUVMU19lQjQzdDM2UTNLVVBXMWtpb0I0SWc4VWZJNUZjLU1wYmE5QkJVcmI5dUpn?oc=5"
-            },
-            {
-              "source": "The Washington Post",
-              "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb01VY1hzaERwaUN0dGt1enZaNTROVmE5N3ZYMmNjeTgycGhTOFN2NFZHR2NHMkdwTGswMEtGNWxjMlFrNEVMajNWVDBuV1pYWW5mV09DVW5FeHJ5akZXdXFFRlVRWG5kTVNYMGtLZDhwWDNkQkRBdk9zaDR1QW1Relh3ejMzRWtjQncyczAwbVFlN0kyNlpPejAwS1RfczVoclg3X3ZJcmF1T0NVUFNja0otcC1KOEh4NDg5Ul96TXRMMHM?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Evacuations ordered as Southwest storms intensify flooding",
-          "feedTitle": "Evacuations ordered as weekend storms pound Arizona",
-          "summary": "Communities across Arizona and the Southwest braced for severe flooding as a \"pineapple express\" weather system brought heavy rainfall to the region over the weekend. Evacuation orders were issued in multiple areas as rivers and streams threatened to overflow. The storms follow weeks of devastating weather in the Four Corners region.",
-          "source": "NPR",
-          "link": "https://www.npr.org/2026/10/31/nx-s1-6023454/devastating-storms-continue-to-hit-southwest-four-corners-region",
-          "sources": [
-            {
-              "source": "NPR",
-              "link": "https://www.npr.org/2026/10/31/nx-s1-6023454/devastating-storms-continue-to-hit-southwest-four-corners-region"
-            },
-            {
-              "source": "azcentral.com and The Arizona Republic",
-              "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOHI2UXNfZmZ5UG1DUnllRHFCeW1CTDZack1YVm5wODVtaVZ4Qk9nN29VaXA0eWN1bmtTZl9ibEU5MU0tSXRNeFFsQThielFYeGtUdWJldGFOQUxOZktQbXV3NzUxY09MUTkwdWFfRjhxdTRXNFdnRWFGT0FKQ2NMaTNfUm1XWGppc05Xb05SNkRnb0M0dS1ORUlhcmtpZDZROFZqQ0xRN2FYcnM3N3lfZGhhcFBHMFNyTW9uVE54NFc?oc=5"
+              "link": "https://www.pbs.org/newshour/politics/connecticut-sen-chris-murphy-is-in-the-hospital-after-having-a-stroke-his-office-says"
             }
           ]
         }
       ],
       "stlouis": [
         {
-          "title": "Amendment 3 puts Missouri abortion access in doubt",
-          "feedTitle": "Amendment 3 puts abortion access in doubt",
-          "summary": "St. Louis area voters are weighing Amendment 3 on Tuesday's ballot, which would determine the future of abortion access in Missouri. The measure is one of the most consequential votes before St. Louis and Missouri residents as midterm elections take place. The outcome will significantly impact reproductive rights in the state.",
-          "source": "St. Louis American",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeVpVWnlWdXNRX0FOYkNvY1hQZTE0VnBHbzZaMnJFTjZUd1otek9xby1PN2N1YXpPQllHZlRoRzRXUWlFN1pwbERVTUhsQzVBQWpiNjRtZzVMbnZQQVRqZ19iMzJoMEhPLXVlSlVTRUZ4WThueVNvVFdNUmd2ZjdiSE1jcHhrbjNLVzM0dG0tRHFUaFBueHNJejA0UWJUWUc1LUFxZWtzbFBNdw?oc=5",
+          "title": "Missouri AG says police chief contract could be reconsidered",
+          "feedTitle": "Missouri AG says she heard of push to keep St. Louis police chief weeks before emergency vote, and his contract could get a redo",
+          "summary": "Missouri's Attorney General says she learned weeks in advance about efforts to extend St. Louis police chief's contract through an emergency vote. She indicated the contract decision could be revisited or redone. The statement suggests potential procedural concerns about how the contract extension was handled by the police board. This development comes amid ongoing scrutiny of the department's leadership.",
+          "source": "KSDK",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQSWFEWTJDaUhOT0FnaE1LRnFjU2NSUFo5d0I3MzFMSjBVNnBUd2Q5ckY4bnRWemVHS3EtdFA3ZEVHWjNlam5Lblh5cVdyY080alBlakdLSVprMVBmZHFjd2NPNHBpZVRocjFORFpSMlI5RXBmR2tmbDdkTldrYjBaRzd1NGJFZFQ4Z2dOV3haQnhxQ00xVFZKZHBsUkVIOFRXWHpxdTdLZmZhSi1vY0ZlUHpzNThnUWh2OU1XNDRqRVRidUhaNXVHRE90WHJKS0dBQ2pobk9MMFczQ2VPWW11ZVMtcG1hV3hoYmdpVUlYUnR0M0lCUmc?oc=5",
           "sources": [
-            {
-              "source": "St. Louis American",
-              "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeVpVWnlWdXNRX0FOYkNvY1hQZTE0VnBHbzZaMnJFTjZUd1otek9xby1PN2N1YXpPQllHZlRoRzRXUWlFN1pwbERVTUhsQzVBQWpiNjRtZzVMbnZQQVRqZ19iMzJoMEhPLXVlSlVTRUZ4WThueVNvVFdNUmd2ZjdiSE1jcHhrbjNLVzM0dG0tRHFUaFBueHNJejA0UWJUWUc1LUFxZWtzbFBNdw?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "St. Louis man charged after fatal police pursuit crash",
-          "feedTitle": "St. Louis man in custody after fatal crash during police chase",
-          "summary": "A St. Louis man has been arrested and charged in connection with a fatal crash that occurred during a police pursuit. One person was killed and several others injured when a vehicle fleeing police collided with other vehicles. The incident highlights ongoing public safety concerns in the St. Louis area.",
-          "source": "FOX 2",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN3BVSFNVOUo5RXFfNGlVMGlZZllWMFRIUnR6UUVhWFBqSlNPYlFwOEhKREZHWXo0YW9WNkpnbGtGWTNaMWZseTdhWTFhSWN3U2d2NUR2bTJvR3NWMlN2ZlpGRGRpa2I4WUhmNEo4RlljYURBT1doOU9KTlNBNW95dElKQlhVdy1UM2RzZUROQ1MzUmlndWlySnJwRULSAaIBQVVfeXFMT2g4NFI2X1g4Qi11S3VaQ29FTmNrdm4xb3NTUFQ5cnpxb1BWVXd5ckVyMmVQajZuamRTVDVMUkdVb3RGMTRTeFRQUkpOUFVXd3RzU3RvdWZsS2pXMEN0bTFGUWVyZi1uQUNhbTJ6T3o3dUVwV1ZOWVZKTk9neGxTTG55b0VBeDRsX2stbngzT3U2QV9zeTlMY3Z2Z1pTY2Vfd2VB?oc=5",
-          "sources": [
-            {
-              "source": "FOX 2",
-              "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN3BVSFNVOUo5RXFfNGlVMGlZZllWMFRIUnR6UUVhWFBqSlNPYlFwOEhKREZHWXo0YW9WNkpnbGtGWTNaMWZseTdhWTFhSWN3U2d2NUR2bTJvR3NWMlN2ZlpGRGRpa2I4WUhmNEo4RlljYURBT1doOU9KTlNBNW95dElKQlhVdy1UM2RzZUROQ1MzUmlndWlySnJwRULSAaIBQVVfeXFMT2g4NFI2X1g4Qi11S3VaQ29FTmNrdm4xb3NTUFQ5cnpxb1BWVXd5ckVyMmVQajZuamRTVDVMUkdVb3RGMTRTeFRQUkpOUFVXd3RzU3RvdWZsS2pXMEN0bTFGUWVyZi1uQUNhbTJ6T3o3dUVwV1ZOWVZKTk9neGxTTG55b0VBeDRsX2stbngzT3U2QV9zeTlMY3Z2Z1pTY2Vfd2VB?oc=5"
-            },
             {
               "source": "KSDK",
-              "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQ1NIQlV5VENzU0NPcDlsSzNiWUxSVVdEcFcyeUVlRUctZHppTFlLSVZJbHVLd1QxWGhnZFV5WUpaTHpYd20yMzFOM1RGTGloQU95XzFCRXU0RThRYXJkVzdVcGdPTWNoWXYtaElWRGstUUZyUEVGa0hYS1BVMk5XRXVhWnlUSXNXZ0pxRnhoTUVxQVBhd2YtRFRwSGhyMENsa01qZ1JiamRIUV9TNmZkVEVqM0ZNZkczbHFha01VY2pvbzliNTZ3WUN3TE16SVk1VDh4dw?oc=5"
+              "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQSWFEWTJDaUhOT0FnaE1LRnFjU2NSUFo5d0I3MzFMSjBVNnBUd2Q5ckY4bnRWemVHS3EtdFA3ZEVHWjNlam5Lblh5cVdyY080alBlakdLSVprMVBmZHFjd2NPNHBpZVRocjFORFpSMlI5RXBmR2tmbDdkTldrYjBaRzd1NGJFZFQ4Z2dOV3haQnhxQ00xVFZKZHBsUkVIOFRXWHpxdTdLZmZhSi1vY0ZlUHpzNThnUWh2OU1XNDRqRVRidUhaNXVHRE90WHJKS0dBQ2pobk9MMFczQ2VPWW11ZVMtcG1hV3hoYmdpVUlYUnR0M0lCUmc?oc=5"
             },
             {
-              "source": "KMOV",
-              "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVklLOHl3bGhsN2tqakR1Xy1GLVZnLXB3S0hoM2FuMVdDVXo4WmlraUIxanYxeVFyN052NzEzUHNXcHdSTWg1Q3NHX1lkc0NGT1Q2M1I2cHdjV3pPM2VKZEQtV29oRE8zMV9OMlNPdERoTXkycU5RMTZvTWhGMWYxRWNkNGxrR2FFdUtIaE45Mk5Lb1pKanhYVWFWMzcyWnhMbmtnTjgwNWdjdUZGbm0tazhsaVpzMWtacmgxYQ?oc=5"
+              "source": "Yahoo",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRjlhamx2WDhZVV82UkJBMHJWT2hVZncwcVFiWEkzQ2pHNThKTkRvSmQ2NGRMQ2V5bFQxLS1aVlhvNVZTTk1TS1R6SVRlNGhZc0ppSEVoTVhqaElFUVlLaE9JSkhJWFpQdEpSVWcyS3VnTmRNbXNLMmY5WkJ5TUlvVllPc1FHMW9vV0hCaW0tZw?oc=5"
             }
           ]
         },
         {
-          "title": "St. Louis prepares Olympic bid with downtown redevelopment",
-          "feedTitle": "Move over, LA: St. Louis gears up for Olympics, invests millions in downtown redevelopment",
-          "summary": "St. Louis is gearing up to compete for the Olympic Games and has announced millions of dollars in investment in downtown redevelopment. The city is positioning itself as a viable alternative to other bidding cities and hopes the Olympic project will transform its urban core. Infrastructure improvements and venue construction are underway.",
-          "source": "Planetizen",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVFVsSEVQQ1NTQXdrVFExaWZ1ckpGUnZVX2lkMnNWb1FJXzFKTDBHQ2hDQ1FVcTdVS1VVLTR4OVEyZ2lTUS01aWo5YjcxdFdnOHRxMDdTMWN5Uk53ajhTUWlpZTVHR1BzT2FlZnV6M0dVUnliN3BudksxQ3NSZzIzS1ZpQXlHLVBjSU5ZZzMtTkdyMEwwdGRTSHQ2eFVVNzRzcmJVRGxuXzZqZThmVmI3a3B2bTNleHl3MmFDLUZuTTQ?oc=5",
+          "title": "St. Louis area early voting surges versus 2022",
+          "feedTitle": "Early voting surges in St. Louis area compared to 2022",
+          "summary": "Early voting in the St. Louis area has seen a significant surge compared to 2022 midterm levels as voters prepare for the 2026 election. The increase reflects heightened engagement in the region ahead of Election Day. Data shows notably higher participation in advance voting compared to four years prior.",
+          "source": "STLPR",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUWZ4RDhRTXk5S1kwem0yckpGVzFTNkF0VXowc0NNbk1PeTVsdVRkN0tLNC1sakF2dHBnczBXdXdtV3haUXVNWXdhcU91TlZvTlQtdHdVSHFmclNwZGhIRWlFTHU5VkYwei0wVHZjQi1nbE5FV3pHYkNROE9KT0JfX0dZeWUyQXR5WmttbzZhRVd2S1RfR191ZVFaOVVQc0duOVZ6c1E1dEhHWGFLT2E5bTFTZw?oc=5",
           "sources": [
             {
-              "source": "Planetizen",
-              "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVFVsSEVQQ1NTQXdrVFExaWZ1ckpGUnZVX2lkMnNWb1FJXzFKTDBHQ2hDQ1FVcTdVS1VVLTR4OVEyZ2lTUS01aWo5YjcxdFdnOHRxMDdTMWN5Uk53ajhTUWlpZTVHR1BzT2FlZnV6M0dVUnliN3BudksxQ3NSZzIzS1ZpQXlHLVBjSU5ZZzMtTkdyMEwwdGRTSHQ2eFVVNzRzcmJVRGxuXzZqZThmVmI3a3B2bTNleHl3MmFDLUZuTTQ?oc=5"
+              "source": "STLPR",
+              "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUWZ4RDhRTXk5S1kwem0yckpGVzFTNkF0VXowc0NNbk1PeTVsdVRkN0tLNC1sakF2dHBnczBXdXdtV3haUXVNWXdhcU91TlZvTlQtdHdVSHFmclNwZGhIRWlFTHU5VkYwei0wVHZjQi1nbE5FV3pHYkNROE9KT0JfX0dZeWUyQXR5WmttbzZhRVd2S1RfR191ZVFaOVVQc0duOVZ6c1E1dEhHWGFLT2E5bTFTZw?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Disability rights advocate highlights curbside voting access",
+          "feedTitle": "‘You matter’: Disability rights advocate illuminates curbside voting, accessibility in St. Louis",
+          "summary": "A disability rights advocate in St. Louis has drawn attention to curbside voting as a critical accessibility option in the midterm elections. The advocate emphasizes that accessible voting methods affirm that \"you matter\" to voters with mobility challenges. The push comes as communities work to ensure equitable participation in the electoral process.",
+          "source": "STLPR",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTHBTX2ZhOEVYbVYza0JoZFFCLVJ6eFlycXp5TjhSR1N3d2hBNmYyeTNWZllyQ25fS2psdVVzV3pGNHJUOU5vU2JNRG54T1FJQ2hWUU1OQXFsMlQ3MENsXzg3RkZ2YTJOSDZNTUZQdy1uSi1EY0NOQ2R4dThvS1Y2TFJ0VlhkeG1abllGSkhuTk0xX1U1X1BMZHNBblNBbTVjbDdEV1VJX0VNdmRYX1l2NDRWTFNhMkxlUWc?oc=5",
+          "sources": [
+            {
+              "source": "STLPR",
+              "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTHBTX2ZhOEVYbVYza0JoZFFCLVJ6eFlycXp5TjhSR1N3d2hBNmYyeTNWZllyQ25fS2psdVVzV3pGNHJUOU5vU2JNRG54T1FJQ2hWUU1OQXFsMlQ3MENsXzg3RkZ2YTJOSDZNTUZQdy1uSi1EY0NOQ2R4dThvS1Y2TFJ0VlhkeG1abllGSkhuTk0xX1U1X1BMZHNBblNBbTVjbDdEV1VJX0VNdmRYX1l2NDRWTFNhMkxlUWc?oc=5"
             }
           ]
         }
@@ -175,99 +155,79 @@
     "world": {
       "items": [
         {
-          "title": "Spain train crash kills 69, including four US citizens",
-          "feedTitle": "Spain train crash: US, Japan and Canada citizens among dead, authorities say",
-          "summary": "A high-speed train collision in Spain killed 69 people, including four US citizens and nationals from Canada, Japan, Argentina, Mexico, Tunisia, and the Czech Republic. The disaster marks one of Europe's deadliest rail incidents this century. Among the dead was Dr. Marta Shahbazi, a University of Cambridge scientist recognized for excellence in developmental biology.",
+          "title": "Russian bombing kills 26 at Ukraine aid center",
+          "feedTitle": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+          "summary": "At least 26 people were killed when Russian forces dropped nine 3,000-kilogram aerial bombs on a village in southern Ukraine that housed an aid distribution center. Local officials report additional people remain missing from the attack. The strike represents a significant escalation in civilian targeting. Ukraine has condemned the attack as evidence Russia does not want de-escalation.",
+          "source": "BBC",
+          "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+          "sources": [
+            {
+              "source": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "source": "Al Jazeera",
+              "link": "https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "Who is hacking Europe’s supermarket fridges and freezers, and why?",
+          "feedTitle": "Who is hacking Europe’s supermarket fridges and freezers, and why?",
+          "summary": "Summary unavailable for this update.",
           "source": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/nov/02/spain-trash-crash-us-citizens-japan-canada-dead",
+          "link": "https://www.theguardian.com/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why",
           "sources": [
             {
               "source": "The Guardian",
-              "link": "https://www.theguardian.com/world/2026/nov/02/spain-trash-crash-us-citizens-japan-canada-dead"
+              "link": "https://www.theguardian.com/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why"
             },
             {
               "source": "BBC",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45SlpNcTN2YVRPSG5peG1aZ3d4WHh3WUdRX0tZOXNZZ2t0RFRON3hwNXkyUV9UdFVxVjJYa3duR2hQdHpWMDBrWG5uZWhKSmZVNERVMy1iRWw0NUk?oc=5"
+              "link": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Ukraine's Kherson civilians brace as ceasefire ends",
-          "feedTitle": "Civilians in Ukraine’s Kherson prepare for the return of war as localized ceasefire ends",
-          "summary": "Civilians in Ukraine's Kherson region are preparing for renewed military operations as a rare six-day humanitarian ceasefire ended. The temporary truce allowed evacuations from the Russian-occupied city of Oleshky, where residents had endured months without food, water, or electricity. Russian strikes have since resumed across other parts of the country.",
-          "source": "AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSmJHM1BrS0RMNk5BS0hac0VyQjZTSkdPbmlGdkZ6bGJiUGF2dkJuZVFhNzNTaUNhNU0yOXRyUGVKZU42dE1PZzBMWjNFY3hOVTBfSFRkc0lCclpXZ0xCLVhrRi02REF4b25JVEZFeTFDc2tQSnVsTDNuNVVjeHlEdG5zaXB4ODRDSUYwcWtQZFF2THR6eVNjQUZvUElmd1VwdWNDbVZjVQ?oc=5",
+          "title": "Oil prices fall on Iran diplomatic breakthrough hopes",
+          "feedTitle": "Oil price falls amid hope of a breakthrough to end Iran war",
+          "summary": "Brent crude dropped more than 6.5% to $105.55 per barrel—the lowest level in over two weeks—amid renewed hopes for a US-Iran ceasefire agreement. New diplomatic talks between Iran and mediators, condensed into an accelerated timeline, have eased concerns about further Middle East conflict. The price decline reflects investor optimism about potential de-escalation before the US midterms.",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/business/2026/nov/02/oil-price-falls-amid-hope-of-a-breakthrough-to-end-iran-war",
           "sources": [
             {
-              "source": "AP News",
-              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSmJHM1BrS0RMNk5BS0hac0VyQjZTSkdPbmlGdkZ6bGJiUGF2dkJuZVFhNzNTaUNhNU0yOXRyUGVKZU42dE1PZzBMWjNFY3hOVTBfSFRkc0lCclpXZ0xCLVhrRi02REF4b25JVEZFeTFDc2tQSnVsTDNuNVVjeHlEdG5zaXB4ODRDSUYwcWtQZFF2THR6eVNjQUZvUElmd1VwdWNDbVZjVQ?oc=5"
+              "source": "The Guardian",
+              "link": "https://www.theguardian.com/business/2026/nov/02/oil-price-falls-amid-hope-of-a-breakthrough-to-end-iran-war"
             },
             {
-              "source": "Al Jazeera",
-              "link": "https://www.aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends?traffic_source=rss"
-            },
-            {
-              "source": "BBC",
-              "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss"
+              "source": "Iran International",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1VWHczajJIMVhpSllaSzdVZWhKWGFsb3JSOUJ5Q05fQnp6UFpZMlBXSUhNTjZ1ekhCbGpvTTRjRjcyZFIxRG9qVEs3Vk15Q25Lb2c?oc=5"
             }
           ]
         },
         {
-          "title": "Netanyahu urges Trump to strike Iran after US midterms",
-          "feedTitle": "Netanyahu urges Trump to strike Iran immediately after US midterms during 'very good' phone call: Report",
-          "summary": "Israeli Prime Minister Netanyahu reportedly urged President Trump during a phone call to strike Iran immediately following the US midterm elections on Tuesday. Netanyahu's call suggested optimal timing after the elections to avoid domestic political complications. Trump's response and timeline for potential military action remain unclear, though Gulf states fear escalation could trigger a wider regional war.",
-          "source": "The Economic Times",
-          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQaXM1QXBvbWxnU0VfVm9haEZmcUVza2xWdnJScVhWX2pwTURqTlMta3dDMWk2QlJsMzB0VEdWdWtMNUdpYl9SRFJiclRmWUd4eF9HN1hzenFZZ0o3cjBGQTYzSFczOVVWdUFRMDhCUG9Rb2s5bnVaTThhU3hCUEc0Vk12VUpIWXFJcTNXWmc0ajFCYUpDaUwxRk43cXZ2cnRzSHFlTEFIMGF6emcyZHlSYlRCWWFxektoRjdHREtaS1pVX2JqU1V5SFlDSmg3UndiYllBOUd5T0tOODN4aFNIODFLQjlCMWFnTUY1LWlQbThUNXhVb1QzSUw5VFRjOUZWRTBieWZGSHnSAYICQVVfeXFMTWVMR2V5Y0NkbmZ4Q2tPM0ZHTnNoYVVaQi14OU15QnVZMUhHRUlPSXFyOFhFWEw2UUJodGZQWjhvanFEWmdvaDd3TDlLZEpSQzRLMWhwdGpGR1dVUnV3VlBkSGY3ZzhhYldDV1VfRUJFTnRDX3QtSV9McUJLeDNQNEpsMmx6dndpWjV1ckpEZHZGU3I3SW8ybjVpY1EtUU5adGJyVGswTEg4d19oeUVXYkdaUmMwX3lCN0xBakU5dkJxb1hiMm5VUjFBVHpLUngxaUJjdXlFZFNvMmpPdjlpVEFFaFRPc1FqR09xOWlsM0l5T0dNcUdBS1VoM2I1TG8zazlB?oc=5",
+          "title": "Russian oil refinery fire visible from satellite imagery",
+          "feedTitle": "Major Russian Oil Hub on Fire After Strike, NASA Data Show",
+          "summary": "Major Russian oil hub caught fire following an attack, with NASA satellite data documenting the blaze. Ukraine has resumed strikes on Russian refineries despite earlier pledges to pause operations. The attack underscores continued military pressure on energy infrastructure in the conflict.",
+          "source": "Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMnFCejIyQUpkbjc1R1RBTlp5Nlgya1g5eFg3Wi1Wcklab0pBaWJiWVI1NjVlc2dVR3dCZEZWbXNWOU9HUG5HMTV5TnBTams3SktNR1pGSk1oeV9RemhXcTQ4dl9scE1YVVpIVzB6czAxTDhQS1p3S2VUY3pQa1RLZ0JKeEw0b2czNjNQODNNUnp3eWd5M1R5U0twWDZ5UjZNbE9JWDB2bzh1WWJZ?oc=5",
           "sources": [
             {
-              "source": "The Economic Times",
-              "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQaXM1QXBvbWxnU0VfVm9haEZmcUVza2xWdnJScVhWX2pwTURqTlMta3dDMWk2QlJsMzB0VEdWdWtMNUdpYl9SRFJiclRmWUd4eF9HN1hzenFZZ0o3cjBGQTYzSFczOVVWdUFRMDhCUG9Rb2s5bnVaTThhU3hCUEc0Vk12VUpIWXFJcTNXWmc0ajFCYUpDaUwxRk43cXZ2cnRzSHFlTEFIMGF6emcyZHlSYlRCWWFxektoRjdHREtaS1pVX2JqU1V5SFlDSmg3UndiYllBOUd5T0tOODN4aFNIODFLQjlCMWFnTUY1LWlQbThUNXhVb1QzSUw5VFRjOUZWRTBieWZGSHnSAYICQVVfeXFMTWVMR2V5Y0NkbmZ4Q2tPM0ZHTnNoYVVaQi14OU15QnVZMUhHRUlPSXFyOFhFWEw2UUJodGZQWjhvanFEWmdvaDd3TDlLZEpSQzRLMWhwdGpGR1dVUnV3VlBkSGY3ZzhhYldDV1VfRUJFTnRDX3QtSV9McUJLeDNQNEpsMmx6dndpWjV1ckpEZHZGU3I3SW8ybjVpY1EtUU5adGJyVGswTEg4d19oeUVXYkdaUmMwX3lCN0xBakU5dkJxb1hiMm5VUjFBVHpLUngxaUJjdXlFZFNvMmpPdjlpVEFFaFRPc1FqR09xOWlsM0l5T0dNcUdBS1VoM2I1TG8zazlB?oc=5"
-            },
-            {
-              "source": "ANI News",
-              "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTUN5MDl5WTZuUl9nTzYyNC1sVF9JZHU0WE9CcnU1b09xYTctZGVISXpGcElyY1oyc0hEN2RXdURSWWgzSExBYkxMMVhCTmFiSlpxUFR3WUk1bldYMUE4MWZtM0dFWVFxakhjZG9FNEdEazBQRWhMSkkwdkdabXJJN3M5SC1jZWZrYjhuUno1cFJZZEo1Q24xdGtfVzU1dmM4cV9wSmo4VGwycVJGOW8xQW1nQ1dOVk9YbFJZOElUSkQyNkdYeEM0QTdLUTFyMHlrbXRSQ3NBanlyWkdzSTJKV0hZSmNzbGJjWmJjblBPUzBjQQ?oc=5"
-            },
-            {
-              "source": "파이낸셜뉴스",
-              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1TeW80cDE5UW9yQVRIWGwzZ0E0cU5SRkQxclUwS0VoWlpVWjdmZTYwaWRILTFYYURlY21JVEVUWGNWeTdsSFZGdmo2UWtWUFhpTEltaE5zLVU?oc=5"
+              "source": "Bloomberg.com",
+              "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMnFCejIyQUpkbjc1R1RBTlp5Nlgya1g5eFg3Wi1Wcklab0pBaWJiWVI1NjVlc2dVR3dCZEZWbXNWOU9HUG5HMTV5TnBTams3SktNR1pGSk1oeV9RemhXcTQ4dl9scE1YVVpIVzB6czAxTDhQS1p3S2VUY3pQa1RLZ0JKeEw0b2czNjNQODNNUnp3eWd5M1R5U0twWDZ5UjZNbE9JWDB2bzh1WWJZ?oc=5"
             }
           ]
         },
         {
-          "title": "Ukraine's air raid alert app hacked, false warnings sent",
-          "feedTitle": "Ukraine says public air raid alert app sent false alerts after being hacked",
-          "summary": "Ukraine's public air raid warning application was compromised and sent false radiation threat alerts to users. Hours later, Russian authorities reported that their emergency alert app was also hacked with similar fake warnings. Both countries are investigating the coordinated cyberattacks targeting civilian warning systems.",
-          "source": "Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYjdWbExXZ1JiYUVET2JwdTc2VVZ0T3J0czdJbUNyLWhLTzI3cW1zOWkxZF9mU3ZnVWtDYXR5SjVwZTlDZ0tFdXE5bkdIUjBwZEZRbmRDWGY4WkNvVkFqSFRJeXdBMzBPS0VJSmlzRkRTS1lCekRwOWRWZ3dSUXNyOVJMRk1Ga3lKZHV2bnctMFhVNTJDVFQ3UlBSWGl5QV95b3pMR2lGd05TRXdiRDdlUHFITkxmZw?oc=5",
+          "title": "Spain train crash kills 69; international casualties reported",
+          "feedTitle": "Spain train crash: US, Japan and Canada citizens among dead, authorities say",
+          "summary": "A deadly train crash in Spain killed 69 people, including citizens from the United States, Japan, and Canada. Among the dead were four Americans and one Canadian, as well as a Cambridge scientist. Spanish authorities are investigating the cause of the collision. The incident marks one of Spain's deadliest rail disasters in years.",
+          "source": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWEVBY3BEb2x0LUlFU085SndVRmNFMGhrc0NGeFRWX1ROdTdXbzEzRUdWRVhxTnk0QVBfTlBGRGloWjVqVGp3QlBrQklOSTVsNGZOb0w5b3RTSUpybUZsYko1WFRldGV2cXJmTjBwNlZOb1ZlZzRZRjNDUmt6M0hxQV9pRlZtWWNnc3B2SVU0c2taUFlKNV9Yag?oc=5",
           "sources": [
             {
-              "source": "Reuters",
-              "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYjdWbExXZ1JiYUVET2JwdTc2VVZ0T3J0czdJbUNyLWhLTzI3cW1zOWkxZF9mU3ZnVWtDYXR5SjVwZTlDZ0tFdXE5bkdIUjBwZEZRbmRDWGY4WkNvVkFqSFRJeXdBMzBPS0VJSmlzRkRTS1lCekRwOWRWZ3dSUXNyOVJMRk1Ga3lKZHV2bnctMFhVNTJDVFQ3UlBSWGl5QV95b3pMR2lGd05TRXdiRDdlUHFITkxmZw?oc=5"
-            },
-            {
-              "source": "BBC",
-              "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "Binance covers 90% of losses after $6.3 billion hack",
-          "feedTitle": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-          "summary": "The FBI has identified North Korea as responsible for a record $6.3 billion cryptocurrency heist at Binance, the world's largest crypto exchange. The attack is tied to a state-sponsored entity known as TraderTraitor, blamed for previous breaches. Binance says it will cover 90 percent of customer losses and has resumed withdrawals after recovering about $3 billion in affected assets.",
-          "source": "BBC",
-          "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-          "sources": [
-            {
-              "source": "BBC",
-              "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "source": "Al Jazeera",
-              "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/al-jazeera-director-general-hails-30-years-of-groundbreaking-news?traffic_source=rss"
-            },
-            {
-              "source": "The Economic Times",
-              "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQaXM1QXBvbWxnU0VfVm9haEZmcUVza2xWdnJScVhWX2pwTURqTlMta3dDMWk2QlJsMzB0VEdWdWtMNUdpYl9SRFJiclRmWUd4eF9HN1hzenFZZ0o3cjBGQTYzSFczOVVWdUFRMDhCUG9Rb2s5bnVaTThhU3hCUEc0Vk12VUpIWXFJcTNXWmc0ajFCYUpDaUwxRk43cXZ2cnRzSHFlTEFIMGF6emcyZHlSYlRCWWFxektoRjdHREtaS1pVX2JqU1V5SFlDSmg3UndiYllBOUd5T0tOODN4aFNIODFLQjlCMWFnTUY1LWlQbThUNXhVb1QzSUw5VFRjOUZWRTBieWZGSHnSAYICQVVfeXFMTWVMR2V5Y0NkbmZ4Q2tPM0ZHTnNoYVVaQi14OU15QnVZMUhHRUlPSXFyOFhFWEw2UUJodGZQWjhvanFEWmdvaDd3TDlLZEpSQzRLMWhwdGpGR1dVUnV3VlBkSGY3ZzhhYldDV1VfRUJFTnRDX3QtSV9McUJLeDNQNEpsMmx6dndpWjV1ckpEZHZGU3I3SW8ybjVpY1EtUU5adGJyVGswTEg4d19oeUVXYkdaUmMwX3lCN0xBakU5dkJxb1hiMm5VUjFBVHpLUngxaUJjdXlFZFNvMmpPdjlpVEFFaFRPc1FqR09xOWlsM0l5T0dNcUdBS1VoM2I1TG8zazlB?oc=5"
+              "source": "The Guardian",
+              "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWEVBY3BEb2x0LUlFU085SndVRmNFMGhrc0NGeFRWX1ROdTdXbzEzRUdWRVhxTnk0QVBfTlBGRGloWjVqVGp3QlBrQklOSTVsNGZOb0w5b3RTSUpybUZsYko1WFRldGV2cXJmTjBwNlZOb1ZlZzRZRjNDUmt6M0hxQV9pRlZtWWNnc3B2SVU0c2taUFlKNV9Yag?oc=5"
             }
           ]
         }
@@ -276,99 +236,99 @@
     "india": {
       "items": [
         {
-          "title": "INDIA bloc holds massive Delhi rally over voter roll concerns",
-          "feedTitle": "Indian opposition alleges 'vote theft' and warns election chief at massive anti-government rally in Delhi",
-          "summary": "India's opposition alliance staged a large demonstration at Delhi's Ramlila Maidan to protest alleged \"vote theft\" and irregularities in the voter rolls. Congress and allied parties called for the resignation of the Chief Election Commissioner after the Modi government removed 130 million names from voter registries. Thousands of supporters from across the country attended the show of unity against the ruling party.",
-          "source": "The Hindu",
-          "link": "https://www.thehindu.com/news/national/you-can-break-a-stick-not-a-bundle-from-an-it-couple-to-a-hospital-patient-citizens-turn-up-for-india-bloc-rally/article71652556.ece",
+          "title": "Massive fire breaks out at Visakhapatnam oil refinery",
+          "feedTitle": "Massive fire breaks out at oil refinery in India's Visakhapatnam",
+          "summary": "A major fire erupted at HPCL's oil refinery in Visakhapatnam, India, following an explosion. The blaze sent thick smoke over the industrial area and created a significant emergency response. Authorities worked to contain the fire and assess damage. The incident highlights ongoing industrial safety concerns at major petroleum facilities.",
+          "source": "NDTV",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV0ljQS1sVlRIZkRKRzYtaS16VXg2NDQ5LS1DQTk1TDRzUmE0UU1QaVp6VjhWZl9wQlFOSEd4ZjdiaXM5ejNmMjc0SjJTNUJfVmg1WmlFYmJ1Nmc4VThDQVRkTGRQRzMyY0Q0ejE3WFAwVzF0cm9ua2JwT2hkbDNCd1BXbE1mOUl5cml3a05wUGlYZ3Q5dl8zbGFPOFdnaTBuZFHSAaoBQVVfeXFMTlN5cHJzcWtwRjlnQ2p2eUMwdW4xaFBGVzFqcmdrdW02dThNam5ic3Noa0N2b0pJUmhtbzVxZEpVc1FWUld2azdRekVFbTNJWjY3UXZiSWlkWVNtcUN5Z0dORjlySjVSMkx5X25HOU9fNVJQcjRENkJqNFVyRHljMktUbWMyekJrTWxoSUphUzhWSHhHVXVDUjNNamxBd0tyeDZ3akZTaUVVOFE?oc=5",
           "sources": [
             {
-              "source": "The Hindu",
-              "link": "https://www.thehindu.com/news/national/you-can-break-a-stick-not-a-bundle-from-an-it-couple-to-a-hospital-patient-citizens-turn-up-for-india-bloc-rally/article71652556.ece"
+              "source": "NDTV",
+              "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV0ljQS1sVlRIZkRKRzYtaS16VXg2NDQ5LS1DQTk1TDRzUmE0UU1QaVp6VjhWZl9wQlFOSEd4ZjdiaXM5ejNmMjc0SjJTNUJfVmg1WmlFYmJ1Nmc4VThDQVRkTGRQRzMyY0Q0ejE3WFAwVzF0cm9ua2JwT2hkbDNCd1BXbE1mOUl5cml3a05wUGlYZ3Q5dl8zbGFPOFdnaTBuZFHSAaoBQVVfeXFMTlN5cHJzcWtwRjlnQ2p2eUMwdW4xaFBGVzFqcmdrdW02dThNam5ic3Noa0N2b0pJUmhtbzVxZEpVc1FWUld2azdRekVFbTNJWjY3UXZiSWlkWVNtcUN5Z0dORjlySjVSMkx5X25HOU9fNVJQcjRENkJqNFVyRHljMktUbWMyekJrTWxoSUphUzhWSHhHVXVDUjNNamxBd0tyeDZ3akZTaUVVOFE?oc=5"
             },
             {
-              "source": "Asia News Network",
-              "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTDBYcjlFVHJXb3NuYVFTNU1vWUVLWnp4T3U5ZC1td3dBRTNqWlV6Z2VXUE1mYWhVcUpybXZ6STVhUW9ISUpFMW1nRkhVQWo4OGw3Zk8tclpHV292cmdwbXhSektNQ1lJZ015dlZOUVYyc3AyWVpHbGp5TFNBTW1wU0ppc3JHVEhXeVU2WUoyYnF6VU5JTXNaZmZnY3hQMWhBLXFmYjNpS2ltb0k2dnQ2bU95T2h0dGdyV01rNXhNRWpGN3E3WnVqQQ?oc=5"
-            },
-            {
-              "source": "The New York Times",
-              "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUUxyZDlDU1ZkMVd1bDREUFVvWkFzZlJwN2dLNUxmWG1FRVJNeEhoaHlzTHBJRFFLRWRyZk5zRTYwb3FzMmZXbXZVS0FxRVBNRFpMMjZXTzIwTHFlX2VtSjBraEJvZmkwc2l1aUJRV0R6ZXZsSDM2NHYtSXN5QjZUNEsyc2JkMlZFdkFISWxYMjJ5Zw?oc=5"
+              "source": "Anadolu Ajansı",
+              "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbS1aMkVicTdLekNXRTZ2UDhhRHFBQjRsNUJSMWx6LUF1c2NqOGdGQ3l0am5RcmpPQ3REQWc3dDVHUkY2bnBfX2FCZ1BiVE5TREZoVjBKUll5M3Nua19zX0JzSWpiOXZYZktuZWVLaTM4ZTNXWTdhQU9yU1BHY2F2VDhlNmZ1dzhHMW5PNU92NjAwVWhRZjZKS2kwRzFGREtNOTZPbEYtdnQ5aUQtR3c?oc=5"
             }
           ]
         },
         {
-          "title": "Cyclone Murasu strengthens, targets Tamil Nadu coast",
-          "feedTitle": "‘Murasu’ strengthens into Severe Cyclonic Storm",
-          "summary": "Severe Cyclonic Storm Murasu is moving northwestward toward the south Andhra Pradesh and Tamil Nadu coasts, bringing very heavy rainfall and threatening flooding. Schools and colleges in Chennai and Tiruvallur have been closed on November 2 due to expected heavy rains. The system is the second cyclone to impact India's east coast in less than seven days.",
+          "title": "Delhi air quality plunges to 'very poor' for first time",
+          "feedTitle": "Air quality of Delhi slips to ‘very poor’ for first time this winter, Stage 2 of GRAP invoked",
+          "summary": "Delhi's air quality index (AQI) reached 324—classified as 'very poor'—for the first time this winter, prompting authorities to invoke Stage 2 of the Graded Response Action Plan (GRAP). The deterioration from 'poor' (261) occurred in a single day. Measures include enhanced parking fees, staggered office timings, and additional metro trips to discourage private vehicle use.",
           "source": "The Hindu",
-          "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-murasu-live-updates-november-2-2026/article71655112.ece",
+          "link": "https://www.thehindu.com/news/cities/Delhi/delhi-chokes-aqi-324-plunges-to-very-poor-stage-ii-grap-invoked/article71657232.ece",
           "sources": [
             {
               "source": "The Hindu",
-              "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-murasu-live-updates-november-2-2026/article71655112.ece"
+              "link": "https://www.thehindu.com/news/cities/Delhi/delhi-chokes-aqi-324-plunges-to-very-poor-stage-ii-grap-invoked/article71657232.ece"
+            },
+            {
+              "source": "Hindustan Times",
+              "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdmNnMjNIU3ZYMGZRNTFmMHlGRWtXeXEyM184a2xrX1NUWFdFVWkzOENFYThUN0M2cl9SZHJqbk5OaXFfak1KSHc2LXN5WHRRd29uLUJ5aDBuVVJCVUdZbjladVYzUWEyTnBGcDR0X0pLLVVFWmVZdDVDQlBoTzJ2Q05QVTlJMERjWHhOVmVuZzhiQl96OXJtUkxjRXNUR0pCTkthbmFveEtYUFRucTVaYnk4MlJieF9zVEtMZTIxYlhSanNYTHNtYklmWVYwUQ?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Three Bengaluru techies drown at Gokarna beach",
+          "feedTitle": "3 Bengaluru techies drown after being swept away by waves at Gokarna beach",
+          "summary": "Three people from Bengaluru drowned after being swept away by waves at Gokarna beach. The tourists were caught off guard by strong currents in the Arabian Sea. The incident underscores risks posed by unpredictable ocean conditions at popular beach destinations. Beach safety and warning systems remain under scrutiny.",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/national/karnataka/death-toll-in-gokarna-tragedy-rises-to-three/article71657970.ece",
+          "sources": [
+            {
+              "source": "The Hindu",
+              "link": "https://www.thehindu.com/news/national/karnataka/death-toll-in-gokarna-tragedy-rises-to-three/article71657970.ece"
             },
             {
               "source": "India Today",
-              "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUVBqd3JMM2FDenpKcGdyU0VKSDRRbmlUSE1BWDNkQTRMQnUyOVBFLTI5amJSblhwQUxidWo4cjdfNG8wNHpPNHN5NTkyTVVlbkxIWGxkUlR6a0pfd1R0eUNwbUpKaW9nRFBkb0xrZmtpU0lvMnpqZ3J1VnZ6YkFmZ19kR29ueFdISWgwNDZhSTl0MjE5b2FRRmdGbEE2X2VVUEUycUF4OTdnT0ROd1BacTY3b0FHaUwxNDdJOEhkd25DRWotdDhTa0VpM0xzWFlUdWk0QklSLW5EMjZTWWhJVVEwSXrSAeoBQVVfeXFMT0I0alJrZ0NQRHU4OGxjaTU4TEtuR052UnVvRTcyZUdYQWgtVE5DVnlSTFJJOG96VVZLVkVraElGS3VnN1JXZWFEX0NvdFhTandtajhZQ2tnY1ZTYXpVM3RzdFhMUUtidVZTSkFUcl8xLURlNnVyYmJDVE9WT2FORXZFTnNpck5kRnU3ZU1DcDFhcjlzU0RzZVhlb0h5UUVZMUNqQVg4Snd3WkVlblBLZlBxS3hXalEwUUFtclpHU2Y5VW4wbnkzWktOVkdGWTBHSENNaFlRQW04aTluTGJOak9jd25rNndRa2N3?oc=5"
+              "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdkZ2cHdVOElUSkpTNDZTbXNCamNtODctYnFpbmt3bUtqd1BEa1hmUlduek5Objl3a2Noc3RwWHBOWElRUmNseGRQNzJ6WVNIcEtrN1RfWFR2RUxhbm9sRWgwQ1JFR2dDX3ZtNTFwOHVsaHVFVS04dnFTNzU2aHJfVWM3U0NMN0VMTmgzSnNYanlHVUs2MklmV3lXcmpVMnZRV1R5VTUzb0V5VVZLVjFyamNIVHQwSURTWlRpZmd1aWtkMGRGa1gzLVVGaVJxV1nSAdQBQVVfeXFMUHVETHhmY2tJSmRNSTFJRGROR1lOaUw0Vm5wc2gzVWdyZlhPOEpXd1FjLWZDTUg1ZFhrcGhTdWFFVXpLbEFSUTVybXhJbmQtRUZ6SVdCbkE4NHF0VHBEUXk4Tkx0MFlIV29Yc2M5WkRHVy1pZVh4X25zQ0ktaEljMno2bmY5c1hqZm9ZZDBFOVk5NGF6SGxaYVR1eDV0WHBZNTNENE5VU19BX3ViZzZlaWV1d2g3bmNhaHc1NE5UYWRpRnBlbFluM0dYcEQxYVdjckgtQlY?oc=5"
             }
           ]
         },
         {
-          "title": "India's first indigenous bullet train undergoes safety testing",
-          "feedTitle": "India’s first indigenous bullet train on track, undergoes ‘squeeze test’",
-          "summary": "India's first domestically-manufactured bullet train completed a \"squeeze test\" as it advances toward service. The B28 model is designed to operate at speeds of 280 km/h with a capacity of 557 passengers across eight coaches. The train represents a major milestone in India's rail modernization and reducing dependence on foreign technology.",
-          "source": "The New Indian Express",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOGdhMldWMW9oZ2ZRNjFRTWxwejNVMnBUUVFhQWNJTFQ4WjN4UHV5MWs0UjBKNFQ5TVBkazhmTmVsN0N3OW42X0c5VXhTZHp2ekNsMEc3RnFwNkFxanlnMnY2dnUxMmM1Z1NHN1JhVU43YjlURzVhXzRLV041SWpTaUtHNXJUTV8zUDdJal94LTl4Y3hJMk1EZmpYckVoblhScnpLcmhfQkJaRG9JM2dBTWV1cWlWekVjcXdz0gHIAUFVX3lxTE9CWW9HTnpuSWk4UUtLdEdKVGFMNFY5YS1uSWl1S1I1WE5LRk9QbHdJVTk2amlOQ3owTnNQYlVqT1ZZckE0Sl94QzJfX3BlRXRFeXJVdmN1d3BMRW5SUDFkMDdUdWxKM2k0VWlKbTdvdjN0aDJwZFpBQkpvdjktYzlJWFd6Z3VnQ2F2MW56VExUVEZTYTZSWmt4eVNDVERWSldVazl1UnRZZTVuRGJrUTM0TVhPSDNpdk9XUVZHWUpJN3hESm5BQVJP?oc=5",
+          "title": "Amit Shah counters infiltrator voting claims with data",
+          "feedTitle": "'3 crore Bangladeshi infiltrators don't exist on voters' list': Amit Shah counters Rahul's anti-SIR pitch",
+          "summary": "Home Minister Amit Shah challenged opposition claims about voter irregularities, stating that more than 40% of alleged 'Bangladeshi infiltrators' cited by critics do not appear in state voter files. Shah dared Rahul Gandhi to debate the issue in Parliament. The statement addresses ongoing political tensions over the Systematic Immigrant Registration (SIR) controversy.",
+          "source": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQaWpuM3puVWpXMERmck9hbEF5RXZiSjR1QTh0WmhyQVZkSHhwci0wXzBCZ0RWWkxiMjV4SnVXeFJ2NTFxVGppT0RnaGJ4bFQ1aFk3ZF80QU9pVWQwTWQ1WmV6bXFaY2RDanNoLTBxZGtXZE9Sd0F4Q0s0TFptVzlGMk5iRy1BX2pmTzFTbUNwSXBJUDRIV1I5X2MyQm5kaE9xdWVCMHVvZzRTYTRuUWp5WV96SjhZbG1DOG1KY3RELXo4WjFwWkVlSklnaWFydFpwRXdFR3NneGpvcGFlVnVpdkxBbnhiYW9tdlc4ejk2M1lWUVdWZU1sSnZYZw?oc=5",
           "sources": [
             {
-              "source": "The New Indian Express",
-              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOGdhMldWMW9oZ2ZRNjFRTWxwejNVMnBUUVFhQWNJTFQ4WjN4UHV5MWs0UjBKNFQ5TVBkazhmTmVsN0N3OW42X0c5VXhTZHp2ekNsMEc3RnFwNkFxanlnMnY2dnUxMmM1Z1NHN1JhVU43YjlURzVhXzRLV041SWpTaUtHNXJUTV8zUDdJal94LTl4Y3hJMk1EZmpYckVoblhScnpLcmhfQkJaRG9JM2dBTWV1cWlWekVjcXdz0gHIAUFVX3lxTE9CWW9HTnpuSWk4UUtLdEdKVGFMNFY5YS1uSWl1S1I1WE5LRk9QbHdJVTk2amlOQ3owTnNQYlVqT1ZZckE0Sl94QzJfX3BlRXRFeXJVdmN1d3BMRW5SUDFkMDdUdWxKM2k0VWlKbTdvdjN0aDJwZFpBQkpvdjktYzlJWFd6Z3VnQ2F2MW56VExUVEZTYTZSWmt4eVNDVERWSldVazl1UnRZZTVuRGJrUTM0TVhPSDNpdk9XUVZHWUpJN3hESm5BQVJP?oc=5"
+              "source": "The Times of India",
+              "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQaWpuM3puVWpXMERmck9hbEF5RXZiSjR1QTh0WmhyQVZkSHhwci0wXzBCZ0RWWkxiMjV4SnVXeFJ2NTFxVGppT0RnaGJ4bFQ1aFk3ZF80QU9pVWQwTWQ1WmV6bXFaY2RDanNoLTBxZGtXZE9Sd0F4Q0s0TFptVzlGMk5iRy1BX2pmTzFTbUNwSXBJUDRIV1I5X2MyQm5kaE9xdWVCMHVvZzRTYTRuUWp5WV96SjhZbG1DOG1KY3RELXo4WjFwWkVlSklnaWFydFpwRXdFR3NneGpvcGFlVnVpdkxBbnhiYW9tdlc4ejk2M1lWUVdWZU1sSnZYZw?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Pune Metro Line 3: PM Modi to Inaugurate 23.2-km Pink Line on November 3",
+          "feedTitle": "Pune Metro Line 3: PM Modi to Inaugurate 23.2-km Pink Line on November 3",
+          "summary": "Summary unavailable for this update.",
+          "source": "Metro Rail News",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBOS21abG1DY2V0eEVoRXd0LUJHMU9lNFpqaFY5VFFuZV9laGdNNmx1ZW0zLXU0TkNTZmt4N2I5ZmZrbjZ0NE5uME1ETUE0eEdkVkR0a3RpMnVjRVB3b3BCZEpRZXY1SEdUSjA2TlZ5b2FCTTNqODJOQl93V2EwUQ?oc=5",
+          "sources": [
+            {
+              "source": "Metro Rail News",
+              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBOS21abG1DY2V0eEVoRXd0LUJHMU9lNFpqaFY5VFFuZV9laGdNNmx1ZW0zLXU0TkNTZmt4N2I5ZmZrbjZ0NE5uME1ETUE0eEdkVkR0a3RpMnVjRVB3b3BCZEpRZXY1SEdUSjA2TlZ5b2FCTTNqODJOQl93V2EwUQ?oc=5"
             },
             {
-              "source": "The Indian Express",
-              "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQk5ka1VqUTl3bEN1SnU4RnktelVuRmJKbkdXMUxrVDVTSVFqNC14TTlqY1BvSzdCU1B3UzNMNWxmOWZTaXBrN3lhUWljT2ZiRlJJdmxaZWJxdHRRLVdpV3hseG5BQXl2aDMySktDWFZzTWJyMFZzRUpTQnk0N1JTZ2NjRkVKWFRHd3RyZDJzaVljcHhidGVnWGFwc3diYUIyeVowbg?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "India's voter-roll purge backlash intensifies amid Modi scrutiny",
-          "feedTitle": "India’s Voter-Roll Purge Is Coming Back to Haunt Modi",
-          "summary": "The Modi government's removal of 130 million names from voter rolls—claimed to be duplicates and ineligible entries—has ignited major opposition backlash and raised international concern. Critics allege systematic disenfranchisement, though officials maintain the purge is routine maintenance. The controversy has become a central election issue with legal challenges pending.",
-          "source": "Bloomberg.com",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY2VjRjBMVkpnYnNhZUt2ZG9GOGtiZGQtbmhNcGVxal9BU0picDYydGZXRXV2NzhYRHVyZFdTa1FpbEV2OVprRExJY3QyRVFDWVdQbENOWmRqZ0JXV0tBYVp4YmV1SFNHOFJSLXYxWUxQdHRsd3BFRER3cUJkc3JrejY0UDd1VEh2c3NDcXBQeFRfMmo4ak9LREJBOTU5cEZVYUpPMGhxdnZXMEFzUVIzNg?oc=5",
-          "sources": [
-            {
-              "source": "Bloomberg.com",
-              "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY2VjRjBMVkpnYnNhZUt2ZG9GOGtiZGQtbmhNcGVxal9BU0picDYydGZXRXV2NzhYRHVyZFdTa1FpbEV2OVprRExJY3QyRVFDWVdQbENOWmRqZ0JXV0tBYVp4YmV1SFNHOFJSLXYxWUxQdHRsd3BFRER3cUJkc3JrejY0UDd1VEh2c3NDcXBQeFRfMmo4ak9LREJBOTU5cEZVYUpPMGhxdnZXMEFzUVIzNg?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Telangana CM attacks PM Modi in INDIA bloc campaign",
-          "feedTitle": "Telangana CM Revanth Reddy likens PM Modi to ‘Ravana’ and Congress to ‘Vanara Sena’",
-          "summary": "Telangana Chief Minister Revanth Reddy likened Prime Minister Modi to \"Ravana\" and compared Congress to \"Vanara Sena\" at the opposition's massive Delhi rally. The rhetoric reflects the escalating political temperature as opposition parties unite against the ruling BJP ahead of state elections. Reddy accused the Modi government of conspiring to delete 20 crore votes.",
-          "source": "The Hindu",
-          "link": "https://www.thehindu.com/news/national/telangana/telangana-cm-revanth-reddy-likens-pm-modi-to-ravana-and-congress-to-vanara-sena/article71652391.ece",
-          "sources": [
-            {
-              "source": "The Hindu",
-              "link": "https://www.thehindu.com/news/national/telangana/telangana-cm-revanth-reddy-likens-pm-modi-to-ravana-and-congress-to-vanara-sena/article71652391.ece"
-            },
-            {
-              "source": "Deccan Herald",
-              "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeE9wUllhVDJGbkQ4SGFqRUY4aC1vYXVkN2QxLWI3UEdsd1hqVVd0M1ZYbmRCbGpLTFdOWE9WVEdfVXp0U2NlcGVZLUNIUHdlZFZUb25KWldwSTR5WUFBY3A3dHYtM0I2LTV4SHpHNld4OFV6QVc5SWFkckZQa3B4NEJPeVFBSTNCQlJic1dpRXhsYmNTYmdPczF2VmdCVzVGb004dkRVSWJYTmVrbi1LODlXaV8tSUV3NGlRMDdKMU4yQl8zaWZJTkFWTF85NmtrR004?oc=5"
+              "source": "Bar and Bench",
+              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSkdadkhIYzJuNVQtSG1XM3VsT18tRXdYYjRUOHc4ZURLeGhkR24zcjV1LWJSQWlLbWZEWHJvYVhBNzhQWGtGMWZ3TE5lN2pOb3JmbTdXVE1ZN0hVQXlQTVBqZ2JJcTVSM1dpTXVXUS1sWlpfYWJneTQ1TjNTanJNSEhnN0N3M0VDMTlvTU5NdEF1RHU3bzJia21QdnkwV3l5RjdYU0JoZXVlZ0k3S09TNUJ0bGxDaFRjRWo40gHIAUFVX3lxTE54MmN3T251ZDhqZnVfOC0tUUZ2S21NU1VxN0M4SEgyM3J6YkkwckdvSElDZG5vbDVBRUJFRTlfOXZtb2hxZUFvN0pCcTFaaGQzdHoxZFZLZDNkX1g1eWZRMzZwa3Noc1RNQlpxcktYSzRQcnZURlFHS1R1SmpOZ3VtOVdteTFiZ2hxQWV2a2xSQ0UtLVZQeUZzT3lqRzNhcTJYUVh4OEs4MU96cUgwNVV0bFYtWUxsZGNDUHBEMEl2S21ERFJTTDVL?oc=5"
             }
           ]
         }
       ],
       "immigration": [
         {
-          "title": "DHS ends automatic EAD extensions for certain visa holders",
-          "feedTitle": "Removal of Automatic Extensions for Certain Employment Authorization Documents",
-          "summary": "On October 30, DHS published an interim final rule (IFR) ending the automatic extension of employment authorization documents (EAD, Form I-766) for aliens who timely filed renewal applications in certain employment-based categories. This change, finalized and in effect, will impact H-1B holders, L-1 visa holders, and others seeking to maintain work authorization during processing delays. Applicants must now request extensions explicitly rather than relying on automatic renewal provisions.",
-          "source": "Federal Register",
-          "link": "https://www.federalregister.gov/documents/2026/10/14/2026-20955/removal-of-automatic-extensions-for-certain-employment-authorization-documents",
+          "title": "USCIS ends automatic work permit extensions effective immediately",
+          "feedTitle": "Confirmed by USCIS: Automatic Extension of Work Permits by Up to 540 Days Ends, and What Renewing Workers Need to Do",
+          "summary": "USCIS has confirmed that automatic extensions of work permits (EAD/Form I-766) by up to 540 days have ended—finalized and in effect as of the Trump administration rule. Workers with pending EAD renewals must now act to maintain continuous work authorization or risk gaps in legal status. The change significantly affects employment-based immigrants, particularly H-1B visa holders and dependents.",
+          "source": "El Cronista",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUDBsME1fSFZkLUdZSzBVSk5pNjNrejh5ZTdhUzQ1UHpaN0g3dWF1XzZTRl9UNkg2OXY3ZWVOaW8zV0RSd2E1azhkQmt0WlJvRnNyVzJJSEZrM2dKZkd4TEJpRUpkOUFEVVhCVFFTN1FDempBUDY5R0RvTW0yZm5CeUtnbExOVGxseDIyeDJjYURoQ1djSm5LVll2bzc5WWRWdTNyakNyWVIwU3lxSGNGN3cyVUNyTkUxRld1NWpUdXlYcFJKRkoyRDMwNmdteEl1MFhKOGlGWmFoWmVOZDlkSFJRYXNjV19yM0lj?oc=5",
           "sources": [
+            {
+              "source": "El Cronista",
+              "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUDBsME1fSFZkLUdZSzBVSk5pNjNrejh5ZTdhUzQ1UHpaN0g3dWF1XzZTRl9UNkg2OXY3ZWVOaW8zV0RSd2E1azhkQmt0WlJvRnNyVzJJSEZrM2dKZkd4TEJpRUpkOUFEVVhCVFFTN1FDempBUDY5R0RvTW0yZm5CeUtnbExOVGxseDIyeDJjYURoQ1djSm5LVll2bzc5WWRWdTNyakNyWVIwU3lxSGNGN3cyVUNyTkUxRld1NWpUdXlYcFJKRkoyRDMwNmdteEl1MFhKOGlGWmFoWmVOZDlkSFJRYXNjV19yM0lj?oc=5"
+            },
             {
               "source": "Federal Register",
               "link": "https://www.federalregister.gov/documents/2026/10/14/2026-20955/removal-of-automatic-extensions-for-certain-employment-authorization-documents"
@@ -376,28 +336,44 @@
           ]
         },
         {
-          "title": "DHS proposes removing deference to prior USCIS visa approvals",
+          "title": "DHS proposes ending deference to prior H-1B approvals",
           "feedTitle": "Removing Deference to Prior USCIS Determinations of Eligibility",
-          "summary": "DHS proposed a rule to remove 8 CFR 214.1(c)(5), which currently directs USCIS to give deference to prior approvals involving the same facts when adjudicating extension requests. This proposed (not final) change would allow USCIS to re-examine eligibility even when an applicant's circumstances have not materially changed, affecting H-1B and other employment visa holders renewing petitions. The rule is still pending final adoption.",
+          "summary": "The Department of Homeland Security has proposed (not finalized) removing 8 CFR 214.1(c)(5), which currently grants deference to prior USCIS approvals when extending H-1B, L-1, and other Form I-129 petitions. If enacted, the rule would require each extension be evaluated de novo, increasing denial risk for renewals. Indian nationals—who comprise roughly 70% of H-1B beneficiaries—would face disproportionate impact, per USCIS data analysis.",
           "source": "Federal Register",
           "link": "https://www.federalregister.gov/documents/2026/10/14/2026-20941/removing-deference-to-prior-uscis-determinations-of-eligibility",
           "sources": [
             {
               "source": "Federal Register",
               "link": "https://www.federalregister.gov/documents/2026/10/14/2026-20941/removing-deference-to-prior-uscis-determinations-of-eligibility"
+            },
+            {
+              "source": "The National Law Review",
+              "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMERpa29iM1Utck1lcHA5WjFvWHhhQWxfamZ4XzBHNmR2R1RDTkVpelMtdUZJWUo2VUZFeXZWTVNQaHFLb0tKdUhSNlZrbkJiWVdoLVNCSFRLUVlnNFhQNWI5UUZ2S0Q0b0E3S3pDS01tMVo0Qlp3Nm5UOTNIWmM2UGdjVjZ2QjFVakJOYjhuaGhXMXljaVpSakhxQTZuOGJIdVNPcmpaQ3AxSHVfSW9CdzdBczZ6b3PSAbwBQVVfeXFMTnBTQXUwSUYyVUFiVHJpM0lwa25GdkYxd2ZXeVFaNW5zV3FFSHBpbDdFa2dLeHJESjFIZnlvYjVjaWtZSFhtVzl0S0RNZkxQN2RTT1hJQUphaldNeVpqY2hNVU1UMjhmTFVjTnc2UTdnRlE2TGE1dWFneVBCakF5Mk9pSFhING9tbjg4c0ZBS25aSDlfWjFhY0V1X0hNQy1LbmF2UkQ0TW1mX3ZMU2h5c2RUNlNYQmhIck5obkE?oc=5"
+            },
+            {
+              "source": "INDIA New England News",
+              "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaXU2N2pjbS10SUZXWmZYSTEtaFEwWi15REFGX3RKOGpYTVpSXzNDc0Z3Z1NEMlJqZjl1cTlLUGQ2RlRSeUt2Nk9ZaF9BaWtXOUZnNk9sS0t3cUs3MWp4T2Z0WUVRWEo2dXk5djZqSFc5dFdfeW8yOUcxTmtDWWZKSGRrMkZRUzBtVGxGNHl2OG9VaTd3NHRuVmxqaHdValhtYWg2QlV4S1RvalNKclE?oc=5"
             }
           ]
         },
         {
-          "title": "State Department targets birth tourism with new visa restrictions",
-          "feedTitle": "Protecting the Sanctity of U.S. Citizenship: A New Visa Restriction Policy for Those Who Engage in or Facilitate Birth Tourism",
-          "summary": "The State Department announced a new visa restriction policy targeting individuals who engage in or facilitate birth tourism—the practice of entering the US to give birth to secure citizenship for children. The policy is finalized and in effect, affecting visa applicants from countries identified as sources of birth tourism activity, including China and certain African nations. Consular officers are instructed to scrutinize visa applications in these categories.",
-          "source": "U.S. Department of State (.gov)",
-          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNV3g2TkFFLUhIRWxiV3dienRJS042WnQ0TWxFWVZMbFZFOGVsN3JobHJ5VFhYcWxZampwNXdodnJKcW9KM3ZKX2l5X204NjhidFZpblRocERVdXE1Slo1WmtuS2NNOHlORHBaWk9IZE54TkxVVEZsclJfYzhDSGVpX2ZOa3FPQWZXSGY1aDU0c1Y5aWV5aWFNbjdJYVJJbkdhZUFDZElTOVhhVTdwUVhiYjNiMW1pbm50aHhQdG1BNUpZeWw5VG1nZ3FxV25jSkpfN2gxMzU4UnZEeEZyRUVDNVdSVkVCalFDRjktMmtKdUNtbE5lUndqSy1DcmtTLUFEQUllUWlyY1pVS3VfOFlBNk5SMkU?oc=5",
+          "title": "November visa bulletin shows modest green card date movement",
+          "feedTitle": "November Visa Bulletin brings new Green Card filing dates: Who can apply now?",
+          "summary": "The November 2026 visa bulletin, released by the State Department (finalized and current), shows continued use of Dates for Filing charts for most categories. Family-sponsored visas advanced by one year; EB-3 dates for India show progress while EB-2 remains unchanged. The modest movement reflects ongoing green card processing backlogs, particularly affecting Indian nationals in the EB-2 category (91% of backlog per USCIS data).",
+          "source": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxORzBHTUpPVDg2LS12dk5peEhWTXVtU2d3UFgxQmRfRDhoUU5BV2RMdTl4bEhkSENMU2RRekVYOEoyQWoyZF9LbkF2dUU5cjFSeGY0QTFMYl9UVEN2ZjBhdWpXMEpxZFdvelBSdnNOZXl1akVQdFZ6VkFIclpqa3JlQ3VTSEl3b0dhNEhzOVozWV81b0txcGg4cHNucERMWFRIaFl3dGNwMXBseXlfbkZiTnV1RDZzcFFJRGtaYnhaX3g0am5YN2hOR0RkWjMwUVRhdTJyeGhkXzRQZjdlQWhReGlvMTFubWVWbFh2N1FFSFZjUUZl0gH6AUFVX3lxTE9UUFdXcTN1Z0VBZVZFaWlVRUNSRDlCb29hT2F3ZXRzYm03V2VReXlJWXdIS0FVTVRDUnN0WVAyOFZwLWVfY3lnMkNWdUs3Tm5oTU84YVc5bng2X3Vna3FOak9CdGJ0dWRTbGdyX3U0XzZjWF9TMFdyaWlkcnE1RVdDOHVmclAyTWhfb09xd3otSmxCRnp6bmVzbC1Wa2hackV2b25taXpxdUdDd05Bc1JkSXBEM0ZXV2VzYTItTjUyWWlGQnBfUE10b2s4eTVsQ2FvRDZhOThrQkFCdXpCVWt3aXNtNkNKZXdjLUV4UHFDUGthVVBiWjRBeHc?oc=5",
           "sources": [
             {
-              "source": "U.S. Department of State (.gov)",
-              "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNV3g2TkFFLUhIRWxiV3dienRJS042WnQ0TWxFWVZMbFZFOGVsN3JobHJ5VFhYcWxZampwNXdodnJKcW9KM3ZKX2l5X204NjhidFZpblRocERVdXE1Slo1WmtuS2NNOHlORHBaWk9IZE54TkxVVEZsclJfYzhDSGVpX2ZOa3FPQWZXSGY1aDU0c1Y5aWV5aWFNbjdJYVJJbkdhZUFDZElTOVhhVTdwUVhiYjNiMW1pbm50aHhQdG1BNUpZeWw5VG1nZ3FxV25jSkpfN2gxMzU4UnZEeEZyRUVDNVdSVkVCalFDRjktMmtKdUNtbE5lUndqSy1DcmtTLUFEQUllUWlyY1pVS3VfOFlBNk5SMkU?oc=5"
+              "source": "The Times of India",
+              "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxORzBHTUpPVDg2LS12dk5peEhWTXVtU2d3UFgxQmRfRDhoUU5BV2RMdTl4bEhkSENMU2RRekVYOEoyQWoyZF9LbkF2dUU5cjFSeGY0QTFMYl9UVEN2ZjBhdWpXMEpxZFdvelBSdnNOZXl1akVQdFZ6VkFIclpqa3JlQ3VTSEl3b0dhNEhzOVozWV81b0txcGg4cHNucERMWFRIaFl3dGNwMXBseXlfbkZiTnV1RDZzcFFJRGtaYnhaX3g0am5YN2hOR0RkWjMwUVRhdTJyeGhkXzRQZjdlQWhReGlvMTFubWVWbFh2N1FFSFZjUUZl0gH6AUFVX3lxTE9UUFdXcTN1Z0VBZVZFaWlVRUNSRDlCb29hT2F3ZXRzYm03V2VReXlJWXdIS0FVTVRDUnN0WVAyOFZwLWVfY3lnMkNWdUs3Tm5oTU84YVc5bng2X3Vna3FOak9CdGJ0dWRTbGdyX3U0XzZjWF9TMFdyaWlkcnE1RVdDOHVmclAyTWhfb09xd3otSmxCRnp6bmVzbC1Wa2hackV2b25taXpxdUdDd05Bc1JkSXBEM0ZXV2VzYTItTjUyWWlGQnBfUE10b2s4eTVsQ2FvRDZhOThrQkFCdXpCVWt3aXNtNkNKZXdjLUV4UHFDUGthVVBiWjRBeHc?oc=5"
+            },
+            {
+              "source": "El Cronista",
+              "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdVF5Ujk3eGQ2N0k3RzZCVC1TVjM0NEZWbWZSUDQtTWFDdWRKemxkNVJUT1hGWmRWVjhSOWRJQjU4NzI4djR5N1VfY1JDVlJKRG1YR0RXRGdfRGxWbWdxbmoyVjN4NTRpbDJjZEM5eFpiYmxuUXFSQThZWWIzRlJOZUhqWUNYVmlWSHJmY1NhNThFLXlmS01FVkFBVnhIb2NvMlk3bEFROHZuV0huWmRweWFoN1FjbEU?oc=5"
+            },
+            {
+              "source": "New India Abroad",
+              "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPZ2h2R01sdXZZY2x4U3o2cm85OXhCenBrdkoxcDZvVlNKRFVRZXJRMTFyVnBMOE41UXRSYUhKdXUwN1RUQUdsaktwSDVENENOR3YwdTRxTzJVVTlXUnJtRDdOMFR3NVpBNy1JVDVjX3RJOWs1aWxuWXBiZ0lNR3NCNnhqYlZLYlJoY3NhMm9MZVM1Q3lnMXpESlNvQlRtUHJoa2lfTGp6Z2Zmb2xvelFuSDVQUURaN2xIRF9RajZVQmZUMDJUQ0VkWWZxY2VUZDAzMWNvTU1nLUhPY1BTM3VxTVYyZFd6a0Y2bkg0bGZuVlR2aDBkNTltSEV1VzJjV0VpZGd2SURpUC15Vm8yM0E1enVZVkpHTkplVlJrVlZPRWdwWllleVU0WHp4WC1XSGlVMFh4TjZWejVPMVE?oc=5"
             }
           ]
         }
@@ -406,91 +382,91 @@
     "finance": {
       "items": [
         {
-          "title": "Tech selloff wipes out $5 trillion in AI stock value",
-          "feedTitle": "Stock futures open a monster week after a $5 trillion AI wipeout",
-          "summary": "US stock markets experienced a severe correction as technology stocks, particularly AI-related companies, suffered massive losses amid concerns about return on investment. The S&P 500, Nasdaq, and other indices fell sharply as investors questioned whether billions in AI spending could generate returns quickly enough. Futures rose modestly heading into Monday as markets brace for midterm elections and earnings season.",
-          "source": "The Guardian",
-          "link": "https://www.theguardian.com/technology/2026/oct/30/tech-stocks-drop-earnings-report",
+          "title": "Dow rises 500 points as oil plunges on Iran peace hopes",
+          "feedTitle": "Dow pops 500 points, oil tumbles on hopes of a US-Iran peace deal",
+          "summary": "U.S. stock markets rallied with the Dow gaining over 500 points as crude oil prices tumbled more than 7% on optimism about US-Iran diplomatic talks. Brent crude fell to $105.55, its lowest in over two weeks. The recovery reflects investor relief from geopolitical tensions ahead of midterm elections. Tech stocks and broader indices also benefited from the energy sector weakness.",
+          "source": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZzg3SFV6NFFMTlF4UDZJMDc5NFl3TS1CeTlJWXhGOWVvdjBlekVlRHdTX2xPeWVrUmxhVlY0RVJEYVhINmVOY3NseHV3R2ZSVlg2cVJVcmc4bUNYSWVJQXYzQVBvaXpVR1ljVjVfTEJ0MU1ZaVV5TjVESU9acUJ0a1cxZWNScjFxLTRoN2JJTU93X1ZUa1RvNTdkdThZXzZieVVXYUg5aw?oc=5",
           "sources": [
             {
-              "source": "The Guardian",
-              "link": "https://www.theguardian.com/technology/2026/oct/30/tech-stocks-drop-earnings-report"
+              "source": "New York Post",
+              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZzg3SFV6NFFMTlF4UDZJMDc5NFl3TS1CeTlJWXhGOWVvdjBlekVlRHdTX2xPeWVrUmxhVlY0RVJEYVhINmVOY3NseHV3R2ZSVlg2cVJVcmc4bUNYSWVJQXYzQVBvaXpVR1ljVjVfTEJ0MU1ZaVV5TjVESU9acUJ0a1cxZWNScjFxLTRoN2JJTU93X1ZUa1RvNTdkdThZXzZieVVXYUg5aw?oc=5"
             },
             {
               "source": "Yahoo Finance",
-              "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY0kwVjNUVm5US2JvNGQ3SXA5eXlvMnVEdjZXNjdwRGZ0b1licWxjQkY2Slpmb0Y2dzhjS1FNc3Q2NlExX3lBSHk0dkRkZjlxNzk0eDBVbmlOMnlMN1RmVXM2VVVmanBnbWtkR3h1ZVhlRDItT1pvckNudG9HQ0NhQUt2Wi1oVmppS0lPYkx5dDBMMExJWkloTEpFejBxRWg4VkVfMzFkRDljenhUdHIwYzBGVVJYNGNhX2I2cA?oc=5"
+              "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYWlrbGtqRmhnSVJSNGJpblcxVl9CUUo3cU9yNGE1Q3dMNl9UdFI3TWQxZ0dJUFpDdDNmNGl3bkdBZ294VURCN0dyaVdlLTZVYy14cVoxY0kxbTY0UUJDTGU3QXItdVJnTm5PUWtieXgxZ183NGNpallzWnVDdExwWU8tdGZfZldzc2RnN3F5MGNJRlFIUUJTMHBRUHIxYUJYcXloOXdyM1dDZFB5TVN4UFNJeUFiRnl0ODBvRHRocHdOaFBMcTVwcXR6U2ZwWGkwNXJzamRTMWhKdGdWRWc?oc=5"
             },
             {
-              "source": "Barron's",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNblVkVnVkMWhUVGJTaENRbnZsdTNSTUxqVXVSZmFaVkxYOHNZZ1o1YzlzckUwYW41dHdzSzE3cWZoMDhLTzZLZzNFaFRDdUVDWno3ZkhRakJ5Nk8xdi1jaUZ5MU9uYnE2NmtsdE41NnFON3FpdlF0MGtfYkZXX3hNYQ?oc=5"
+              "source": "BNN Bloomberg",
+              "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVFluQ0RLcGVIWEFWal84bldOTElIZjdHOVloSWRUbExGaXhaZEwxVTg3NGduSFZGYU8yQVpFZE51QkdsdXRnU1hNMnlWaGJiYWdxTkM3RkVubDJ5LUU4T0VfVzhhZ0tJZ1ZjaXNmOVJqdmZTcnJKWGtjck80aFh2QmZ5VnJWNkNpQmZmQnQ3TUNybXdTY3VGbi1iYnQ3d1dOd19nQVhQdHBJUW5xWFZuRlRoMWU5UnZERjExRmx2NGNiRm1Pbm5ldHp2Nmk2NkIz?oc=5"
             }
           ]
         },
         {
-          "title": "Binance crypto exchange loses $3.6 billion in post-hack withdrawals",
-          "feedTitle": "Binance users withdraw $3.6bn after record crypto hack",
-          "summary": "Following the FBI's attribution of a record $6.3 billion cryptocurrency heist to North Korea, Binance users withdrew $3.64 billion as the exchange resumed withdrawals. The hack, attributed to the state-sponsored TraderTraitor group, is the largest cryptocurrency theft in history. Binance says it will cover 90 percent of losses, having recovered about $3 billion in frozen assets so far.",
-          "source": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBabVFHSUg2RlNyUVdrekNWMk1UMGhiVmtrOTRiSGNJaDk4N2RUeXhCekNacnFEYjRDR1Z3SkNDeHJVUWJMcFE2V1JMLVRlSThCZmx2TmxNNm5JQjQ?oc=5",
-          "sources": [
-            {
-              "source": "BBC",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBabVFHSUg2RlNyUVdrekNWMk1UMGhiVmtrOTRiSGNJaDk4N2RUeXhCekNacnFEYjRDR1Z3SkNDeHJVUWJMcFE2V1JMLVRlSThCZmx2TmxNNm5JQjQ?oc=5"
-            },
-            {
-              "source": "The Guardian",
-              "link": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack"
-            },
-            {
-              "source": "Newser",
-              "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1XTlRpSk0wRnZZaEhrb1VZT2lQY1RwZ2VoYlpaanRmTmJ4T3FYT0dZSmljOFFNTXp0akhMUVNqbkppTXd1TEdHanlGZ2Q2eWZHel9QUkp5ZWNlMWpiVFZoNjBvQjk2WG9ObDJoM0tGNU9nRWN1MnlGY3VNS20?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Indian stock markets face tech selloff and FPI withdrawal pressure",
-          "feedTitle": "Stock Market Today: Gift Nifty, Tech Stocks Selloff To Oil Prices; Five Key Factors For Sensex, Nifty 50 On Nov 2",
-          "summary": "Nifty 50 and Sensex indices face headwinds from global tech stock declines and foreign portfolio investor (FPI) concerns over AI market overvaluation. FPIs have turned net buyers in recent sessions as broader market allocation shifts away from concentrated AI trades. Market analysts point to Nifty's 23,200 resistance level as key for determining whether the rally can extend toward 23,500 or higher in coming weeks.",
+          "title": "Reliance Industries powers Sensex rally by 1,233 points",
+          "feedTitle": "Reliance powers 1,233-point Sensex rally",
+          "summary": "The Indian stock market's Sensex surged 1,233 points to a seven-week high, driven primarily by an 11.6% jump in Reliance Industries following strong Q2 earnings. Nifty topped 23,400 as markets extended a three-day rally. The broad-based momentum reflects optimism about corporate profitability and reflects the strongest profit growth in 12 quarters for the index.",
           "source": "NDTV Profit",
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNZ1ZLTF9TSHA1V19ZM1E4YlZEU3VUek5xaVNZcFg0MTljUTYzTzZxOS1ma2xYZjExV1g4NEtxZlBlU1hPaWhsMmh6WUZzMER3eGZqWUlla3VkdkJlQWR5MDlhNTJJSHNYaHVRMy1aMUduU2FmOVlUazNWY21BdXlrXzBlQ1lCaEdlUk1GcFd6ektBbm9CeFEyenNBaGpBMWxCcVdtQ1NETnVvOGg5T3IteUdPSlEwX3ZTZm5VS3gyR3o4SWFEbHFUblpJc25SLW9ySnJxRVM2Y3l0bDA5T3N1Z3hjemtFS2ZSVDNDblVSU1EzNnpyd3ZNQjFKdmZSZ9IBhgJBVV95cUxNN3hEdE5ZaDVDdlFsZVhOYldBR2FiVzZfc0FISTd3TVNwTEJONGkxVlpuWGtJQTRwckRETlBGbkJsTnd0N0xnTGZUem1pcmx6V0xoRi0wLVB2alIzVkNRSHlHbTFyZGNLNUtRd3pHNzNhVkMtSU50dkZ3ZnR5NXpNNHZaWGxGRzkxbXlSa0pILXpoVjMxZXU3RlJsdTBvVzVQdEI1by1NLV8wRTA4RjhVQ1JNWDJYYlU4MTg4aGVLejBLM2ZhTjFtRGlKVmsxc3N1VnU3OG1OeGVrWV9uWGtLN3p1eFlZYklqN2VuSlMzU2M5WVBuS190eVNKWDhnQkpib01BcHVB?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSVNUQXE4UC1qSDI0TTh1VzB0R3Q0MHBlOVhISHFGNnRFUWpYLTRJQVVKenNSRnBfUkxPUGFTdU9ISWw1SkZDSUk5T3pSd09kaEktelg3M3B2WkhERGROZVJnYnpMZklEZmZBY2RuRy1zQlQ1ZjhiLU1UTm9pak0xRWE5SWN4MlBmU2FRTHhySkRET2pzdDg2RUJjZURycWRURkVMdGV3VE5XbThBaDBkLUg3SGJUX1kyZTdGUnpoWFU5eTJ4aW02TnJHVXTSAdQBQVVfeXFMTm9keF9JV1J6eUFzNVRHd0E2VXp5M1dWTkQ0VWVOdTJtbUFiTHdGeW01aGw5cERBOEhfRThoVWxuZjhhdnVQSDc4ODhnMGN2dUlSUUQzUzkyaEdHZHFmT2dYM09xQjlTenoxS2xFRk9jZ2Rrb0RCLThkMjZ5ZGdBNUZiWjVEQWE2VS04a3RPeWNzNnJuLURJem1qb0ZOYnNEWTVkMFJXci1MSWlwdlZ2MlR5ZWJWSXFtUkZtSHZEd2Y5WW9vUFBnVG8yUHRocmVHc2FHVG4?oc=5",
           "sources": [
             {
               "source": "NDTV Profit",
-              "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNZ1ZLTF9TSHA1V19ZM1E4YlZEU3VUek5xaVNZcFg0MTljUTYzTzZxOS1ma2xYZjExV1g4NEtxZlBlU1hPaWhsMmh6WUZzMER3eGZqWUlla3VkdkJlQWR5MDlhNTJJSHNYaHVRMy1aMUduU2FmOVlUazNWY21BdXlrXzBlQ1lCaEdlUk1GcFd6ektBbm9CeFEyenNBaGpBMWxCcVdtQ1NETnVvOGg5T3IteUdPSlEwX3ZTZm5VS3gyR3o4SWFEbHFUblpJc25SLW9ySnJxRVM2Y3l0bDA5T3N1Z3hjemtFS2ZSVDNDblVSU1EzNnpyd3ZNQjFKdmZSZ9IBhgJBVV95cUxNN3hEdE5ZaDVDdlFsZVhOYldBR2FiVzZfc0FISTd3TVNwTEJONGkxVlpuWGtJQTRwckRETlBGbkJsTnd0N0xnTGZUem1pcmx6V0xoRi0wLVB2alIzVkNRSHlHbTFyZGNLNUtRd3pHNzNhVkMtSU50dkZ3ZnR5NXpNNHZaWGxGRzkxbXlSa0pILXpoVjMxZXU3RlJsdTBvVzVQdEI1by1NLV8wRTA4RjhVQ1JNWDJYYlU4MTg4aGVLejBLM2ZhTjFtRGlKVmsxc3N1VnU3OG1OeGVrWV9uWGtLN3p1eFlZYklqN2VuSlMzU2M5WVBuS190eVNKWDhnQkpib01BcHVB?oc=5"
+              "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSVNUQXE4UC1qSDI0TTh1VzB0R3Q0MHBlOVhISHFGNnRFUWpYLTRJQVVKenNSRnBfUkxPUGFTdU9ISWw1SkZDSUk5T3pSd09kaEktelg3M3B2WkhERGROZVJnYnpMZklEZmZBY2RuRy1zQlQ1ZjhiLU1UTm9pak0xRWE5SWN4MlBmU2FRTHhySkRET2pzdDg2RUJjZURycWRURkVMdGV3VE5XbThBaDBkLUg3SGJUX1kyZTdGUnpoWFU5eTJ4aW02TnJHVXTSAdQBQVVfeXFMTm9keF9JV1J6eUFzNVRHd0E2VXp5M1dWTkQ0VWVOdTJtbUFiTHdGeW01aGw5cERBOEhfRThoVWxuZjhhdnVQSDc4ODhnMGN2dUlSUUQzUzkyaEdHZHFmT2dYM09xQjlTenoxS2xFRk9jZ2Rrb0RCLThkMjZ5ZGdBNUZiWjVEQWE2VS04a3RPeWNzNnJuLURJem1qb0ZOYnNEWTVkMFJXci1MSWlwdlZ2MlR5ZWJWSXFtUkZtSHZEd2Y5WW9vUFBnVG8yUHRocmVHc2FHVG4?oc=5"
             },
             {
-              "source": "The Economic Times",
-              "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdHNYcFpObkFKTzNLY2VLaGxoYi11TFEwZmZ5R3RSWmFrcnNiSXk5bF85Q0Z6OF9NV3B3YmhHYXBXTVNkeWZkVXplNW1tbmVvYzNlMHdqNkNJMlR6b1piR2I1UkszOWJ0c2JRTnJ3N09fVDVkMVJ5M3d2OUp6WlVzdnFsUGlUSGtmWjZydnZmZlNHb0lmYjJCZ25ZSjNJODNzdFBZcm1PemNtUFFqS2hOUDctSzA2dHJiWUpsdXVZYkk0M2ZDNEEzUG8wbFBzLUJJbWJSVUp3TEV2bVRFdXNjUmFB0gHbAUFVX3lxTE8teG1tY3EweUg4VWRnZTBYZWE4ZzdaRmYzWm9JejFlUG9sZ2F0dGpidi04RENyak9weVEzYmMtT1RiX0J1NzFoRWhVYTlGbVBUS3B5MmZza0xpXzlhR0J6WW42SVZ5QzI1TC1UajB4MS1xdE4wbnV0ejhsZEwzN2g4SzhJV08wNDk0MmFIVlF4VGZ1U0p3WTJRYUNaWkJ1TVhhaERtQkRkR1dBRDByNXNDM2NOQjQ3ODVPSU1kbUFlV2ZiRGtndnY0YlFDbzFCTXJ1OTVUMmhOY3FzNA?oc=5"
+              "source": "IndiaIPO",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcFpNdmZkeFRYVmdreGJDTVpHanRlVm5QZDVnbmxUOTJjd0tfQWF6dkhKLS16OWJPWXVhcG5ZTGN2SVBUVFZwak5FcWhYNm90YzlFdnVjSDFxeEhCdC15QUJpWGNISzhuTFN3Q3RYOVkwTFNkN2gwX2N5cEZhZTFncw?oc=5"
             },
             {
-              "source": "CNBC TV18",
-              "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbktiNWhVVXpaNERYOG9IZWxHMU54M2NUeFpad3A1WEdFUndSYXZ4R0Y0RXNSLU1GX256UjVpbnFZdTkxSDluUmpDSFNXbzNKZVNSOVFsOTVFY0pIWU1jMHVOVElMZndkcG1wZnRWaEtnTVFEUmhtZ3FwYU9jbno3OThNYjlFVk5lbVMzS1NLMHE0MDc4MTFRZU9hVTBadHQzeG54VzZKNkZyaU9GWEhrZzc2WEZ5Y1JGWDVibERUWEhIMTJKTy1nSFBRVUVreWdZQXpnUtIB2gFBVV95cUxPQzh0bUdXZWdXdXo2WGstcW1GVng4dThOWTlBbGZBWVVBbU1ObHZJdnZ5MUp0aWUxcjE3TXZrYjZvcFhSaHNYWTJXek1fM1pza2dzb1I4SUJ3ZXJKSWRMMl9sakY4OU1HWnVKMW1FOGRhTmRCSHBHTmhBU0xYWmVCNmRsSW5oT3JDald5UWZXTFZKbjVqWFJaNy1rZzF4NjBmeVIteFBRdVVaMnRGN2ROcnhxWG1qQWRKdlZYUWxnaERlX1RRVHBkVjBNNUtWQ21Xd190QVFNeDZpdw?oc=5"
+              "source": "MillenniumPost",
+              "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb2Y0aGJlVWZaeHV3eW9pVVBSb2txUUppTFRFSEVINlhWbWVuR2VTLU1RRU4xcXI1ZnExbzJxaHRyRW50aFViUlJlamxaUzMzX0ZkQWFXZXFGZ3JlRVhPaGNsQUQ3RTQyNndPSWpyeGJmeVB2NTIxY3hHRjFLbXV6UTB6REJ0dlpHX01PYW55ZzBYeHRDRXFVMnlvQklsWkY5czFYdGw0bThWYkMxd0s0XzFubzJRdHN1WG1hMdIBwgFBVV95cUxOMjBlMWhka0hHcWtNaC1CaHR3VEprbkVLd1VMNkxJX2tvTGN1TV8yN3BDX2hSSFd6bWR6Tm40bzRkZjVMTEo2R0RZbU1ueUlXdGVFcnR0c212a2U3WmZTajVIOUd6NXZ0bXlLbG5qZ3l3cFFfUjEwSGRvb0JfSXZZX2V5OWRhRHRMYWZLTjFnakkyYW16Yk04bFJObzRKaTVPQU93elJFb095VkNjM3ZMS1p1UTVoOHFmb2ItV1dGSzh0dw?oc=5"
             }
           ]
         },
         {
-          "title": "Oil prices drop amid Iran war talks and market uncertainty",
-          "feedTitle": "Oil Prices Drop 1% as Iran War Talks Continue | Market Update",
-          "summary": "Oil prices fell 1 percent as indirect talks between the US and Iran over reopening the Strait of Hormuz continued. The decline reflects easing tension from earlier threats of military escalation. However, shipping remains at risk in the Persian Gulf region, and geopolitical uncertainty continues to influence commodity markets as investors monitor potential policy shifts after Tuesday's US midterms.",
-          "source": "Global Banking & Finance Review",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVi1JeVpxQTBnR09zUGw4SGg3MjE5Mk5scWlqNTd2ckMwVEN5QTJtTUlRY295Zm54ZXNneEp2S0lzNjl6cjdfSlVTMjdVRkJLTGkyVXdpZ2x5ZE9yNE5LWnJNYlJ1UWVGUDA1T0N1RkRsZTVFU3gyY01Ra3NOOFlWU1lBMUU4UmZQeVdV?oc=5",
+          "title": "Marvell, Lumentum announce $115 billion merger deal",
+          "feedTitle": "Marvell Could Be Making a $115 Billion Mistake With Lumentum Purchase",
+          "summary": "Marvell Technology and Lumentum announced a major $115 billion merger to combine chip and optical connectivity capabilities for AI infrastructure. The deal aims to capitalize on surging data center demand for AI computing. However, analysts question whether the valuation can generate adequate returns given current AI spending scrutiny and potential market saturation concerns.",
+          "source": "Barron's",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYXA5MUoxXzhNcG1mNjh6b3RWQVcyc0FpV1Mxa2NGTkhZQjBuYjNWWEd4Ul8wZEZORGRFS09UcEc4RDVrU190Si1iYkVSLVdpZlBwR0s3MmdMWlUwWkRDNEtjNXNGeUZReklPaTJLRkVleXhieWZVM0xHNndyRXZkWHR2VDh0MzRGSzNHOVpJRll6ZVRLOHhJ?oc=5",
           "sources": [
             {
-              "source": "Global Banking & Finance Review",
-              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVi1JeVpxQTBnR09zUGw4SGg3MjE5Mk5scWlqNTd2ckMwVEN5QTJtTUlRY295Zm54ZXNneEp2S0lzNjl6cjdfSlVTMjdVRkJLTGkyVXdpZ2x5ZE9yNE5LWnJNYlJ1UWVGUDA1T0N1RkRsZTVFU3gyY01Ra3NOOFlWU1lBMUU4UmZQeVdV?oc=5"
+              "source": "Barron's",
+              "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYXA5MUoxXzhNcG1mNjh6b3RWQVcyc0FpV1Mxa2NGTkhZQjBuYjNWWEd4Ul8wZEZORGRFS09UcEc4RDVrU190Si1iYkVSLVdpZlBwR0s3MmdMWlUwWkRDNEtjNXNGeUZReklPaTJLRkVleXhieWZVM0xHNndyRXZkWHR2VDh0MzRGSzNHOVpJRll6ZVRLOHhJ?oc=5"
             }
           ]
         },
         {
-          "title": "Affordability dominance drives final election sprint for voters",
-          "feedTitle": "Affordability top of mind for voters in final sprint to midterms: ‘I have to pick between medicine or groceries’",
-          "summary": "Cost of living has emerged as the dominant issue in the final days before the midterm elections, with workers and unions championing candidates fighting for higher wages and relief from rising prices. Polling data shows voters are torn between purchasing medicine and groceries, signaling sustained economic pressure despite recent GDP growth. Both parties are centering their closing messages on addressing inflation and household budgets.",
-          "source": "The Guardian",
-          "link": "https://www.theguardian.com/us-news/2026/nov/01/affordability-voters-final-sprint-midterms",
+          "title": "Anthropic reports $17B quarterly revenue ahead of IPO",
+          "feedTitle": "Anthropic posts $17B quarterly revenue but losses continue in fresh IPO filing",
+          "summary": "AI company Anthropic disclosed $17 billion in projected quarterly revenue—a 1,100% surge—as it prepares for a public offering. However, the company reported significant losses and negative cash flow, with net losses totaling $104 billion in 2026. Analysts warn a junk credit rating may follow the IPO, complicating future fundraising for the money-burning AI firm.",
+          "source": "AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa09ReEZKQUZMUjIzWWo4RjlIdU9QWGpYZ3dlV0ZYRmo4WWlPR0tRTzgyUUR4Q0VHdGIzakJid3lRSEhBQmJTaVZQS2dXQ2NEMDhUY21tT2YwT1ZiazZlNmZ2cXNwOTkycUYxWksxbk5oSUMycXVxaHV3QTBIak1haWx0Uk84SHV1LTh1cU9rMGhtRGU2Q1E?oc=5",
           "sources": [
             {
-              "source": "The Guardian",
-              "link": "https://www.theguardian.com/us-news/2026/nov/01/affordability-voters-final-sprint-midterms"
+              "source": "AP News",
+              "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa09ReEZKQUZMUjIzWWo4RjlIdU9QWGpYZ3dlV0ZYRmo4WWlPR0tRTzgyUUR4Q0VHdGIzakJid3lRSEhBQmJTaVZQS2dXQ2NEMDhUY21tT2YwT1ZiazZlNmZ2cXNwOTkycUYxWksxbk5oSUMycXVxaHV3QTBIak1haWx0Uk84SHV1LTh1cU9rMGhtRGU2Q1E?oc=5"
+            },
+            {
+              "source": "The Western Producer",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWUJ1S0o4WVBWNV9UeUZMQWppOEp0WlVjc2JSNmIxZ1k3ckJvVkNPcDFYVjROS2w2Z3k2eWhueVVudEZDZ25XejFwRTdQVmJ2QVlqcXJ5Mi1uMFpvZXNjTl9PSkJHTjNQWFJhaW5NZkJqdHFfU3ZRUjlsYVV3NmtYNF94ZTRnM1M3aXhsUjRVdThkYTd0QUJ2d0RB?oc=5"
+            },
+            {
+              "source": "The New York Times",
+              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdnowbGpBQXdlcDhTZEtsUl9vVGpXdGFvNmMtTTNxYnRlZDNuUy0yYzZqeDVUb0ltZ1ZZZHprVmZtY3l4elpqTXhWZEM2bHIxRkdjMFdkMTdQOHFfREJFQVRtY2hXQ2Q0SGhhSWU2WUlDdWhDWGl5ZnpqMmNsUTBBdWFLanBTVm8?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "North Korea blamed for $6.3 billion Binance crypto hack",
+          "feedTitle": "Binance customers withdraw more than $4.6 billion after crypto heist",
+          "summary": "The FBI identified North Korean hackers as the culprit behind a record $6.3 billion theft from cryptocurrency exchange Binance—the largest crypto heist in history. Binance said it would cover customer losses and has located approximately $3 billion in affected assets. The hack prompted massive customer withdrawals exceeding $4.6 billion as confidence in the exchange wavered.",
+          "source": "CBS News",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNUVuZU1Ea0ZDdlp4bjVCbVV6MGRxcEo1TU5XR0gyRTg0VVVkaWU0WVdUVkpyWHlQcWQtcUJWTm5LVjZRNENGaXZ0eHVaN2tNdTJxbnZtSEdWWUlra0Q3U25yYXNGanM3VDFoWmU2S1dVUjB2QUJTelE0ZllZWUI0YlNHNA?oc=5",
+          "sources": [
+            {
+              "source": "CBS News",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNUVuZU1Ea0ZDdlp4bjVCbVV6MGRxcEo1TU5XR0gyRTg0VVVkaWU0WVdUVkpyWHlQcWQtcUJWTm5LVjZRNENGaXZ0eHVaN2tNdTJxbnZtSEdWWUlra0Q3U25yYXNGanM3VDFoWmU2S1dVUjB2QUJTelE0ZllZWUI0YlNHNA?oc=5"
             }
           ]
         }
@@ -499,172 +475,176 @@
         {
           "symbol": "SPY",
           "name": "S&P 500 · SPY",
-          "price": 755.72,
-          "changePct": -1.77
+          "price": 752.99,
+          "changePct": -0.36
         },
         {
           "symbol": "QQQ",
           "name": "Nasdaq · QQQ",
-          "price": 690.49,
-          "changePct": -3.47
+          "price": 681.97,
+          "changePct": -1.23
         },
         {
           "symbol": "DIA",
           "name": "Dow · DIA",
-          "price": 517.13,
-          "changePct": -1.07
+          "price": 520.06,
+          "changePct": 0.57
         },
         {
           "symbol": "INDA",
           "name": "India · INDA",
-          "price": 47.72,
-          "changePct": 0.65
+          "price": 48.36,
+          "changePct": 1.33
         },
         {
           "symbol": "EWJ",
           "name": "Japan · EWJ",
-          "price": 92.91,
-          "changePct": -2.14
+          "price": 92.8,
+          "changePct": -0.12
         },
         {
           "symbol": "EWU",
           "name": "UK · EWU",
-          "price": 47.83,
-          "changePct": 0.27
+          "price": 47.99,
+          "changePct": 0.33
         },
         {
           "symbol": "EWH",
           "name": "Hong Kong · EWH",
-          "price": 22.52,
-          "changePct": 2.27
+          "price": 22.5,
+          "changePct": -0.11
         },
         {
           "symbol": "VT",
           "name": "World · VT",
-          "price": 155.33,
-          "changePct": -1.67
+          "price": 155.24,
+          "changePct": -0.06
         },
         {
           "symbol": "BZ=F",
           "name": "Brent crude · BZ=F",
-          "price": 111.23,
-          "changePct": -1.94
+          "price": 103.94,
+          "changePct": -8.37
         }
       ],
-      "note": "Stock futures rose modestly heading into Monday after a brutal week for tech stocks, with the S&P 500, Nasdaq, and AI-heavy indices losing roughly $5 trillion in value as investors questioned return on investment from massive AI spending. Oil prices dropped 1% amid ongoing Iran-US indirect negotiations over reopening the Strait of Hormuz, though geopolitical risks remain elevated. Watch: US midterm election results on Tuesday, which could reshape fiscal and regulatory policy; November jobs report due Friday; and earnings season acceleration, particularly from mega-cap tech firms whose guidance will signal confidence in AI infrastructure investments."
+      "note": "Oil prices tumbled over 6.5% to $105.55 per barrel on optimism about US-Iran diplomatic breakthroughs, driving broad stock market rallies—Dow up 500+ points, S&P 500 recovering from last week's tech sell-off, and India's Sensex surging 1,233 points on Reliance's strong earnings. Watch: midterm election results on Tuesday (which could shift policy for AI spending and tariffs), tech earnings (Apple, Palantir), and whether oil gains hold if peace talks stall."
     }
   },
   "micro": {
     "theme": "personal finance",
     "cards": [
       {
-        "title": "Automate Your Savings Before You Spend",
-        "insight": "The behavioral gap between intention and action is why automatic transfers work better than willpower. Set up recurring transfers to savings accounts immediately after paycheck arrival, treating savings like a non-negotiable bill.",
-        "takeaway": "Open a separate high-yield savings account and automate a fixed amount to transfer on payday—start with 5–10% of gross income and increase yearly."
+        "title": "Work Permit Uncertainty Just Got Real",
+        "insight": "If you hold an H-1B visa or EAD (employment-based work permit), automatic extensions that once bought you 540 days of breathing room have ended. Your renewal must now be filed *before* your current authorization expires, or you risk a gap in legal work status. Indian nationals face the steepest risk, as they dominate the H-1B and EB-2 green card queues.",
+        "takeaway": "File your EAD renewal *now* if expiry is within 6 months. Consult an immigration attorney about the proposed deference rule change—your next H-1B extension could face tougher scrutiny."
       },
       {
-        "title": "Your EAD Renewal Risk Just Increased",
-        "insight": "DHS rules ending automatic EAD extensions mean H-1B, L-1, and other visa holders must now actively request extensions rather than relying on passive renewal. Missing deadlines could trigger work authorization gaps. Review your current authorization document status and filing deadlines immediately.",
-        "takeaway": "If you hold an employment-based visa, contact your immigration attorney now to confirm filing deadlines for renewal applications—do not assume your authorization will extend automatically."
+        "title": "Oil Crashes, Your Paycheck Might Not",
+        "insight": "Crude prices fell 6.5% in two days on peace talks optimism, yet airline, gas, and food prices rarely fall as fast as oil does. Employers won't immediately cut costs saved from lower energy; they typically pocket the margin first. Don't count on immediate relief at the pump or grocery store.",
+        "takeaway": "Lock in any variable-rate debt refinancing while rates reflect oil weakness. Build a 2–3 month emergency fund before energy prices stabilize or geopolitical tensions flare again."
       },
       {
-        "title": "Affordability Is Dominating Your Paycheck Choices",
-        "insight": "Polls show voters are making hard trade-offs between medicine and groceries, signaling real household budget pressure despite reported economic growth. This pattern suggests wage growth is lagging inflation, and higher-income earners need to factor rising living costs into negotiation leverage.",
-        "takeaway": "Review your last three months of grocery, utilities, and healthcare spending; use these benchmarks to negotiate salary increases or evaluate job switches offering cost-of-living adjustments."
+        "title": "Crypto Contagion: Not Your Keys, Not Your Coins",
+        "insight": "The $6.3 billion Binance hack—the largest in crypto history—shows that even the world's largest exchange can't guarantee asset safety. Customers faced automatic withdrawal freezes and uncertainty despite Binance's promise to cover losses. Centralized exchanges remain counterparty risk, no matter how large.",
+        "takeaway": "If you hold crypto, move non-trading positions to self-custody (hardware wallet). If you must use an exchange, keep only amounts you're willing to lose or that you're actively trading."
       },
       {
-        "title": "Crypto Contagion Risk Remains Real After $6.3B Binance Hack",
-        "insight": "The largest cryptocurrency theft in history—traced to North Korea—wiped $3.6 billion in user confidence at a single exchange within days, even as the platform covered 90% of losses. Concentration risk in any single custodian is acute; diversification across multiple platforms or self-custody offers protection but requires discipline.",
-        "takeaway": "If you hold cryptocurrency, audit your holdings across platforms; consider moving significant positions to hardware wallets or splitting across multiple regulated custodians rather than concentrating on one exchange."
+        "title": "Midterms Could Reshape Your AI Job Prospects",
+        "insight": "Congress controls H-1B visa caps, visa lottery rules, and AI regulation. A shift in party control could tighten visa sponsorship (particularly targeting Indian workers) or loosen it. Simultaneously, proposed rules ending 'deference' to prior H-1B approvals add uncertainty even before any new law passes.",
+        "takeaway": "If you're in an AI or tech role on a visa or seeking sponsorship, document your value and performance now. Start exploring whether you'd qualify for green card sponsorship or whether a green card timeline is viable in your current company."
       }
     ],
     "ai": [
       {
-        "title": "Parents sue OpenAI after ChatGPT gave dangerous medical advice",
-        "feedTitle": "Parents of woman who died of seizure after ChatGPT misguidance sue OpenAI",
-        "summary": "The parents of a woman who died from an epileptic seizure have sued OpenAI, alleging that ChatGPT provided dangerous medical advice leading to her death. The woman, who was on anti-seizure medication, reportedly followed the chatbot's instructions to taper her dosage without medical supervision. The lawsuit is one of several challenging AI companies' liability for harmful outputs and marks escalating legal accountability in the sector.",
-        "source": "The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ1BpVmV2di1BOHI2NHZrV3RFTWY3LUw1NG5VVklTNVd5WTdPUmp5djEyNHNqNTkyVHpqMHhiR3FsT1BwbjdzZ3hxMXM4VmpCTDNYY2x2cGhrcmlac2lyZXZ1WG1hYi13Y3R3NkpwV0l1RmNEQU1PcEtvZ0dXa3NzM0xHd3Q0cVdZNXpINg?oc=5",
+        "title": "Anthropic reports $17 billion revenue surge before IPO",
+        "feedTitle": "Anthropic Reveals $17 Billion in Revenue as I.P.O. Approaches",
+        "summary": "AI startup Anthropic disclosed $17 billion in revenue for the first nine months of 2026—a 1,100% increase—as it prepares for a highly anticipated IPO. The company also reported substantial losses, with net losses exceeding $100 billion annually and R&D spending that surpassed Microsoft's. The IPO will test investor appetite for AI companies with massive burn rates and uncertain profitability timelines.",
+        "source": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ3N6S25COWwwQWw5UWxwWlFhaG9hekhZZDNvc29sVTlLYTYxUjhOQ2wxb2pYMWJSb01iU1RDeGRSOEpuZENwb00zWnh2cU0zOXEtdG5ZMWFhblBmWHNISGR5SmlWMlB0amk0X2VpNENqMk83cWFQd293WUxJZHAtd3BnMU1FdXZyNm1wbWQ5a1JfYXBuaEI3Zg?oc=5",
         "sources": [
           {
-            "source": "The Guardian",
-            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ1BpVmV2di1BOHI2NHZrV3RFTWY3LUw1NG5VVklTNVd5WTdPUmp5djEyNHNqNTkyVHpqMHhiR3FsT1BwbjdzZ3hxMXM4VmpCTDNYY2x2cGhrcmlac2lyZXZ1WG1hYi13Y3R3NkpwV0l1RmNEQU1PcEtvZ0dXa3NzM0xHd3Q0cVdZNXpINg?oc=5"
+            "source": "Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ3N6S25COWwwQWw5UWxwWlFhaG9hekhZZDNvc29sVTlLYTYxUjhOQ2wxb2pYMWJSb01iU1RDeGRSOEpuZENwb00zWnh2cU0zOXEtdG5ZMWFhblBmWHNISGR5SmlWMlB0amk0X2VpNENqMk83cWFQd293WUxJZHAtd3BnMU1FdXZyNm1wbWQ5a1JfYXBuaEI3Zg?oc=5"
           },
           {
-            "source": "Estonian World",
-            "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMTlCa2U2VF9SMHItTFJQbXppX0xHclM3RXdIUnhIOFUxVWpRR1BXdE5BckllNlhTWWxrZHpGYVJQalU1NmtnM2lzWFNUZmtJZVhRVmR2Nk5GVERDdEJ4TC1WbHZWMjNGMUd0cE5Qb0NnVTZfZ1BCaC1naGc4czFGSnhjOWlKdURJMkVJbG5sOXUzZG1Mc3RqYWhqa2tURnNHYlNmM2lPQk00M1ZaRFFKLU9vcnZMN2pL?oc=5"
+            "source": "The New York Times",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5qTjFEOVBac1NZakxsWVUwbmk2bFNmVldwM3RmOVI0N1ZRS0lMZElyVzBlM0xMLWx1ajdHM3I3Tm1hTGFJQ25pT1pJUndOMmtHZFJjQU9xYXg1c1NUTHNrakYxTzFzZXRCaGNNQ1R0ejZuNmVQR294dzF3?oc=5"
+          },
+          {
+            "source": "Bloomberg.com",
+            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWTF0enloM1ZxYmtfcnZ6b0dsSjhJNnJpOHdNM01SNGdIZDhJUjBITjE1a29ZakRFSmdlQ3FDUWRyUlVneWNNcl9jLVdvNTFvdC1fSkhBSXY4TzhHVkRicDdZU3NncmxhdXVJYWtYczVIVlhlV3pBN01qRkpsN1I5UjBySGg?oc=5"
           }
         ]
       },
       {
-        "title": "Anthropic warns AI could erase entry-level jobs ahead of IPO",
-        "feedTitle": "Anthropic is heading to Wall Street — its CEO warns AI could erase entry-level jobs",
-        "summary": "As Anthropic prepares for its Wall Street IPO, CEO Dario Amodei warned that artificial intelligence could eliminate entry-level positions in many industries. The warning comes as the company values itself at up to $100 billion, though investors are becoming more skeptical of AI spending returns. Anthropic's public warnings about AI's societal impacts represent an unusual posture for a company seeking massive capital injections.",
-        "source": "The Independent Florida Alligator",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaFZSUU51UnJHV090N2VSc3BiT19SWmY2RXItLWNtTnNqcUtnRmNoYTRKR2RsWkZQaXd3cFc3Y0h2Y3BWMjNOWWxtY2xpenZGektsR1k2NWZHYWZFOUw2LW9QUDJSeFJJRS1XdVdOdjVsVi1KbU1iZDEzZmtSQlRTMmZ6T1oxYzVLclRKSnJlMEoxQzJiZjhBWHgyeXRteDJvT3I0MWZKeXpZY3B3eS1nRFVaNU5oTlo0LXJIRkgtblA?oc=5",
+        "title": "New York Times sues Brave browser over content scraping",
+        "feedTitle": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+        "summary": "The New York Times filed suit against privacy-focused web browser Brave, alleging the company scraped copyrighted content and unlawfully distributed it to AI companies including Anthropic and Perplexity. The lawsuit raises critical questions about copyright liability in AI model training. Brave's scraping practices highlight ongoing legal battles over AI training data sourcing.",
+        "source": "TechCrunch",
+        "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
         "sources": [
-          {
-            "source": "The Independent Florida Alligator",
-            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaFZSUU51UnJHV090N2VSc3BiT19SWmY2RXItLWNtTnNqcUtnRmNoYTRKR2RsWkZQaXd3cFc3Y0h2Y3BWMjNOWWxtY2xpenZGektsR1k2NWZHYWZFOUw2LW9QUDJSeFJJRS1XdVdOdjVsVi1KbU1iZDEzZmtSQlRTMmZ6T1oxYzVLclRKSnJlMEoxQzJiZjhBWHgyeXRteDJvT3I0MWZKeXpZY3B3eS1nRFVaNU5oTlo0LXJIRkgtblA?oc=5"
-          }
-        ]
-      },
-      {
-        "title": "OpenAI proposes rebranding data centers as 'compute campuses",
-        "feedTitle": "OpenAI Would Reportedly Like You to Use Its Pleasant New Term for Data Centers",
-        "summary": "OpenAI is reportedly pushing for data centers to be called \"compute campuses,\" a rebrand that aims to soften the image of energy-intensive infrastructure. The company argues the term better reflects the facility's role in AI development. Critics note the proposal reflects data centers' unpopularity due to environmental concerns and suggests semantic framing may be used to ease public resistance to expansion.",
-        "source": "Gizmodo",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR0lSNHluMFlFVW5hU1EzZERpMDVPYV9GUkFUZWdPclUwdW9fRGxQdERBN1hYS3ZrdTh5NGlTNHF2WmRpTmRYU2dHdTFMMWt2U0JNQVlWTE02ZFY1OFBiWDF3aTlvUlVHMFhmYUpabGlOZjhvVnNvRUdkNERzVjVUOHU5b0hhcVpRMVdaaHhDVHdzR2lacUp3WVRzTzV0MDM4dDh3WjVPTTVjYTRUYlE?oc=5",
-        "sources": [
-          {
-            "source": "Gizmodo",
-            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR0lSNHluMFlFVW5hU1EzZERpMDVPYV9GUkFUZWdPclUwdW9fRGxQdERBN1hYS3ZrdTh5NGlTNHF2WmRpTmRYU2dHdTFMMWt2U0JNQVlWTE02ZFY1OFBiWDF3aTlvUlVHMFhmYUpabGlOZjhvVnNvRUdkNERzVjVUOHU5b0hhcVpRMVdaaHhDVHdzR2lacUp3WVRzTzV0MDM4dDh3WjVPTTVjYTRUYlE?oc=5"
-          },
           {
             "source": "TechCrunch",
-            "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/"
-          },
-          {
-            "source": "Business Insider",
-            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaDB2b0M4TF9RNnhlZWxmdFVLWFRGQU1GcTVxcDUwbTVDcThhM3UtclBXU2QyYnp3WjM3MFgxN3JIa1hwbVR4NTVua01Sa25JN1A2X3JDWi0tbGZtLVI2aXBKUHZadWRCRXIzc25BbU94RlJna0F4OXAxX3ZmeC1YS3FQclFhM1hsYTRPQmZsWVBVRUFFNUhpMDhmZ1c?oc=5"
+            "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/"
           }
         ]
       },
       {
-        "title": "Anthropic updates Claude to block video game recreation",
-        "feedTitle": "Anthropic Updates Claude To Stop It From Recreating Existing Video Games",
-        "summary": "Anthropic deployed restrictions in Claude to prevent the AI from recreating existing video games or reverse-engineering game code. The update also blocks basic troubleshooting and legitimate development tasks, drawing criticism from developers who say the sweeping safeguards are overly broad. The move reflects Anthropic's effort to prevent copyright infringement while balancing legitimate use cases.",
-        "source": "Engadget",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRWdaMk1uTzMzRnFaWXdrRVVBTWZHNGp0WDAxR010U0pxM0owYjNzeWd2dHRlLWdEOWZRRjh6YWhkWEtpYjg5cWt6SXBqSGtrU0VhUi1uZzY2eXZqVkpmT04wZXhjWHRBS1NDZDJhbTBrVTJLREoyREhfZXIycjhyUVNmOURIMmMxaXhSSXIyOWlwR0ctOW5oRzZjZEdTV3J0UW9CTUlhdW5UUQ?oc=5",
+        "title": "Anthropic imposes restrictions on Claude game cloning",
+        "feedTitle": "Anthropic clamps down on Claude’s AI video game clones",
+        "summary": "Anthropic added usage rules prohibiting Claude Code from recreating existing commercial video games. The policy aims to limit copyright infringement and IP violations in AI-generated content. However, analysts argue such restrictions face enforcement challenges and will not significantly slow broader AI content copying, as other models lack equivalent safeguards.",
+        "source": "The Verge",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMkIzZ1JjSFM3QmlOMXk0MGFDb0I5MGZiWTVCLUtyU1pSTFYyamdERkM3b3RoLVRfUGlESUlmNUtFVUtfb1kzemJZcHNxekhNdTQ3U0s1MmY2SE9BZVdlZ01BeVEwTXJMU25nRVN3MWJmemozSnpSQXdUSjMzVWhpb1BCNHdFcng3MDBPQm1iNnJCbUFJQ3hQSjN0aDlPUQ?oc=5",
         "sources": [
           {
-            "source": "Engadget",
-            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRWdaMk1uTzMzRnFaWXdrRVVBTWZHNGp0WDAxR010U0pxM0owYjNzeWd2dHRlLWdEOWZRRjh6YWhkWEtpYjg5cWt6SXBqSGtrU0VhUi1uZzY2eXZqVkpmT04wZXhjWHRBS1NDZDJhbTBrVTJLREoyREhfZXIycjhyUVNmOURIMmMxaXhSSXIyOWlwR0ctOW5oRzZjZEdTV3J0UW9CTUlhdW5UUQ?oc=5"
+            "source": "The Verge",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMkIzZ1JjSFM3QmlOMXk0MGFDb0I5MGZiWTVCLUtyU1pSTFYyamdERkM3b3RoLVRfUGlESUlmNUtFVUtfb1kzemJZcHNxekhNdTQ3U0s1MmY2SE9BZVdlZ01BeVEwTXJMU25nRVN3MWJmemozSnpSQXdUSjMzVWhpb1BCNHdFcng3MDBPQm1iNnJCbUFJQ3hQSjN0aDlPUQ?oc=5"
           },
           {
-            "source": "GamesBeat",
-            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU0V2bjh6VHdMUmtKd2VrQUhtS3JxRnowUWxvTXVGTG4tNThFalNfa2pzQXVfWFFERDFiUVowVXg2UW9wc0ZtY2tQY2U2aTRtOVhsNU5nTzhKZHFzdjdIMmw2eE5oYkZwZkl5Sm14RWlDNVJqbEJqN1FaWjFtc0t5OTBWYnUyTlB6UG5VNTczMzAzMzlERmR1RVln?oc=5"
+            "source": "Ars Technica",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeFlHQTh2aFBURDh0Y3hZU1pEUXBVanRWTDBVSmNacWotZjZPMmpXT1dBdTlrT0pVeHpTcFFBQW5nXzNDRkpfZkRHMW0zeVZ3em5BUVhqWlItR1FJOFE4TTlOa1N1cndLZ0RxUjhtcmdYY29peEVPYVpWaWt4UHRGYjhlVFBKX2NmZ2dTRFBwRktSX25aclNKSDNxTDRiTXNVa2pOekNLZw?oc=5"
           },
           {
-            "source": "Game Developer",
-            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbkRTbnBaVVk2ZEkzamZJZXpfMWlpWDJuRXJLa3RnUEI2SGJvYVJrd3dhUWhsRUh0Qi1NS0x1ZnJDTUNsY0FpUkVOaGpraTRzXy1ZV2g1bFhMemdEeWUwZzI1QkxRNExMSmxKUzYyeEEtUzJqTG1nS1NrcGRrWTRuMHhrcHJQQ1B6OFlwbXVjVXoxQjYzUTdJb0NCRFF4Q0lfUmRrd2ZMSXdtS25YR25HVjN2OU52SEp3Sncw?oc=5"
+            "source": "GamesIndustry.biz",
+            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQN1kwaEVjT0ZUcUtveDdXdnNKUUVwMXM4X3AtM2RnR1JyRGU2VUZ6OEFHUEFGUjlkajBYZ2U5LXA1WEhSV1c2aG8ycjQ5R2RrbW80RkM2WVlPYWJLV2RuLTdhYnN5TWRiaVN6R2hmX01fd3lBXzYxMzhhSzJIbjZYQnR6S2EwX3J1VDNvODNlVW5uNDIyT2t6b3VvQQ?oc=5"
           }
         ]
       },
       {
-        "title": "OpenAI cuts funding target by $10 billion amid investor jitters",
-        "feedTitle": "OpenAI Cuts Funding Target by $10 Billion as Investor Jitters Shake AI Markets",
-        "summary": "OpenAI has reduced its latest funding round target by $10 billion, now seeking $60 billion instead of $70 billion as investor confidence in AI spending returns wavers. The cut reflects mounting concerns about AI companies' negative cash flows, rising debt, and uncertainty about when AI infrastructure investments will generate meaningful profits. The pullback signals growing skepticism in venture and institutional funding circles.",
-        "source": "PYMNTS.com",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZFlfRFRVcWY1U2JQWW1wSEpaSEE0NDVYLVRvb21mdnpGRzdnbkh0eW9HSGkxNXhWNkVwX1J1RURXR1QtVG5rTnYyQTY0aEdzN1ZmeVZ1MEt5ZVFXMldQbTh1VEh2OWJQN3dsUTBleUdROTVQaVU5ZzJ5MUI1V0o1Vy1nR1hsanZXN3U2a1BrbzNFZ3RfbDQ0M1ljYllrNzFrOXpUWVZ0Vi1HYnA0N3hqTC1Qb0x5UjJiRzQzampJV3lReFk1VGtsVktfdERWcWNN?oc=5",
+        "title": "42AI emerges from stealth with behavioral world model",
+        "feedTitle": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+        "summary": "AI startup 42AI unveiled a behavioral world model claiming the ability to predict human decisions before they occur, even in novel situations. The company raised $62.5 million in seed funding for the technology. The model represents an emerging category of AI systems designed to forecast and simulate human behavior, raising potential privacy and ethical concerns.",
+        "source": "TechCrunch",
+        "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
         "sources": [
-          {
-            "source": "PYMNTS.com",
-            "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZFlfRFRVcWY1U2JQWW1wSEpaSEE0NDVYLVRvb21mdnpGRzdnbkh0eW9HSGkxNXhWNkVwX1J1RURXR1QtVG5rTnYyQTY0aEdzN1ZmeVZ1MEt5ZVFXMldQbTh1VEh2OWJQN3dsUTBleUdROTVQaVU5ZzJ5MUI1V0o1Vy1nR1hsanZXN3U2a1BrbzNFZ3RfbDQ0M1ljYllrNzFrOXpUWVZ0Vi1HYnA0N3hqTC1Qb0x5UjJiRzQzampJV3lReFk1VGtsVktfdERWcWNN?oc=5"
-          },
           {
             "source": "TechCrunch",
-            "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/"
+            "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/"
+          },
+          {
+            "source": "Unite.AI",
+            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZDZqY0NPUnMtZlhXWENDd3VVUTB2d1NweUk5VU80bDZWNXltZUZRWFNsM0FFSlM5U3NrbTJMeUdleW8yTThUV25qYVlpbDZpQTNxNGpFN3hBM2U2YzE0YVZER1NjU2FLaGdFYlpoaGlqZXJGTThlbGxWWHY1OGd2YlZ5a0U2TDY3RUlB?oc=5"
+          }
+        ]
+      },
+      {
+        "title": "OpenAI merges ChatGPT Chat and Work tabs into single app",
+        "feedTitle": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
+        "summary": "OpenAI announced plans to consolidate ChatGPT's separate Chat and Work tabs into a unified interface. Users' usage allocations will draw from a shared pool after the consolidation. The change aims to simplify the user experience but also reflects OpenAI's efforts to streamline product complexity as it competes with other AI assistants in the market.",
+        "source": "TechCrunch",
+        "link": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+        "sources": [
+          {
+            "source": "TechCrunch",
+            "link": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/"
+          },
+          {
+            "source": "9to5Mac",
+            "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeGlCenJEX204dG41bkZVTjZZaFd1a3lpMXpLYmUyY1BmclNYWkQzeEI2Y2dreDg5eVRvVDZWOTJ1b0hrNWNVWHlBdzRkTTBscHd4LVVtcTFNUmhfeXJjVS1CQU5aNHhTRDNEUkc1ZFJ2VFVMVklUZEdwMVV5OG4zTkczcTJDd1ExbUx5ZWprNE1IT2JVTFZHSjkxZzhqT2pGM2YyYUc5RkNKLW95VTFWMnJ6b3pXZGctWmc?oc=5"
+          },
+          {
+            "source": "ZDNET",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE80SkI4ckdrTkd5M0Ruc2VBRHp0MzdIUFdSMWRwSWo2dk9aaDdUZ1gtLXpKUDBuRF84RGl2bVh6bkNyTGZHSGNZLWRkQ3QwdVlISXY4M3EzTkxScDU4bmtqQllvYUNtOS1YbDZWUGdDWXBjTHNmMDNmVg?oc=5"
           }
         ]
       }

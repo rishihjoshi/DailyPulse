@@ -1,67 +1,71 @@
 {
-  "generatedAt": "2026-11-04T18:20:12.867Z",
+  "generatedAt": "2026-11-05T02:57:08.165Z",
   "location": "St. Charles, MO",
   "weather": {
     "high": 62,
-    "low": 52,
+    "low": 49,
     "highC": 17,
-    "lowC": 11,
+    "lowC": 10,
     "precip": 6,
     "wind": 12,
     "sunrise": "6:32 AM",
     "sunset": "4:58 PM",
-    "now": 54,
-    "nowLabel": "Overcast",
+    "now": 52,
+    "nowLabel": "Clear",
     "alerts": [],
     "label": "Overcast",
     "emoji": "☁️"
   },
   "watch": [
-    "Senate leadership elections next month: Schumer's reelection as Democratic leader faces dissent from newly elected senators; outcome shapes legislative priorities.",
-    "Iran negotiations and US military posture: Trump signals no immediate strikes but retains option; global oil and equity volatility hinges on escalation direction.",
-    "H-1B visa and immigration rule changes: Democratic Congress may block Trump's proposed $100,000 fee and deference-removal rules; watch for legislative pushback in lame-duck session."
+    "Trump's next moves on Iran: whether administration signals negotiation or military escalation",
+    "Democratic Congress efforts to advance AI regulation and potential tech industry pushback",
+    "Oil price stability below $100 and implications for Fed rate cuts and global growth expectations"
   ],
   "tabs": {
     "local": {
       "items": [
         {
-          "title": "Democrats win control of US House, major rebuke to Trump",
-          "feedTitle": "Democrats win control of U.S. House, in major rebuke to Trump",
-          "summary": "Democrats have secured control of the U.S. House in addition to the Senate, delivering a decisive rebuke of Republican governance under President Trump. This represents a significant reversal after Republicans held the majority, ushering in a new era of potential congressional resistance to the administration. The results reflect voter dissatisfaction with GOP performance and priorities.",
+          "title": "Democrats secure sweeping control of US Congress",
+          "feedTitle": "Midterm voters rebuke Trump, handing Democrats both chambers of Congress",
+          "summary": "Voters delivered a decisive rebuke of President Trump and his party in the midterm elections, handing Democrats major victories in both chambers of Congress and dramatically reshaping the balance of power in Washington. Democrats flipped Republican-held Senate seats in Texas, Ohio, and other GOP strongholds, and expanded their House majority. Trump enters a lame-duck phase, promising both veto power and cross-party cooperation.",
           "source": "PBS NewsHour",
-          "link": "https://www.pbs.org/newshour/politics/democrats-win-control-of-the-u-s-house",
+          "link": "https://www.pbs.org/newshour/show/midterm-voters-rebuke-trump-handing-democrats-both-chambers-of-congress",
           "sources": [
             {
               "source": "PBS NewsHour",
-              "link": "https://www.pbs.org/newshour/politics/democrats-win-control-of-the-u-s-house"
+              "link": "https://www.pbs.org/newshour/show/midterm-voters-rebuke-trump-handing-democrats-both-chambers-of-congress"
             },
             {
               "source": "NPR",
-              "link": "https://www.npr.org/2026/11/03/g-s1-149526/2026-midterms-congress-balance-of-power"
+              "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaDZ3S01xbURxYTZPVmdnWko4YnFHS011NEhPN3FmeWZMa21INm1BVUlKT0VXby1aZFVobm1Ya0EzQXRpX1ozZG9WVHpnTWpfaG1WbGxxX3ZSeHlZVlp1cGprVTVxRndkLTByREdKSUtOLWRCN3dMTi1RSTUwZGp2TlAyRl9paHktd0haaUZ2NkExR203SG04ZUVPTHlKOU0?oc=5"
             }
           ]
         },
         {
-          "title": "Democrats win governorships in Texas, GOP-controlled states",
-          "feedTitle": "Democrats win governorships in Texas and other GOP-controlled states in rebuke to Republicans",
-          "summary": "Democrats achieved historic victories in gubernatorial races across traditionally Republican states, including Texas, for the first time in decades. These wins give Democrats a majority of governorships nationwide for the first time in two decades, strengthening their ability to resist Trump's second-term agenda at the state level. The shift represents a dramatic change in the political map.",
-          "source": "PBS NewsHour",
-          "link": "https://www.pbs.org/newshour/politics/democrats-win-governorships-in-texas-and-other-gop-controlled-states-in-rebuke-to-republicans",
+          "title": "Key demographic shifts powered Democrats' midterm victory",
+          "feedTitle": "5 takeaways on the demographic shifts that powered the Democrats’ midterm victory",
+          "summary": "Several demographic groups have shifted toward Democrats since Trump's 2024 victory over Harris. Latino voters, suburban voters, and other key groups moved away from Republicans, contributing to the Democratic landslide. These shifts suggest durable changes in voter allegiance rather than one-time swings.",
+          "source": "The Hill",
+          "link": "https://thehill.com/homenews/analysis/6199809-five-takeaways-on-the-demographic-shifts-that-powered-the-democrats-midterm-victory/",
           "sources": [
             {
-              "source": "PBS NewsHour",
-              "link": "https://www.pbs.org/newshour/politics/democrats-win-governorships-in-texas-and-other-gop-controlled-states-in-rebuke-to-republicans"
+              "source": "The Hill",
+              "link": "https://thehill.com/homenews/analysis/6199809-five-takeaways-on-the-demographic-shifts-that-powered-the-democrats-midterm-victory/"
             },
             {
-              "source": "KXAN Austin",
-              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSm5EMk9WUEh2MTVVSkxERmxoWHJMUjlfblVEXzJjYlpBVFV3bExCNFVwOEYzSzVUSHMtZlVxRldGVlEtdjhRWF9rLWk3QTI2QURjNnJDekc3UXZ3SEpIRDE3Tkh0TTUyVmkwQnQ4NUJyanJOcHFUTXNqS2lfOHNlbnk4blRYZzJqdjZRalpxUm1NYU5zWDBtQ2c1QjlvOV9fV3FsT2dn0gGrAUFVX3lxTE53U1JjdmhRRTA5Z3NQVHV5eE5QZXk4d1dtUVRNMS11LV9pdllfTklZOC01WFdHUXlQb0VUTkVucFRaUFVKMVMtZnplQzhPRFhHeE1fckNSOU5rS0pSeHZNNklqb0xWU0FxeUpKTXM2Z1J4TWk0T3l3bno2TTVUNnFhQ0hKZEV1dlU0N1ZoQmdvQlAtaXNlZ3V3emFleUh1Z2FLMUJseHRNemQ4cw?oc=5"
+              "source": "PBS NewsHour",
+              "link": "https://www.pbs.org/newshour/show/how-the-latino-shift-to-democrats-helped-turn-texas-blue"
+            },
+            {
+              "source": "The New York Times",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4wTk54LThiOVJPOXVkNUlpckhuRTNMc2xtaWhNRzRsSEkyM01BQ2Z6eU4ycTdkUFE3ZWF5d1R0YkNYd1JVR2h3anFWX1J6QUJhTTNBU0hvb2RGdkxld05QNUp5NDg0QWc0aFJrelhFdDhtbk5U?oc=5"
             }
           ]
         },
         {
-          "title": "Record number of Black governors elected in midterms",
-          "feedTitle": "Record number of Black governors elected in Tuesday’s midterms",
-          "summary": "Tuesday's midterm elections saw a record number of Black governors elected, including the nation's first Black woman governor and first Native American woman governor. This historic outcome reflects significant demographic shifts in voting patterns and represents major progress in representation at the executive level. The victories signal evolving voter preferences across multiple states.",
+          "title": "These 10 candidates for governor made history in the 2026 election",
+          "feedTitle": "These 10 candidates for governor made history in the 2026 election",
+          "summary": "Summary unavailable for this update.",
           "source": "NPR",
           "link": "https://www.npr.org/2026/11/04/nx-s1-6028546/governor-candidates-history-election-2026",
           "sources": [
@@ -70,75 +74,87 @@
               "link": "https://www.npr.org/2026/11/04/nx-s1-6028546/governor-candidates-history-election-2026"
             },
             {
-              "source": "The Washington Post",
-              "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdFRzMUxnNXVha0EtLW5BWk01R0RHTnRWTTdSNmhndS16VXRBSWh3am5zZDZVWXpGZk5yVjYyUFZvWG9uY3JUSjdqamZqVVhaQ3NpaTRRbllYOU1nUlNLMlRNM2JWaEhESzNxZUw3bnhWM2xTRFUwYnltYzN5ZHZITlpBU0tLUUM0X0l5YTNPSDNfcGdzUVN0d3Z4ZTQ3ZnhoT2JuMA?oc=5"
+              "source": "PBS NewsHour",
+              "link": "https://www.pbs.org/newshour/show/new-mexicos-deb-haaland-on-making-history-as-first-native-american-woman-elected-governor"
+            }
+          ]
+        },
+        {
+          "title": "Democratic Senate set to block Trump judicial appointments",
+          "feedTitle": "Democratic Senate set to thwart Trump’s Supreme Court and judicial appointments",
+          "summary": "With Democrats now controlling the Senate, they are positioned to thwart Trump's attempts to fill Supreme Court and lower court vacancies. The shift in Senate composition significantly constrains the president's ability to reshape the judiciary during his remaining time in office.",
+          "source": "NBC News",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNDhnVTdwQk0zTTl4YWNGeTh2Qkx3dzVJTU1PNWpjbmlqQ2c2UWJKM3poZ2M4X1lYeThRSE5kXy15ckZjTXRWUDBHNjlSc05hWXNpeEZvY1FLeDVMMWliak0zSDBlVmdVQnloUzFWLWZ4VlFubUtGNEh4WnFMMW1LOXQ3RHQwNkdhMlZ3Tm1LNXdhdGp4R2t0alZPMW9iYnZGOFV1d2lSVXV3aHBmSW1ucERPOW5LT3ktRVA5RnYwcmY0SG1MZUtR?oc=5",
+          "sources": [
+            {
+              "source": "NBC News",
+              "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNDhnVTdwQk0zTTl4YWNGeTh2Qkx3dzVJTU1PNWpjbmlqQ2c2UWJKM3poZ2M4X1lYeThRSE5kXy15ckZjTXRWUDBHNjlSc05hWXNpeEZvY1FLeDVMMWliak0zSDBlVmdVQnloUzFWLWZ4VlFubUtGNEh4WnFMMW1LOXQ3RHQwNkdhMlZ3Tm1LNXdhdGp4R2t0alZPMW9iYnZGOFV1d2lSVXV3aHBmSW1ucERPOW5LT3ktRVA5RnYwcmY0SG1MZUtR?oc=5"
             }
           ]
         },
         {
           "title": "Hakeem Jeffries poised to become first Black House Speaker",
           "feedTitle": "Hakeem Jeffries is poised to become the first Black speaker of the House",
-          "summary": "New York Democrat Hakeem Jeffries is positioned to become the first Black Speaker of the House following Democrats' takeover of Congress. As speaker, he would be second in presidential succession after the vice president. Jeffries has vowed to focus on affordability and holding the administration accountable.",
+          "summary": "New York Democrat Hakeem Jeffries is set to become Speaker of the House as Democrats take control, making him second in the presidential line of succession after the vice president. He has vowed to focus on affordability and holding the administration accountable.",
           "source": "NPR",
           "link": "https://www.npr.org/2026/11/04/g-s1-150030/hakeem-jeffries-speaker-of-the-house-midterms",
           "sources": [
             {
               "source": "NPR",
               "link": "https://www.npr.org/2026/11/04/g-s1-150030/hakeem-jeffries-speaker-of-the-house-midterms"
-            }
-          ]
-        },
-        {
-          "title": "Democrats plan Trump investigations with subpoena power",
-          "feedTitle": "Back in the majority, Democrats have plans for a long list of Trump investigations",
-          "summary": "With control of Congress, Democrats now have the ability to subpoena records and compel testimony on multiple fronts. Potential investigations could target the Epstein files, Elon Musk, the Iran war, and Trump's business interests, marking a significant shift in oversight capabilities. This represents a major check on executive power after years of Republican control.",
-          "source": "NPR",
-          "link": "https://www.npr.org/2026/11/04/g-s1-150276/2026-midterms-democrats-investigations",
-          "sources": [
+            },
             {
-              "source": "NPR",
-              "link": "https://www.npr.org/2026/11/04/g-s1-150276/2026-midterms-democrats-investigations"
+              "source": "Axios",
+              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQjJiV21qdkJkNkZYQWtNZHRlRnV1RkFJMkE2YWhnSWxzNDUxQ2E3cHhLZ252b1VpY0ZlU3VpV2VlQjRDOUc3cERna1lJNnA3NEQ0YkNTb2ZCTDdNWmxwQk9wZ29jLW5KblZaSnVMUVJVeV9QckV1eHJxUGFQX1RKSWR4djc2QQ?oc=5"
             }
           ]
         }
       ],
       "stlouis": [
         {
-          "title": "Jake Zimmerman wins St. Louis County executive race",
-          "feedTitle": "Jake Zimmerman wins St. Louis County executive race",
-          "summary": "Jake Zimmerman won election as St. Louis County executive in the midterm voting. The race outcome reflects local voter preferences in Missouri's largest metro area and affects governance of the county's 1 million residents. This represents a significant local electoral shift.",
+          "title": "Missouri Democrats achieve best election results of century",
+          "feedTitle": "7 takeaways from the blue wave that Missouri Democrats rode to best election of 21st Century",
+          "summary": "Missouri Democrats rode a blue wave to their strongest electoral performance in the 21st century, gaining significant legislative clout in the state. The results reflect voter sentiment against Trump and his policies, with implications for state political power dynamics.",
           "source": "STLPR",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMzBWWXhSYzZzOVRycnhNdkw5MXlrYU1jQUJvYlozR2k4V1BkNmV5WXItamFSWnJYYW9EOFp6RlpjX0w0T1NoeVpFbi1oSzI3MU5uTmxJZ3BITk9fMjk5SVhDSjFtT01Ycm9yMkMxNERZem5yc3pzbFMxUm4tQ2htaVpJTXRoQk5WWElyTmVfVFhkRU5YS1lnMGlKMnVXbE55V0E?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVUFSN3FSX0wyWXl5VVNuWEVrYm50bDM3anZyTGpORTVQcDZYY1AycmRUamI5R0F3ZlVTOXJreFVBa1BKVnpaWnRMMnNkQkpCdGNLMDJUSzVEQm5faGdUcDgzNHFHUGVqSzhXSDVwZVFrVy1DNkV0N0kteXBCUE5KVVA4U2R0cW83MnRoVmxKMF9IVUZ4ZjI1a1JXbXczcDVJZzNHczctc1JnWFlGeDdWQjJyY19waU5lWHpkNThWLU5ERzZHUlNXaTFzZWlCZ3FZbTI4X3hKTGgzc1ZwVGwtOG4xdjJodDA?oc=5",
           "sources": [
             {
               "source": "STLPR",
-              "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMzBWWXhSYzZzOVRycnhNdkw5MXlrYU1jQUJvYlozR2k4V1BkNmV5WXItamFSWnJYYW9EOFp6RlpjX0w0T1NoeVpFbi1oSzI3MU5uTmxJZ3BITk9fMjk5SVhDSjFtT01Ycm9yMkMxNERZem5yc3pzbFMxUm4tQ2htaVpJTXRoQk5WWElyTmVfVFhkRU5YS1lnMGlKMnVXbE55V0E?oc=5"
+              "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVUFSN3FSX0wyWXl5VVNuWEVrYm50bDM3anZyTGpORTVQcDZYY1AycmRUamI5R0F3ZlVTOXJreFVBa1BKVnpaWnRMMnNkQkpCdGNLMDJUSzVEQm5faGdUcDgzNHFHUGVqSzhXSDVwZVFrVy1DNkV0N0kteXBCUE5KVVA4U2R0cW83MnRoVmxKMF9IVUZ4ZjI1a1JXbXczcDVJZzNHczctc1JnWFlGeDdWQjJyY19waU5lWHpkNThWLU5ERzZHUlNXaTFzZWlCZ3FZbTI4X3hKTGgzc1ZwVGwtOG4xdjJodDA?oc=5"
+            },
+            {
+              "source": "St. Louis American",
+              "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbmJhOFJKcHlkOGJyYnFEU0h0ZV9veG1SVUdncGo5dXZ3ZDNHTUhEcVpRWHpjSVR4SmdKWnhTUTZaczdvSkloLThJRkk1SE9GTnVkd3lad2V4czVycWhMVk9YZVJ6bmwxQ0E0UlJZOEoyQW95NS1sUGl4Z0dKVFN0M3JSQnJ5TmE0UVNrVnBBbDJEMXVXRXRpbw?oc=5"
+            },
+            {
+              "source": "The Business Journals",
+              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeDZZSkFRVjhJdFJGSDd1WXJZc3A5UWFTYmQyOXRPUDM5cUhPNnI0eUI5eklxN2Qxa0xINFc1bDVaV3BkOUJ2VU5hUzVBTVNfeFpXWHdjdnk0c0t4eU5iYndaUjVjZlpJM3VWZG1PX2drbHctY3ZYOTFvX1NySGtBNUlKRjd6eWZ2WHYzdEUwVGh5TktMYnNQemE4RC1NOHhoZTVOMjdidmM?oc=5"
             }
           ]
         },
         {
-          "title": "Missourians reject Amendment 3, keeping abortion legal",
-          "feedTitle": "Missourians reject Amendment 3, keeping abortion legal in the state",
-          "summary": "Missouri voters rejected Amendment 3, which would have restricted abortion access in the state. This decision keeps abortion legal under current state law, defying Republican legislative efforts to impose restrictions. The outcome reflects voter sentiment on reproductive rights in a key battleground state.",
-          "source": "STLPR",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSk9RdTBSV0ZUM2cwVTdqeFFfWnp4WENjcmxwV2FpMGp2U3RzUVJLbUlEaXRmaTNGU2piajVReUtjbU83OC04VThxYlY3MEdFM0x5RUVRdElXYnpNbXBmTndsNVNoZ0ZnUUoyMXV4TFhyWW5kWXVfUGVrU3V5NHBGYkp1SkJWMzAyVkx0OUdGeUhqYmdCWThKak5MWQ?oc=5",
+          "title": "St. Louis expands tornado home repair assistance program",
+          "feedTitle": "St. Louis expands tornado home repair program, preliminary approval for 1,200 more homes",
+          "summary": "St. Louis has expanded its tornado home repair program with preliminary approval for assistance to 1,200 additional homes affected by prior storms. The expansion reflects ongoing recovery efforts and municipal commitment to residents impacted by severe weather.",
+          "source": "FOX 2",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQci1YNm41REl1V05xT2JBa3B2bFBnVk5NbVNEcXZvVXZ1QmYza2llTzdYQTNsSkkwQXJjLVdJczNfOExlMHBxNkVUa0g3ZXVEX2wxcUdMbmZmaV9qVTJnOFFjT0cyRWVWVDBsbTEwclZmTUJHLVhMQ1VhMlM1eWVOcnJiZzM3eWRVS05vdElJLWFESGY4OXpKb0g0QldGTWYwSWRxME5fdHYtMk1DZl83M3hVb0d4YUtsamNfUdIBwgFBVV95cUxPYnM4ZS1wSllIN19tOHlDaG5WaVl5LTdBQ2xLZDhpUVBuNzg2emZEYnV2MktoNGtSV2w4RTd2aVYwUVEtbGV3RHJyN0RhMHVjUnRfXzFXaFdwdlJlTEFPM1pvU0JmZmpYX254ak1Xemx3SDRDcHVMQmJ4RENubmZBUnhCQ0ZzSkc3YjQxTV92V1ZybHM3bjR4SDFFTi1LYkc4OVAtdTNZaXF6OWlDQnROSmtRZjRuOXJCcHpSTWpCOWZhUQ?oc=5",
           "sources": [
             {
-              "source": "STLPR",
-              "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSk9RdTBSV0ZUM2cwVTdqeFFfWnp4WENjcmxwV2FpMGp2U3RzUVJLbUlEaXRmaTNGU2piajVReUtjbU83OC04VThxYlY3MEdFM0x5RUVRdElXYnpNbXBmTndsNVNoZ0ZnUUoyMXV4TFhyWW5kWXVfUGVrU3V5NHBGYkp1SkJWMzAyVkx0OUdGeUhqYmdCWThKak5MWQ?oc=5"
+              "source": "FOX 2",
+              "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQci1YNm41REl1V05xT2JBa3B2bFBnVk5NbVNEcXZvVXZ1QmYza2llTzdYQTNsSkkwQXJjLVdJczNfOExlMHBxNkVUa0g3ZXVEX2wxcUdMbmZmaV9qVTJnOFFjT0cyRWVWVDBsbTEwclZmTUJHLVhMQ1VhMlM1eWVOcnJiZzM3eWRVS05vdElJLWFESGY4OXpKb0g0QldGTWYwSWRxME5fdHYtMk1DZl83M3hVb0d4YUtsamNfUdIBwgFBVV95cUxPYnM4ZS1wSllIN19tOHlDaG5WaVl5LTdBQ2xLZDhpUVBuNzg2emZEYnV2MktoNGtSV2w4RTd2aVYwUVEtbGV3RHJyN0RhMHVjUnRfXzFXaFdwdlJlTEFPM1pvU0JmZmpYX254ak1Xemx3SDRDcHVMQmJ4RENubmZBUnhCQ0ZzSkc3YjQxTV92V1ZybHM3bjR4SDFFTi1LYkc4OVAtdTNZaXF6OWlDQnROSmtRZjRuOXJCcHpSTWpCOWZhUQ?oc=5"
             }
           ]
         },
         {
-          "title": "Democrat Wellman topples Wagner in Missouri's 2nd District",
-          "feedTitle": "Wellman topples Wagner to represent Missouri’s 2nd Congressional District",
-          "summary": "Democrat Wellman defeated Republican Wagner to represent Missouri's 2nd Congressional District, flipping what was previously a GOP seat. This victory reflects the broader Democratic wave affecting the St. Louis region and represents a significant shift in regional representation in Congress.",
-          "source": "STLPR",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb3ZKd20xaVdaR05rOVJFMl96VF9qQThseFEyMWdGeVliY05McDFDYWNaVGNfS2lFcmZIdWZqcnZkSjVYdmxoOVdJd216cWtRc0l6NFBVU2h5azV1eC1URXoyOGI5YXk5TE42MDVIUVpUZ09adjgwRnRyTFNwczAzNk1weXpMeTNJYVAzMHNXQy1YNU5QOUxKUGpNVlltNUYyaEVKRnhNdWtWdUstX3RYWWQ3NUt0NlkxUXI3M1ZFOEZZUEJCdzl2Tg?oc=5",
+          "title": "St. Louis police drone unit responds to first 911 call",
+          "feedTitle": "St. Louis police drone unit responds to first 911 call hours after program approval",
+          "summary": "Hours after receiving program approval, St. Louis's new police drone unit responded to its first 911 call, marking the beginning of operational deployment for the technology. The program is intended to enhance emergency response capabilities.",
+          "source": "KMOV",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOTBTRnc0SDZPa2kwVlZ4ZE14aTlNWjRkeDZZZ1NCMzhKY0piSDZhOVFxcjd0azBUWUxROEMzZ2JqU2YwQnY3MTFqeXNvZzI1eDh5RkZSTVdFeDcxME82b1d4dE9IcDZUOXZDY3hEN2F5TjlZRWRtX2FQZjVOMXQ4X3JZR09hTnd3QXNWYl9TVXRscDJjYXFBUG42bUE0UmkxTlN6Ui1WR00zcUc2WG9uTHliLS1UOHFCd2tB0gHPAUFVX3lxTE1Hc0E0UGRwWGUtN3hiLTR2amZ6eFJuYTBuRXkzSnl2Zl9jcmU1VlpnQl8tb2o0TzUyTDA4Wk44TkRVbnRSaXVQYi13Y1ZPazRtdlBOaDhpZWFRZlRPZ0lCWVJPWlFidEk1ZGljTUNrZTdSR3NEaXlsa1B3RXhhRTNyLVRMaTdZSkFmLTAzV0FKT1BBOTlnY19oLVltb1VpZnpURjRSdDRGcGI0NzJMdTdYQk1IVTdOOXBKdUI3NkhiQXU2ajJYeW5YaHBGSFVYbw?oc=5",
           "sources": [
             {
-              "source": "STLPR",
-              "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb3ZKd20xaVdaR05rOVJFMl96VF9qQThseFEyMWdGeVliY05McDFDYWNaVGNfS2lFcmZIdWZqcnZkSjVYdmxoOVdJd216cWtRc0l6NFBVU2h5azV1eC1URXoyOGI5YXk5TE42MDVIUVpUZ09adjgwRnRyTFNwczAzNk1weXpMeTNJYVAzMHNXQy1YNU5QOUxKUGpNVlltNUYyaEVKRnhNdWtWdUstX3RYWWQ3NUt0NlkxUXI3M1ZFOEZZUEJCdzl2Tg?oc=5"
+              "source": "KMOV",
+              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOTBTRnc0SDZPa2kwVlZ4ZE14aTlNWjRkeDZZZ1NCMzhKY0piSDZhOVFxcjd0azBUWUxROEMzZ2JqU2YwQnY3MTFqeXNvZzI1eDh5RkZSTVdFeDcxME82b1d4dE9IcDZUOXZDY3hEN2F5TjlZRWRtX2FQZjVOMXQ4X3JZR09hTnd3QXNWYl9TVXRscDJjYXFBUG42bUE0UmkxTlN6Ui1WR00zcUc2WG9uTHliLS1UOHFCd2tB0gHPAUFVX3lxTE1Hc0E0UGRwWGUtN3hiLTR2amZ6eFJuYTBuRXkzSnl2Zl9jcmU1VlpnQl8tb2o0TzUyTDA4Wk44TkRVbnRSaXVQYi13Y1ZPazRtdlBOaDhpZWFRZlRPZ0lCWVJPWlFidEk1ZGljTUNrZTdSR3NEaXlsa1B3RXhhRTNyLVRMaTdZSkFmLTAzV0FKT1BBOTlnY19oLVltb1VpZnpURjRSdDRGcGI0NzJMdTdYQk1IVTdOOXBKdUI3NkhiQXU2ajJYeW5YaHBGSFVYbw?oc=5"
             }
           ]
         }
@@ -147,22 +163,47 @@
     "world": {
       "items": [
         {
-          "title": "Seismic shift': World reacts to US midterm election results",
-          "feedTitle": "‘Seismic shift’: World reacts to US midterm election results",
-          "summary": "International observers describe the US midterm results as a 'seismic shift' with major implications for global affairs. The Democratic takeover of Congress alters the trajectory on Iran policy, Israel-Palestine relations, Ukraine support, and trade negotiations. Foreign governments and analysts are recalibrating expectations for US foreign policy under divided government.",
+          "title": "Trump blames Iran war for Republican midterm losses",
+          "feedTitle": "Trump blames Iran war for midterms losses",
+          "summary": "President Trump acknowledged that the war in Iran likely contributed to Republican setbacks in the midterm elections, conceding a major political liability. The admission reflects voter rejection of the conflict and suggests possible policy recalibration ahead.",
           "source": "Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcmlQcUFmZnRoZzJhRmFYd0JkMXhYU3kyLWxqOV9uYnlUeEVkdGRCZDhXZEhMYkJ6eHI0TUs1T05rSXJEc01PbUJYU2dXczhsYW4zVGJSUlNqTF9ENEY0anRkcGlIMy1na3N2NlpSTHdreGNtaHM3NWRRZkd3UUJJQzVrX2pIQ0luMko4Rk9MWk5XQXlhWG1UeFJNRUVYNnPSAaQBQVVfeXFMUHdnaUVOZEx4S2F3ZTJnVTZLUmM5Z1RpRE9fSG9DWDNOZTEyNEdkU3NkZ3NIMGdLdEpFaXZRNWxTbDU1OEQ2WUpwbUx5WEsyb1lKcWRYcHU4T3k1N1huTWpCQWpPeThQVXE4LXZQU09mMTZFcE5pWnQ1TTR4TnRqNDBJZXBMTmFRNWJJYVJwNllheXZDSXBiUzQxMzhVcUZEVG1lS3M?oc=5",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-blames-iran-war-for-midterms-losses?traffic_source=rss",
           "sources": [
             {
               "source": "Al Jazeera",
-              "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcmlQcUFmZnRoZzJhRmFYd0JkMXhYU3kyLWxqOV9uYnlUeEVkdGRCZDhXZEhMYkJ6eHI0TUs1T05rSXJEc01PbUJYU2dXczhsYW4zVGJSUlNqTF9ENEY0anRkcGlIMy1na3N2NlpSTHdreGNtaHM3NWRRZkd3UUJJQzVrX2pIQ0luMko4Rk9MWk5XQXlhWG1UeFJNRUVYNnPSAaQBQVVfeXFMUHdnaUVOZEx4S2F3ZTJnVTZLUmM5Z1RpRE9fSG9DWDNOZTEyNEdkU3NkZ3NIMGdLdEpFaXZRNWxTbDU1OEQ2WUpwbUx5WEsyb1lKcWRYcHU4T3k1N1huTWpCQWpPeThQVXE4LXZQU09mMTZFcE5pWnQ1TTR4TnRqNDBJZXBMTmFRNWJJYVJwNllheXZDSXBiUzQxMzhVcUZEVG1lS3M?oc=5"
+              "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-blames-iran-war-for-midterms-losses?traffic_source=rss"
+            },
+            {
+              "source": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "source": "CNN",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdmRtNUxIYTJJb2ZOaEtKMGMzbjRmX0hwSk5YNXpsbHdqSzluVW5udGFObGpuVnh1VGllcWVBdXlhZExtNlE0Mi1aY1V0MktvYkpCU3EwM0ZfS2d4Q0lNMGxrRG1kZzRYZEZoZkswS2Q0RGx6ZTczT3pkUXpCeV82VVZB?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Israel's Herzog accepts election results, opens government talks",
+          "feedTitle": "Israel’s Herzog accepts vote results, opens talks on forming a government",
+          "summary": "Israeli President Isaac Herzog accepted the certified results of parliamentary elections and began consultations with party representatives on forming a new government. The move dealt a blow to Netanyahu's efforts to discredit the elections, in which his coalition lost its governing majority.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/5/israels-herzog-accepts-vote-results-opens-talks-on-forming-a-government?traffic_source=rss",
+          "sources": [
+            {
+              "source": "Al Jazeera",
+              "link": "https://www.aljazeera.com/news/2026/11/5/israels-herzog-accepts-vote-results-opens-talks-on-forming-a-government?traffic_source=rss"
+            },
+            {
+              "source": "The Guardian",
+              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb3QwdjV0RU9FejhJUm9tRjZNNGVobHZKaGhONTFISjFOUUNqaDV0c2E1SEwwY0NpSGtCanNFUFRQc1BOeWQyMWx1emJvWkdxM0w3dlJHckpQeU4tOUhJS0lHZGV6RG1rUU5ZZXh2X19fSFJRaTJBU2M5UkxCRTFpWUJ3d3dGTWpNYjlaUEs1TWU2NDJYMkZlWGdKNG1nSDRqaW5rRVNTWnVQMjBlVVlZ?oc=5"
             }
           ]
         },
         {
           "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
           "feedTitle": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-          "summary": "Ukraine released bodycam footage purporting to show a Russian double-tap bombing attack on a village where at least 40 people were killed and another 30 may still be under rubble. The tactic of striking the same location twice—to maximize civilian casualties among first responders—is documented as a war crime under international law. Ukraine's military says this is one of the deadliest attacks of the war.",
+          "summary": "Summary unavailable for this update.",
           "source": "BBC",
           "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
           "sources": [
@@ -171,51 +212,50 @@
               "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "source": "Reuters",
-              "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTnJMX1lSSDlPU0otVy01QlBuQzZyUm5LWlpyMDM3QVlGcU5BczEyYUh6LWlJakluTEtTSVdLZFhfUERZQ3JPbEdGc1cyR2dlWlp4dC1wbDdvdXdMbWJjRUdmSDl2Y2VNNkxPS1U1TDB6WjJMZTlRdV9hSy05OWVPTVlfTWRQVC1RbExnWUV1eWl1bmpvVWR6QXgtcHhSbHRoUWNXUjhIb1FpM1RuRm00OFVKLVgtZ1hIS2g2dmdlbl8zdw?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "British healthcare worker with Ebola evacuated to UK",
-          "feedTitle": "British healthcare worker with Ebola to be evacuated from DRC to UK, document shows",
-          "summary": "A British healthcare worker infected with Ebola is being medically evacuated from the Democratic Republic of the Congo to Britain for specialist treatment, according to official documents. The patient is in stable condition and expected to arrive in the UK on Wednesday or Thursday. This marks a significant cross-border medical intervention during an active outbreak.",
-          "source": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows",
-          "sources": [
-            {
-              "source": "The Guardian",
-              "link": "https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows"
-            }
-          ]
-        },
-        {
-          "title": "French blood banks hacked, temperatures raised to dangerous levels",
-          "feedTitle": "French blood banks hacked in latest cyber-attack on Europe",
-          "summary": "France's national blood service reported that hackers accessed control systems and boosted temperatures at three cold stores stocking vital blood products to dangerously high levels. The incident is part of a wider wave of cyberattacks targeting European refrigeration infrastructure across multiple countries. This disruption threatens blood supply chains critical for emergency medical care.",
-          "source": "The Guardian",
-          "link": "https://www.theguardian.com/technology/2026/nov/04/france-national-blood-service-hack-cyber-attack-europe",
-          "sources": [
-            {
-              "source": "The Guardian",
-              "link": "https://www.theguardian.com/technology/2026/nov/04/france-national-blood-service-hack-cyber-attack-europe"
+              "source": "Al Jazeera",
+              "link": "https://www.aljazeera.com/news/2026/11/4/ukraine-raises-death-toll-from-russian-strike-on-zaporizhia-to-40-people?traffic_source=rss"
             },
             {
-              "source": "CNBC",
-              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE42WXhHNmRqY0xJTERfSEhVWnFLc2pXMDRFc0ZsZjlqaDdrVWhWNEVHTm41UkVYU3lla0NBU1p3SEtlY2pYbndEbG9PQUxzUkZKSHprVXQtMUd0blVGNDd4TkJZZTg3SmdFNjZ4OEhIaU9kZ3NXLXFZ0gF8QVVfeXFMT3RpdTdIMnU1eWRiNWJLWEVOQW1nMzFYQ2tHU3VEZkZkQkEtV1p0MjdJVmVtZVRaekdMb1JRVjU4U0x2LVNRcnZiM0xQNTlZNmxkSkVjMG5iNlg5N0ZuY1VibDVSeDZXUTVCbldtZUhlaFA0LUFHbkplT1E3aQ?oc=5"
+              "source": "The Guardian",
+              "link": "https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news"
             }
           ]
         },
         {
-          "title": "Israel's election commission rejects Netanyahu fraud claims",
-          "feedTitle": "Israel’s election commission rejects Netanyahu claims of voting fraud",
-          "summary": "Israel's election commission confirmed final results from last week's vote that stripped Netanyahu's coalition of its governing majority, rejecting claims of voting fraud. The move comes after the attorney general blocked a call from Israel's security agency to interrogate politicians from Palestinian-led parties. Netanyahu now faces pressure to negotiate a new coalition.",
+          "title": "US voters reject datacenters across multiple states",
+          "feedTitle": "Datacenters were on the ballot. US voters rejected them",
+          "summary": "Voters approved nearly every datacenter moratorium that appeared on Tuesday's ballots, dozens in total across the US. Datacenter opposition crossed party lines, representing a significant setback for the AI infrastructure boom.",
           "source": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/nov/04/israel-election-commission-rejects-netanyahu-claims-voting-fraud",
+          "link": "https://www.theguardian.com/us-news/2026/nov/04/datacenters-midterm-elections",
           "sources": [
             {
               "source": "The Guardian",
-              "link": "https://www.theguardian.com/world/2026/nov/04/israel-election-commission-rejects-netanyahu-claims-voting-fraud"
+              "link": "https://www.theguardian.com/us-news/2026/nov/04/datacenters-midterm-elections"
+            },
+            {
+              "source": "Al Jazeera",
+              "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/who-gets-to-vote-in-the-us?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "Trump faces stark choices on Iran after midterm defeat",
+          "feedTitle": "Beaten at home, Trump faces stark choice on Iran: deal or escalation",
+          "summary": "After the Republican electoral loss, Trump faces mostly bad policy options regarding Iran: attempting negotiation or resuming military escalation. The midterm results have constrained his political capital to pursue either strategy without domestic resistance.",
+          "source": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc3dTRDFGYS1HSWtZcGh3ZTh2MjRleFhNUkwtR0wwSUd3TWlsQU1tcjI2ZG1fa1RxNHEyRDJsSUpjTzNGb0xTRE90Umh1RVdncGxtN29NNVhXel9PMlZ3UEQ1bDJzTkh4V052MEh5UFFteDRHakRVTzVQLS1rdjEzM2xjZDlYdjhCWkxwMkZOMjVSUlhOV2NCVl9ETFROeEN3ZENWQmZiejJhLXctcHFDUkc5d3k?oc=5",
+          "sources": [
+            {
+              "source": "Reuters",
+              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc3dTRDFGYS1HSWtZcGh3ZTh2MjRleFhNUkwtR0wwSUd3TWlsQU1tcjI2ZG1fa1RxNHEyRDJsSUpjTzNGb0xTRE90Umh1RVdncGxtN29NNVhXel9PMlZ3UEQ1bDJzTkh4V052MEh5UFFteDRHakRVTzVQLS1rdjEzM2xjZDlYdjhCWkxwMkZOMjVSUlhOV2NCVl9ETFROeEN3ZENWQmZiejJhLXctcHFDUkc5d3k?oc=5"
+            },
+            {
+              "source": "Axios",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xLW5GUVNsM0M5N3czNGNCaUxWQVNfamtLbFFBdEVzZlEydFJEY3E2TkhJQTN6c3g0LWtaZmJ4bXlOY2FtV0d1c0ROd1JFc045OENVWnpLSGxrbm9sTHJVTzlwQnNUeEJKdE9RT21ValNvUkZRRldSVGVDNHVwTDg?oc=5"
+            },
+            {
+              "source": "Firstpost",
+              "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTUN1OTZHYnp1YWxNazRKSWo3SDRYVlctZko1TzZ5eEdieGp6SlVXS0VsS1VfQU81VlhOUGdqQTFrWXVVSHlQT1dRYUFJeUdIUWxsYWhMWlhIMTItTGV6NURHVHFBdzd6QnQxWFczSFdMMzlXakV5RlA0VnljRGFfUzhsT2JGb24zQ0s0RVRJaEdXU01FQlpRaUI2ajk0RU80UWFGU3pkQ1BSSjdlRlE2NFo0dzVnSzVxcjZsZW43b0VkbzTSAcgBQVVfeXFMTzhnaDFMTUI1VWV4MUJ4aDlKcnN2NG9USU52YV9rWEYxU0I4NEhtQzQ3NEl5Qk1TaWhtNXlBcFlzejdiVXV5TzB2T1VNUEs5RndKcXdYc1JRamhhZUFWd3FJYUR4ejlROGlHYkxCNENxV2lDX1FQVHZMOVhKUlhQWHhiSklYaTQxdlkwYnU0Uml1U1YwMFdoWWRHZXNCOUJzN1k4eURrUTlITUxvZXgtSm5CUUtZY25udDRMdHBDTmY4VUtRZ3B1Rkc?oc=5"
             }
           ]
         }
@@ -224,30 +264,77 @@
     "india": {
       "items": [
         {
-          "title": "India crushes South Korea 8-1, advances to hockey final",
-          "feedTitle": "Rampant India crush South Korea 8-1, set up title clash against Japan",
-          "summary": "India's men's hockey team delivered a dominant performance, defeating South Korea 8-1 at the Asian Champions Trophy to set up a final against Japan. The hosts are now one win away from retaining their title. The goal-fest showcased India's offensive prowess and advances their quest for back-to-back continental championships.",
-          "source": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNUktfQnJwQkJyVGhiRUVkYWE4WThkd1lvMXgyc3VST2d3U1RjSnI4NUVWUUl2Y3hwS0dtZktJN1BFREFFRWM2cDljQmpvSkJRRHVoS2UzOEQzYnlJN3h4VHlSY0Y1eHA5Um42T2pkUl9makFFRUJhUDhKWlYzVVJLdUlzZnlIaHNlcENMZ2lfclJFMHZKX1lzMC1FSENhMkM0eVNPVnRQOXdGX2pUWHpFaEpIVGpkUnJQdG9tQU5adXJibk15M0Nzd2VrWlVDZHBRVHZoZ0hBd3NoUVZxaktFYVc2MVJwMngwVE44R2JSZnNta09CMjJQZXVwSUNNdGtMSG9wOS1wMHl4Q21XYTRJQllsSVNJRHRNc1o00gGgAkFVX3lxTFB4LXVrdjFMN253R1lXTnhSYjZWNFJYc2NpSzBZWXhqZXVPNWFKbEtETGs0V1V1VEpTcl9BWVpvQWpOY1JBcmVsZURnY3NGLUlYT2NSV1dmRGdFUmVnWGRaaVJFQ0diNjFsNHNLUXJINWlwZzkzMEYzb2gyVHhLUWdMeV8xeU1Ibk1XRXVQVURnNVk2cm93T2lNR1RnVFJkSEJEZGdoUUpoZlVYX0trSGw5OFI5RThUTnZIc0MydVhwd1hOWDNIN1U3enJyTDdEQWV6ZlprNGUwQWNIV0p3akVWVVdPSmdvdEdROHgtb2xQdmhaakszaERhT1A5UDQ2WXF6TXBMQURaZTZKclJ2RlJ1anpUa3J4UEVfa3UwQzMtNw?oc=5",
+          "title": "US midterm results reshape India's geopolitical maneuvering room",
+          "feedTitle": "U.S. midterm results may matter less for India-U.S. ties than for India’s room to manoeuvre in geopolitics",
+          "summary": "With Trump's Republicans facing a major loss, India's position on Iran policy, Russian oil purchases, trade deals, and China strategy may shift as Democratic Congress takes power. The results could give India more diplomatic flexibility on contested issues.",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/national/us-midterm-results-may-matter-less-for-india-us-ties-than-for-indias-room-to-manoeuvre-in-geopolitics/article71665475.ece",
           "sources": [
             {
-              "source": "The Times of India",
-              "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNUktfQnJwQkJyVGhiRUVkYWE4WThkd1lvMXgyc3VST2d3U1RjSnI4NUVWUUl2Y3hwS0dtZktJN1BFREFFRWM2cDljQmpvSkJRRHVoS2UzOEQzYnlJN3h4VHlSY0Y1eHA5Um42T2pkUl9makFFRUJhUDhKWlYzVVJLdUlzZnlIaHNlcENMZ2lfclJFMHZKX1lzMC1FSENhMkM0eVNPVnRQOXdGX2pUWHpFaEpIVGpkUnJQdG9tQU5adXJibk15M0Nzd2VrWlVDZHBRVHZoZ0hBd3NoUVZxaktFYVc2MVJwMngwVE44R2JSZnNta09CMjJQZXVwSUNNdGtMSG9wOS1wMHl4Q21XYTRJQllsSVNJRHRNc1o00gGgAkFVX3lxTFB4LXVrdjFMN253R1lXTnhSYjZWNFJYc2NpSzBZWXhqZXVPNWFKbEtETGs0V1V1VEpTcl9BWVpvQWpOY1JBcmVsZURnY3NGLUlYT2NSV1dmRGdFUmVnWGRaaVJFQ0diNjFsNHNLUXJINWlwZzkzMEYzb2gyVHhLUWdMeV8xeU1Ibk1XRXVQVURnNVk2cm93T2lNR1RnVFJkSEJEZGdoUUpoZlVYX0trSGw5OFI5RThUTnZIc0MydVhwd1hOWDNIN1U3enJyTDdEQWV6ZlprNGUwQWNIV0p3akVWVVdPSmdvdEdROHgtb2xQdmhaakszaERhT1A5UDQ2WXF6TXBMQURaZTZKclJ2RlJ1anpUa3J4UEVfa3UwQzMtNw?oc=5"
+              "source": "The Hindu",
+              "link": "https://www.thehindu.com/news/national/us-midterm-results-may-matter-less-for-india-us-ties-than-for-indias-room-to-manoeuvre-in-geopolitics/article71665475.ece"
             },
             {
-              "source": "The Indian Express",
-              "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeEhjWDhzampYTkJJY0pjZktNMEpfQ1Z5ZWxXeFlnYm5kaDdqYU9BOTZMbjl4ZWtsaFRVV1RobklMV2szWXJJQVFIUHhOXzlIVnNodUtCa29WSHlaaTBGYWhLR1BWN0FDZXJFWGhNV0E5eXV3NE1WQ2ZuOHYzcHk4dDMzSTlxcDFadGN5OHFXclNGOXkydFIzSzFmTFhGc0g2bWpVOWdLX2FJQjVPU2lRNTlmQldvZ3PSAb4BQVVfeXFMT0VROV82NG1ib0N4aWw4NjdoVWxVUjh1ZTB6UHJCNXdGbzZxQ2N0TWJwQTY5c1VneUlfNVp6TVdab0paMmxHZDZ0SS12NkUySkFWNDNMeVNNekRYWkJmMy1TeDVVaDNDaDlrcXFNMXRiU1FvREFHT3RzWUJQd3p3UFZsdFJUQXMzellwdjJIR3pRdmVUXzd1ak11N0NwNDVEVjI5bUVHVHpZdzhKdUpMNU85Q0dWS3JHNUQwZk1Bdw?oc=5"
-            },
-            {
-              "source": "www.olympics.com",
-              "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcW1hQmdpVFpIVmVXR3JxbmNRNjZPUE5sY3Fqc2JobTBVV0VPdHJfR0cwM0oxSng1QnBneVVMLWVmN29GbXdEMDBwQjJNeFBPSGoyVkhKbzgxb1ZEbXdZeUZIaFFEc2JYdVozVVZUN3k3Zk1EUmZEQzR5Rjl5dXU0REU2LU5MMEpKV1ZmOWZlcHBhemFZMndtbGRQNEhBNVlTenhkWWxHbWJNdw?oc=5"
+              "source": "India Today",
+              "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcVhNci14T2JZakN3MkZ0WGlLZk05dHlOTzRfYXlFSVpoOGRNUUhqU1lOWmJ5N19lQ3l2cDJvWVNvanIxQURMZ3dCYWs0dG1CdVZCUndxMXEwb0pWd243eEZkOUJPLUlWaGYtenN4d0lxY2RKcFdrOHpWai1reUppVU1vbFQyMTFyMUNjc0FKMlJwVmpGNHM3UGpmX0Y2cDZjVnFaZllwWGMzUVE1aXlXNEtZVURnazJSaldPQkMtQVd6VG1DenfSAcsBQVVfeXFMTWRfOHdqdm9ZakZBd3lzZW1GT1lfYjIzVXBKYWx3RUVYVWNtUmxzOWZsamlSV0NRVzdSRTJ0T0xLSnZPaHZOVGJGNlIwSENaSUZqUjA5bGxzMmVDR1VLZkpCSEJiZ1BOR2NYMnFZLTF0Smh0MkZPQmU5RVlzV21lSlZ3UFQzakNubVJ0UG95WF9xNVFBTElXaFpHTExYa2VkeHJfM1N0azMzMkVyUzhybk0wTGU1OVE0X21sMTRIeW81T1ZGdzlweUw3WE0?oc=5"
             }
           ]
         },
         {
-          "title": "Agnipath scheme revised, 75% of Agniveers get extension",
+          "title": "Iran exempts India, China from Strait of Hormuz restrictions",
+          "feedTitle": "Iran exempts India, China, Iraq and Qatar from transit restrictions in Strait of Hormuz",
+          "summary": "Iran announced exemptions from transit restrictions in the Strait of Hormuz for India, China, Iraq, and Qatar. The move could ease pressure on India's energy security and trade routes amid ongoing US-Iran tensions.",
+          "source": "The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPMlJ1R3o1b0NYR2VGZTItTUVMTHV1WVg5ZUlYUWtzZzU3TllPNlhFY1gtRm5aTTNyOVNSNDlxRGVuakIzY3ZLTWdzMTVqVFppc0U4Nmc4SGxIS1ViWExkUmtucHJlLXA3MkRCNjNRYjYtZEdLdWtGc1M4LWdUZjhTU1BWa1oyWDVmNldDRUlIVVpEU3hCMzExXzVtZ2VmWWxuMEdRQkRjcGxVVDAtYi1PbXd0NnF4ekhVNUlWd2dnNFdYR2FXZ3NvTWptS2VoNGJ6cU1hVTBfQ09GdVNsMjRGSHhZMGpwc3lGQ1YxN3JrVldFSmgyWXEtYWg1aUJrWVM2QXR3U19Kczd5cWJuR1lSb090RWtrd9IBmwJBVV95cUxOVE8zXzJjR2t0d1pqYXlVbEE5QVlNQzFQT1JLdVBGeUZNcDlzNGdfU1NwR0hJYWtGbU1CS3I4S3M2dE5BdjlaNXJ5QkN3S2cwNndwZ1RvQkhCMjJDNnh1UWpEbVJVT2lKUTJlVlhnSWU5ODg4RFM5eFpCQXBEVGFuOV90NnpXY1VOeUZwZ1piZWtoN291SjlLdTBhbzFveWtOU1VfR2t1QW94alhJVVhucE9RVnEza2ZmX1JkZDFnQ3Q5WV94VnlMR21HQlF1QkJKOWlzYUM2aWNST056STU2ODRsdHVGMFpKZWdqZWxjeWlEYnFaTXdvOWtEWkNvamtWSEZ2bHdqR0h2bnJYY1NycVRPLVpOVzVUQ2Jj?oc=5",
+          "sources": [
+            {
+              "source": "The Economic Times",
+              "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPMlJ1R3o1b0NYR2VGZTItTUVMTHV1WVg5ZUlYUWtzZzU3TllPNlhFY1gtRm5aTTNyOVNSNDlxRGVuakIzY3ZLTWdzMTVqVFppc0U4Nmc4SGxIS1ViWExkUmtucHJlLXA3MkRCNjNRYjYtZEdLdWtGc1M4LWdUZjhTU1BWa1oyWDVmNldDRUlIVVpEU3hCMzExXzVtZ2VmWWxuMEdRQkRjcGxVVDAtYi1PbXd0NnF4ekhVNUlWd2dnNFdYR2FXZ3NvTWptS2VoNGJ6cU1hVTBfQ09GdVNsMjRGSHhZMGpwc3lGQ1YxN3JrVldFSmgyWXEtYWg1aUJrWVM2QXR3U19Kczd5cWJuR1lSb090RWtrd9IBmwJBVV95cUxOVE8zXzJjR2t0d1pqYXlVbEE5QVlNQzFQT1JLdVBGeUZNcDlzNGdfU1NwR0hJYWtGbU1CS3I4S3M2dE5BdjlaNXJ5QkN3S2cwNndwZ1RvQkhCMjJDNnh1UWpEbVJVT2lKUTJlVlhnSWU5ODg4RFM5eFpCQXBEVGFuOV90NnpXY1VOeUZwZ1piZWtoN291SjlLdTBhbzFveWtOU1VfR2t1QW94alhJVVhucE9RVnEza2ZmX1JkZDFnQ3Q5WV94VnlMR21HQlF1QkJKOWlzYUM2aWNST056STU2ODRsdHVGMFpKZWdqZWxjeWlEYnFaTXdvOWtEWkNvamtWSEZ2bHdqR0h2bnJYY1NycVRPLVpOVzVUQ2Jj?oc=5"
+            },
+            {
+              "source": "Asia News Network",
+              "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb0dTVGZzQVZHN2doa2N6ME81ZkVQR3d0SGlqOU4zVmN1d0t1UjVUM3lDM0theV9FSzZLRGFQTWtnR2FZZEpQYmUybHBYRDhkVVVvT1dKMS1DU2o5anZEZi01RmVENklOX283OTh5OFdESXhqa3Q0VHZhdFE1Tl9UYkJmYlNtRTRGU2J5STB0a1U2bjRnMkg4WHNTX1M3YkRndlRxWDdLaHpBZ2J4dC1odg?oc=5"
+            },
+            {
+              "source": "The Indian Express",
+              "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMC1jT2pYaExPMHRfYXhnaHh1dFlRa3puRTBQMDNlcnpWckFMeVliSUFYMlh3NzE0Mms2YVpYSmdtQjB1amx3Vm9fTEIyWnpJVS1KZjN6RGNPWEZYLXJxU2ptN1FXQ3RVb2xVcDB1dVV1NFZZajRsbFl0dnAxOXFtRE9NaEVrMlRKY1VJU040dVlsbjFraDNGdHQ4cUzSAaMBQVVfeXFMUEczRVpYTlNKWGlUWjBXVDYyUVpkZzZVN3E4dXV3ZF9OTlNKdWlHVnllX3ZCODVDYVlzeGp2emJacGVKVk5pWDk1Z2Q5YlN6dElVNFFBd0ZlUmllRVZ2MHBYQVNIaDg1VUlmRGNMMER5TlpJMGtvX2lBd0xqNXhiVlJjZ2c2QnNPNldTZl9sSGQySGNvVjRNenlYSldjQTNsSTFVWQ?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "US sanctions Indian, Turkish firms aiding Iran",
+          "feedTitle": "U.S. slaps sanctions on Indian, Turkish firms and people for aiding Iran",
+          "summary": "The US imposed sanctions on Indian and Turkish firms and individuals for allegedly aiding Iran, escalating enforcement of restrictions on Iran-related commerce. The move signals continued pressure on India's economic ties to Tehran.",
+          "source": "The Hindu",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVEJkdXp1aVN6Vm1weVcxTHdfeXlqRjluOC02NVE5VHJ4X2w2SUwtcDFqRVZpLXM5MHZVRUJIWHBIOUdFSzZGNEM1dzA5b0g2bzNmcThqWDM0eEJLMkJ6ejFxUFBHYTV6V1pGSVpzVExNTmRsUHF0NEJ4ZXJCX2dfeTA3cDE0SVU0ZDc0c2FjbnJEOWJnZVVCRm84WVFQNElYWWloZXc2TkdKYzRjTmRNNEJabzlZRU5xNWdJZkViU3lJdkJsY2Vvc1RCWWRLZ9IB1AFBVV95cUxQaHk4WHpoWm1KVUdxNmZqbEdTR2ZVLVdweFBJTHo5elcxT0UxX1htNEtJX2dfRVJQbUdQSnByWFZPaE4wSDZjUmI5Q1lOYXNGNTdBWVd1ZGlpR2ZvOWJFWWNia3pMcFl1TjgxdmlNN1MxbklPZFFfNGJWVjVGOUhmcGhvNEU1dHU0anh5b0ZXM0RJNkVEVUZqZHhTWU9CUTl0RW5EQ1N5eVF3MzZxMFJDdTEzMlV2MHhtTUxwa2o1TUlqMGhXb1ZtX0N6WDBhRktIOWRsZg?oc=5",
+          "sources": [
+            {
+              "source": "The Hindu",
+              "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVEJkdXp1aVN6Vm1weVcxTHdfeXlqRjluOC02NVE5VHJ4X2w2SUwtcDFqRVZpLXM5MHZVRUJIWHBIOUdFSzZGNEM1dzA5b0g2bzNmcThqWDM0eEJLMkJ6ejFxUFBHYTV6V1pGSVpzVExNTmRsUHF0NEJ4ZXJCX2dfeTA3cDE0SVU0ZDc0c2FjbnJEOWJnZVVCRm84WVFQNElYWWloZXc2TkdKYzRjTmRNNEJabzlZRU5xNWdJZkViU3lJdkJsY2Vvc1RCWWRLZ9IB1AFBVV95cUxQaHk4WHpoWm1KVUdxNmZqbEdTR2ZVLVdweFBJTHo5elcxT0UxX1htNEtJX2dfRVJQbUdQSnByWFZPaE4wSDZjUmI5Q1lOYXNGNTdBWVd1ZGlpR2ZvOWJFWWNia3pMcFl1TjgxdmlNN1MxbklPZFFfNGJWVjVGOUhmcGhvNEU1dHU0anh5b0ZXM0RJNkVEVUZqZHhTWU9CUTl0RW5EQ1N5eVF3MzZxMFJDdTEzMlV2MHhtTUxwa2o1TUlqMGhXb1ZtX0N6WDBhRktIOWRsZg?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Tanvi Patri reaches Youth Olympics badminton final",
+          "feedTitle": "Tanvi Patri Reaches Youth Olympics Badminton Final, Assures India Historic Medal",
+          "summary": "Indian badminton player Tanvi Patri advanced further in Youth Olympics competition than any Indian woman in the sport's history, reaching the final. Her performance represents a historic achievement for Indian badminton.",
+          "source": "Open Magazine",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQelpUdngyWTd1UDZqYUdSRDRLTVZwYW9EVGZCU1Nubk5FMGpCV3psUll6dFIyY3V3VFhPZ2Y2Zmx4MnhHQmRkV1kwMFMwVjlQTHBJU3JTR0lnWkY1YU4zY3pzYzgxRXR1Q1E3WXlEVzJfa3JuOU1oRWpvMDFqWmxWWVQ5Z3ZJY2J0Zy03cVF3YUwyNzEwVlc1TmFtVTFnLXk4R0VCWTV4LUxmX1YyQ3Y1SjFMUWs?oc=5",
+          "sources": [
+            {
+              "source": "Open Magazine",
+              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQelpUdngyWTd1UDZqYUdSRDRLTVZwYW9EVGZCU1Nubk5FMGpCV3psUll6dFIyY3V3VFhPZ2Y2Zmx4MnhHQmRkV1kwMFMwVjlQTHBJU3JTR0lnWkY1YU4zY3pzYzgxRXR1Q1E3WXlEVzJfa3JuOU1oRWpvMDFqWmxWWVQ5Z3ZJY2J0Zy03cVF3YUwyNzEwVlc1TmFtVTFnLXk4R0VCWTV4LUxmX1YyQ3Y1SjFMUWs?oc=5"
+            },
+            {
+              "source": "Facebook",
+              "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMEUyNnY5YXZMd3lJeC02ZF9CLXJWMHZrdmdWTEJuSVZkNVF6QmFVLVBtaWlDWTZkMmhRdVh5dWRaLVpLN0ZsSTBqTk83Y2dHeE5HSkdnSnUxYXF5LThfSXdnSHN4WGZuYlpoN29uOHljOW91dnVZa2Q1MTFqZ3JUNEthVm1uU2xvS25uSldoak5oY2tCeTF4eGZIRUtSNWtrYjl3MFIzZVowcnRfVTd3TDFnVU1YNnZxYjdZa2Z3MnJpOTBiTkhMaVg4djJ5ZTU2LWJF?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Agnipath scheme revised with extended tenure options",
           "feedTitle": "Agnipath scheme revised, 75% of Agniveers to get two-year extension",
-          "summary": "The Indian government revised the controversial Agnipath military recruitment scheme, allowing 75% of Agniveers to receive a two-year extension beyond their initial service term. The move aims to address widespread youth discontent about short-term contracts ahead of key state elections. This represents a significant policy reversal in response to public pressure.",
+          "summary": "The Indian government overhauled the Agnipath military recruitment scheme, providing 75% of Agniveers with two-year extensions and clearer paths to permanent roles. The revision aims to address youth discontent ahead of key elections.",
           "source": "The Hindu",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTkpfWmxtdkZaVDNMU211Rk1pMmdVTE5LN0NyYnNHR2tMdW9nRUFQeWlFYTVVSmR2Nzhld2tkR0lBOGFBZ1dYNk5XLWdsZlBYNUlzQzlTclBMR3M0c1p5eGoyTlhwWU16T3kwMWVlcWpOQWRXa2xaWFVZeWdZeWIxRmw1S0x2bzhwbFViTFhpLUVoNGtXaEtPSXFHanVKZ19nbXpCLUJkX0ctR2pUMGtELUVTOHpXZw?oc=5",
           "sources": [
@@ -256,96 +343,65 @@
               "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTkpfWmxtdkZaVDNMU211Rk1pMmdVTE5LN0NyYnNHR2tMdW9nRUFQeWlFYTVVSmR2Nzhld2tkR0lBOGFBZ1dYNk5XLWdsZlBYNUlzQzlTclBMR3M0c1p5eGoyTlhwWU16T3kwMWVlcWpOQWRXa2xaWFVZeWdZeWIxRmw1S0x2bzhwbFViTFhpLUVoNGtXaEtPSXFHanVKZ19nbXpCLUJkX0ctR2pUMGtELUVTOHpXZw?oc=5"
             }
           ]
-        },
-        {
-          "title": "NVS-03 satellite reaches geosynchronous orbit successfully",
-          "feedTitle": "NVS-03 reaches geosynchronous orbit; satellite in good health",
-          "summary": "India's NVS-03 navigation satellite has successfully reached geosynchronous orbit after completing four orbital maneuvers, according to ISRO. The satellite is in good health and operational, marking another milestone in India's indigenous navigation satellite system development. This advance strengthens India's space infrastructure capabilities.",
-          "source": "The Hindu",
-          "link": "https://www.thehindu.com/sci-tech/science/nvs-03-reaches-geosynchronous-orbit-satellite-in-good-health/article71667218.ece",
-          "sources": [
-            {
-              "source": "The Hindu",
-              "link": "https://www.thehindu.com/sci-tech/science/nvs-03-reaches-geosynchronous-orbit-satellite-in-good-health/article71667218.ece"
-            }
-          ]
-        },
-        {
-          "title": "India proposes instant manufacturing license suspension for failed drugs",
-          "feedTitle": "India proposes instant manufacturing licence suspension for drugs failing quality tests",
-          "summary": "India has proposed a new rule allowing instant suspension of manufacturing licenses for pharmaceutical companies whose drugs fail quality tests. The move strengthens drug safety oversight and empowers regulators to act swiftly against substandard medications. This proposal represents a tightening of pharmaceutical regulation to protect consumer health.",
-          "source": "Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObHhQM3NpeW1MOFVBS2pjRzNZV2ZlbHVlemVyb00yMGhHcEZxUmw1UFYyNG04akpvbHFRelQydDhrb3JmWEppbXZtTzJ4TmltbmZxNXNqSEJYeDhmZzJwZUdSS1ZCb3ZzSzdDMHNoeVlMNzNuYU8tUUUzMFVSVG1XcXJFT0FOTnhaU3RhbXEtVEJVdnJsdGJIb01CMTFRajlhLWJyeEpOeFJDdmxaaTdSR2pEUGlHYURwZmVsRGJseFJlZHluMzc2YXlB?oc=5",
-          "sources": [
-            {
-              "source": "Reuters",
-              "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObHhQM3NpeW1MOFVBS2pjRzNZV2ZlbHVlemVyb00yMGhHcEZxUmw1UFYyNG04akpvbHFRelQydDhrb3JmWEppbXZtTzJ4TmltbmZxNXNqSEJYeDhmZzJwZUdSS1ZCb3ZzSzdDMHNoeVlMNzNuYU8tUUUzMFVSVG1XcXJFT0FOTnhaU3RhbXEtVEJVdnJsdGJIb01CMTFRajlhLWJyeEpOeFJDdmxaaTdSR2pEUGlHYURwZmVsRGJseFJlZHluMzc2YXlB?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Delhi girl, 9, dies in classroom; family questions lack of CPR",
-          "feedTitle": "9-year-old Delhi girl collapses in classroom, dies; family questions no CPR",
-          "summary": "A 9-year-old student at Delhi's Lovely Public School collapsed in the classroom and died, with her family questioning why CPR was not administered immediately. CCTV footage shows teachers rushing to help, but the absence of timely resuscitation has raised serious questions about school emergency protocols. The incident highlights gaps in first-aid response at educational institutions.",
-          "source": "India Today",
-          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNejBWVE1oZWNzQ3owQkRHNkhKTjgxbUw3YndONVFTN3k5azA0R3FOSFFNeXVwdEU0aTFROVpzSmVQVk5GZnJISkg5bGNiRk9IWmlPNkk4R3BnTlZXY1RCdnFFal82NmJYQTctV0ZZek1JazRFemc4emxack9oR3JHNU0teFE1Q3psSTRpQURhSW9NVjVlQ2xPcE4tVVBoVWltXzg3NDFxSE42VE1ubjFCdmFqUGV1R3ZCQW5FR0FBX21jM2NQSWtKRjFfTFVTQ212NldCdTU1alE4RG1aanJCcGxjbHprQUxieVpRaWJtalpGS3dSMjJvOE02OWJYZDQ3ZHJuZTlXUlA0dE9MekstY1dKcU5Yd2hOLTZ5M0E1bV9KTENMTFd0SXI0N3Z6d9IBswJBVV95cUxPU2x2YW9VOFZ3RFJkRmZKekMxcWJBbERXSmdVdERfOE85NWdhdkFndXFnQkN4RTloV1JjUkwxUFZjWFdKQndPWFpSZTFTY2ZvRE1rUUd0OTItRllFc256NGcwYmdMdEg4M3FDWFJ4emZQUjAtczhTYVpRNmFNaVIyVlBlRlhqWFZmOFNoVk12M0djY1g0RGZuQ1ZBaFB3TVJCSDZVOWlJWDkxWFZ1TG93U2xmd1pmMFMxQzl2YklucmFGR1lWRzE4bkM5WWU4VHRGSUZ0bXNPVFdpNUxXQWI1cDA2LWQ5aTNfNG5EbDBEejdPbGNPdmlxV1JERjJfTUl0UVQ4VW1iZmVnbUxDcnRRMVdqS1o5allqSkt2WGc2Qm82OXZkemtZMWZXT2pzdlRtbGtn?oc=5",
-          "sources": [
-            {
-              "source": "India Today",
-              "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNejBWVE1oZWNzQ3owQkRHNkhKTjgxbUw3YndONVFTN3k5azA0R3FOSFFNeXVwdEU0aTFROVpzSmVQVk5GZnJISkg5bGNiRk9IWmlPNkk4R3BnTlZXY1RCdnFFal82NmJYQTctV0ZZek1JazRFemc4emxack9oR3JHNU0teFE1Q3psSTRpQURhSW9NVjVlQ2xPcE4tVVBoVWltXzg3NDFxSE42VE1ubjFCdmFqUGV1R3ZCQW5FR0FBX21jM2NQSWtKRjFfTFVTQ212NldCdTU1alE4RG1aanJCcGxjbHprQUxieVpRaWJtalpGS3dSMjJvOE02OWJYZDQ3ZHJuZTlXUlA0dE9MekstY1dKcU5Yd2hOLTZ5M0E1bV9KTENMTFd0SXI0N3Z6d9IBswJBVV95cUxPU2x2YW9VOFZ3RFJkRmZKekMxcWJBbERXSmdVdERfOE85NWdhdkFndXFnQkN4RTloV1JjUkwxUFZjWFdKQndPWFpSZTFTY2ZvRE1rUUd0OTItRllFc256NGcwYmdMdEg4M3FDWFJ4emZQUjAtczhTYVpRNmFNaVIyVlBlRlhqWFZmOFNoVk12M0djY1g0RGZuQ1ZBaFB3TVJCSDZVOWlJWDkxWFZ1TG93U2xmd1pmMFMxQzl2YklucmFGR1lWRzE4bkM5WWU4VHRGSUZ0bXNPVFdpNUxXQWI1cDA2LWQ5aTNfNG5EbDBEejdPbGNPdmlxV1JERjJfTUl0UVQ4VW1iZmVnbUxDcnRRMVdqS1o5allqSkt2WGc2Qm82OXZkemtZMWZXT2pzdlRtbGtn?oc=5"
-            }
-          ]
         }
       ],
       "immigration": [
         {
-          "title": "Democratic Congress gains may reshape H-1B visa policy trajectory",
-          "feedTitle": "US midterm election 2026 results: What Democrats' Congress takeover means for Trump's $100,000 H-1B fee",
-          "summary": "Democrats' takeover of Congress could significantly alter the trajectory of H-1B visa policy, which faced aggressive restrictions under Trump's first term (proposed $100,000 fees, deference removal, extensions cuts). While not immediately repealing existing rules, Democratic majorities may block new restrictions and potentially ease approvals for Indian tech workers. Analysts note Indian IT dependence on H-1B has declined, reducing but not eliminating policy exposure.",
-          "source": "Livemint",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWWtGeGVxTW5wTjhlV25FOTFQUGE3YTJyX3FpSWJwc0RwSUVzdUtYMUNSYlFRVGU1WWY0TVIzNW94RDVja04yOTRxamNuNEJ3ZUluN28taWVjOGZabEc4V25ObHZpWVN1Z2FNT190M0haNW5Ud3hFVHhkbGZPZl9heDZPTEJUTzJ2bU83eEl5QXdubDQ1Ul9BeHZxNE9rU0loS2F6dlRVMTljUlpPNXZxNjJqU2xiYmg1RVJZQU1vaFVuNzBfV3RrOHFRV0k3SmxuQ0JhZkx6RjlDZGhEaFc5YkJ3emdxSzRJZ0c1b1RB?oc=5",
+          "title": "Democratic win may soften US immigration rhetoric",
+          "feedTitle": "Democratic win may soften US immigration rhetoric; no immediate H-1B relief",
+          "summary": "Democratic control of Congress may ease the tone on immigration policy compared to Trump's hardline stance, though no immediate H-1B relief is expected. The shift in rhetoric could provide modest relief for Indian professionals, though legislative action remains uncertain.",
+          "source": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQeW8taG9sTlRKd1BMY0FMQVAxRDNIN1BDYm9MN1hVcnJzVFdvdmt3TjlWMTZ3MUIyR3VYU0dDTklSMXk2N1VNTmVqMEVSbzZrMHlkRzNUcDVpdnlFVF9HZzNsa1RoNXhhTlJYbTZ3TXVrTVYyWlJQVWpzR3FoN2xPM1pfcnRmWi0tXzhvVjg1cGt4Mm9DX3Utc2ZiNGVKTGdOTWw2T2Z1bWRKWEpUcHY2MnVTS0xfcl93LWhaR005YXdzRjVkRTdvT2hpSk1NUGtPYk9jXzlfaUZwMTA5ajlQN0cwME12TDgyaTNFcFlkMVB5d9IB9wFBVV95cUxNZUtoU0pDaExUaS1JMzRrenR5aHp0eDNkZDlweUJVVHVQeWo3RXJscFk0My1PaG9QanpESWh5eHRQalBQSXZrN1g2OU43WGVMYnEzeHRnRks4SWlZQ1loZDlVMW1vX2NnUExRbmQxd3ZkUGhSUldhZjZ3eHhPcV9Sbk1IYWlwWXRLMm8zemx4by1fZUtBazkwbEhROUNZdnliU2w1M3RUMThRR3ZxRzZnM1IwSTBmZ3k4N09Qejl4UVRjSEM3VVdmMXNNckV3R2Z5NWlPOERVbDV5ejdDbG9GSE9HUXlHaW5wMDBZQW85ei1sTllwTS1Z?oc=5",
           "sources": [
             {
-              "source": "Livemint",
-              "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWWtGeGVxTW5wTjhlV25FOTFQUGE3YTJyX3FpSWJwc0RwSUVzdUtYMUNSYlFRVGU1WWY0TVIzNW94RDVja04yOTRxamNuNEJ3ZUluN28taWVjOGZabEc4V25ObHZpWVN1Z2FNT190M0haNW5Ud3hFVHhkbGZPZl9heDZPTEJUTzJ2bU83eEl5QXdubDQ1Ul9BeHZxNE9rU0loS2F6dlRVMTljUlpPNXZxNjJqU2xiYmg1RVJZQU1vaFVuNzBfV3RrOHFRV0k3SmxuQ0JhZkx6RjlDZGhEaFc5YkJ3emdxSzRJZ0c1b1RB?oc=5"
+              "source": "The Times of India",
+              "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQeW8taG9sTlRKd1BMY0FMQVAxRDNIN1BDYm9MN1hVcnJzVFdvdmt3TjlWMTZ3MUIyR3VYU0dDTklSMXk2N1VNTmVqMEVSbzZrMHlkRzNUcDVpdnlFVF9HZzNsa1RoNXhhTlJYbTZ3TXVrTVYyWlJQVWpzR3FoN2xPM1pfcnRmWi0tXzhvVjg1cGt4Mm9DX3Utc2ZiNGVKTGdOTWw2T2Z1bWRKWEpUcHY2MnVTS0xfcl93LWhaR005YXdzRjVkRTdvT2hpSk1NUGtPYk9jXzlfaUZwMTA5ajlQN0cwME12TDgyaTNFcFlkMVB5d9IB9wFBVV95cUxNZUtoU0pDaExUaS1JMzRrenR5aHp0eDNkZDlweUJVVHVQeWo3RXJscFk0My1PaG9QanpESWh5eHRQalBQSXZrN1g2OU43WGVMYnEzeHRnRks4SWlZQ1loZDlVMW1vX2NnUExRbmQxd3ZkUGhSUldhZjZ3eHhPcV9Sbk1IYWlwWXRLMm8zemx4by1fZUtBazkwbEhROUNZdnliU2w1M3RUMThRR3ZxRzZnM1IwSTBmZ3k4N09Qejl4UVRjSEM3VVdmMXNNckV3R2Z5NWlPOERVbDV5ejdDbG9GSE9HUXlHaW5wMDBZQW85ei1sTllwTS1Z?oc=5"
             },
             {
-              "source": "Khaleej Times",
-              "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONmt5SUVKMkdHaG93a2JuS3U0RW93ZzJCeG9RTnV3WEVpVFZ2MllUVVBYZFE1YjdUYWZQVk9ENjBlbThQbE5Rbjh0UXhQdGx3aXh4azN0cUh3NUQ3TF9xcW1tUHVFRHRpWlNnTlZreldoR1lMelFzRXk5cGUxNFN0b1JGVWpybVRrUTVLVnlldG8xZ1hrbVM5ZktKbnB0WWM5SGM1NWVkRHVENjk30gG0AUFVX3lxTE01N2h5RTFBaTZyWDVTS0pJVVZCUjlxUzdhaEpYdjY1T1JiRUp5WWpIMnpIb2NkNVJyVXJGdWhPSmNCOEF3OEVnVGE5aHZvcDdvN050VGM2U0pMRElWQ2dkd2lLYnF2cURzRVFtVk5FY3RhY2IzWEo1bk5RMWdpWjZPYXJkdTl4dFd5UzVtbm1uRm0xNk9oVUNhYzhlaE15U0MxdHFRZF9JMkVJUFUyX3BPYTJLYQ?oc=5"
+              "source": "IANS LIVE",
+              "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcEYyV0pITlQ1TWV5YkJnNXNCZTJvMm5iQU9LVWF0MkgtTWhXUHpEY1dreWxGY3BKQU5LeW1pMW84eGt0ZmhuNzRUaEVLM2lkUWNobGV5NU8tZFNZa3ljUWdqR19rcl9nNThBZFdwVVNGLXhjYzBydDZjOFY3bHc2WjJEbGpRaHpOSVM0NDVlM0ZqX2ltcHFWcG1OQkVuQlFnN3d0dQ?oc=5"
             },
             {
-              "source": "News18",
-              "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUHhMRlFoRzk0TTZ0TmhSTXFVYV9aazdfNUZvbm5aQWdsLUFwaWZKb1ZfMzFZNXdwVWZkNUlyc09Wa0RnelltODQ5REU3YkdBaUxHR2dGVjJfX1JxMmx1ZGNHNDJlODFUWFR0OFliNzMzWVU3LWtpTmVDY2VBZlpKaDU5ZERPcC1XclN6WDZTdW9MWmJ4WjFqV3lRbGxtN0dKdHhEX19BLUI4djVyeWhJLWJEVjk4a0tBMHV6dmZMOWQ0UUhfM1FxOXhrMzlXQdIB0wFBVV95cUxPcWNSNzNackVRX0lfRWVmT3g3VnkySGxXWUVqQWdNRnhBSFBIMDdvbF8xSG0yOEdkMVJvbXVseFpEaWFjemZ0VHo2eUlBTDIzTjRwWlREeDJoRTB2cmRGU2hacElWYlNSaUY2QXl1RWpLajc0RURycWlrd2w1VTN0R2J6RjBMS3ZiYjExSHl2VnNyRTA0WThzRThFWVFLSFB1WjIwVzRDcWVBSGxGN2R0TWI5b092ZFY0c1Y5V1VJbEY5OURJLTNvcHplWmREcWtNRW1F?oc=5"
+              "source": "The New Indian Express",
+              "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOa2pOTkt4Y3RpNkJMQ0puYUlYWlhWZGdCbjE1aW5rb2xCM1BIZUpBYWV6QU1wNkdhRC04UXVCQnpuRElhSHJPZzlIT2VVN0RwZmdFdVk4cXdLbW1nYTlzYzkycGMyR2lkSlVKZ2VkY0ZpWDRDVURLMFVXbDJFNHkzdG1oTzhHNG9TYndKbjF1YzNFZDBlOGdwT0dxcjZPWE41UEJKdzNpUm5pMjVLVU5RREdqWlVKZ1dUTkJHLWxmYmx6VFRTQVUzandNd015dzTSAdwBQVVfeXFMT0FGNlNVRFJJLXNWOElNNFhoSWJRZTRBaDhRQ0EzYS0xbVo4R2stU1FUbWxmLUR1cndVWFNaSUt3MVgzdXJQMmRCbXJYODF1S0cydG1BV1kwM3E0TTB6NmdsTjZjdmN6aW5sY2dTUmVid1d5MW5BUTFUb3UtWkM0ZXZibjJYenNmREJhckpJWjN2S2JWaFgxUXdsaDFQZ20xenoyVnZoVkN5dFRBZFVaZFNNR2JGeF9HM1ItWVUydVl6WXdPU1hZSmlfdmFwMW1QN2xDaTNkQ3RLS0VBUg?oc=5"
             }
           ]
         },
         {
-          "title": "USCIS ends automatic EAD extension for work permit renewals",
+          "title": "Automatic EAD extensions end; new rules finalized and in effect",
           "feedTitle": "Removal of Automatic Extensions for Certain Employment Authorization Documents",
-          "summary": "On October 30, 2025, DHS published an interim final rule ending the automatic extension of employment authorization documents (EADs) for aliens with timely-filed renewal applications. Affected workers now face potential employment gaps while applications process. This rule is finalized and in effect as of November 2026, impacting millions of immigrants with pending cases whose work permit validity was cut from 5 years to 18 months.",
+          "summary": "On October 30, 2025, DHS published an interim final rule ending automatic extensions of employment authorization documents (EADs) for aliens with timely-filed renewal applications. This finalized and currently-governing rule affects millions of immigrant workers with pending cases, reducing work permit validity.",
           "source": "Federal Register",
           "link": "https://www.federalregister.gov/documents/2026/10/14/2026-20955/removal-of-automatic-extensions-for-certain-employment-authorization-documents",
           "sources": [
             {
               "source": "Federal Register",
               "link": "https://www.federalregister.gov/documents/2026/10/14/2026-20955/removal-of-automatic-extensions-for-certain-employment-authorization-documents"
+            },
+            {
+              "source": "El Cronista",
+              "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOb09NV1loNHF0eW1VOHdpOGFYRFlMbGtUdmZUYnlFUmg0X3FvUVRpVzA3MnQ2Y2U2bU8zd0Vldm5pUWM5OUdNX1hsanQ4ODNsVmJta0FnTEZ3US1saEhTb1JHMnp3eWhHSDJXajQ0MGVvQ2ZYMjltVHd3Mko0OEJ2SXdVeWhvR1ZZLTR2YUs1TWpmX1VjNkVYMkRSdnNwYjZPMUNRd19RZ0loQVJaOThkdEdzaEMxdFlxZ1dWTWtIS2NiSDhPZGFZNW55YVBkbWlqVEhlaTNPQ3Vudw?oc=5"
             }
           ]
         },
         {
-          "title": "US moves to change green card sponsorship rules as PERM proposal clears federal review",
-          "feedTitle": "US moves to change green card sponsorship rules as PERM proposal clears federal review",
-          "summary": "Summary unavailable for this update.",
-          "source": "The Economic Times",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOWkpoaWVtZlc2S3dpOUN6dEZEUnp2VlpjRzB4MGpzMHdVTDNCYUc5Snd0dktidFE3SzVjb1BRd0g2dVpXU0xuTmdMY3VILXdSVHFiSWZQTzF0UFV6Y3c2VWtUcUpYVV9veDFjS3U1Wlk3bUh4TlJMcUIzRWEwVXlJNmE3ZVF3VWdRcWhSMnRyMmNLVXZaWjEyMGpGRTFOZnlHOGhfVU5vX0xqc3hsY0syYVdTR1lsT2VfanQ1TWZCSjgwM2FhdkJLQ1BwUTZKMTN5NWpadnBjR0M2ZW92aV9rMzhOT1ZCV1VKUVphbm9KSmbSAfYBQVVfeXFMUF8weHpRc3hEdTZDb3A4OFU1LW9tamN4SEM4T1lHY3RaNHZZS09BaUtGRmt0U1owOEtkTkpTWHBkOWM1ZkhfUjRPU05BY2ZHQzVia0x5dl9XOWNtR0EybVZ6cGVsSUhmR05Mdm1wZDQzbFpEZDBfTUpkZW9XckZHRnFzVDQ2Z1JXOGwtRjNmQjY5bjA2WHZTUU90TmdqWmZfQ295WDBndk1kYmdGcU9oUDE0NmhGMW5SNkRqQ0pvY2FOLTJoNlVFVVRJbEZ2d3ZUZUJWYjdCNW5waFV0elRES0FUS25kZXRpSGVkMHlIZVhna0JTNllB?oc=5",
+          "title": "US Diversity Visa lottery remains suspended after court order",
+          "feedTitle": "US Diversity Visa lottery remains suspended after appeals court order",
+          "summary": "Federal courts have kept the Diversity Visa lottery suspended despite congressional mandate to reopen it, with appeals courts staying lower court orders requiring reopening. The FY 2027 program remains blocked while litigation continues.",
+          "source": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZDU5Wl8wdjdJVVBCT2hnTjFRNGMxUnNyb3NxQm8wdEk0V0xkNzhmNzZDOTl1a09ud1NtUDVxOV8tMHJYTFRoa3NlSTl5N1pEQUdZLUc1Q1dKRWVaUTBBX1ViRGZZNHBxUWJud1JlN21Nc2lucDZmZTFVT3dRRG5VWnFjWUFYZ0R0akU5dFprenJlTTl0V2dpSXdxOWZVT2dZLWNRVmRUSmFPQzBRV19oRXJ5UzV2TWt2cHoxaWZmOVp3elJ5VWQ2cDFlNnBMeE5QZXJCUHpjZ19zRlpaT0JBY2syazFCeUtmSWVmLTFxdF9Cd3lIaEkzRWN30gH_AUFVX3lxTE00WnZuc292TUdmcnkxaU01eXNFeFREdGxHQUV2Q0cwQTRCeFI4VXFaX2xaekVhSXdkR3ZoN01iZlEzcWJyRWtvMk1aWnhiRmtGSHJOUWl6Nk9HUWh3Mks1TkhqYWxmU2JtMktpcG5kdjNOdElUcUc4YV95MFp2TjBSUkJnYm1mOTI3ald2TUVIYTdyUjYxc0VtMXZ4RmM0VEhWLXF6Q2dPLVpQZV94SU16UGN4enNBTVdiS0NPTmRSbUt2ZlRsejJlYmFGT0lQRFZ2SWRhaXMzMFpfdXFpeVJQQ3QwbDBnblplSmZYOFJEODQyV2ZqdHhOallYRi1iTQ?oc=5",
           "sources": [
             {
-              "source": "The Economic Times",
-              "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOWkpoaWVtZlc2S3dpOUN6dEZEUnp2VlpjRzB4MGpzMHdVTDNCYUc5Snd0dktidFE3SzVjb1BRd0g2dVpXU0xuTmdMY3VILXdSVHFiSWZQTzF0UFV6Y3c2VWtUcUpYVV9veDFjS3U1Wlk3bUh4TlJMcUIzRWEwVXlJNmE3ZVF3VWdRcWhSMnRyMmNLVXZaWjEyMGpGRTFOZnlHOGhfVU5vX0xqc3hsY0syYVdTR1lsT2VfanQ1TWZCSjgwM2FhdkJLQ1BwUTZKMTN5NWpadnBjR0M2ZW92aV9rMzhOT1ZCV1VKUVphbm9KSmbSAfYBQVVfeXFMUF8weHpRc3hEdTZDb3A4OFU1LW9tamN4SEM4T1lHY3RaNHZZS09BaUtGRmt0U1owOEtkTkpTWHBkOWM1ZkhfUjRPU05BY2ZHQzVia0x5dl9XOWNtR0EybVZ6cGVsSUhmR05Mdm1wZDQzbFpEZDBfTUpkZW9XckZHRnFzVDQ2Z1JXOGwtRjNmQjY5bjA2WHZTUU90TmdqWmZfQ295WDBndk1kYmdGcU9oUDE0NmhGMW5SNkRqQ0pvY2FOLTJoNlVFVVRJbEZ2d3ZUZUJWYjdCNW5waFV0elRES0FUS25kZXRpSGVkMHlIZVhna0JTNllB?oc=5"
+              "source": "The Times of India",
+              "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZDU5Wl8wdjdJVVBCT2hnTjFRNGMxUnNyb3NxQm8wdEk0V0xkNzhmNzZDOTl1a09ud1NtUDVxOV8tMHJYTFRoa3NlSTl5N1pEQUdZLUc1Q1dKRWVaUTBBX1ViRGZZNHBxUWJud1JlN21Nc2lucDZmZTFVT3dRRG5VWnFjWUFYZ0R0akU5dFprenJlTTl0V2dpSXdxOWZVT2dZLWNRVmRUSmFPQzBRV19oRXJ5UzV2TWt2cHoxaWZmOVp3elJ5VWQ2cDFlNnBMeE5QZXJCUHpjZ19zRlpaT0JBY2syazFCeUtmSWVmLTFxdF9Cd3lIaEkzRWN30gH_AUFVX3lxTE00WnZuc292TUdmcnkxaU01eXNFeFREdGxHQUV2Q0cwQTRCeFI4VXFaX2xaekVhSXdkR3ZoN01iZlEzcWJyRWtvMk1aWnhiRmtGSHJOUWl6Nk9HUWh3Mks1TkhqYWxmU2JtMktpcG5kdjNOdElUcUc4YV95MFp2TjBSUkJnYm1mOTI3ald2TUVIYTdyUjYxc0VtMXZ4RmM0VEhWLXF6Q2dPLVpQZV94SU16UGN4enNBTVdiS0NPTmRSbUt2ZlRsejJlYmFGT0lQRFZ2SWRhaXMzMFpfdXFpeVJQQ3QwbDBnblplSmZYOFJEODQyV2ZqdHhOallYRi1iTQ?oc=5"
             },
             {
-              "source": "International Business Times UK",
-              "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOWhIdlhFRWZ6TjZid2NiamFFNndPa1ZSTlUzUXNkREl3NlByV3N6alJTSzRZUzdhMXJkdHlyYTZ6NktNekFhRkNHR1ZCTS1xRDJEb3kyLTcwa1p0R3k4ejh4dWZsX0dJdkxjWWlQQnhINURlbVdnZE5WcFNKdVVCNEtZb2xaQ3JjVm9Xd01Bak5XN2pWd3dMUjV1NmRhYUYySk1UM1B5TnJJM1pNV0U1QThyeVpUblZMNE9VX0w0Qi1Ha2Y0SWc?oc=5"
+              "source": "New India Abroad",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONnlMdjBuSWNKalRFUWdadTFnQ1M2SnJGeUl5dzduMVNnWjB4SW9LTThHY25UMC1UNVcwOURkM0pNQ05mWXFlSE4yRk5wWTRyZF9yWFZqQ1lLbVptUm9ZWDJHQ0R2aWhVWGF4akYtODBlNzZkQXdMZ0NPdThINnV2aU9iYkFhdlo3di02VnVNZWVlZEd0MWZ1c0hR?oc=5"
+            },
+            {
+              "source": "Asaase Radio",
+              "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYlYzQVFldWdacUV5ZThfdkRLSmdNZl9LUkZYLUM3d2dnSUtjZVNBdGM1eFR2V3hCRGZvc1QyVmVpd0V4cldaakJUQVMtaVJtSlUtcGRHek4xaVFhR0RxT0h5dWgxcXdjRGZUbV94c1BHU09FZUhTeldwQjdKUlFfOWdmODJiQVBzNkZHSXo2V3Z5X2lZTmVJSGRIN2JkdUd6V3c?oc=5"
             }
           ]
         }
@@ -354,9 +410,30 @@
     "finance": {
       "items": [
         {
-          "title": "US stocks soar on Democratic Congressional victory, Dow +1,000",
-          "feedTitle": "Wall Street rallies after Democrats win Congress; data center stocks slide",
-          "summary": "US equity markets rallied sharply following Democrats' takeover of Congress, with the Dow Jones surging more than 1,000 points (2% higher), S&P 500 and Nasdaq futures up over 90 basis points. Markets interpreted the result as reducing uncertainty around Trump's tariff and fiscal policies, and lowering odds of continued Iran escalation that had pressured oil and equities. Data center and AI stocks initially sold off on regulation fears before recovering.",
+          "title": "Form FWP Citigroup Global Markets Filed by: Citigroup Global Markets Holdings Inc.",
+          "feedTitle": "Form FWP Citigroup Global Markets Filed by: Citigroup Global Markets Holdings Inc.",
+          "summary": "Summary unavailable for this update.",
+          "source": "StreetInsider",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSGVsS1VYVnJOMUZBRkM2elBQVzZna3E0TDZhUTRENC1NeGFhemg2QmJsdUlmRjMyV1Q1a0FrY2RVQ0V3RnZlT28zLWZxMXZNNy01LWZwUG5yUjdod3l3RE9mZHRvb1h6ZkF2bE5BdU0xUmpmdmdSU21PNlVQRi16TUJaQ3FwZEVPTzgyWUFNaHNVTFc2bVliUmVfcWxVVk5yTWJBNVFNbGU5UWtVTGlUTm1rcTh6ZmJvdWhjbm5jS0RBRzJob285UmpTMHNzWHVJcnJwMmFKTllIY1d5aEp1UTRWSVVnR3d6TUhNck40VnZlYnFu?oc=5",
+          "sources": [
+            {
+              "source": "StreetInsider",
+              "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSGVsS1VYVnJOMUZBRkM2elBQVzZna3E0TDZhUTRENC1NeGFhemg2QmJsdUlmRjMyV1Q1a0FrY2RVQ0V3RnZlT28zLWZxMXZNNy01LWZwUG5yUjdod3l3RE9mZHRvb1h6ZkF2bE5BdU0xUmpmdmdSU21PNlVQRi16TUJaQ3FwZEVPTzgyWUFNaHNVTFc2bVliUmVfcWxVVk5yTWJBNVFNbGU5UWtVTGlUTm1rcTh6ZmJvdWhjbm5jS0RBRzJob285UmpTMHNzWHVJcnJwMmFKTllIY1d5aEp1UTRWSVVnR3d6TUhNck40VnZlYnFu?oc=5"
+            },
+            {
+              "source": "Yahoo Finance",
+              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZmpTTnRER1ZfU01zcWNFU2xFVjVMRjNUWHpmQ1FhbU5mc1JRc01JbnRBbW1uYmc2WmVNRDFMUTVmaHFES3VVMmpqcEVYYUd4Xzh0VEJ4UXRxMmZsZ3hCZFpOdnlBSXdaMVVqMTc0RWd6TUg1RUJVNGNVeWZBdTRDZzd3aHEtUzJxdkRVcVZfbVNPeE0?oc=5"
+            },
+            {
+              "source": "TradingKey",
+              "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcTU4ZnJxRktXTU9OSk5zSm5oREVFa3BhLV9ENjQ1amliOUZNZktwZGtLekpzdlFEOUdKZHZhbUxUblp5WVVRMzI2ZmVjZEJmaDl5QlVzT3lwUjFycGVZMHM0YU1rcGQ5a240Y3pWTnlkc3FIYjJNbjFSNE8zWmR5aGdMbHg1MWVDUHg4RXNiTXVONDFJRGxGTngyOUpkSV96ZHJsdVhJcUhSMmxsSjBkaG1aSWpwRDNxRUh6XzdvSkVmNkN6RjBDZVVWeFRVVUpxR2FmWXZKeUNsNnM?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Nifty Bounces Back to Beat All of Asia on Foreign Flows, Earnings",
+          "feedTitle": "Nifty Bounces Back to Beat All of Asia on Foreign Flows, Earnings",
+          "summary": "Summary unavailable for this update.",
           "source": "Reuters",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbWpBY1VHMFd5a2tJXzM1RFFFQTl5Y09aVDgza095UkJKVzNnQ3F4VW1pMzBEazJKMGhlS21zUEdCLXJPOVhWdXRnZmlLRHliMDdqYmt2b2ZWYk5FeW85VnBSalpRd1E5b3BVSUZDU2VLMUNiQm41YWw1SUgxV2dWaUFZUkI2MllhY0Z5ZkZHcWNuQmdCaHBKbVRhck1meTRz?oc=5",
           "sources": [
@@ -365,72 +442,63 @@
               "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbWpBY1VHMFd5a2tJXzM1RFFFQTl5Y09aVDgza095UkJKVzNnQ3F4VW1pMzBEazJKMGhlS21zUEdCLXJPOVhWdXRnZmlLRHliMDdqYmt2b2ZWYk5FeW85VnBSalpRd1E5b3BVSUZDU2VLMUNiQm41YWw1SUgxV2dWaUFZUkI2MllhY0Z5ZkZHcWNuQmdCaHBKbVRhck1meTRz?oc=5"
             },
             {
-              "source": "BBC",
-              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44bFZkWkdFcDJMNlAwaUJUOGlVY2FJSTFXRURqR2NfbEc1RzFVSmlaa0plOXJNbjc3QlIycnBLUmU1ejFCZWp0WnJKeEZSZTNNSy1SMUpmdTI?oc=5"
+              "source": "Axios",
+              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZVFrN1Z2RXhoZjZ0RFROeTFYTlk2VncxYjZJTUk4TlpmbWF1V2NBbEpxb3BjZFZ6dmNOZUNXM3NxSkFzWHRtXzNhc2twMXo3dWlnWUpnYnFMeU51ZGNRWFozOU1BMExoOFJTVXVhNHhwRjM4U21oNm5Ed2VZWjdCVDB6RXR2ZWM?oc=5"
             },
             {
-              "source": "WSJ",
-              "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONVFJRHRnbXFVZk1nWnFDSE1ZUjhaY20wY2dVRnpnUnZZYzQ2OXM4NE5CRFJsemNDcXZ1dkhUSl9BSnRaMTdzU2xNZExWdWNjZmNFNGd6Qllpcjk1eUVwMTZrc3pSdnlCV09uSlM2XzJ5d3ZMTnA5VHB3RWRVdE1fVFRkY2lVbXJfaXpCVW10OEtNZ2N6NWFUbjdfRXpCbUlaeThkTnozWl9oVXhSVGxNZ1RodUhWUQ?oc=5"
+              "source": "Bloomberg.com",
+              "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ2o2c3VHc2xWRkRrMjdWWEJ4bHlIUzBQR2ozUms2Y1RRajRtMEc5Z2tDRE0tRlFybWpJakp6TGpYTGk2RFJpTFFtUWpWNEVyTE95cUVWbFNwRU9jM3JIQlNLRUVLWUJaR1B5M1NFRTJvRG80VFRsWjBObThGOVhWZThaeDFrNXM3OWNCdnVsVE1UQkFnaWRUMEd4VkFTVUw0WWFVNmQ4RmZ6YkhUZHdqUkxUa294RDRLa3c?oc=5"
             }
           ]
         },
         {
-          "title": "Oil prices fall sharply on Iran war hopes, geopolitical relief",
-          "feedTitle": "Oil Price Falls Further After Vance Blames GOP Losses on Iran War",
-          "summary": "Oil prices tumbled below $100 per barrel (Brent crude down 6-9% to $105.55), the lowest level in more than two weeks, as markets priced in hope of a breakthrough to end the Iran war following the Democratic midterm sweep. VP Vance's blame of the conflict for GOP losses signaled possible recalibration of US foreign policy. Lower energy costs ease inflation pressures and boost consumer spending power.",
+          "title": "Indian shares poised for strong gap-up opening",
+          "feedTitle": "GIFT NIFTY futures indicate gap-up opening on November 5; what investors should know before stock market opens",
+          "summary": "Indian equity markets set for a strong opening after US midterm results, with GIFT Nifty futures surging 370+ points. Crude oil's plunge to two-month lows and global market rally are expected to lift sentiment for Sensex and Nifty.",
+          "source": "Upstox",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPNE54M1V3MERaZXJpSHBsRUpXRGtJbFVGWWxYVTBTRm0zeXVsVnMwSHBvTzZFT2RBV3prOTZZTm5xMUlPcXVBTDQwa2FXNldVckw4T01WMGVvVDRDNVVnNkhvNUMzVkhIX3l4LTVUM2p2cmk0SFZRZTQ2V25qOS1QV05YNnJqZ0VyUnZONzVyaVMzUDBKSFdyT3AyNFlXdklzNGNrbHlPTDBzeHEyZmJVd1dHWEk1VVhXQjJaaUZ1ZkRETmlmRmdGTFRMOWY5aW9XNWRXYlQzX1JWZWE3YlJsTFlGWXlabmppZFl3aVFmZ0tOUTdiVU5GYU05VHg?oc=5",
+          "sources": [
+            {
+              "source": "Upstox",
+              "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPNE54M1V3MERaZXJpSHBsRUpXRGtJbFVGWWxYVTBTRm0zeXVsVnMwSHBvTzZFT2RBV3prOTZZTm5xMUlPcXVBTDQwa2FXNldVckw4T01WMGVvVDRDNVVnNkhvNUMzVkhIX3l4LTVUM2p2cmk0SFZRZTQ2V25qOS1QV05YNnJqZ0VyUnZONzVyaVMzUDBKSFdyT3AyNFlXdklzNGNrbHlPTDBzeHEyZmJVd1dHWEk1VVhXQjJaaUZ1ZkRETmlmRmdGTFRMOWY5aW9XNWRXYlQzX1JWZWE3YlJsTFlGWXlabmppZFl3aVFmZ0tOUTdiVU5GYU05VHg?oc=5"
+            },
+            {
+              "source": "Moneycontrol.com",
+              "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNSWp3T3JJRHQ4TkZBa0ZhYnVTTEJ1b3VaX2RQSzdmM1hjYWVlblJmNmJqZEU2NDZnQzRKUUc5dUNXRGJ4UW5BYXZqTG5ucVVrQ0FhNjhxR2t4S2hKN2FEekp5Q3JUTWNjOTJTdTdOZFBGdEcxR283LTUxcDBqYkFNRUZDUXBGVUhUZU9XTXNHUlBTeDFyMHItR2poREVrdDl5TVVETEg4STFFYXBnblA1QmNVOWhqN2llMUtXcDdxX2M3NUo3LTNwS1lFelQ0dGxFSEJpQU5mdmxEODN6bU5qczk4ZEhoVnplY1RMQXJHYUYta2dHWVBpSHQ5eEpjSUJRY20tS9IBigJBVV95cUxNZEEwNVBlSjZMbllpSEJ2Q1Fkb2RWVHI3U2p1MTZTcUZrUF94UjNodE1HaUQ4QTJQTEpvME5hU3VBSEItWE9DRmFyZjZNdVpmTXAtOVFwek9CZjloSWRNWlU1RW9Na215dm14ZE9NV2tFRmh2MVhaY0VjSWlHMTc5TUtPdnZ3MGpqcnk2S3BTdTNyZHhYNm14MW8weERRTmZwSV9jbEw2b29JN1p3UGEyeVRCbFRXaFN6bEF5UmlHOFNQLTd5bmtEcFNPdEtQei1uSXA2Z3VHaWQ2NlNBdEdaa1BIcWZHUGVnckxmM1ZwOEUzWTFCcTUtVUdFMHd0TEtTbTlnczVYV3NwQQ?oc=5"
+            },
+            {
+              "source": "Zee Business",
+              "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVjNsTWJUQUFPMUdOMXV3Y2VDMnNfMFUzSkx3YVVEOGo2aERfdHlBOENPdjc4QmlnN1pMMVFkUkZIRVREVU41RWluX19PSExsaU9xeE1UemFaZkJoeENBUXFfQVpjNFhXQXUxOU13MDctYkhoSUZIakVTU3F5cXo5QzJrOGRWeW0tM1A0VzBKSVc4czc5V3NKUDlEcFJRSjNJbEhrQUl4Y05GQ2tHcTdjUjRob0hMMURpVFRGeGZEMA?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Gold prices climb above $4,000 per ounce",
+          "feedTitle": "Gold Prices Are Above $4,000 After Democrats Win Big in Midterm Elections",
+          "summary": "Gold prices jumped above $4,000 an ounce following Democrats' midterm victories, as investors sought safe-haven assets amid policy uncertainty. The rise reflects hedging demand and dollar weakness after the election.",
+          "source": "Barron's",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZzRvQUY2bjZ0RUJ0ZFBYeVlOMENhblZBWWNxRThLbnE2UG84aFNpcGdfMTYwaDJ0aTl3Z053UWxvVURod0ZHdzVQSE0wX0E3LXVnWUpQR1hIYUF5WFpoS2doUzVCcFFzN2ZuY1gwRGxidWwyR2MwVks0RkpsdUQwUFZqdjhUTzEwUkgyY3NEVmZQTTA?oc=5",
+          "sources": [
+            {
+              "source": "Barron's",
+              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZzRvQUY2bjZ0RUJ0ZFBYeVlOMENhblZBWWNxRThLbnE2UG84aFNpcGdfMTYwaDJ0aTl3Z053UWxvVURod0ZHdzVQSE0wX0E3LXVnWUpQR1hIYUF5WFpoS2doUzVCcFFzN2ZuY1gwRGxidWwyR2MwVks0RkpsdUQwUFZqdjhUTzEwUkgyY3NEVmZQTTA?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "CVS splits pharmacy from health insurance in $117B restructuring",
+          "feedTitle": "Inside CVS’s Decision to Break Up a Healthcare Juggernaut",
+          "summary": "CVS Health announced plans to separate its pharmacy chain from its health insurance and benefits operations, ending an era of integrated healthcare services. The move splits a $117 billion conglomerate as pharmacy economics face pressure from retail and mail-order competition.",
           "source": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMnZRT0MyRlJQZFBrYkRoNTB5LV84MXFhZmlpeGhadldPTUtqTnpHQ0RrTDR0eXZPRzQxeURDeTFudHhha0VoUFk4MjJfZ0hjRnp0cFFGUXFGeHd4cFNXSzF4N195TWtGMGdHbkZ6NTdzVWs4bnR3bTVMOUl4MWw5a2VUaWFVaElkOS1QZnh0Z2NOWUZOak83NUNXVFljX1k?oc=5",
+          "link": "https://www.theguardian.com/us-news/2026/nov/04/cvs-health-pharmacy-insurance",
           "sources": [
             {
               "source": "The Guardian",
-              "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMnZRT0MyRlJQZFBrYkRoNTB5LV84MXFhZmlpeGhadldPTUtqTnpHQ0RrTDR0eXZPRzQxeURDeTFudHhha0VoUFk4MjJfZ0hjRnp0cFFGUXFGeHd4cFNXSzF4N195TWtGMGdHbkZ6NTdzVWs4bnR3bTVMOUl4MWw5a2VUaWFVaElkOS1QZnh0Z2NOWUZOak83NUNXVFljX1k?oc=5"
+              "link": "https://www.theguardian.com/us-news/2026/nov/04/cvs-health-pharmacy-insurance"
             },
             {
               "source": "WSJ",
-              "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSFczakJMWVhKQllXMTgyNTdWZVRpT3g1R0hrUDROeF9Kb2xpanVpVWNFN21VdzRSZ2RYaTdZWjc2UlVwWHcwSzk4ZGZ1cUphNDVFOUFaZFZkVmFYMmIxRzB6MVF3R0tsdDNhT0hITUxsa0tORjZnTHVZdjk4ZnV4cUFaQnpZbEFVQVB2R2lPUkpvV185NnVGeFVKSGZNa09HeUJFXw?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "CVS Health to split pharmacy from insurance in major breakup",
-          "feedTitle": "CVS Health to split pharmacy chain from health insurance",
-          "summary": "CVS Health announced plans to separate its drugstore business from its health insurance operations, ending a decade-long 'bigger-is-better' consolidation strategy. The $117 billion healthcare conglomerate will split into two independent companies. This major structural shift reflects investor pressure for focused business models and may reshape healthcare retail and insurance markets.",
-          "source": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSm1FV2liMHhfa0k2RUsySFJVaFJZTmZTcmE3eE1JZnhsa0g0dFZBQmx1Nm1TU1FORVFVcV9yUmdlM1plalNFRXhtcGlQa0lzbkZIYVRJT25OMUFyeDV3R1VMWlB2NDk2N25EdmhVN1ZRRE0xZnlmTThHRlIwTmQzNGVKMA?oc=5",
-          "sources": [
-            {
-              "source": "The Guardian",
-              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSm1FV2liMHhfa0k2RUsySFJVaFJZTmZTcmE3eE1JZnhsa0g0dFZBQmx1Nm1TU1FORVFVcV9yUmdlM1plalNFRXhtcGlQa0lzbkZIYVRJT25OMUFyeDV3R1VMWlB2NDk2N25EdmhVN1ZRRE0xZnlmTThHRlIwTmQzNGVKMA?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Indian markets extend winning rally on foreign fund inflows",
-          "feedTitle": "FIIs invest over ₹20,000 crore in four days as markets rise for fifth straight session",
-          "summary": "Indian stock markets rallied for a fifth consecutive session, with Sensex and Nifty climbing on strong foreign institutional investor (FII) inflows exceeding ₹20,000 crore over four days and easing crude oil prices. The US midterm results and hopes for lower energy costs boosted emerging market sentiment. Midcap and smallcap indices outperformed larger indices, signaling broad-based buying.",
-          "source": "IndiaIPO",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRktzQjROZWlheWhIVDJTeDNHX0FrUEtKQUoxUTEzX1BPblNqS2N0ZWh4NG9zVE1PQ2twSTZZc2xIZHNDSGRSWElybTR6TVlzdzNydXlwdnBNejNFLVZuN0dwWEZ0eGktX2NvUWRyMGdVQmN3MXNBRzhtbXhKLXltZ0lWUmR3ckJja1dmdm0tWWVGcHlRZGhETm45UGhnYXVOSkVHaHlYV2l5MjVBMzB0NVdHNVdTSWlCby1SQw?oc=5",
-          "sources": [
-            {
-              "source": "IndiaIPO",
-              "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRktzQjROZWlheWhIVDJTeDNHX0FrUEtKQUoxUTEzX1BPblNqS2N0ZWh4NG9zVE1PQ2twSTZZc2xIZHNDSGRSWElybTR6TVlzdzNydXlwdnBNejNFLVZuN0dwWEZ0eGktX2NvUWRyMGdVQmN3MXNBRzhtbXhKLXltZ0lWUmR3ckJja1dmdm0tWWVGcHlRZGhETm45UGhnYXVOSkVHaHlYV2l5MjVBMzB0NVdHNVdTSWlCby1SQw?oc=5"
-            },
-            {
-              "source": "BusinessLine",
-              "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZ3BYZWRodnZmV09XUm1rSng4TzI4UTBrV3oxR1JzX1dDLVlHd2VoNjhKQU9lc29SOWE0aXlNNWNPd2xZdW1xT1RuMm9RUk5rWDFadGsyRURfTWloZVV2blJSOC05UmJGSXFycVNtbWRQRkNCZnlwN3otT3V2dnl6QVBqbXhlVGdHa2VHaGR0WThfNUJDc09iY3ZCcDZ4OExXWkh3VFRUQkpUaWRpTkNaVUR6dXhXcVhOSEFuSFNBT0EwX3EtVmfSAcwBQVVfeXFMTW5qMlcxWm8zN1ExWTZIRG5xVXQ5QXpPQ3RjTzM1bjE0NXBrb3VPd1dGb2Qzalh2akgzd3RzcTh1Zm1TdWt5ZVItUlRTWUE4d05KRUxTSjZLZGhIOEtqM3V1dzNQblpadmg1cTBocUJOeW1TaDluOE1IQWprR1o4eW1iWTNIUmRXVTBPTTBRNnJtSzhZQjVaNzloUVMzWmNoRVIxaVJuaXM5RG42Vm52MVVrTzhZWVJRRkhxc2Q1WVkwenl2dF9GTnJDMm9h?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "HP appoints former GSK chief Emma Walmsley as new CEO",
-          "feedTitle": "HP names former GSK chief Emma Walmsley as CEO",
-          "summary": "HP Inc. announced the appointment of Emma Walmsley, former chief executive of GlaxoSmithKline, as its new CEO, concluding an executive search. Walmsley brings pharma-sector experience to the printer and computing hardware maker. HP stock rose on the announcement, signaling investor confidence in her leadership credentials.",
-          "source": "Reuters",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBqYWVjWk1RLUI2U0Y1RE8zNV9lRDljSXBUaS1SYjVlQmVxUXBLS0ljTVJrc1ZtQTBYdFU3emEwNWc4RW1HM1dzWV9wMnFNM3FtY3ZuaDlPR0RYTE94VDdiZ0ZNeHJMRVRZbTJWcjJ3UWJRUmlZSURqZUwzVQ?oc=5",
-          "sources": [
-            {
-              "source": "Reuters",
-              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBqYWVjWk1RLUI2U0Y1RE8zNV9lRDljSXBUaS1SYjVlQmVxUXBLS0ljTVJrc1ZtQTBYdFU3emEwNWc4RW1HM1dzWV9wMnFNM3FtY3ZuaDlPR0RYTE94VDdiZ0ZNeHJMRVRZbTJWcjJ3UWJRUmlZSURqZUwzVQ?oc=5"
+              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRV9yYTRvTFcwZnJ4bkdUTjJSdTdTU19RcTlNS2lxMHB4a05tWmdib3JyZVNBMDNhZTNfdTJUd0ZQUUZHeEVubHpfUXcxYkVvbnA4TzVhOHd5UHp2dGRtQ25UeWNST280THNraWFlTTNsNHZqMlpQMmxmdi1lYzcxNG1SeG9WdktCWjFreV91R0ZXMVBDaE4zOG1pbWFfUWtqWnFFbTV3?oc=5"
             }
           ]
         }
@@ -439,90 +507,137 @@
         {
           "symbol": "SPY",
           "name": "S&P 500 · SPY",
-          "price": 768.5,
-          "changePct": 1.88
+          "price": 766.81,
+          "changePct": 1.65
         },
         {
           "symbol": "QQQ",
           "name": "Nasdaq · QQQ",
-          "price": 695.4,
-          "changePct": 1.48
+          "price": 691.95,
+          "changePct": 0.97
         },
         {
           "symbol": "DIA",
           "name": "Dow · DIA",
-          "price": 532.29,
-          "changePct": 2.94
+          "price": 533.11,
+          "changePct": 3.1
         },
         {
           "symbol": "INDA",
           "name": "India · INDA",
-          "price": 50.05,
-          "changePct": 2.76
+          "price": 50.03,
+          "changePct": 2.73
         },
         {
           "symbol": "EWJ",
           "name": "Japan · EWJ",
-          "price": 93.75,
-          "changePct": 1.25
+          "price": 93.86,
+          "changePct": 1.37
         },
         {
           "symbol": "EWU",
           "name": "UK · EWU",
-          "price": 48.78,
-          "changePct": 3.12
+          "price": 48.93,
+          "changePct": 3.45
         },
         {
           "symbol": "EWH",
           "name": "Hong Kong · EWH",
-          "price": 23.36,
-          "changePct": 4.08
+          "price": 23.41,
+          "changePct": 4.32
         },
         {
           "symbol": "VT",
           "name": "World · VT",
-          "price": 158.03,
-          "changePct": 1.85
+          "price": 157.81,
+          "changePct": 1.71
         },
         {
           "symbol": "BZ=F",
           "name": "Brent crude · BZ=F",
-          "price": 94.74,
-          "changePct": -8.55
+          "price": 94.13,
+          "changePct": -0.52
         }
       ],
-      "note": "US equity markets rallied sharply on Democratic Congressional victory, with Dow +1,000 points, S&P 500 and Nasdaq up 2%, as investors priced relief from tariff uncertainty and Iran escalation risks. Oil prices fell 6-9% below $100/barrel on hopes for an Iran war breakthrough, easing inflation pressures. Watch for Fed policy signals next week and tech earnings revisions as Democratic regulation risks are reassessed; data-center stocks initially sold off but recovered, while energy gains persisted."
+      "note": "Oil plunged 8% to below $100/barrel on hopes to end the US-Iran war after Democratic midterm wins, sending crude to 2-month lows. Global equities rallied sharply, with the Dow posting its best post-midterm day in 44 years (+3%), while the dollar weakened as investors repositioned for reduced tariff risk. Gold climbed above $4,000 as a hedge against policy uncertainty, and Indian markets are poised for a strong gap-up opening as crude weakness and global sentiment lift sentiment. Watch for Fed rate expectations and any Trump statements on trade or Iran strategy."
     }
   },
   "micro": {
-    "theme": "decision-making",
+    "theme": "communication & persuasion",
     "cards": [
       {
-        "title": "Decisiveness under uncertainty",
-        "insight": "The Democratic wave reflected voter exhaustion with Trump's unpredictability, not enthusiasm for a specific platform. Voters punished the party in power when high costs and foreign wars created anxiety. This suggests that stakeholders value *stable, predictable* governance over bold or disruptive moves, especially during economic hardship.",
-        "takeaway": "When facing uncertain outcomes, commit to clarity and consistency over novelty. Leaders who reduce ambiguity—not through perfection, but through transparent reasoning—earn trust even when circumstances constrain options."
+        "title": "Conceding Strengthens Political Messaging",
+        "insight": "Trump's admission that the Iran war cost Republicans the midterms demonstrates that acknowledging voter concerns—rather than denying them—can reset political narratives. By naming the unpopular policy, he paradoxically shifts blame from himself to circumstances, a rhetorical move that may help with certain audiences.",
+        "takeaway": "When facing criticism, identify the legitimate grievance before reframing who bears responsibility. This disarms opponents and makes your narrative more credible."
       },
       {
-        "title": "Deference and past success as double-edged swords",
-        "insight": "Trump's proposal to end USCIS deference to prior visa approvals would force reconsideration of settled decisions. While this can catch fraud, it also erodes trust in prior commitments and raises costs for users. Paradoxically, systems that honor past favorable rulings encourage good actors to engage; systems that reopen settled decisions deter future participation.",
-        "takeaway": "When designing rules, distinguish between catching genuine new risks and second-guessing settled judgment. Excessive re-review of prior approvals creates paralysis and erodes legitimacy, even if it surfaces occasional errors."
+        "title": "Referendum Messaging Wins When Voters Feel Real Pain",
+        "insight": "Democratic messaging on inflation, healthcare access, and war casualties resonated across demographic lines—not because of clever wordcraft, but because voters experienced these harms daily. Exit polls showed affordability and Iran policy as top concerns, matching Democratic campaign focus.",
+        "takeaway": "Lead with tangible voter impact, not ideology. Facts voters can touch (grocery prices, medical bills) persuade more than abstract values."
       },
       {
-        "title": "Majority power and investigation temptation",
-        "insight": "Newly empowered Democrats immediately signaled plans to investigate Trump on Epstein, Musk, Iran war, and business dealings. Yet overuse of investigative power against a weakened opponent can backfire if voters perceive weaponization. The midterms were won on cost-of-living and war fatigue, not legal grievances.",
-        "takeaway": "When you gain power, align your priorities with the mandate you received. Using newfound authority to settle old scores diffuses focus and can squander political capital. Voters rewarded Democrats for opposing the Iran war and high prices—not for promising prosecutions."
+        "title": "Historic Firsts Mobilize Without Speaking",
+        "insight": "The elections of the first Black woman governor, first Native American woman governor, and first Muslim American senator generated enthusiasm and media coverage organically. These symbolic victories communicated inclusion without requiring explicit messaging about representation.",
+        "takeaway": "Visible, concrete progress on diversity is more persuasive than policy statements. Let achievement speak for itself."
       },
       {
-        "title": "Timing and momentum in reversals",
-        "insight": "Anthropic's warning that Recursive Self-Improvement may be imminent, combined with aggressive capex by AI firms despite regulatory headwinds, suggests that fast-moving technical frontiers reward first-movers even when policy is in flux. Slowing investment to await clarity risks ceding ground to rivals unbothered by regulation.",
-        "takeaway": "In races with high technical uncertainty and winner-take-most dynamics, the cost of waiting for perfect clarity often exceeds the cost of moving under partial uncertainty. Hedge with scenario planning rather than delay."
+        "title": "Local Voters Override Party Brand",
+        "insight": "Democrats flipped seats in Texas and Ohio—deep-red states—not by changing party label but by running local candidates on local issues (education policy, abortion rights, cost of living). Voters rejected the national Trump brand but embraced Democrats addressing neighborhood concerns.",
+        "takeaway": "Ground your message in community specifics. National narratives fail when local reality contradicts them; lead with what voters see around them."
       }
     ],
     "ai": [
       {
-        "title": "Anthropic develops FlashProve to verify AI model identity",
+        "title": "Democrats seize Congress, advance AI regulation agenda",
+        "feedTitle": "Democrats seize Congress, advance US AI regulation despite industry spending",
+        "summary": "With Democrats now controlling both chambers, momentum for stricter AI regulation has increased despite significant industry spending to oppose it. The party's platform includes stronger oversight of AI development and deployment, raising compliance costs for tech companies.",
+        "source": "Chosunbiz",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS0wxWk9fNG1Ic3BDWUs4MVlYT2pZcGc1bWFKTS1YU1N6ZGhwU0F3dmE2Q1FaRnZWLTVYdlgxUlRmR0lhbThQdmRIcUg3MHBWOGxZZmJNdjFBRzhtOWplR2dqZVI1Z3ZjcERrWlNkZjVLV3I4MTlyYXNscVJyeXJ3SVo1amNURTBm0gGcAUFVX3lxTE5nLVhzTDJZUEV3akQwZU1BSGx6dkpmWmNoZS1tVDZjTzVVb1JEblBUNlZ0WUtJQk42eng3eXFndUhtUm5xNHlLZDFMZGxGX3RReVlpTHNkTHRIRnRqSkV3Q25mVnlPY2p2UzRtZmNfNDl6cEdWbS1KeEllaFFoZFhzVTdHX0pDaWkwWWt2bDVhaFlES25KUXVYMkpDbg?oc=5",
+        "sources": [
+          {
+            "source": "Chosunbiz",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS0wxWk9fNG1Ic3BDWUs4MVlYT2pZcGc1bWFKTS1YU1N6ZGhwU0F3dmE2Q1FaRnZWLTVYdlgxUlRmR0lhbThQdmRIcUg3MHBWOGxZZmJNdjFBRzhtOWplR2dqZVI1Z3ZjcERrWlNkZjVLV3I4MTlyYXNscVJyeXJ3SVo1amNURTBm0gGcAUFVX3lxTE5nLVhzTDJZUEV3akQwZU1BSGx6dkpmWmNoZS1tVDZjTzVVb1JEblBUNlZ0WUtJQk42eng3eXFndUhtUm5xNHlLZDFMZGxGX3RReVlpTHNkTHRIRnRqSkV3Q25mVnlPY2p2UzRtZmNfNDl6cEdWbS1KeEllaFFoZFhzVTdHX0pDaWkwWWt2bDVhaFlES25KUXVYMkpDbg?oc=5"
+          },
+          {
+            "source": "USA Today",
+            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdm1IZ2ZPa29ZVzZpVE4xcnZxMFR5UWFlX0hpN2VsNVVuRHdGX094c0xUNUJ1eV80TE9oQlU3dE9mM1R3WXphZWdaTEh1NWJDdlFoaEhTenRldFA2cldBZUlUbUV4QUllZmdCcVlaR2ZNdzhBaHNhTng4aFE5LVp5R3ktNVl6VkltNGZISjBVRDF0RXZRaVNUWXA4SGVCaFNTT2hLNGp6QWFuQlU?oc=5"
+          },
+          {
+            "source": "Fox Business",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KQU1aWGRVVFU4SjRuUmVLeFI3ejVLeEJ3WmNJVGkzSDhsTWEtcUhSOUNPWmZFMlU1SEZyV2JvMWxNZjMyWVNrZmlha1dYdDlnUVZwSVM1b24yVjQ?oc=5"
+          }
+        ]
+      },
+      {
+        "title": "OpenAI ready for IPO in 2027, enterprise sales surge",
+        "feedTitle": "OpenAI, ready to IPO in 2027, now counts majority of sales from enterprises, Brockman says By Reuters",
+        "summary": "OpenAI is preparing for a public listing in 2027 with enterprise sales now comprising the majority of revenue, according to Greg Brockman. The shift reflects strong B2B adoption of AI services and indicates the company's path to profitability.",
+        "source": "Investing.com",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZUdLMUNNLXU2UTZIZGI2WXNDdHJXTnZOc2FKS3E3X0k1SWVIZDBjeXEzNVNlS0ZGTXJjNC1weW1OeGp2QlNJWTFaMmNNQWZMNXNMdVVnZEVtRlR2aXRHT3RSZzVsdmZNRFVYcHdpVjhHbHBpenlzekd5Z0xwUG82SG1hX25GaWNNTUpSZGpIZ1dDU3ZDVjJQdjBKRmpwRFFBVlA5eldxWGY0SWtKa2JSQ3UzbnVaNnd1N0Z1aHNIbS04ejNUZEpmM1h2aU1WckktUGE1WnRLWDdnTDdo?oc=5",
+        "sources": [
+          {
+            "source": "Investing.com",
+            "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZUdLMUNNLXU2UTZIZGI2WXNDdHJXTnZOc2FKS3E3X0k1SWVIZDBjeXEzNVNlS0ZGTXJjNC1weW1OeGp2QlNJWTFaMmNNQWZMNXNMdVVnZEVtRlR2aXRHT3RSZzVsdmZNRFVYcHdpVjhHbHBpenlzekd5Z0xwUG82SG1hX25GaWNNTUpSZGpIZ1dDU3ZDVjJQdjBKRmpwRFFBVlA5eldxWGY0SWtKa2JSQ3UzbnVaNnd1N0Z1aHNIbS04ejNUZEpmM1h2aU1WckktUGE1WnRLWDdnTDdo?oc=5"
+          }
+        ]
+      },
+      {
+        "title": "Meta acquires AI coding startup Conductor",
+        "feedTitle": "Meta acquires AI coding startup Conductor",
+        "summary": "Meta acquired Conductor, a startup that enables software engineers to deploy teams of AI agents to work on multiple project aspects simultaneously. The acquisition bolsters Meta's AI infrastructure and developer tools portfolio.",
+        "source": "TechCrunch",
+        "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+        "sources": [
+          {
+            "source": "TechCrunch",
+            "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/"
+          }
+        ]
+      },
+      {
+        "title": "Anthropic releases tool to verify AI model identity",
         "feedTitle": "Anthropic is working on a system to prove AI models’ identity",
-        "summary": "Anthropic released FlashProve, a cryptographic system to prove which AI model generated a response without exposing the model's weights or parameters. The technology allows users to verify authenticity and provenance of AI-generated content, addressing concerns about spoofing and misrepresentation. This advance in AI transparency could become important for trust and accountability in deployed systems.",
+        "summary": "Anthropic has released FlashProve, a system allowing anyone to cryptographically prove that an AI response came from a specific model. The tool addresses concerns about AI impersonation and deepfakes, though implementation carries computational costs.",
         "source": "TechCrunch",
         "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
         "sources": [
@@ -531,68 +646,25 @@
             "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/"
           },
           {
-            "source": "The Decoder",
-            "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMmNGSnM0YnZvaXlKRmhoQ3V4V0FPNDBVRnFrUUw1ZWQxMkUzUUFQZDZJd3V3M2VyMU5ra0pTTWh4NTViVFRQZ3FyVnZrOXlycWk5eHlXRkN4R1Z5eXlxcXBka2NSVHpFR2RMV1NxRzloUGN2ckhBZ04tQmFVbmtqLXdCY1FxekwxT1lyYjdBX2N0cXpka1F6QWJzd010VzV6UWo3UEZfWWh6cV9SbElla0NQZGRRY3pPY2c?oc=5"
-          }
-        ]
-      },
-      {
-        "title": "Anthropic warns RSI capability may be imminent",
-        "feedTitle": "Anthropic S-1: Recursive Self-Improvement (RSI) May Be \"Imminent,\" Here Is What That Means",
-        "summary": "In its S-1 IPO filing, Anthropic warned that Recursive Self-Improvement (RSI)—the capability for AI to substantially improve itself through automated retraining—may be 'imminent.' RSI represents the theoretical point at which AI capabilities accelerate beyond human control or prediction. The disclosure signals that Anthropic views advanced self-improving AI as a near-term engineering challenge, not distant speculation.",
-        "source": "trendingtopics.eu",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORVEzX0lLaEFZN1FSWGRhM3BJTkRUc094U0lTM255WkRoeVZEQmw3MW9VQmlrVHpKbHAxdzFBS1drVWtsZ0hMdjlXSnhYbnV0dENjajFTc2VTSGJIaTVFM29kcnd0amVaVnE2MzZNd1hKWjB3UDJySTg4UHdLNzIweGFPdnhmYVFxUW5vMnZqSjlPYUozLXNUSTBsYVl5dTNsVjVz?oc=5",
-        "sources": [
+            "source": "The New Stack",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zSW5kdFVUNkRvRU1obnVOOHRKNjY1Q053UHlWMmJ2M0hUdXhzWkJIem5yTTlIZy1XYkNDTXJ3Yk9KRUdDRTUzc3JXcnl6YmVMVXk3S2MxcEI4ZDhFamZCUVZDcEZWODFXcjhVX3FMWkM?oc=5"
+          },
           {
-            "source": "trendingtopics.eu",
-            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORVEzX0lLaEFZN1FSWGRhM3BJTkRUc094U0lTM255WkRoeVZEQmw3MW9VQmlrVHpKbHAxdzFBS1drVWtsZ0hMdjlXSnhYbnV0dENjajFTc2VTSGJIaTVFM29kcnd0amVaVnE2MzZNd1hKWjB3UDJySTg4UHdLNzIweGFPdnhmYVFxUW5vMnZqSjlPYUozLXNUSTBsYVl5dTNsVjVz?oc=5"
+            "source": "Yahoo Tech",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRWVmZFczWlNZbGZTSDVrdG5IZW85SE5yRWVXdXpwQzdxUWwwMUFOT1FMU0xqRUpVVk5oNlNLWFlrRV9Wa3Q2WUxxQXp2TjZ0TktLYlFSWU4wZEp2WHFfS0ZBdUFSV0RrSjZIc2o3T09QNjZTRldwM1kzVXk5OUFXdWJYYW1ZeHp2c204bHVmemhnY2tLazNr?oc=5"
           }
         ]
       },
       {
-        "title": "Fal AI inference startup doubles valuation to $16 billion",
+        "title": "AI inference startup Fal doubles valuation to $16B",
         "feedTitle": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-        "summary": "Fal, a five-year-old AI inference startup, raised $1.3 billion and doubled its valuation to $16 billion in a round led by Bessemer Venture Partners. The company capitalizes on surging demand for fast, low-cost AI model inference as enterprises scale deployments. This valuation milestone reflects investor appetite for AI infrastructure supporting model deployment.",
+        "summary": "Fal, a five-year-old AI inference startup, doubled its valuation to $16 billion in a $1.3 billion funding round led by Bessemer. The raise reflects surging demand for efficient AI model inference and deployment infrastructure.",
         "source": "TechCrunch",
         "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
         "sources": [
           {
             "source": "TechCrunch",
             "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/"
-          }
-        ]
-      },
-      {
-        "title": "OpenAI acquires Pierre Computer to expand Codex platform",
-        "feedTitle": "OpenAI to Bring Pierre Computer’s Code Storage to Codex Through Acquisition",
-        "summary": "OpenAI announced the acquisition of Pierre Computer to expand its Codex developer infrastructure with three code storage and management tools. The move strengthens OpenAI's developer platform for code generation and automation. This acquisition reflects OpenAI's strategy to deepen its footprint in the developer tools ecosystem.",
-        "source": "Investing.com",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYVZ2Z3R4ZDZVNTk3WGE0MEJ4UklFcFJqeXo2cnZaTzNHbG11dFV6bFZHTDZWTlAyemI0M1EyWU1KSklscWZXVEFhd0ljTkRUUnFUdV9wbENhS3lKdUs1Sm9IaDdxd1Npa0ZrdVk4MnE2SlBKU09EM05SVUJkU1dfYU1uRC1lUW9CSGJVa0l0MmpqcjlTYVRFZ3ZCUFIzMTlVeVBNNTdnUjhqTUVFbWhETXdWYklEQVF2?oc=5",
-        "sources": [
-          {
-            "source": "Investing.com",
-            "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYVZ2Z3R4ZDZVNTk3WGE0MEJ4UklFcFJqeXo2cnZaTzNHbG11dFV6bFZHTDZWTlAyemI0M1EyWU1KSklscWZXVEFhd0ljTkRUUnFUdV9wbENhS3lKdUs1Sm9IaDdxd1Npa0ZrdVk4MnE2SlBKU09EM05SVUJkU1dfYU1uRC1lUW9CSGJVa0l0MmpqcjlTYVRFZ3ZCUFIzMTlVeVBNNTdnUjhqTUVFbWhETXdWYklEQVF2?oc=5"
-          },
-          {
-            "source": "The Tech Buzz",
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVmdvYkd0OGstbzgtMjBQTzFad3AwNVFTN0VLNzBpaEJiVkNhbDZGMk96YXBEMFkyWE5SbTBPS3IxelYya0pCdGpVbVRURWlDTFBOeVY1T3pyemMzczRSMHlUNzJlSzh5WXc4cTRVaXVYaDhPRnoxSjdvSmlwbU5LVzlJVWFnV2JfWUNqWWRn?oc=5"
-          },
-          {
-            "source": "WSJ",
-            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMHB3WDNrSi01NF8zXzUyZWdSb0U0ZUZyVlZWUF9jeVBfeHVTNkpESjFRSk1FWTk1aFZNcVl2LTRXdlpnR2N5eTRURXJMZkVRM0o5dlVSZWRuY0dVc2ZRTGRLb3M1WVZjRk54Z0doRGt2MVlDTURZaHR6LWpPR3RiT0FmU19vWWd6dE5iY3FLOWozZkNhSHJENktiRGtmc3dJM2xXSDFyOFNlM0N2b2FLWQ?oc=5"
-          }
-        ]
-      },
-      {
-        "title": "OpenAI's approach to mathematics does not add up, says Economist",
-        "feedTitle": "OpenAI’s approach to mathematics does not add up",
-        "summary": "The Economist reported that OpenAI's AI models struggle with mathematical reasoning despite their impressive language capabilities, highlighting a persistent limitation in large language models. This gap between text fluency and logical reasoning remains a key bottleneck for AI systems claiming general intelligence. The analysis underscores fundamental challenges in scaling reasoning abilities.",
-        "source": "The Economist",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdFh5RG43Smk1X05pc3ZtX1dybGFjWjBqamE0VjlFVm1Ga25fdXJPcWp6TnBJSnZvRFVpSVF1LTA0UURrLVo5QUk2dWl6SFBUcTk3Rl9qYlpDajJLOUFuZzBkSVRrX3ZhZ0hkWXRfQlBEM3pVZWxGeHp5LWxfTXBJdHVDN3U2YUYzdlRuWmlOS1MwYWsyeEZveXJmUGtmTHIwMDF2OFNfOGdxZ3M?oc=5",
-        "sources": [
-          {
-            "source": "The Economist",
-            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdFh5RG43Smk1X05pc3ZtX1dybGFjWjBqamE0VjlFVm1Ga25fdXJPcWp6TnBJSnZvRFVpSVF1LTA0UURrLVo5QUk2dWl6SFBUcTk3Rl9qYlpDajJLOUFuZzBkSVRrX3ZhZ0hkWXRfQlBEM3pVZWxGeHp5LWxfTXBJdHVDN3U2YUYzdlRuWmlOS1MwYWsyeEZveXJmUGtmTHIwMDF2OFNfOGdxZ3M?oc=5"
           }
         ]
       }

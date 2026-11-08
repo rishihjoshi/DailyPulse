@@ -1,123 +1,119 @@
 {
-  "generatedAt": "2026-11-07T16:41:20.701Z",
+  "generatedAt": "2026-11-08T01:56:39.254Z",
   "location": "St. Charles, MO",
   "weather": {
-    "high": 49,
+    "high": 52,
     "low": 33,
-    "highC": 10,
+    "highC": 11,
     "lowC": 0,
     "precip": 0,
     "wind": 5,
     "sunrise": "6:35 AM",
     "sunset": "4:55 PM",
-    "now": 44,
-    "nowLabel": "Mainly clear",
+    "now": 43,
+    "nowLabel": "Clear",
     "alerts": [],
     "label": "Overcast",
     "emoji": "☁️"
   },
   "watch": [
-    "Anthropic IPO timing and valuation stability amid tech volatility and Democratic regulation concerns",
-    "Democratic Congress moves on AI regulation, data center restrictions, and H-1B visa policy in lame-duck session",
-    "U.S.-Iran diplomatic negotiations outcome and potential for further military strikes or de-escalation"
+    "OpenAI vs. Anthropic IPO pricing this week—will valuation gaps widen amid AI regulation fears?",
+    "Democratic transition to majority control: first moves on H-1B policy, AI regulation, and trade restrictions with India.",
+    "Iran-US tensions: new strike announcements and Qatari mediation efforts on nuclear inspections and Strait of Hormuz."
   ],
   "tabs": {
     "local": {
       "items": [
         {
-          "title": "Stephen Miller promoted to chief of staff amid immigration hardline concerns",
-          "feedTitle": "Stephen Miller, Trump's new chief of staff, is the architect of his controversial immigration policies",
-          "summary": "President Trump has elevated Stephen Miller, the architect of his controversial immigration policies, to White House chief of staff, replacing Susie Wiles. The move signals Trump intends to double down on hardline immigration enforcement despite Republican midterm losses. Miller pledged \"absolute loyalty\" to Trump at a Mar-a-Lago event. Democrats and some Republicans have criticized the decision, with Senator Thom Tillis calling it the \"worst of all possible choices.\" The promotion comes after Democrats' sweeping victories in the midterms, which party strategists attribute partly to backlash against Trump's immigration record.",
-          "source": "CBS News",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSVR1emxyZTgtakUwQUtId0pzYUtXVWVNVS1XNWFVcFdEdzdVQ2ZUMmtyMmx0N2dTSjNtamZxQ0RiVTRNNFFBenpGTzRHWDBkUXlpQmpHQUFNTmNOT2ZLUVlVWEFyYlZQVUpTT2NzRGJ2SHQ5czktTk91WFdMV05GY25JRXQzbDNhTW9CV1pXQQ?oc=5",
+          "title": "Stephen Miller becomes Trump's chief of staff",
+          "feedTitle": "3 things to know about Stephen Miller, new White House chief of staff",
+          "summary": "President Trump has appointed Stephen Miller, a hardline immigration architect, as his new White House chief of staff, replacing Susie Wiles. Miller is known for designing Trump's sweeping immigration crackdown and has been a loyal aide since Trump's 2016 campaign. The move signals Trump's intention to double down on far-right immigration policies despite midterm losses. Critics worry the appointment reflects a shift toward confrontational governance even as the GOP grapples with electoral defeat.",
+          "source": "The Hill",
+          "link": "https://thehill.com/homenews/administration/6206059-stephen-miller-chief-of-staff-info/",
           "sources": [
             {
-              "source": "CBS News",
-              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSVR1emxyZTgtakUwQUtId0pzYUtXVWVNVS1XNWFVcFdEdzdVQ2ZUMmtyMmx0N2dTSjNtamZxQ0RiVTRNNFFBenpGTzRHWDBkUXlpQmpHQUFNTmNOT2ZLUVlVWEFyYlZQVUpTT2NzRGJ2SHQ5czktTk91WFdMV05GY25JRXQzbDNhTW9CV1pXQQ?oc=5"
-            },
-            {
               "source": "The Hill",
-              "link": "https://thehill.com/homenews/administration/6206000-stephen-miller-white-house-promotion-speech/"
+              "link": "https://thehill.com/homenews/administration/6206059-stephen-miller-chief-of-staff-info/"
             },
             {
               "source": "PBS NewsHour",
-              "link": "https://www.pbs.org/newshour/show/what-trump-picking-stephen-miller-for-chief-of-staff-signals-about-his-agenda"
-            }
-          ]
-        },
-        {
-          "title": "House Republicans battle for leadership after historic midterm losses",
-          "feedTitle": "Two House Republicans battle to lead the party’s diminished ranks",
-          "summary": "Two House Republicans are competing to lead the party's diminished ranks following the GOP's significant losses in the midterm elections. Speaker Mike Johnson has announced he will step aside as Republican leader after the party lost control of the House. The leadership race reflects internal GOP fracturing as Republicans reckon with their electoral defeat and debate the party's direction forward.",
-          "source": "AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdlJlRjdta2pORGI0RFp3c1I3M25qQnpkcjZwZzJXYW5TVjJSYkFiakZoTm1MY3BJWnVLSTlhUlJ4WjFHZzFza0hPdm0wbzNmT2d3d2NrQ1J1dG5NTjQyVUc5VUJrN1J3QlI0aU9mNkVTVDhuMnhlcDlra3padlRWd3NZTUpOUEdldVdvUTExVUFBX21SMmlLdHE4aVY?oc=5",
-          "sources": [
-            {
-              "source": "AP News",
-              "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdlJlRjdta2pORGI0RFp3c1I3M25qQnpkcjZwZzJXYW5TVjJSYkFiakZoTm1MY3BJWnVLSTlhUlJ4WjFHZzFza0hPdm0wbzNmT2d3d2NrQ1J1dG5NTjQyVUc5VUJrN1J3QlI0aU9mNkVTVDhuMnhlcDlra3padlRWd3NZTUpOUEdldVdvUTExVUFBX21SMmlLdHE4aVY?oc=5"
-            },
-            {
-              "source": "The Hill",
-              "link": "https://thehill.com/homenews/analysis/6205560-trump-midterm-elections-republican-party-direction/"
+              "link": "https://www.pbs.org/newshour/politics/in-his-words-stephen-miller-is-an-immigration-hardliner-and-a-bombastic-critic-of-democrats"
             },
             {
               "source": "The Washington Post",
-              "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNFpFUGNUb29mZmY1U1FfU0NKQ3NJRTlQZkFmT1BGMFBxZ05Zdi02Mk9iZkdWSHNlNmFEazRhMUVNbHZqalFBT0p2NFR2ZlFlNXBnZHBwekRIMnJzYldmZ19NcF9sQTc5TE03TURqazljZXY4MGhOOW9TVGFVRDI4aGRILUR2cS1ZN1M5dnFqTUZTMzgtajJNS1B5aDdBWHN2dFdlRWlQT1hrRjRMWWphTzh2dFVrT2FrdEd2RHZGRVRudDc3?oc=5"
+              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd0x5NXhxRFEtSUtTanJra3FqbExtTlpEMmFkYXNld2FMYjlLWlNQMnctNFFrQ1NzNzZ4VmJRbkV1dkM2WXhzUk91Z0Vja21jQ1lXOFVJWWJ3eEpKcGxta1hQWlc0am9LX1RjaDdzRU1jM2FuNEsyUkxZRV9KcS1xV2FfWVN6WVpZRjJnTjM0MXBBYThjVHJiYVFwcTBTNlRVLTZnQVFGVWotT3NrNWxJ?oc=5"
             }
           ]
         },
         {
-          "title": "North Carolina GOP suffers continued losses in midterm wave",
-          "feedTitle": "From Powerhouse to Punchline: The North Carolina G.O.P. Implosion",
-          "summary": "Republicans in North Carolina lost four additional House seats as part of the broader Democratic midterm wave, marking a historic implosion of the once-powerful state GOP apparatus. The losses contributed to Democrats flipping multiple statewide races across the country. North Carolina, once a Republican stronghold, exemplifies the scope of the party's midterm collapse.",
-          "source": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMVBtVGw0UmtmcVo0Z1JGakx5b1ZfWXZuSEIzTU15bFRHV20xWkxxTXUtR3ZZekkxTEZQY3F2WWxCcVVOaUdlSlZZb0VGeFBrVGlWWXJDN3ZoNGQ1VnNZTkxFZ1V2YVUxcEFfUGhtNmZTZVNDb0xrcnVaMExXaVkwRFgzQXJ2UQ?oc=5",
+          "title": "US homelessness drops significantly after years of record highs",
+          "feedTitle": "Homelessness in the U.S. saw its largest drop in more than a decade last year",
+          "summary": "Homelessness in the US fell substantially last year, marking its largest decline in more than a decade after years of record-high levels. The total remains near 700,000 people, but the drop represents progress on a persistent national crisis. The Trump administration and homeless advocacy groups cite different reasons for the decline, suggesting disagreement over what policies drove the improvement.",
+          "source": "NPR",
+          "link": "https://www.npr.org/2026/11/07/nx-s1-6033491/homelessness-in-the-u-s-saw-its-largest-drop-in-more-than-a-decade-last-year",
           "sources": [
             {
-              "source": "The New York Times",
-              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMVBtVGw0UmtmcVo0Z1JGakx5b1ZfWXZuSEIzTU15bFRHV20xWkxxTXUtR3ZZekkxTEZQY3F2WWxCcVVOaUdlSlZZb0VGeFBrVGlWWXJDN3ZoNGQ1VnNZTkxFZ1V2YVUxcEFfUGhtNmZTZVNDb0xrcnVaMExXaVkwRFgzQXJ2UQ?oc=5"
+              "source": "NPR",
+              "link": "https://www.npr.org/2026/11/07/nx-s1-6033491/homelessness-in-the-u-s-saw-its-largest-drop-in-more-than-a-decade-last-year"
             }
           ]
         },
         {
-          "title": "Former Wisconsin governor declares state now solidly blue",
-          "feedTitle": "Former GOP governor: 'Wisconsin is a blue state'",
-          "summary": "Former GOP Governor Tommy Thompson stated that Wisconsin is no longer a purple state after recent statewide defeats for Republicans, including losses in the gubernatorial race. The declaration reflects how midterm results have shifted long-competitive states toward Democrats. Wisconsin has not elected a Republican to statewide office recently, marking a significant shift in the political landscape.",
-          "source": "The Hill",
-          "link": "https://thehill.com/homenews/campaign/6205785-tommy-thompson-declares-wisconsin-blue-midterms/",
-          "sources": [
-            {
-              "source": "The Hill",
-              "link": "https://thehill.com/homenews/campaign/6205785-tommy-thompson-declares-wisconsin-blue-midterms/"
-            }
-          ]
-        },
-        {
-          "title": "South Carolina Republicans fracture after stunning Democratic Senate win",
-          "feedTitle": "South Carolina Republicans Fracture Over Stunning Defeat of Darline Graham",
-          "summary": "Republicans in South Carolina are divided following the stunning election of Democrat Annie Andrews to the U.S. Senate in a seat long held by the GOP in a deep-red state. Her victory represents one of the most unexpected Democratic wins of the midterm cycle. Political observers cite \"generational change\" as Andrews, a newcomer, defeated the Republican incumbent, signaling a potential realignment in the state.",
+          "title": "Job growth exceeds expectations despite AI bubble concerns",
+          "feedTitle": "What to know about a better-than-expected jobs report amid AI bubble concerns",
+          "summary": "Employers added 165,000 new jobs in October, better than anticipated, with gains in August and September revised upward by a combined 84,000 jobs. The labor market shows resilience even as questions grow about sustainability of AI investments. The three-month trend suggests the economy remains relatively stable despite broader economic uncertainties.",
           "source": "PBS NewsHour",
-          "link": "https://www.pbs.org/newshour/show/sen-elect-hamilton-reflects-on-why-kansas-voters-chose-a-democrat-for-u-s-senate",
+          "link": "https://www.pbs.org/newshour/show/what-to-know-about-a-better-than-expected-jobs-report-amid-ai-bubble-concerns",
           "sources": [
             {
               "source": "PBS NewsHour",
-              "link": "https://www.pbs.org/newshour/show/sen-elect-hamilton-reflects-on-why-kansas-voters-chose-a-democrat-for-u-s-senate"
+              "link": "https://www.pbs.org/newshour/show/what-to-know-about-a-better-than-expected-jobs-report-amid-ai-bubble-concerns"
+            }
+          ]
+        },
+        {
+          "title": "Public school enrollment faces massive projected drop nationwide",
+          "feedTitle": "Why public schools nationwide are facing a massive drop in student enrollment",
+          "summary": "School enrollment is expected to plunge by 2 million children by 2030, a trend experts warn will be accelerated by potential mass deportations of immigrant families with school-age children. The crisis threatens educational systems already strained by demographic shifts. Education experts worry the combination of demographic decline and immigration enforcement could severely destabilize district budgets and services.",
+          "source": "NPR",
+          "link": "https://www.npr.org/2026/11/06/nx-s1-5971283/public-school-enrollment-ice-deportation-birthrate",
+          "sources": [
+            {
+              "source": "NPR",
+              "link": "https://www.npr.org/2026/11/06/nx-s1-5971283/public-school-enrollment-ice-deportation-birthrate"
+            }
+          ]
+        },
+        {
+          "title": "Hispanic voters power Democratic wins in midterm elections",
+          "feedTitle": "Hispanic voters were key in powering Democratic midterm wins",
+          "summary": "Hispanic voters were key to Democrats' sweeping midterm victories, with Latino support shifting leftward after Trump had made inroads with some Hispanic constituencies. Exit polling showed significant movement among Latino voters back toward Democrats. The voting bloc's decisive role highlights the importance of immigration and economic issues in shaping electoral outcomes.",
+          "source": "The Hill",
+          "link": "https://thehill.com/homenews/campaign/6205200-hispanic-voters-midterm-elections-gop/",
+          "sources": [
+            {
+              "source": "The Hill",
+              "link": "https://thehill.com/homenews/campaign/6205200-hispanic-voters-midterm-elections-gop/"
             },
             {
-              "source": "The New York Times",
-              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVVpOdXFmY3dCRHRLYnNzZ19SVjJnc1BaeldRWW44dFNhVHg1Z1dtTzVuZkhwSm9iZUxWOF9acGdOR2d3SFd5c2NfdVI3Vi13OEtJS1R3cDdUcnVhUDY4S1JfZktmX050ZEFwTEtqNXdpN25mZGY2eWxhTGxvSk84cUVQcw?oc=5"
+              "source": "The Washington Post",
+              "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaUhjeDJfTkpLYS1mYWZKSHZpVS14LWNVdU11X2wyWkFWdG1wdzZQMFJMMGUtMnlsbF93VkRwc0xveHFZMlVDV3BPSWRNSjJRbmM4UUdhU0pxRmdrcGVtX21rdXVtamhyaDdTaGlmWkE4UXM1Nmp4QTItSXlRek9WbURQOGJmaEg2VEt0QW01Q1VpT2JjZ3ZaUk5tanlNYm9mZDhSX2djRUxJR1VTWEE?oc=5"
             }
           ]
         }
       ],
       "stlouis": [
         {
-          "title": "Saint Louis defeats Missouri 90-84 in Show Me Showdown",
-          "feedTitle": "Saint Louis University Billikens defeat Missouri Tigers 90-84 in Show Me Showdown",
-          "summary": "Saint Louis University's Billikens defeated the University of Missouri Tigers 90-84 in the annual Show Me Showdown rivalry game. McCottry and Sharma each scored 17 points for Saint Louis, which made 14 three-pointers to secure the victory. The Billikens' strong three-point shooting proved decisive in the matchup between the two in-state rivals.",
-          "source": "St. Louis American",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTW1aLWIzTHdDUEg4NXBDVTg4eGFjWEltcXczMGIwbm9FMk9zb2tsX25fSHhxS052a0EycXNQTWZoUEFQMUwxTGZna3FzWkF6Tm1xcGJJbktxZlJjdzBQQlA0X292Q05ERFJHNmI2VUFZRlEzeUJONzB5eFhhYWY2RmVReFg4X05LWG5xT3pUU194SjNaVFc4TmtSbTYybnA0b2FHMnd4UnpQTElWUExqLU5oLUtzS2h6?oc=5",
+          "title": "SLU defeats Missouri 90-84 in rivalry game",
+          "feedTitle": "SLU rises to the challenge, beats Missouri 90-84 as rivalry gets restarted",
+          "summary": "Saint Louis University's Billikens defeated the University of Missouri Tigers 90-84 in the Show Me Showdown rivalry game on November 6. McCottry and Sharma each scored 17 points for SLU, which made 14 three-pointers to overcome Missouri. The victory marked a successful restart of the intrastate rivalry.",
+          "source": "STLtoday.com",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ29GUVpxbklncEVuQ0d1SW5RcFlWTS11VHB6QWthSko2QXNiYjVPeXo1TTQxUDJMc0otdFlUVldQMk5LWWhLTG5JMEh2bVJoY1JveEJ6Y21pbC05R0c2UXFYV1pkbTB3dk5mYzhfWEtacGllWlZ6azlsd3l5aG1meEg5Y1Y1bTN1c05CbGViNndoakZuY0d0YkxXNjY?oc=5",
           "sources": [
+            {
+              "source": "STLtoday.com",
+              "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ29GUVpxbklncEVuQ0d1SW5RcFlWTS11VHB6QWthSko2QXNiYjVPeXo1TTQxUDJMc0otdFlUVldQMk5LWWhLTG5JMEh2bVJoY1JveEJ6Y21pbC05R0c2UXFYV1pkbTB3dk5mYzhfWEtacGllWlZ6azlsd3l5aG1meEg5Y1Y1bTN1c05CbGViNndoakZuY0d0YkxXNjY?oc=5"
+            },
             {
               "source": "St. Louis American",
               "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTW1aLWIzTHdDUEg4NXBDVTg4eGFjWEltcXczMGIwbm9FMk9zb2tsX25fSHhxS052a0EycXNQTWZoUEFQMUwxTGZna3FzWkF6Tm1xcGJJbktxZlJjdzBQQlA0X292Q05ERFJHNmI2VUFZRlEzeUJONzB5eFhhYWY2RmVReFg4X05LWG5xT3pUU194SjNaVFc4TmtSbTYybnA0b2FHMnd4UnpQTElWUExqLU5oLUtzS2h6?oc=5"
@@ -125,36 +121,32 @@
             {
               "source": "slubillikens.com",
               "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWGxZVUhBSVpMV3BBUkEwNHNRRmM0NzR0N3pjanhabXB4ZV9HTXhHMG51clpncWNENFdVWjhLLWxHajBhenFFcmpRc3VLSEpUTWZVNlhKWlBhY2NLak9iZWNBWWp2WmpDMEtCd28waVk1ajY4SXJPNkhUcTFzMXM4TUVrVWRvNlN2Sk84ZzhtVi1kMzhyN2JYazd4ejFGT1h1MUpaM2J2cGQ4UzhM?oc=5"
-            },
-            {
-              "source": "Newsday",
-              "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZU9FNU8zUjdiTTRyQ0o2LURPb09fRm8ycHhGWkRxd3Vlc2dMZUF0SmhCSy1DamJOZjJ6Y2dNTXA0eHZNcjRnNVJMM05wV3lHRDU4RDZvQzNGbUlQb3J4czdyUjVKaDctUGptNDI4eS1fa3pvSHJ2RHNrdndhYkpWQm9faWl6MmhkNXIxU2w2WUw2MHI5Unc?oc=5"
             }
           ]
         },
         {
-          "title": "Jason Driver named new St. Louis Public Library CEO",
-          "feedTitle": "Jason Driver named St. Louis Public Library CEO",
-          "summary": "Jason Driver has been appointed as the new chief executive officer of the St. Louis Public Library, taking over leadership of the major regional institution. The appointment marks a significant personnel change at the library system, which serves the St. Louis metro area.",
-          "source": "St. Louis American",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONkc2aGhybWhIa0VsR3FJWUhnWksxNEZkZHdxal94UE14TXF4bDRjT1JXUFF0eUMxaHBMTGtvUkQ2WTR6aW5sdkktb1N1dGptSS1rRVJhdUY2blpJakc2aEJvcEJjZWpHN2JReTNXbk5kd253V0lxRDRmT1lmTTVsX0YyVWp6dDhLYmN3NkczOG1OVGk5bXc?oc=5",
+          "title": "St. Louis County property tax bills corrected after errors",
+          "feedTitle": "Corrected St. Louis County property tax bills back online after errors, county says",
+          "summary": "Corrected St. Louis County property tax bills have been restored online after errors were identified and fixed by county officials. The county acknowledged the problem and restored access to corrected billing information for residents.",
+          "source": "KMOV",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPV0Z6OFBuN1g4eDV1LVFod09Mek1XcGdDc1hIc3FKYnhXbGZIVk1SUlE1cGtubTF5cF9KZFZVYUhPbnRkU3drTFNjcXUtbHZzandzblZySXpFd3pvSnNVaUdQc3JmV3lJNG1Id0x0blE1Z2lfZGFzMUsxdGI0bktEQndtYUtsYnM3d2lkRWtfdVRqNmdvbnJxNldzTUZvazNyWU91UUpuSTNFQmhpUlEteVBlaEdPQzRwc2FVeER30gHSAUFVX3lxTE53eDlRb3JYcG55WWxUbGttOVdGb3dWZm8xcmdESDcxR0tsMWtLRXZnUkVqcmhjckpHZjZnX0JXVlVDakFpZGVtb1BaRURpZFBnOU8zaDhaMERTSHI1UzBVNjlRUm9HT19PSDFJeW1mZzNHTjRiVTNJRTlKbHZaZUM2YXUybVFMTE9LbTF4RC0wSnNRajdaV1VyWWF4cms1U2lHRjdJWDR6dlhkOTY4MFBmT0g5U3prOUJqWGdfUEdEZHJaUHNhS3AxR0h4b1RjQXc2UQ?oc=5",
           "sources": [
             {
-              "source": "St. Louis American",
-              "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONkc2aGhybWhIa0VsR3FJWUhnWksxNEZkZHdxal94UE14TXF4bDRjT1JXUFF0eUMxaHBMTGtvUkQ2WTR6aW5sdkktb1N1dGptSS1rRVJhdUY2blpJakc2aEJvcEJjZWpHN2JReTNXbk5kd253V0lxRDRmT1lmTTVsX0YyVWp6dDhLYmN3NkczOG1OVGk5bXc?oc=5"
+              "source": "KMOV",
+              "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPV0Z6OFBuN1g4eDV1LVFod09Mek1XcGdDc1hIc3FKYnhXbGZIVk1SUlE1cGtubTF5cF9KZFZVYUhPbnRkU3drTFNjcXUtbHZzandzblZySXpFd3pvSnNVaUdQc3JmV3lJNG1Id0x0blE1Z2lfZGFzMUsxdGI0bktEQndtYUtsYnM3d2lkRWtfdVRqNmdvbnJxNldzTUZvazNyWU91UUpuSTNFQmhpUlEteVBlaEdPQzRwc2FVeER30gHSAUFVX3lxTE53eDlRb3JYcG55WWxUbGttOVdGb3dWZm8xcmdESDcxR0tsMWtLRXZnUkVqcmhjckpHZjZnX0JXVlVDakFpZGVtb1BaRURpZFBnOU8zaDhaMERTSHI1UzBVNjlRUm9HT19PSDFJeW1mZzNHTjRiVTNJRTlKbHZaZUM2YXUybVFMTE9LbTF4RC0wSnNRajdaV1VyWWF4cms1U2lHRjdJWDR6dlhkOTY4MFBmT0g5U3prOUJqWGdfUEdEZHJaUHNhS3AxR0h4b1RjQXc2UQ?oc=5"
             }
           ]
         },
         {
-          "title": "Ascension to cut 51 jobs as St. Louis County operation closes",
-          "feedTitle": "Ascension to cut 51 jobs as St. Louis County operation closes",
-          "summary": "Ascension Health announced it will eliminate 51 jobs as it closes an operation in St. Louis County. The healthcare system's decision reflects broader industry consolidation and restructuring in the region. The closure will impact local employment and healthcare service delivery in the county.",
-          "source": "FOX 2",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONlpBNi1XZ2RtNzRhdjhNaU5mUklLNnY5SzAtemxiVE1CVm1BelY1d1RKZ2VrZUlWRnNoX1hPeGd4YW1TalVtRnNqZnk3WWtydTlOcGE2NnI4WHdDMGkyUFJEWUVvTk0yb25jRFNnVXcybzlyVEVPN1VFMDd5eGZVOVg2V0xxZlZtc19fYlJDWF8yR2h3eW9GZ2duTdIBoAFBVV95cUxQdDI5SnJjQ2tsQ0llWWFON1RTVTc3b04tUGlSWE5aMG12T0wxMV9iZDdtaDg3NHNsV2RneGo0SXNpbERSUmVjVzZncTIxUmZ4ZDZaN2YxekpkWllmaWhSalRnUloxeU52ZkVtQWk1b1hxU3N4eDZCbjF4Y0ZMT29OTEp6cUpRb3ctdTlvenZQam9wQllxTUl2Nm9yRFVHV21t?oc=5",
+          "title": "College transit challenge promotes Metro Transit ridership",
+          "feedTitle": "College transit challenge promotes Metro Transit use for students",
+          "summary": "A college transit challenge initiative is encouraging student use of St. Louis area Metro Transit services. The program aims to promote public transportation adoption among the student population during the academic year.",
+          "source": "STLtoday.com",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeTM2cnlILUhrMUtpZXAxM3F6cFFBN05ialdZM0xtSzdza0lhUWVLRU5zNE91bWJzQUNNSXJ2STQ5WXR3T19uRDRIbEc1aS12bGdmaHBPVUhxN1pCa0ZjMkdvMGVGVzlPVlpZVURZeVV6UW9Kc1p2cFVHbFpnbFFoRTVCbVJ0QzJfdEJIT1U4eDBIWlE?oc=5",
           "sources": [
             {
-              "source": "FOX 2",
-              "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONlpBNi1XZ2RtNzRhdjhNaU5mUklLNnY5SzAtemxiVE1CVm1BelY1d1RKZ2VrZUlWRnNoX1hPeGd4YW1TalVtRnNqZnk3WWtydTlOcGE2NnI4WHdDMGkyUFJEWUVvTk0yb25jRFNnVXcybzlyVEVPN1VFMDd5eGZVOVg2V0xxZlZtc19fYlJDWF8yR2h3eW9GZ2duTdIBoAFBVV95cUxQdDI5SnJjQ2tsQ0llWWFON1RTVTc3b04tUGlSWE5aMG12T0wxMV9iZDdtaDg3NHNsV2RneGo0SXNpbERSUmVjVzZncTIxUmZ4ZDZaN2YxekpkWllmaWhSalRnUloxeU52ZkVtQWk1b1hxU3N4eDZCbjF4Y0ZMT29OTEp6cUpRb3ctdTlvenZQam9wQllxTUl2Nm9yRFVHV21t?oc=5"
+              "source": "STLtoday.com",
+              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeTM2cnlILUhrMUtpZXAxM3F6cFFBN05ialdZM0xtSzdza0lhUWVLRU5zNE91bWJzQUNNSXJ2STQ5WXR3T19uRDRIbEc1aS12bGdmaHBPVUhxN1pCa0ZjMkdvMGVGVzlPVlpZVURZeVV6UW9Kc1p2cFVHbFpnbFFoRTVCbVJ0QzJfdEJIT1U4eDBIWlE?oc=5"
             }
           ]
         }
@@ -163,30 +155,51 @@
     "world": {
       "items": [
         {
-          "title": "Five killed, at least 12 injured in Krakow shooting rampage",
-          "feedTitle": "Gunman opens fire in Polish city of Krakow, killing 5 people and injuring at least 12",
-          "summary": "A gunman opened fire near the main market square in Poland's second-largest city, Krakow, killing five people and injuring at least a dozen others. Polish Prime Minister Donald Tusk called it a \"tragic\" attack and said police are investigating. The U.S. ambassador to Poland condemned the \"savage and murderous attack\" as the nation reels from the violence.",
-          "source": "AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT3JpbnhmUWhOUkNrNkUwYVdXYkk1cDFHbEVsVGlsOElHU1dkOUNWa3JVLUdsWkdlQ1A1aWlqbkRQMmVxMk1iRko4Vng5cWdKWTA2cVdBR0xaVUVWU3pQbjJveEFwbzhmTktUX0dyQWFxX3R4eU9zbFFaWTBBM3FRaDE1TW1pZFJHUlBJbVpGMHZCVnpZVV9FUGVn?oc=5",
+          "title": "Six killed in Kraków mass shooting, suspect had far-right views",
+          "feedTitle": "Six dead after gunman opens fire in Kraków market square, with three more victims found at suspect’s home",
+          "summary": "A gunman opened fire in Kraków's main market square, killing six people and wounding 16 others, with three additional victims found at the suspect's home. Polish authorities identified the 25-year-old suspect as holding far-right ideologies and ultra-nationalistic views. Poland's defense minister called the attack an 'act of terror,' while the prime minister vowed a strong response to the violence.",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
           "sources": [
             {
-              "source": "AP News",
-              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT3JpbnhmUWhOUkNrNkUwYVdXYkk1cDFHbEVsVGlsOElHU1dkOUNWa3JVLUdsWkdlQ1A1aWlqbkRQMmVxMk1iRko4Vng5cWdKWTA2cVdBR0xaVUVWU3pQbjJveEFwbzhmTktUX0dyQWFxX3R4eU9zbFFaWTBBM3FRaDE1TW1pZFJHUlBJbVpGMHZCVnpZVV9FUGVn?oc=5"
+              "source": "The Guardian",
+              "link": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman"
             },
             {
-              "source": "The Guardian",
-              "link": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates"
+              "source": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss"
             },
             {
               "source": "Al Jazeera",
-              "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-clip-poland-krakow-shooting?traffic_source=rss"
+              "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/polish-pm-calls-deadly-krakow-shooting-an-act-of?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "New Zealand election too close to call amid coalition talks",
-          "feedTitle": "New Zealand faces weeks of uncertainty with election ‘too close to call’",
-          "summary": "New Zealand's election has ended in a near-deadlock with no clear winner, likely setting up weeks of coalition negotiations to form a government. Prime Minister Christopher Luxon said he has a pathway to form the next government, but the razor-thin margins mean minor parties will hold significant power in determining the outcome. Political uncertainty will dominate New Zealand for coming weeks.",
+          "title": "Israel's president tasks opposition leader Eisenkot with government formation",
+          "feedTitle": "Eisenkot chosen over Netanyahu to form Israel’s next government",
+          "summary": "Israeli President Isaac Herzog formally asked opposition leader Gadi Eisenkot to form the next government, a setback for Prime Minister Benjamin Netanyahu whose coalition lost its majority in last month's election. Neither Netanyahu nor Eisenkot secured a clear majority, but representatives from most Israeli parties recommended Eisenkot be given the chance to assemble a coalition. Eisenkot has 28 days to secure the required Knesset seats.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government?traffic_source=rss",
+          "sources": [
+            {
+              "source": "Al Jazeera",
+              "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government?traffic_source=rss"
+            },
+            {
+              "source": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "source": "The Guardian",
+              "link": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government"
+            }
+          ]
+        },
+        {
+          "title": "New Zealand faces weeks of uncertainty after tight election",
+          "feedTitle": "NZ election 2026: New Zealand faces weeks of uncertainty with results ‘too close to call’",
+          "summary": "New Zealand's election results are too close to call, with no party securing a decisive majority. The nation could face weeks of coalition negotiations to determine the shape of the next government. Initial results show a highly divided parliament with both major blocs struggling to gain clear advantage.",
           "source": "The Guardian",
           "link": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count",
           "sources": [
@@ -196,58 +209,41 @@
             },
             {
               "source": "BBC",
-              "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss"
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5rMGhOYWsyY2ZTVnZmdXowZ2NVazVoeDhPdWxnMUk4YjVlSGdMMVZMbkwzb2p2RlV4RnU2c3RnMm0xUXc0OHFKeXZsU2hJZWlFaU05cEhlTTZNdG8?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Airstrikes near Yemen's capital kill at least 25 people",
+          "feedTitle": "Houthi-run health ministry says airstrikes kill 33 near Yemen capital",
+          "summary": "At least 25 people were killed and 30 injured in airstrikes near Sanaa, Yemen's capital, according to Houthi officials, with civilian casualties including mostly women and children. The strikes mark some of the deadliest single incidents in the ongoing Yemen conflict. Responsibility and details remain contested between warring parties.",
+          "source": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPck9CUTVBTUgyQVJnZUxobTVpZGxIdTBmaGNmOWpHVWt4NUF4SHYyTWlUS1g2QmZ5RUd0YmJHVVpPQUVqa1lzVlJ1SU9HUUpDdzh0SVNFRW9KanJEZDJycDA5cVhxV0NKWnA5TUEtS2tkcDF4MTNjTUstalQwLXg3TVJXb3d1VlpaTUN6N1BFWHFfUk1FNm42QWdBSndJNDdQQUdNNlZKUVlLTUN6RmQ0aXluNHNUQUxYTW9vV0ZfUEFHX2tjXzBwZkpZeXA?oc=5",
+          "sources": [
+            {
+              "source": "Reuters",
+              "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPck9CUTVBTUgyQVJnZUxobTVpZGxIdTBmaGNmOWpHVWt4NUF4SHYyTWlUS1g2QmZ5RUd0YmJHVVpPQUVqa1lzVlJ1SU9HUUpDdzh0SVNFRW9KanJEZDJycDA5cVhxV0NKWnA5TUEtS2tkcDF4MTNjTUstalQwLXg3TVJXb3d1VlpaTUN6N1BFWHFfUk1FNm42QWdBSndJNDdQQUdNNlZKUVlLTUN6RmQ0aXluNHNUQUxYTW9vV0ZfUEFHX2tjXzBwZkpZeXA?oc=5"
             },
+            {
+              "source": "Sky News",
+              "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdElJT2IxV2wwQlBQVG9NaEo3MlZDblRVLWliMjE1dDYxd1hSYU5DVXFZdVpfQXdJR2tzOGo4LXBxdExUOXlWZWUtUkFER25sbGNnbG84U01Cd2N1NnpkM3lUVVRtcmMzNnNnbVV4bWcyUUhsSTdhRTRMM25sTGQ1MThVZGx6QU04akMyZ0pUcHlsdXMtUVZ6MXRvQ09Ia2d6X2dYdHlVU0dFZ2hRa0piNzdn?oc=5"
+            },
+            {
+              "source": "WRAL",
+              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTVZQdmEzUzJEak1DS2RrRE9lMTdLbktQQmtRTWIzMmVVck84bXpKa3VyVF9rU2wwZ1RRVzhWSHRGei1udEw1TTIyeWk2RU42UFFOWWdrX2piZlRtMEtlbV9HX0xBeFU3d3RiYlRKZVZwNjdpcEFLOEhBRDhmS0xFUlhGUmxabEU2TmlNX0Z3TnJmR0hKZnBZUVB2UDNxUVV2U0lmT2lnR2dvdVoxa1M4?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Canary Islands declare emergency over migrant influx",
+          "feedTitle": "Canary Islands’ El Hierro declares emergency amid migrant, refugee influx",
+          "summary": "Spain's Canary Islands declared an emergency after more than 3,300 migrants and refugees arrived by boat since the start of November. Island officials, particularly El Hierro, are requesting government assistance to manage the unprecedented surge in arrivals. The influx has strained local resources and triggered a humanitarian response from Spanish authorities.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/8/canary-islands-el-hierro-declares-emergency-amid-migrant-refugee-influx?traffic_source=rss",
+          "sources": [
             {
               "source": "Al Jazeera",
-              "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/new-zealands-prime-minister-says-election-is-too-close-to?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "Russia launches major drone and missile attacks on Kyiv",
-          "feedTitle": "Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid",
-          "summary": "Russia conducted a major overnight attack on Kyiv using 172 drones and 36 ballistic missiles, targeting electricity substations and key infrastructure. President Volodymyr Zelenskyy accused Moscow of trying to \"plunge Kyiv and the entire country into a blackout.\" The assault follows weeks of escalating attacks on Ukraine's energy grid ahead of planned negotiations.",
-          "source": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid",
-          "sources": [
-            {
-              "source": "The Guardian",
-              "link": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid"
-            },
-            {
-              "source": "BBC",
-              "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "source": "Al Jazeera",
-              "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV2dldG1kWEpfakpLWGh5STYyWUZzRUd6bk04Nnctay1rbDRDRXE3cmV1ek5fTmpzZjdob0djTWk3T2ZfU1BrbDBEZnVla1VVTnJYblpzWjJsSEZjS0lCVkpqeDZkemtuUm5YZENxZ2hLdjQxWmVZTU9xMkVpTUtmN3NGS2dyVFptdkNxd0l6N0xXWURUTjUyOWRtQW1xSXPSAaQBQVVfeXFMUFJYbXBPWTFBYjgxT1dKcnNZV0JrUnJNSTg3RFBzcW5ySEJObUk3QmI2b2FERjlhWlRxVm92TWUtWkEzd0YzU2RzN0laZXVTNlZGYkN3TlpTV1VjaGo4dlBtbjJuNldFZGVHLXdFaHJRZEVqUG04Tl9XOU51ZVZXUnV1Ny1lcHFEVG1jUmU3NGM3R0xTVGZRZnh5UlU5ekl1MlRkS0c?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Qatar pursues UN nuclear inspections plan as Strait reopens",
-          "feedTitle": "Strait of Hormuz could reopen as part of Qatari plan for Iran nuclear inspections",
-          "summary": "Qatar, acting as lead mediator in U.S.-Iran tensions, is seeking to persuade Tehran to allow UN nuclear weapons inspectors to visit Iran's bombed nuclear sites. The diplomatic initiative comes as part of a broader framework that could include reopening the Strait of Hormuz. Both sides have engaged mediators in recent days amid threats of escalation.",
-          "source": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMFNrLUQ1dG9iaVNVYWYzRjRlbmNnVEFHR29rcWh5NnFpaEx5UWs1RjNTbWZoc3oxd2RQWUdBaXFaNzJENjlUWVdNOHNsQzlWOFVYdDZHVTFvQmpGWEpSSlZFLXRVTUxWX2lQaHl6VjJMVDViVEM2NXF4cnZJcUo1aWJHc3MtdTZFdFRhLTF5cXBTallDMFVZY1dlMkd5RFU?oc=5",
-          "sources": [
-            {
-              "source": "The Guardian",
-              "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMFNrLUQ1dG9iaVNVYWYzRjRlbmNnVEFHR29rcWh5NnFpaEx5UWs1RjNTbWZoc3oxd2RQWUdBaXFaNzJENjlUWVdNOHNsQzlWOFVYdDZHVTFvQmpGWEpSSlZFLXRVTUxWX2lQaHl6VjJMVDViVEM2NXF4cnZJcUo1aWJHc3MtdTZFdFRhLTF5cXBTallDMFVZY1dlMkd5RFU?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Kenya cult leader sentenced to 200 years for 191 murders",
-          "feedTitle": "Kenya cult leader handed 200-year sentence for 191 murders",
-          "summary": "Kenyan courts sentenced Paul Mackenzie, a cult leader, to 200 years in prison for orchestrating the deaths of 191 people, including many children. Mackenzie ordered his followers to starve themselves and their children to death in a forest so they could \"meet Jesus.\" The case represents one of the deadliest cult-related mass murders in recent African history.",
-          "source": "The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMmZhYWFCc2VYUkFCOHVFTjZPZFhYUjVtVE9vQjVPN3dRUG50N214OVFyR1NobFNJNHZCMHlCMlZRWUZycDg2aGRvWE5XRkZvc3M0WGtvVzNwalJkNkM2dGhCU3dLZHBlUzd6dDItYW56OUJ3TFhTcFZWcmFYVHkzSWdjZTIyZlF3bXJrczVCSmNTQTJseFVXNFRqa1c4cXZrX200NXRR?oc=5",
-          "sources": [
-            {
-              "source": "The Washington Post",
-              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMmZhYWFCc2VYUkFCOHVFTjZPZFhYUjVtVE9vQjVPN3dRUG50N214OVFyR1NobFNJNHZCMHlCMlZRWUZycDg2aGRvWE5XRkZvc3M0WGtvVzNwalJkNkM2dGhCU3dLZHBlUzd6dDItYW56OUJ3TFhTcFZWcmFYVHkzSWdjZTIyZlF3bXJrczVCSmNTQTJseFVXNFRqa1c4cXZrX200NXRR?oc=5"
+              "link": "https://www.aljazeera.com/news/2026/11/8/canary-islands-el-hierro-declares-emergency-amid-migrant-refugee-influx?traffic_source=rss"
             }
           ]
         }
@@ -256,61 +252,9 @@
     "india": {
       "items": [
         {
-          "title": "India lands heavy-lift aircraft at world's highest altitude",
-          "feedTitle": "World's highest IL-76 landing, Nyoma makes mark as India's key airbase on the LAC",
-          "summary": "The Indian Air Force successfully landed an IL-76 heavy-lift military transport aircraft at Nyoma airbase in Ladakh at 13,600 feet, marking the world's highest-altitude landing for this aircraft type. The achievement underscores India's strategic military capabilities in the region bordering China. Nyoma has emerged as a critical airbase for India's defense posture on the Line of Actual Control.",
-          "source": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNkR6OHZWeUxxclpILUZtN3Q0YnVNT2I3dUhONEtxR05vSkI1NFZXRnJadHBHcjZ3cUx0N2JkMk5vZUlUT205Slg0YjBKaHlpZHVpYXhPXy0xX2ZOU2xlUmE2YkxaTmZCWkFGb3gyNU16ZVFGa293Y3lnQk1SRVNFd3BOTnlFanpiWElVY3JzbmlZSGtxRjJ4T0tlRHBfR0UybUhyb1A1eVVLYWlGeTlQNkVXUGVXLU1ucmVISmFIek02dTRTMnNVaVR2aFdyVlQydEtRVm5HMG0zUGx3b01aTjY0NHRZa1I1?oc=5",
-          "sources": [
-            {
-              "source": "The Times of India",
-              "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNkR6OHZWeUxxclpILUZtN3Q0YnVNT2I3dUhONEtxR05vSkI1NFZXRnJadHBHcjZ3cUx0N2JkMk5vZUlUT205Slg0YjBKaHlpZHVpYXhPXy0xX2ZOU2xlUmE2YkxaTmZCWkFGb3gyNU16ZVFGa293Y3lnQk1SRVNFd3BOTnlFanpiWElVY3JzbmlZSGtxRjJ4T0tlRHBfR0UybUhyb1A1eVVLYWlGeTlQNkVXUGVXLU1ucmVISmFIek02dTRTMnNVaVR2aFdyVlQydEtRVm5HMG0zUGx3b01aTjY0NHRZa1I1?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Andhra Pradesh CM orders swift relief after Cyclone Murasu",
-          "feedTitle": "Cyclone Murasu: Andhra Pradesh CM orders swift power restoration, price control measures",
-          "summary": "Andhra Pradesh Chief Minister N. Chandrababu Naidu ordered immediate power restoration and price control measures in response to Cyclone Murasu's impact on the state. Officials were directed to monitor field-level relief operations, complete damage assessments quickly, and ensure prompt financial assistance to affected families. The cyclone caused significant disruption across the coastal state.",
-          "source": "The Hindu",
-          "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-murasu-andhra-pradesh-cm-orders-swift-power-restoration-price-control-measures/article71679137.ece",
-          "sources": [
-            {
-              "source": "The Hindu",
-              "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-murasu-andhra-pradesh-cm-orders-swift-power-restoration-price-control-measures/article71679137.ece"
-            }
-          ]
-        },
-        {
-          "title": "Trump celebrates Diwali at White House with Indian-American leaders",
-          "feedTitle": "Donald Trump celebrates Diwali at White House with Indian-American leaders, top CEOs",
-          "summary": "President Trump participated in Diwali celebrations at the White House, welcoming Indian-American community leaders and top business executives. The event highlighted Trump's outreach to Indian-Americans during Diwali, the Hindu festival of lights. Participants included prominent members of the Indian diaspora and corporate leadership.",
-          "source": "Telegraph India",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWW9ETVUtTUE1Y29XcFZsc3FRUjlDbDJtYnpKTHh3TTAwdEYzU2VzR1lGX0pfSkpEUGdwWkxEb09JWVhBS0NOSFB1SkxtRmJOelJaUndHZlNFcFRoN21idVpnaG9fQWROYnhZQTVMSWJ5WURtNHppRnY4LThSY0FKTTBmcWllaVh0Qmc0UzFEMkd6R1ZuOTNQNUJpTGNuRUdnN25aUnVYbGJqcmI4SjU0cmxUQU8zX0FIUFVuQi12TnhILU1waHRWejRsbWtWQ3FjQmRhek8xTC0wNTFCZkc0RNIB5gFBVV95cUxPT2pFSE5rX194QVJOLVJBOF9xTDdYYmJ5cG1YUTVmQ2hDbmFRS1NqYUxXNnJjLWs5MzV5ZXloVUFZSWgxVmp1T2NYbE53OVUxMEFLa2kzQlhVR3ZtUXJnQXRvSzZXTWxHUVBETGdaTi1IVHZKOE1XNnp1ME8wTTh1VDlSNXplV3VxZkVNWjBVSzNhc2ZYamNoZUVNeHh6X3RrWXpkaUR6V3NJR2JTd3hmNC1pZXNBRVQwWFNMWk5pOTMtUTBibzZqS2pvaXlHbmhQVEd1MHhEVjJ0RUU3NDlCM0xEYzRGQQ?oc=5",
-          "sources": [
-            {
-              "source": "Telegraph India",
-              "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWW9ETVUtTUE1Y29XcFZsc3FRUjlDbDJtYnpKTHh3TTAwdEYzU2VzR1lGX0pfSkpEUGdwWkxEb09JWVhBS0NOSFB1SkxtRmJOelJaUndHZlNFcFRoN21idVpnaG9fQWROYnhZQTVMSWJ5WURtNHppRnY4LThSY0FKTTBmcWllaVh0Qmc0UzFEMkd6R1ZuOTNQNUJpTGNuRUdnN25aUnVYbGJqcmI4SjU0cmxUQU8zX0FIUFVuQi12TnhILU1waHRWejRsbWtWQ3FjQmRhek8xTC0wNTFCZkc0RNIB5gFBVV95cUxPT2pFSE5rX194QVJOLVJBOF9xTDdYYmJ5cG1YUTVmQ2hDbmFRS1NqYUxXNnJjLWs5MzV5ZXloVUFZSWgxVmp1T2NYbE53OVUxMEFLa2kzQlhVR3ZtUXJnQXRvSzZXTWxHUVBETGdaTi1IVHZKOE1XNnp1ME8wTTh1VDlSNXplV3VxZkVNWjBVSzNhc2ZYamNoZUVNeHh6X3RrWXpkaUR6V3NJR2JTd3hmNC1pZXNBRVQwWFNMWk5pOTMtUTBibzZqS2pvaXlHbmhQVEd1MHhEVjJ0RUU3NDlCM0xEYzRGQQ?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Delhi world's most polluted major city before Diwali",
-          "feedTitle": "Delhi world's most polluted major city on eve of Diwali, Swiss group says",
-          "summary": "Delhi has been designated as the world's most polluted major city by a Swiss air quality monitoring group on the eve of Diwali celebrations. Air quality in parts of the capital has reached \"severe\" levels, with forecasts predicting further deterioration around the festival. The pollution crisis compounds public health concerns during one of India's most important festivals.",
-          "source": "Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVVlxZmVpMjBDLXg3TUszakhnQ25XZ2RzQUhjRzBHUi1waG1FeEV5LVNfQ29FNmJlbnFDY21Ebi1Jazh3RF9OOGlrOFZxdFRYMFFDRVdpajNqcS1EVkk4SDgtendZN1ZiMmxUamZaLXRGMjlIVDNqTUFDRDNmVHE4NV9TTDJnbnZfcDY5VGpiYXQtc3JadHo1Umt0cUdWWXZwLTRhNENqbXlWRHRCemhTN2ZHeV9MR2VlenlTa3ZHZw?oc=5",
-          "sources": [
-            {
-              "source": "Reuters",
-              "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVVlxZmVpMjBDLXg3TUszakhnQ25XZ2RzQUhjRzBHUi1waG1FeEV5LVNfQ29FNmJlbnFDY21Ebi1Jazh3RF9OOGlrOFZxdFRYMFFDRVdpajNqcS1EVkk4SDgtendZN1ZiMmxUamZaLXRGMjlIVDNqTUFDRDNmVHE4NV9TTDJnbnZfcDY5VGpiYXQtc3JadHo1Umt0cUdWWXZwLTRhNENqbXlWRHRCemhTN2ZHeV9MR2VlenlTa3ZHZw?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Ex-Tech Mahindra executive shot dead in parking dispute",
+          "title": "Tech Mahindra ex-Asia head shot dead over parking dispute",
           "feedTitle": "Tech Mahindra’s ex-Asia head shot dead over parking row in Faridabad, neighbour arrested",
-          "summary": "A former Asia-Pacific head of Tech Mahindra was shot dead in Faridabad in a dispute over parking and a dog, with a neighbor arrested for the killing. The victim was shot nine times in the altercation. The incident highlights urban tensions in Delhi's satellite cities and has drawn national attention.",
+          "summary": "A former Tech Mahindra Asia regional head was shot dead in Faridabad over a parking lot disagreement with a neighbor. Police arrested the neighbor after the shooting, which involved multiple gunshots. The incident highlights rising tensions over residential disputes escalating to violence.",
           "source": "ThePrint",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeXZjV01lWUVKS2FKcUs1VzRqNDBhMGpSa3pNajlXR21oaGNDdWlJZlNhd3VQamNVbk1fbVo1WHNoVkJHSkZmUjlnSC1CLVlLUHU1U01fS0RwcldwY0JFOU5IZHAzOFU0bEgzVGVjd0FTdlRwV0V0VUxVYm9yWkJlM0o2N0I4eDNFbUxnLWM0aks1RTRXSmt4TmZHSng3YjVpTkZZOGhJX21IUU9qR0N3QkpfdWJydWtNR1YxNW930gHDAUFVX3lxTFBkc0RlNVk3T3F3enYxaURlNXpyRjdVT0U0S3V1ckljVlFlVjNKX1ZHSkkzX0lGZEJIajdBSHNnZFY2OHdfWk1weWpubnl0RDJtZ3VfYTVyR050dWthYnVWSjgtd1ZOdkxYM0xWQUFBNjhzMTBIZjJQRkZDV2FEOWJrRDdSTTVhOWNVckloZ2wwTGdRRldJelc1SW1BMkVYM2Q0LXZPOUtJYWtIdDFPbEJyNVVKU2NYUGw1UGp0UUhadkFITQ?oc=5",
           "sources": [
@@ -319,39 +263,103 @@
               "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeXZjV01lWUVKS2FKcUs1VzRqNDBhMGpSa3pNajlXR21oaGNDdWlJZlNhd3VQamNVbk1fbVo1WHNoVkJHSkZmUjlnSC1CLVlLUHU1U01fS0RwcldwY0JFOU5IZHAzOFU0bEgzVGVjd0FTdlRwV0V0VUxVYm9yWkJlM0o2N0I4eDNFbUxnLWM0aks1RTRXSmt4TmZHSng3YjVpTkZZOGhJX21IUU9qR0N3QkpfdWJydWtNR1YxNW930gHDAUFVX3lxTFBkc0RlNVk3T3F3enYxaURlNXpyRjdVT0U0S3V1ckljVlFlVjNKX1ZHSkkzX0lGZEJIajdBSHNnZFY2OHdfWk1weWpubnl0RDJtZ3VfYTVyR050dWthYnVWSjgtd1ZOdkxYM0xWQUFBNjhzMTBIZjJQRkZDV2FEOWJrRDdSTTVhOWNVckloZ2wwTGdRRldJelc1SW1BMkVYM2Q0LXZPOUtJYWtIdDFPbEJyNVVKU2NYUGw1UGp0UUhadkFITQ?oc=5"
             }
           ]
-        }
-      ],
-      "immigration": [
+        },
         {
-          "title": "DHS ends automatic extensions for employment authorization documents",
-          "feedTitle": "Removal of Automatic Extensions for Certain Employment Authorization Documents",
-          "summary": "A finalized interim final rule by the Department of Homeland Security, published October 30, 2025, and in effect, ends the automatic extension of employment authorization documents (EADs/Form I-766) for aliens who have timely filed renewal applications in certain employment categories. Workers must now actively renew rather than relying on automatic extensions. This change directly impacts employment-based visa holders, including H-1B workers and their families.",
-          "source": "Federal Register",
-          "link": "https://www.federalregister.gov/documents/2026/10/14/2026-20955/removal-of-automatic-extensions-for-certain-employment-authorization-documents",
+          "title": "Ayodhya lights up 30 lakh diyas for Deepotsav celebration",
+          "feedTitle": "Ayodhya glows with 30 lakh diyas as Deepotsav lights up Saryu ghats on Diwali eve",
+          "summary": "Ayodhya illuminated over 30 lakh earthen lamps along the Saryu River ghats for the Deepotsav Diwali celebration. The grand festival display drew crowds for the annual religious and cultural observance marking India's most prominent temple city. The event reflects Diwali's continuing importance as a major national celebration.",
+          "source": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNURybnhSbHR6dmIxWUQxaDVqb19TaUFCa3k0ZzBwZ214TFZNQWtDaVpGM1lRNkMzYXNSeWRWOWVkakNmUTdwTHlpODhvVWhXVjQ5MF9lSGZ4UHNEd1BGRlRYU2tYVUtiRndwUDNSdThLYmtDc1pUX09kTDZuRmFDRlk5MmtxclRXZWF6NGNHVjlrbjB2UGd0WlVUVEM2elZGdHVOb3dGSDNHYWhLazZrNWJHOExGeWIyR0ZSaXlNblJac2xNTmlSWEVmdGhaVFNoanZseGJYR3FxQ1lpM1FuMTRCaw?oc=5",
           "sources": [
             {
-              "source": "Federal Register",
-              "link": "https://www.federalregister.gov/documents/2026/10/14/2026-20955/removal-of-automatic-extensions-for-certain-employment-authorization-documents"
+              "source": "The Times of India",
+              "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNURybnhSbHR6dmIxWUQxaDVqb19TaUFCa3k0ZzBwZ214TFZNQWtDaVpGM1lRNkMzYXNSeWRWOWVkakNmUTdwTHlpODhvVWhXVjQ5MF9lSGZ4UHNEd1BGRlRYU2tYVUtiRndwUDNSdThLYmtDc1pUX09kTDZuRmFDRlk5MmtxclRXZWF6NGNHVjlrbjB2UGd0WlVUVEM2elZGdHVOb3dGSDNHYWhLazZrNWJHOExGeWIyR0ZSaXlNblJac2xNTmlSWEVmdGhaVFNoanZseGJYR3FxQ1lpM1FuMTRCaw?oc=5"
             }
           ]
         },
         {
-          "title": "Democrats may reverse H-1B restrictions after midterm victories",
+          "title": "Rajnath Singh warns of evolving threats, calls for highest military readiness",
+          "feedTitle": "Rajnath Singh warns of evolving threats, calls for highest military readiness",
+          "summary": "Summary unavailable for this update.",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/national/from-strategic-eastern-airbase-rajnath-calls-for-highest-military-preparedness/article71678566.ece",
+          "sources": [
+            {
+              "source": "The Hindu",
+              "link": "https://www.thehindu.com/news/national/from-strategic-eastern-airbase-rajnath-calls-for-highest-military-preparedness/article71678566.ece"
+            }
+          ]
+        },
+        {
+          "title": "Kerala measles outbreak highlights disease pattern shifts",
+          "feedTitle": "Keralam measles outbreaks call for a relook at disease epidemiology",
+          "summary": "Measles, historically a childhood disease affecting ages one to five, is now spreading across all age groups in Kerala, including among fully vaccinated individuals and infants below vaccination age. The unusual pattern suggests changing epidemiology of the disease. Public health experts are calling for a reassessment of disease surveillance and vaccination strategies.",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/national/kerala/keralam-measles-outbreaks-call-for-a-relook-at-disease-epidemiology/article71678654.ece",
+          "sources": [
+            {
+              "source": "The Hindu",
+              "link": "https://www.thehindu.com/news/national/kerala/keralam-measles-outbreaks-call-for-a-relook-at-disease-epidemiology/article71678654.ece"
+            }
+          ]
+        },
+        {
+          "title": "Migrant workers return home ahead of Deepavali festival rush",
+          "feedTitle": "Ahead of Deepavali, Chhath festivals, migrants reach Bihar in hordes covering thousands of kilometers",
+          "summary": "Thousands of migrant workers are traveling thousands of kilometers to return home for the Deepavali and Chhath festivals, a seasonal pattern reflecting India's large mobile labor force. Young workers from Bengaluru traveled 2,200 km by auto-rickshaw to reach Bihar. The festival season drives massive population movement across Indian regions.",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/national/bihar/ahead-of-deepavali-chhath-festivals-migrants-reach-bihar-in-hordes-covering-thousands-of-kilometers/article71678281.ece",
+          "sources": [
+            {
+              "source": "The Hindu",
+              "link": "https://www.thehindu.com/news/national/bihar/ahead-of-deepavali-chhath-festivals-migrants-reach-bihar-in-hordes-covering-thousands-of-kilometers/article71678281.ece"
+            }
+          ]
+        }
+      ],
+      "immigration": [
+        {
+          "title": "Democrats' Congress control raises H-1B relief hopes for Indian workers",
           "feedTitle": "Can Democrats reverse Trump's H-1B policies? What US midterms mean for immigrants",
-          "summary": "With Democrats gaining control of Congress after the midterm elections, there is renewed discussion about potentially reversing or modifying Trump-era H-1B visa restrictions that have limited hiring of foreign skilled workers. Immigration advocates and Indian-American groups hope the shift in power could lead to policy changes on work visas. However, lawyers caution that immediate relief is unlikely given legislative timelines and the lame-duck period.",
+          "summary": "With Democrats now controlling both chambers of Congress following the midterm sweep, Indian H-1B visa holders and immigration advocates are hopeful that Trump-era restrictions may face scrutiny and possible reversal. Lawyers caution, however, that immediate relief is unlikely given Trump remains president through early 2025. Democratic legislative focus may instead emphasize oversight of H-1B restrictions and trade policies affecting India.",
           "source": "India Today",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSkktcXhQTDNUOTg4ZVEyTGJhZEptQTlMTGJqeU4tUWVMd0paUFkxd3lPZHZqcDNTNnotb0JJN284Y21QSDJqR3hpZ3RJMnVnZXdTa200VWtwNVVzMFE4TFUxYldqa0hfOVBfWFJkUmhCVVF6XzdrRGpNV0NvdWlUMjJRSC1ZSFE4TEd5amRvREhIRVk0WXR1dUkzb0RnY3lmdTB5Z2xGZWZlcjdvZDhvRlUtSE1QV05R0gG-AUFVX3lxTFA2ZGdwbUliR0FKdVpPZWZzbEpLMXdkVl9GemJkcXBlYTNQVndPVkQ0MmJFYk9feWlybFJOaWg1QWcwN005aEx4WmlFZTViRFVJazgwSmRMbnVfM09SSTBESXQ0dmlrM3pGRGMtMmdOZWJjbXU3UjdBNlFhTE9IQmRUT0lCUk1RaGxzSFFSU2FrZFc0ZnY4WEtVb2JJcUNwcXFJYnBBOExVS0p4SU9mbXM0MXFVZkJqYUFuZ2paX0E?oc=5",
           "sources": [
             {
               "source": "India Today",
               "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSkktcXhQTDNUOTg4ZVEyTGJhZEptQTlMTGJqeU4tUWVMd0paUFkxd3lPZHZqcDNTNnotb0JJN284Y21QSDJqR3hpZ3RJMnVnZXdTa200VWtwNVVzMFE4TFUxYldqa0hfOVBfWFJkUmhCVVF6XzdrRGpNV0NvdWlUMjJRSC1ZSFE4TEd5amRvREhIRVk0WXR1dUkzb0RnY3lmdTB5Z2xGZWZlcjdvZDhvRlUtSE1QV05R0gG-AUFVX3lxTFA2ZGdwbUliR0FKdVpPZWZzbEpLMXdkVl9GemJkcXBlYTNQVndPVkQ0MmJFYk9feWlybFJOaWg1QWcwN005aEx4WmlFZTViRFVJazgwSmRMbnVfM09SSTBESXQ0dmlrM3pGRGMtMmdOZWJjbXU3UjdBNlFhTE9IQmRUT0lCUk1RaGxzSFFSU2FrZFc0ZnY4WEtVb2JJcUNwcXFJYnBBOExVS0p4SU9mbXM0MXFVZkJqYUFuZ2paX0E?oc=5"
+            },
+            {
+              "source": "Business Today",
+              "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPd1JZaWJDN28yNnA1UmZ1V0k4NmhmOGVCY1dfQWtvU3lXZnBkUWtudW11VklON1UwaTJtN1FNUDhZb1VZejVoOWxFZ21WcnJXOHA3cGJSREYwV1Jha0gySFJiUXNwOEtlaXduMG5yMEx1RXBpd2gtNFlsNHpMYjV4OUZwMWVnM00zdWREdzRvbXhJVl9hRmphTDVTUmw5RkNINzZDRnV6NFV0R0JYQ05FX0pQV0pid3FFOTgzb0NHbi1zb1JUMXlFeDdpN1psRzBTb05OblpR0gHbAUFVX3lxTFBjTUxycFVHSFZVRUNtTllIZ193QXJIYlYzQjZYWjBkck1vYTNRMFJoMVFDU1d3eTNLT0JabXVFY0FlMWJOUEwxRGxoTHFCS3JKLXFfM3NwVTRFOV9VcW5sa1hnVHI1RlNJb2o1MEg2X1MycXR2eUs3YlhhZTQtcHlWYzVJQUd0NGFwZnotQXpzejI5bFNrTkdBc3RkcXoxTjZ6b0h6eFNFTnU5UGVEMkZCQVlPX1RDQmRLSnotWmJRNEVoejJQaFhPRFRnbFlxM1NoOHlUbWxJTHIxRQ?oc=5"
+            },
+            {
+              "source": "IndiaWest",
+              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQazJ3SVdjN1hXeUQ1YVY0bVRaUHFGbGRGNmRiQ0g3OEdRaHhnR2tPb2dVeTNmR1VrdElNN1RvZURFZlgwMnBZZW5xMC00LUVaakVhVVdZSWdUNGFhSnlnOE03dFdxOEUtMy12UXVsR2dfYTlpZ0dicTBJUFo3R1h2QjM5Y1RYc1F0SVVybVVHeXc?oc=5"
             }
           ]
         },
         {
-          "title": "US green card backlog hits record 1.56 million applications",
+          "title": "USCIS issues new good moral character guidance for naturalization",
+          "feedTitle": "New USCIS guidance on good moral character determination for N-400 application",
+          "summary": "USCIS has released new guidance on how to assess 'good moral character' for N-400 naturalization applications (proposed, not final). The memorandum will likely affect citizenship eligibility determinations. This guidance update comes as the administration tightens standards for new citizens, alongside broader changes to immigration enforcement.",
+          "source": "The American Bazaar",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbW1BdXZnbEJpUVU5ZUZsZkRHNUlrd25Udk1kMDMxR2J5bW9MeHJBTnFIWHhQZlQ2MGZJX1JiZ2VyTXZ1eUR3dnJVandodnJqckVSQ2NCME10eU9jMlc3RUNvRnFhcXlidGl1T09EaEJEQ1JHVHhxUlEyTmZISElxaTdLUXJZSWNheEo3UXR2T3JubzZkSkxzeExveUFmcVhXUldOUUpGaWR5eW50?oc=5",
+          "sources": [
+            {
+              "source": "The American Bazaar",
+              "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbW1BdXZnbEJpUVU5ZUZsZkRHNUlrd25Udk1kMDMxR2J5bW9MeHJBTnFIWHhQZlQ2MGZJX1JiZ2VyTXZ1eUR3dnJVandodnJqckVSQ2NCME10eU9jMlc3RUNvRnFhcXlidGl1T09EaEJEQ1JHVHhxUlEyTmZISElxaTdLUXJZSWNheEo3UXR2T3JubzZkSkxzeExveUFmcVhXUldOUUpGaWR5eW50?oc=5"
+            },
+            {
+              "source": "CiberCuba",
+              "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNM1BndXU0c2pUcjdqbEZnODdDZEE0eFE4XzJzTUFDSUFkX2VkeUtCU3g4WmFmekpRcHR6X0wxUHNUWHU5M1l1ZWRTaE9LUWF2V2JzaTZtX3VkRXB0OVhlVzlrMG92MUdVcHhUWUNneUFtV00td2lOWVdtd3VpcThvZmZpSjdjSEM2WXhxdTFQRUtDWUZxSXlWdWVIWGszNWtJckZFbzdGTlZnbVVNMDViYVlhZ19FMmI2VFR4d2pKRQ?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Over 1.56 million US green card applications face backlogs",
           "feedTitle": "More than 1.56 million US green card applications face backlog",
-          "summary": "USCIS data shows more than 1.56 million U.S. green card applications are currently pending, a record backlog that disproportionately affects employment-based and family-based immigration. The accumulation reflects years of processing delays and visa number limitations. Family-based cases comprise the largest portion of the backlog, followed by employment categories.",
+          "summary": "USCIS data shows more than 1.56 million green card applications are pending, highlighting severe processing delays in the employment-based immigration system. The backlog affects both Indian and other nationality visa applicants seeking permanent residency (finalized and in effect—data current as of October 2026). Processing delays may exceed several years for some employment categories.",
           "source": "NewsBytes",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMnJodTRkSmlSQm80NFVSZ3pncTYzb2ZZT1EwZGd5NmlHWkZMZDVzamgxSFJnMGN1Sk5vTHVuUnJ1LVJBbEFPWURTaXBYY1BSQ2E2M0NvQmJVUW40OFFvdkpkWGQ3Yy1qM3Y3Z3FtU0pyNEtEOHNrMnNBckQyQlBpaFdVX1h0NWZGM3BNd1oxZXY1MlRtc0F3Uy1FMzJPR1JBSHJYUUgwc0MxUQ?oc=5",
           "sources": [
@@ -364,8 +372,8 @@
               "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPblg5b3BrWHVudDBEVk1HM3hMTHJ3S1FzejQ5Y3NQYWhzUFRHbUl5dmpRSVhHZ1cwanhUaEltZ1FNdC1mS3gzWlRaMm1UMkM0V3dSQk8wa0VOZGxzZ1lOWDJxZ3dVNU5RdF8xSlliaHBDM0YzQ0tmMDBVVTJYTUxIRkIzaGpPT1MyN21GTUNIaE5BZElrTkllT0d5MHJ0NXA0SjZsX0REdkZsQ1luLTlnaThPc3RxOGJqYVhPcjFFVHNNMVZreXVOVHNHWU1oUkpad3Yw0gHYAUFVX3lxTE95LVVwNWRTN2JBLUI0UW5NYlJlRE5sa0wwSExHTk9aQW1LYUVhNG1sdFZ4el95TmQ5MEc1ODlNRzkzQ25zd2hCVHpxbVFlNTlkYU1Udm1NdTlrb01HQlhlVzU0clQ1U0hPTzVWTFAxSnYtd1VYSUlSYURLMmhyMnZQOS1KMEo0ald5eGRlLW9icWgwQXRuREE3M2VNUV81ODVKajZhQmFFVHQwbF9PdW9fNl92b2xidjBXYVJhY2RwVHpScU5KclVCcVVhMl81NHNSRVNvWGMwQg?oc=5"
             },
             {
-              "source": "The Financial Express",
-              "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMUxjYmowNXZrQmZod1R6NTBvM1NpMGlNeDhyN1VBYlVfQzJLMmZacGkwWlhSMHNFbWkzNTB5SklwNXRjd1BiQkRfdlkycHZZTEtKQlFHN3BMZHpFOUdoeGdlTENBT1FFbi1OejdMQXNiTG5uS0VlVG1tTkN1T1BUQTVOTnNPanNBMzJJNENkNXYwWFZIVjViOXRsS2NrWmVnVjdQMTZxTTFjR3BqNHExUmp2dURuRTNiaXBoVktjRDltaEdYVFNhSlJfOWtyREptNzE2N9IB2wFBVV95cUxPN2lfR3ZJN0pwNlNQeVZhSkhodFVYZU1tUHRQNHp3cnpKeG5fQUhNeV93Y2g5c1FWbmVINm5RSHFMc0tTOWRocy0zbFVJRzc3Nk9pekN1elhCXzdTNTB6OXRLQlpsNGpEZ3RyTmotcktlTy04YWtSVndjVzduT0laQVhrM1FwZ3BmMVhFQVRrQ3hSaFRWRmF4bGI1Ml81NWRqT3BSRkpNT1Q3SnA3aWxzelF3dVg2U2dWTFU0eTZGcmZfT2RrTlQ1Y1FBSzRaZEgzQ1poRUxYT2gtNkk?oc=5"
+              "source": "Newsweek",
+              "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb19GSlRlaHl4cXFvRDBIYzFQeUI4LXRWMktZdGRqTWVpTGVpZXlPWkMyd0FjbTFpU0tCUEtzdjdtNmNMdW9fSXRJTnp4ZnFqb1VHWk5CeGlEY0NQZVd2MjNLaWxPMzh0SUVqTHh5UENWcXRuZEtYMU00RVl2d0l4NENRVGVveDhfekg1RlZFWC05RHh6djJuZmQwMVExQU1KbUE?oc=5"
             }
           ]
         }
@@ -374,30 +382,30 @@
     "finance": {
       "items": [
         {
-          "title": "Tech stocks plunge on AI regulation fears after Democratic sweep",
-          "feedTitle": "From high-flying AI stocks to tariff-hit alcohol companies, the midterms shook up Wall Street",
-          "summary": "U.S. stock markets experienced significant volatility after Democrats' decisive midterm victories, with tech and AI stocks leading a major sell-off. The Nasdaq plunged 5% as investors worried that Democratic control of Congress could lead to stricter AI regulation and slower development of data centers. The sell-off erased trillions in market value, particularly affecting high-flying AI companies like Nvidia.",
-          "source": "AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVGE5cWdNNmdGUVUta195UWctb3dsWEp2d0ZDRE5FQU02SDRwckpqa25JM2QxNk1wOTV5aXF4NDJiZnRZRzlCcm85RzNjOEltYktuc1NDQ2Y2UzJOc2VMQm5HaFZUR2FGdkNDMVhoazNkN1FTYTBVdWRDQjItS2c2ZUVoemlwVVg4X3Z6cVhtTEx4NWtVbjhSMm5NR1loaXVaUkNFOTVB?oc=5",
+          "title": "AI stock selloff wipes trillions after Democrats' midterm sweep",
+          "feedTitle": "How midterm elections sent Wall Street from celebration to mayhem in just 24 hours / this week",
+          "summary": "Wall Street experienced sharp reversals after the midterm elections, with AI-heavy tech stocks suffering a brutal correction that erased nearly $2.5 trillion in market value in a single week. Investors initially celebrated Democratic victories but then began pricing in concerns about stricter AI regulation and data center restrictions. The selloff marks the worst week for the S&P 500 since April 2025's tariff crash.",
+          "source": "Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTklhVlJaYnBBLW00MDBWejE4c0dvUFlMdUI3YWRDdUxnUFZVSFZuQzBUOU5xdTB3RFJoVS1IUjVaR2N5SXdaaU9sRXlvT1MtUWJRU09sano1NzhfanJXNzFJRFdBMzZNdjhYZkYtb1I3MmFiTGZqZUZaYi1henNsdGJKYzFtaFBfNHBRblpvMVU2dndoeEV5UDJBTC1fRy11aDE4aWNkaDVMQU9WNmRfR3JmM2k1N3k1WnRNaFl5VkpRU2twZmZMZl9FeXlxV25SVklGZEZWVQ?oc=5",
           "sources": [
             {
-              "source": "AP News",
-              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVGE5cWdNNmdGUVUta195UWctb3dsWEp2d0ZDRE5FQU02SDRwckpqa25JM2QxNk1wOTV5aXF4NDJiZnRZRzlCcm85RzNjOEltYktuc1NDQ2Y2UzJOc2VMQm5HaFZUR2FGdkNDMVhoazNkN1FTYTBVdWRDQjItS2c2ZUVoemlwVVg4X3Z6cVhtTEx4NWtVbjhSMm5NR1loaXVaUkNFOTVB?oc=5"
+              "source": "Yahoo Finance",
+              "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTklhVlJaYnBBLW00MDBWejE4c0dvUFlMdUI3YWRDdUxnUFZVSFZuQzBUOU5xdTB3RFJoVS1IUjVaR2N5SXdaaU9sRXlvT1MtUWJRU09sano1NzhfanJXNzFJRFdBMzZNdjhYZkYtb1I3MmFiTGZqZUZaYi1henNsdGJKYzFtaFBfNHBRblpvMVU2dndoeEV5UDJBTC1fRy11aDE4aWNkaDVMQU9WNmRfR3JmM2k1N3k1WnRNaFl5VkpRU2twZmZMZl9FeXlxV25SVklGZEZWVQ?oc=5"
             },
             {
-              "source": "The Guardian",
-              "link": "https://www.theguardian.com/news/video/2026/nov/06/could-the-ai-bubble-burst-after-democrats-midterms-sweep-the-latest"
+              "source": "Opening Bell Daily",
+              "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zMU1hZ0J4aHJtZFR0My1jajZ5SE5tOVh0S0p0V0hOYmg4a2VXQ3lEcTVhdm5mRlRIcWY4ZGRXekxSdE5pcjhTSWdjUnlVVGo2MkNQSm05OXNBTmc2ZzFRLUc5QTlNVGtDUXpRSVJTVzhubVg4NWU0UzFSRm8?oc=5"
             },
             {
-              "source": "DW.com",
-              "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdWJlY24tSmQ4UVJic3VaWnNLa0NVeW9FNDFOeGtzZENrRDdySUhvS19zSFVydVNmLThKeXg2YW1nSEpBOU8zNGVFelVDVW0zX1lnTldwMUhOU3ZHN0ZjRmhxM0RHQkJyRXJHRmhxbjk3dHhJOG9FdW9lQ3BGR1p2WVlhTEJ6RkZWdWxkXzUtbFgxUEFMQWVhTmlJZWxfdFR1LXBrZS1tZVFUdw?oc=5"
+              "source": "BusinessLine",
+              "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPUlRxNEVmR3FHTVlaTU9YTlZHZ1JqUjdQb2J6QWNVaE1yRG1KMmNMSUtKcFhVUkF4Vi01VWJkZXZGOGFCc3hqOGJIal9pOEo3RVczLUVvQnA3ZDl3UUp1N0M1WmtFY3ZRWjdjdDh2WTBoMVppOFRIck1Rdm9kZjB2aGdmTnNsRlVpektOSExKVGwzMktDdW1iNWYzTFJ4RjQ5SGhxWWgxYkdubDdEc1UwY3drc3FiVmVhc0VjUTNzS0hHM0E3b0hfS2RBaWR6cFlvel9OSGhxSzl2OE56WFB4ZE1hT0dKaU5xNE01NHJ2UWhIQ3pLWUFOR3V3SjRyVHduX2V1dnVjUENDNGhzMm5ZclNXQ1VkSGE0TDJB0gGiAkFVX3lxTE1kNU1MdEVwYUg0WVlkdFRjR2FXeDFKQTY1aTFlem1DUk96S2licXVPa2VxVEdYWmN5QkhTM3dhR1BsNlhhQVVvX0JUZ0JsMm1HT2NmQUtYX09wOS1iOTVBWGhIWUlGWThWN09kampvOXh6TURiNDBaN00wWmx6Z0p6c3BOTXhzQWlxN1Z1XzNJeGo3cTVPWjl5RUZzQnl6NldKYmNCcHJ2WXFWVzQtX3BoTGxESmRlZkNhSS1PTkRIc1V5N3RaVEZDTHdaMUxZOW5WNEh1cE84ak9paVhsTUIzdGlZQ2o4TDNWR21vZFhnWXk2X0VCMTF1RmttbmhBUURqN0ltaU5aQkxIalRxWXV0NmRqVmU4akIzRGNuMjYyaE93?oc=5"
             }
           ]
         },
         {
-          "title": "Berkshire Hathaway accelerates buybacks as operating profit falls",
-          "feedTitle": "Berkshire Hathaway accelerates stock buybacks, operating profit falls",
-          "summary": "Warren Buffett's Berkshire Hathaway more than doubled its stock buybacks in the third quarter even as operating earnings declined. The company repurchased billions in shares, signaling confidence in valuation despite challenging business conditions. The aggressive buyback strategy contrasts with softening profitability amid broader market uncertainties.",
+          "title": "Berkshire Hathaway accelerates buybacks as profits decline",
+          "feedTitle": "Berkshire Hathaway speeds up stock buybacks, though profit falls",
+          "summary": "Warren Buffett's Berkshire Hathaway more than doubled its stock buyback pace in the third quarter to $377 billion while reported earnings fell. The aggressive share repurchase signals confidence despite profitability headwinds. The move reflects Buffett's long-standing preference for buybacks over acquisitions in a volatile market environment.",
           "source": "Reuters",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa29SbTRWcFpWdFpiekRVRjRvNmZjM1BnNzhOeVY3ajB5S25PaGgxVFAyTTItcjRDZkRmcHROSkJIZ3lNdXZkaGp0R2hOZE51eHBzR1U3MXlFRXhGOUhzV1pJR0I2RWtUZnRrQU1MVXZaSm1haDUtTHo3NEJvNGJhLU1rM2N4a240NWp2VFh5Vkd5LW1DOTd6emN0S1QyengzS1ZjdE04LVluRGppX19oSkxtVktEcDdoWXVIVk93?oc=5",
           "sources": [
@@ -406,15 +414,57 @@
               "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa29SbTRWcFpWdFpiekRVRjRvNmZjM1BnNzhOeVY3ajB5S25PaGgxVFAyTTItcjRDZkRmcHROSkJIZ3lNdXZkaGp0R2hOZE51eHBzR1U3MXlFRXhGOUhzV1pJR0I2RWtUZnRrQU1MVXZaSm1haDUtTHo3NEJvNGJhLU1rM2N4a240NWp2VFh5Vkd5LW1DOTd6emN0S1QyengzS1ZjdE04LVluRGppX19oSkxtVktEcDdoWXVIVk93?oc=5"
             },
             {
-              "source": "24/7 Wall St.",
-              "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOREFXdVVPNWdPS1BaQjlXY1hCR1NraUkyODVMb3NFTDhxYmNDM3c1VmQxQ2JJaGZvVlRnRjE1c0VHNjljQi03WE1lNzJTaGZ1NU4zeDJocHFveUxCa29UeWVaMkJiVDRlcHFfMU52SDk0YjlLbjVkZEZIODhsOEZJOEhfNEdkNUhHOEpOLXJhMmFPSUNZRmdSZm9KT2MxVi1sMVZEMW9qQ29RcGhDX2ZSWEYwTG1ndHN6Q2s5QUNYSXliX1VaZGo4ZmFpeFdIdw?oc=5"
+              "source": "Investor's Business Daily",
+              "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVU9IbWdfVU5FdE02c2NySGtkOVZLa1YzMXpYS3lYNURLczg4NUcxb2lKNmJFbTVXNGh1RTllMTdrOU9EY2daWXVmVjNja3BzZ3FfdVljeDlLWVkySnZRQW5KNnJMcmdQazFGRlZoREU2UlZab19sUHpMVGtxcWllQUl2R1hzX0xlLVo1OFhiYTZNMmUyaUk2blhNbVc2QW4xZnlCUk9HZXBJUDlCQnVveWhwWXBibGNZN1RzbDNvb2JCNC1UQlRlTFZPeDZoM2lGb0xPalBReHFaM0xYd2lTWg?oc=5"
             }
           ]
         },
         {
-          "title": "The S&P 500 Is Up 75% In 3 Years. Priced In Gold, It Is Down 14%. Which Is Real?",
-          "feedTitle": "The S&P 500 Is Up 75% In 3 Years. Priced In Gold, It Is Down 14%. Which Is Real?",
-          "summary": "Summary unavailable for this update.",
+          "title": "Indian markets surge as Nifty gains 8.58% in best week since 2021",
+          "feedTitle": "NSE sees increased stock market activity as Nifty 50 closes the week up 2.01%",
+          "summary": "India's Sensex gained 8.82% and Nifty 50 surged 8.58% in the week ending November 6, marking the best weekly performance since 2021, driven by foreign investor inflows and optimism around midterm results. The rally added approximately ₹28.7 lakh crore in market capitalization. Nifty reclaimed the 25,000 level as foreign institutional investors poured Rs 45,960 crore into Indian equities.",
+          "source": "Traders Union",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc29CSzZCTnZscmRIYTFob1pQa3gzWXNWOVpzZHZsMkticUNhQVBOTU9FczVxaW5EQkU5U01HT3VNWjhXRWE4dWFPcS1ZUVZ3aTlJbXpENmQxTlB1VlZ6ejVXTUhYaDNwV1Z6d3pHU0VsLWtjODU5NlFyVXBDSzJ1c0RpYVA?oc=5",
+          "sources": [
+            {
+              "source": "Traders Union",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc29CSzZCTnZscmRIYTFob1pQa3gzWXNWOVpzZHZsMkticUNhQVBOTU9FczVxaW5EQkU5U01HT3VNWjhXRWE4dWFPcS1ZUVZ3aTlJbXpENmQxTlB1VlZ6ejVXTUhYaDNwV1Z6d3pHU0VsLWtjODU5NlFyVXBDSzJ1c0RpYVA?oc=5"
+            },
+            {
+              "source": "TradingView",
+              "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWXRQc1I2QkZiR1VBcTlSNVZmV0ZzdG11cGM3dGZPS1FXWUczb0NneDlpU0MxaVNwcFF1Q00zdnlFbHJHblB4cG03OUE2MGd0cTU0YklwQkMyQktiTjBIRjBPNkZHOE1iTDZTQTkteDJLbkp1ZEw4em5fdEFyV2JxdENHeHkwQmFsbFpWZUJYa2IzVUxldjFBeDFxYWdDd1RGSlFKRmo3Nm9PTHdpUFQ4UXNEVGI0RTBPR1FvUUlPRnRaZ0VwWDlZSg?oc=5"
+            },
+            {
+              "source": "bfsi.economictimes.indiatimes.com",
+              "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQREhyLWtEUnRFMjA4VmtRanloMVpzVUthNDhHeFgyeDRZdlBJcWpJTE85Z3c4NEZHSDR4eFNqR1A0aHRydTN1aUZxeDlRVFlJOVlta1hfRTl5X0pHb1FzZXppT3M0Vm9HT1hPY3gxdVpFNXJpRDVjVDFad2FpSHNramlINGlxNEV5cWtkTWJUME5TVTFjNUNZX1kwNmpIcG9reU9rbWFUV1JJN1dtSEJVMG5uYTl6eDZjNF9RSG5OUldFZkUxbDFQOW1nSdIB0AFBVV95cUxNb0lFTXp2Z1BmMUhkWENmdDA1QmhXVlphV0Jrb1RueVBidE5ja2tpTm15R29aYzFqQWM5SG9BUmFCdFRHUUc4UC1EaWY2dnFpd0puaDVIdmVBNGJUT2UzYkJPTWNDRUxLdTdVYXJUSTBMUDVRT29XSEVvSE9FWGstSFVEQTBMMk02N2pxWUxJc1BFdW1nY2h6MXhkRVpxNkgxblYxSGZSVkFBUDVXamUtVW90LUk4a3NJZ05ocUpxWUVNdmdMUjFVUmNBRlhZZVVY?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Anthropic IPO valuations tumble amid AI sell-off backlash",
+          "feedTitle": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers",
+          "summary": "Anthropic's planned IPO valuation has fallen from $1.5 trillion to $1.2–1.3 trillion range following the sharp correction in AI stocks and investor concerns over Democratic-backed regulations. The company proceeds despite market turbulence and declining investor enthusiasm for mega-cap AI funding rounds. Valuation pressures reflect broader skepticism about the sustainability of AI valuations.",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkVFNKdFlSLTl6ZndHZTBvOFFta0JaelYzcldkc21kSVJiSHNOcDVBX19xTVY3clpiekZSWmpRbFdtaHdTbVo1d3lNNXJTa3FfQ2NiWHhJV3Vvb3hEekdfQnJDV2xQcU0wUFo4dnBiM050YnhVOVFfYXo4VW5PRWc?oc=5",
+          "sources": [
+            {
+              "source": "CNBC",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkVFNKdFlSLTl6ZndHZTBvOFFta0JaelYzcldkc21kSVJiSHNOcDVBX19xTVY3clpiekZSWmpRbFdtaHdTbVo1d3lNNXJTa3FfQ2NiWHhJV3Vvb3hEekdfQnJDV2xQcU0wUFo4dnBiM050YnhVOVFfYXo4VW5PRWc?oc=5"
+            },
+            {
+              "source": "Equitymaster",
+              "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVWlNajNCSWxIeTJ2RWtWZXF0NjRHeXZ6cDk0MF9fcTBpRHdxQnZmdDVod2g0REVjUTN2aTFMUVJFX1hmU1V5UXNMTG5CeDgzeG1uWXpsSHRaRE9rM3hzWjE2N3BFMmhYQld3MDYxQnd0NTB4RElCaC1LSWZpVlBNRUYxalBEdElsT1U2N3RSMDNGdVVoRjAzV0stbjVWajlfdFIzNEVVM01nRjRobWE5U2JBZnNCXzFuWjNDekl6U0c2WUF1bmhOTA?oc=5"
+            },
+            {
+              "source": "Yahoo Finance",
+              "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTklhVlJaYnBBLW00MDBWejE4c0dvUFlMdUI3YWRDdUxnUFZVSFZuQzBUOU5xdTB3RFJoVS1IUjVaR2N5SXdaaU9sRXlvT1MtUWJRU09sano1NzhfanJXNzFJRFdBMzZNdjhYZkYtb1I3MmFiTGZqZUZaYi1henNsdGJKYzFtaFBfNHBRblpvMVU2dndoeEV5UDJBTC1fRy11aDE4aWNkaDVMQU9WNmRfR3JmM2k1N3k1WnRNaFl5VkpRU2twZmZMZl9FeXlxV25SVklGZEZWVQ?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "US adds 165,000 jobs in October, beating forecasts",
+          "feedTitle": "US job growth exceeds expectations in October despite economic uncertainty",
+          "summary": "US employers added 165,000 new jobs in October, exceeding analyst expectations, with prior months' figures revised upward by a combined 84,000 positions. The resilient labor market shows the 'low-hire, low-fire' pattern persists amid economic uncertainty and geopolitical risks. An interest rate increase is expected in December as the Fed weighs inflation and employment trends.",
           "source": "The Guardian",
           "link": "https://www.theguardian.com/business/2026/nov/06/us-job-growth-october",
           "sources": [
@@ -423,38 +473,8 @@
               "link": "https://www.theguardian.com/business/2026/nov/06/us-job-growth-october"
             },
             {
-              "source": "Trefis",
-              "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTVZJY3dkOGJ6M3lFWnhEZGR6Q3NwWGgxQmJsOEJPaEZWM1l5R2htQ3Z3c0tNT2poWUNPWFFQa0FmMzZJMk1KSDB4WjVLQ2U4VDJKRE9vZGJrdFdtUEF0SGRfUWJZdDRXajF6THRJTnpPS01EZGNaMmJoQk0xUWFBVVItaG9xQnYzZjRhejdHR0Q3S0cxXzNFQnBtQ2lJUEM3Z0ZWd1MzUVFqbVZDOElabURqODR2RzR0Y2I4LWZsUmNIOVpWYWJlZ0owZHRQVFZz?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Indian markets surge despite global tech turmoil",
-          "feedTitle": "Indian markets surge as Sensex, nifty defy global tech turmoil | Business News",
-          "summary": "The Sensex and Nifty 50 posted their strongest weekly gain since 2021, rising over 8% despite a major sell-off in global tech stocks triggered by midterm election results. Indian markets defied the broader tech downturn as foreign institutional investors reallocated capital away from U.S. AI stocks. The rally marks a decoupling of Indian equities from the global tech-heavy decline.",
-          "source": "Hindustan Times",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdFZ1bmRFRzM3RUkwcWxGbHRMak9BTmRHNjJWRVY1SHpLaXQtaTNuQU9XQnhJVVUzYTdGVlE3V2VWR2xMZXl3UGNqR0VzZ19kVkk5SFBzbTJZM0VxM1h1azY1dmI0QWdUaXJlX1d0WmkwNlhraTdOV0UxMW54dHVyY21ZQWFsLWRIMkxiOHFMTmQ4bTIzeUFlYk1RYml0a0Z6bjNpRUFhVEZWN1RHT3pobjhPNGJsZHJQOVBzV3gxSdIBxAFBVV95cUxNeHF1aWg5cDF2RGgxWTRRN0tmMUVVSm1ydzR2Rk9MSUNrLWN1ZDZ4SG1VUnp3emJTVURCTG02NFEtbWJwWS12TmFXU3BYcDdBV3RQdXllaWZEdkJscVJKU1Y1bnpUMXQyTzBhUVNfRndDSnZiZW1EbXJZU0d5dWIwNTBkRGJmMkp5eEZvQ1NMQW5oeXpReWJlcDlBVmdveFd6aTJTWm1DdUo2MjJFdk5tZC00dlpldld6aFBiRDY3SnVwMGRx?oc=5",
-          "sources": [
-            {
-              "source": "Hindustan Times",
-              "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdFZ1bmRFRzM3RUkwcWxGbHRMak9BTmRHNjJWRVY1SHpLaXQtaTNuQU9XQnhJVVUzYTdGVlE3V2VWR2xMZXl3UGNqR0VzZ19kVkk5SFBzbTJZM0VxM1h1azY1dmI0QWdUaXJlX1d0WmkwNlhraTdOV0UxMW54dHVyY21ZQWFsLWRIMkxiOHFMTmQ4bTIzeUFlYk1RYml0a0Z6bjNpRUFhVEZWN1RHT3pobjhPNGJsZHJQOVBzV3gxSdIBxAFBVV95cUxNeHF1aWg5cDF2RGgxWTRRN0tmMUVVSm1ydzR2Rk9MSUNrLWN1ZDZ4SG1VUnp3emJTVURCTG02NFEtbWJwWS12TmFXU3BYcDdBV3RQdXllaWZEdkJscVJKU1Y1bnpUMXQyTzBhUVNfRndDSnZiZW1EbXJZU0d5dWIwNTBkRGJmMkp5eEZvQ1NMQW5oeXpReWJlcDlBVmdveFd6aTJTWm1DdUo2MjJFdk5tZC00dlpldld6aFBiRDY3SnVwMGRx?oc=5"
-            },
-            {
               "source": "Livemint",
-              "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQUE9Eb3paQ1g4S2NRa3l1VVBqcW8zLVlneWFRSG5QNjBwMGhrUzAzdUZEc01fWVVkRmlITkZXaWg5dzk0S2h1VFpGdmxNRnRxOXRkMmZlUl8tYlFIOU53M2NmcDhQZF9oaWVGUWh1NXgxT2F1eEpoNDh0cXhrZGFzMVFLX25sYlh6QTdyazFQaEMwclBTRjE0S2FIbUExMlJGUl9tSUdmbnlZY3FONUh5X1p4UHpQUjNxamc3VkM4Wl9CX3NuUXlQTVhuU2M1WHhhVXJ3bVVNd0l6VUQwY3hSd2ZlcXhYdlB5cmJyeEpFd2pxZjBiSUlHVkpPUW5fQjE3V3Y0eGlZU0VDZzQtVFB2R9IBlgJBVV95cUxNelBtLXBxVE5jZFk3MHNRMkZjczJUSUNPcktrbjkxdEdpNEJlZmJTTmF0XzhjWmU4QjdSOXZsSEp2WGQ1V2JNZVRCaldDR2RxUTdFRzhhSXNVMnlvTy1XV09mSG5iOGRiUFJWUmFEMW1PZ0FST0k0d21sMS1ibFl5NXB1RER5T0c3aVVTUDJWYnBpV0duR29NcXJYdTBiQmxwUlhBd3BPOExSUVdYemFoQU92eUg1TF9TVnZjZEtSck8wUlRGNUdIb3UydHJyMnVsX2lmZXBPNGM3SzFiOVZybVJDTHNNd2p0VXhMM0Y0V2FSYXBBUDZtOFlZcXNFWFNoZERoam1QZ2Ric2tISGxqcmRZMkVldw?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Tesla halts Cybertruck production, pivots to robotics",
-          "feedTitle": "Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI",
-          "summary": "Elon Musk announced Tesla will wind down production of the Cybertruck to redirect its Texas factory toward manufacturing the Cybercab, the company's self-driving taxi. The decision marks the effective end of the Cybertruck program after years of hype and divisive customer reception. The pivot reflects Musk's strategic focus on autonomous vehicles and AI over traditional vehicle production.",
-          "source": "The Guardian",
-          "link": "https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai",
-          "sources": [
-            {
-              "source": "The Guardian",
-              "link": "https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai"
+              "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPX3JOeW5Td3pxS3RrQ3BMODFYRHI0VnhlS1B3TjFaZ2Y0VkhhekJReGhFeWQ5b0hPUUVZVDRRVFd5NEJoWHVzUnFOQzZsNmhkMk9rNzJwS193U0tBdWVoRjlMVDRMa3pzMTFFbzlqUGJFcXZabk5iekVnZmlZWXRBQkpRQ0o5eW5Rc3ZTa2xVM2NwS1lFYkRNU2lKa3VjTVprMEdVSWVVQ1M2TEZfcURON2ZJaFBCM2ozeHpmTDFkYnN2Z1pkQmNWUUl6eUxMRUczclhLTGJ4ME9CQ2lnRTZZM2RpaFl3SDFQbWpQMUN2dWJ6blJBY3JQY0IxUlU3MW0xVl8yVlBQZ9IBjAJBVV95cUxPd0lZSl9aYzJWTWpkWDczTk5LdEV4c3hXbnZ2Z1MtaHZsQ1ZEZ3FoM2stRERLTVd6QUlmSzVUa1I0SnBUU3BHMXJuUmZ3ZTFBTHNHSjFiQUpkRlVpX3pPQzM1OVM1TXFvN3hyUnptLTJqNXFPNm1VWFlzSl9Da3Q4WElLN2tLQWdod2dVMkpSSkItanZsYUo3dm5HX1lXOXRISHZzVDVvRHE5VDZIUzRMN0pQZDlqeGtrQmtoX1JocXBRRVRsZVF0MEVXZFBwU21YRThtb2x6V3A3MjcxXzlOZV91Znc4UjNsSEY5OFJBUlo2SjExQzVHVC10ZnJtS0N0OEFKVTBubGNCeERw?oc=5"
             }
           ]
         }
@@ -515,93 +535,59 @@
           "changePct": 0.03
         }
       ],
-      "note": "Oil markets remain volatile amid U.S.-Iran tensions and Trump's \"minor\" strikes on Iranian air defense systems, with traders uncertain about supply disruptions. U.S. stocks rebounded Friday after Thursday's tech-driven sell-off but posted their fourth consecutive weekly decline as Nasdaq investors reassess AI spending amid Democratic midterm victories and growing political opposition to data centers. Indian equities surged over 8% for the week, defying global tech turmoil as foreign funds rotated away from U.S. AI stocks. Watch: CPI data release Monday; Anthropic IPO timing decisions; potential Democratic legislative moves on AI regulation and data center policy."
+      "note": "Oil prices remained under pressure as concerns over AI investment demand and slowing economic growth offset geopolitical risk premiums from Iran tensions. US stocks erased early post-midterm gains after a $2.5 trillion AI selloff, with the S&P 500 posting its worst week since April 2025, though Indian equities surged 8.5% as foreign investors rotated into emerging markets. Watch: earnings guidance revisions from mega-cap tech firms, Fed commentary on rate cuts, and energy demand signals from China."
     }
   },
   "micro": {
-    "theme": "creativity",
+    "theme": "productivity & focus",
     "cards": [
       {
-        "title": "Constraints spark invention",
-        "insight": "The most creative breakthroughs often emerge not from unlimited resources but from working within tight boundaries. Scarcity forces prioritization, eliminates noise, and demands that every element earn its place—whether in a three-minute song, a 140-character tweet, or a team with half the budget of competitors.",
-        "takeaway": "When facing constraints, reframe them as creative challenges rather than obstacles. Ask: \"What becomes possible precisely because of these limits?\""
+        "title": "Context-switching cost is real",
+        "insight": "Every time you shift between tasks, your brain must reload context—email, Slack, document tabs. Research shows the average worker loses 23 minutes per interruption just regaining focus. The loss compounds: four interruptions equal 90+ minutes of wasted cognitive capacity.",
+        "takeaway": "Batch communication (check email and chat twice daily, not continuously) and use 90-minute focus blocks with phone on silent and notifications muted."
       },
       {
-        "title": "Remix beats pure novelty",
-        "insight": "True creativity rarely invents from nothing. The most memorable innovations—from jazz to hip-hop to modern visual design—combine existing elements in surprising new ways. Audiences often respond more to a fresh arrangement of the familiar than to the utterly alien.",
-        "takeaway": "Study combinations: What two unrelated ideas, tools, or traditions could yield something unexpected when merged?"
+        "title": "Decision fatigue kills afternoons",
+        "insight": "Your mental energy for decisions depletes over the day, like a battery draining. Mornings carry 3–4x more decision quality than late afternoons. Delaying non-urgent choices to tomorrow—not evening—preserves focus for deep work now.",
+        "takeaway": "Schedule complex thinking and creative work before noon; save routine tasks and admin for afternoon slots."
       },
       {
-        "title": "Permission to fail accelerates discovery",
-        "insight": "Cultures and individuals that tolerate failed experiments produce more innovations. Edison's thousands of failed bulb filaments weren't wasted effort—each revealed what didn't work, narrowing the search space. Perfectionism before trying kills ideas in the cradle.",
-        "takeaway": "Build a \"failure quota\" into your process: aim to try five ideas knowing two or three will flop, making the survivors more robust."
+        "title": "Boredom is a feature, not a bug",
+        "insight": "Cognitive science shows that mild boredom during breaks (not scrolling, not podcasts) allows the default-mode network to activate, consolidating learning and generating novel connections. Constant stimulation prevents this restorative phase.",
+        "takeaway": "Take 5–10 minute breaks with eyes closed or looking out a window—no phone—between focus sessions; this passive recovery boosts next-session performance."
       },
       {
-        "title": "Boredom is creativity's fuel",
-        "insight": "Constant stimulation and distraction hijack the mind's ability to make unexpected connections. The brain's default mode—activated during boredom, walks, or routine tasks—is when divergent thinking flourishes. Idle time is not wasted time.",
-        "takeaway": "Schedule \"thinking time\" without screens or input. Some of your best ideas will arrive when you're not actively chasing them."
+        "title": "Specificity beats motivation",
+        "insight": "Willpower and motivation fluctuate; systems don't. A specific trigger ('After coffee, open code file X') and environment (same desk, same time) override the need to psych yourself up. Habit stacks motivation on autopilot.",
+        "takeaway": "Link your most important task to a consistent daily anchor (meal, commute end, etc.) and protect that time block like a meeting—make it boring and automatic."
       }
     ],
     "ai": [
       {
-        "title": "Anthropic IPO faces headwinds as AI backlash grows post-midterms",
-        "feedTitle": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers",
-        "summary": "Anthropic's planned initial public offering, initially valued at $1.5 trillion, faces significant challenges after the Democratic midterm sweep triggered a major sell-off in AI stocks. Investors are increasingly concerned that Democratic control of Congress could lead to stricter regulation and restrictions on data center expansion, a core infrastructure need for AI companies. Valuation expectations have dropped as high as $1.1 trillion, and some investors suggest postponement may be prudent given market conditions.",
-        "source": "CNBC",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkVFNKdFlSLTl6ZndHZTBvOFFta0JaelYzcldkc21kSVJiSHNOcDVBX19xTVY3clpiekZSWmpRbFdtaHdTbVo1d3lNNXJTa3FfQ2NiWHhJV3Vvb3hEekdfQnJDV2xQcU0wUFo4dnBiM050YnhVOVFfYXo4VW5PRWc?oc=5",
+        "title": "New York’s RAISE Act 2.0 would expand AI oversight, according to safety expert",
+        "feedTitle": "New York’s RAISE Act 2.0 would expand AI oversight, according to safety expert",
+        "summary": "Summary unavailable for this update.",
+        "source": "Axios",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yTl96WG92c29IdFAtUW9FWXhGRDNRaFhyVXVEb1ZWMHNTTzRpcTk4cVBYbGJQSGc4S1R0c0RXSnVuUVA4LUJZc19IeGlzb3dlZFo2TWFxb3JNd0I1Q29mcXpKQ3hLS3Jka1VIRFp0aE1rTzlMN0E?oc=5",
         "sources": [
           {
-            "source": "CNBC",
-            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkVFNKdFlSLTl6ZndHZTBvOFFta0JaelYzcldkc21kSVJiSHNOcDVBX19xTVY3clpiekZSWmpRbFdtaHdTbVo1d3lNNXJTa3FfQ2NiWHhJV3Vvb3hEekdfQnJDV2xQcU0wUFo4dnBiM050YnhVOVFfYXo4VW5PRWc?oc=5"
+            "source": "Axios",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yTl96WG92c29IdFAtUW9FWXhGRDNRaFhyVXVEb1ZWMHNTTzRpcTk4cVBYbGJQSGc4S1R0c0RXSnVuUVA4LUJZc19IeGlzb3dlZFo2TWFxb3JNd0I1Q29mcXpKQ3hLS3Jka1VIRFp0aE1rTzlMN0E?oc=5"
           },
           {
-            "source": "24/7 Wall St.",
-            "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNSWd6elZReThZWEV0T1FNQnhRVENqZ05KV1k2SzAyRURoTGJ0U1RKRGlrbEhTZWRxTTBNWTZRazN4REFWTDBlXzFWcUh5SmFLRHAzeXBHUWhLcGY2R1FZUlNSanhIYUJSbFU0X3RaSlhnUlpqTDJMNUZkYkRnRC11SUJmRksxNUdKUUQ2MTdOM0lObkQwRlQ0VDRuOTBkaDZvWDVyX245dDFNdzBpdDRkYnc4RTJIX19FTHI4ZmpsNHJsclN1R0U3RWNWaDQ1bndJb21XSk1aVGkxUmlVbjBmNmpaU1ZZQ2F3TDJQbnhIc0w5UFpUdmk4alN4Mm0tbzJEMWJKMEh2a1h4OVlEVG9fTVVR?oc=5"
+            "source": "StateScoop",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSThraUM2MFR6ZzBvajR2OTNYRWFFZ3hTcm9NaXlCTklDZ2EtNzF3bW5EOGRGM2FOQTB5Ny1uNnFBdzFWVVdzTV9TWXQ3UFVpdkZBUnZMM1VJNFg2RGZ1U1pRX3k3NG1zTTl0dXF3ejA2eDd5bnRuMTU4WTRFalRIZF93N3NtcDhFa3Rpakh4V3U1Q2FRcnJQNkVYZXNRQ0JSLUE?oc=5"
           },
           {
-            "source": "FourWeekMBA",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMDVsajlJRW9wMzNkaFJ0OEtCNnNqQ3hxaWE2RXJyb0pjSDgwY21MUUEzSk1xeTZwMmpvTzF0TDBPOTk1YnpLX1NLbEpTWVpOX01ZYS1HRk1GX3Z3LWQwbjZ3SHdxQVRMb1hSaGdjTHRtUXBJY2FYQWRYM1ZZa2kySkJQNDMwNXhtaUVKVWxqdHQ?oc=5"
+            "source": "\"\"artificial intelligence\" OR OpenAI OR Anthropic OR \"Google DeepMind\"\" - Google News",
+            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYmdRVDZHUVFKMi1sbXBNcTN0RmJTXzdDTFpEOElFaXBic251aTE2QlN2b2U4czFCOFRkbTJIbVFwY2tyUGdRc2UtLTBNMnkxejZkV0xrR1ZCZU43VFAtSHdTUUJNZk5aSnhtSXN6OHBoTGRFTjlhZ1J1ay1NMlJGZlgwNWNHYmp4cmpKVnE2ZVREQQ?oc=5"
           }
         ]
       },
       {
-        "title": "OpenAI raises $11 billion at $1.25 trillion valuation",
-        "feedTitle": "OpenAI Secures $11B In Funding As Valuation Reaches $1.25T: Report",
-        "summary": "OpenAI has secured an additional $11 billion in funding at a $1.25 trillion valuation, below its original $1.4 trillion target, according to reports. The funding round reflects investor appetite despite recent market turbulence around AI stocks and regulation concerns. The company's lower-than-hoped valuation underscores mounting skepticism about AI hypergrowth assumptions.",
-        "source": "Forbes Middle East",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcXl2OWY2ZWYtYmVna0o0dEtfd29hWHJVZFRYbDdFVHZaOGVQNHhQYWdzcU0zMUVnVW9LSmNVOW5ya3dZY0lJSDZDSkF6TUJvTUh0QTR0d1VGM0s1VlJTOXZEZmk5NWVpb0xCTEJ2ajllTzNJRHh1MzVydldjVTVpUWVlVDJvY2hER3hhRXhyeTE4T0hSZXBYdVRxcVhZa25udFA3MkkzcEVJVmtTcW95M0FjV3hRLVMwb1pvNE9VNDVhQjdlYmNjRw?oc=5",
-        "sources": [
-          {
-            "source": "Forbes Middle East",
-            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcXl2OWY2ZWYtYmVna0o0dEtfd29hWHJVZFRYbDdFVHZaOGVQNHhQYWdzcU0zMUVnVW9LSmNVOW5ya3dZY0lJSDZDSkF6TUJvTUh0QTR0d1VGM0s1VlJTOXZEZmk5NWVpb0xCTEJ2ajllTzNJRHh1MzVydldjVTVpUWVlVDJvY2hER3hhRXhyeTE4T0hSZXBYdVRxcVhZa25udFA3MkkzcEVJVmtTcW95M0FjV3hRLVMwb1pvNE9VNDVhQjdlYmNjRw?oc=5"
-          },
-          {
-            "source": "The American Bazaar",
-            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNemRIQV9OZlpBSGtKcURsMnNJR3FxMmV5MkhDT3FENW9IQzlzQkppM3lHV2hKemNHMzNfRUx1aURpV2VTdDlsa05xNlJ5WkwxM29Uc09vVlpYYW1sSUFEVXJ1QWdabDR2SU5JRC1HVVBBRmxWZHBxbTZwMWZIeWgxYnlVT2hwRjVtRzJwSy1qLWxXWUhQMjZKeHduNjlkWktOYmRCc09B?oc=5"
-          },
-          {
-            "source": "Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZHgwal9kaEktbjNXcWt5V1NIcUxqZEVwclh3NXFVME5DTUk2LTNPdjNZd2RJZENhMm1KRTNLS2p6aWhQTUI3QU1VTXNycDVvZUVxMXBhWmZXeVRPd0xEdG8zejhOdHM4Ny1lUmo0SmxfVll6bVZrSUVMM1RkQU5MaElJWXZJV3dwNEtISjU0LWZDcFJpSE5PaA?oc=5"
-          }
-        ]
-      },
-      {
-        "title": "Midterm backlash threatens AI industry expansion plans",
-        "feedTitle": "How a Blue Wave midterm might reshape the AI industry",
-        "summary": "Democrats' historic midterm victories and voter rejection of data center expansion in 40 of 41 ballot measures pose significant obstacles to the AI industry's growth trajectory. Public opposition to massive energy-intensive data centers has become a political liability, with communities pushing back on infrastructure projects. Meta, OpenAI, and other AI labs now face a tougher regulatory environment and public resistance to their expansion plans under Democratic-controlled Congress.",
-        "source": "TechCrunch",
-        "link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
-        "sources": [
-          {
-            "source": "TechCrunch",
-            "link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/"
-          }
-        ]
-      },
-      {
-        "title": "Anthropic's unreleased model solves quantum computing conjecture",
+        "title": "Anthropic's unreleased model solves 18-year quantum conjecture",
         "feedTitle": "An unreleased Anthropic model just helped solve a major quantum-computing question",
-        "summary": "An unreleased Anthropic AI model reportedly helped solve a longstanding 18-year-old quantum computing conjecture in just three days, according to recent reports. The breakthrough demonstrates potential capabilities of advanced AI systems in mathematical and scientific problem-solving. The achievement comes as Anthropic prepares for its public market debut amid renewed scrutiny of AI capabilities.",
+        "summary": "An unreleased Anthropic AI model reportedly solved a major, long-standing quantum computing question in just three days that had resisted academic proof for 18 years. The achievement showcases rapid progress in AI model capabilities for scientific problem-solving. The development highlights Anthropic's advances in AI-assisted research and reasoning.",
         "source": "BigGo Finance",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kVDN2SklZVUVwcy1lVmhBVXg4dk9QS2JQd0RlSWl3c2NXeW9GRVB2TkVodnhfd0NSYTlEYlFxYm96a0JnSHNYMlQyQXlRUDRRODZ2S0l3VERNRTVpVGZwZzh2LVN2VFRNVDRSR2xRQ0NBZHdTZkE?oc=5",
         "sources": [
@@ -616,15 +602,57 @@
         ]
       },
       {
-        "title": "Dropbox acquires Tigris Data for $350 million to boost AI",
-        "feedTitle": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-        "summary": "Dropbox announced its acquisition of Tigris Data for $350 million to strengthen its AI infrastructure capabilities. The deal is intended to support development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents. The acquisition reflects cloud storage companies' strategic pivot toward AI-native infrastructure.",
+        "title": "How a Blue Wave midterm might reshape the AI industry",
+        "feedTitle": "How a Blue Wave midterm might reshape the AI industry",
+        "summary": "Summary unavailable for this update.",
         "source": "TechCrunch",
-        "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+        "link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
         "sources": [
           {
             "source": "TechCrunch",
-            "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/"
+            "link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/"
+          }
+        ]
+      },
+      {
+        "title": "OpenAI raises $11 billion at $1.25 trillion valuation",
+        "feedTitle": "OpenAI raises $11 billion at $1.25 trillion valuation, falls short of $30 billion target",
+        "summary": "OpenAI closed a funding round at a $1.25 trillion valuation, raising $11 billion but falling short of its initial $1.4–$1.5 trillion target, according to reports. The shortfall reflects investor caution following the AI stock selloff. CEO Sam Altman's company maintains strong enterprise traction but faces valuation headwinds amid broader market skepticism.",
+        "source": "The American Bazaar",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNemRIQV9OZlpBSGtKcURsMnNJR3FxMmV5MkhDT3FENW9IQzlzQkppM3lHV2hKemNHMzNfRUx1aURpV2VTdDlsa05xNlJ5WkwxM29Uc09vVlpYYW1sSUFEVXJ1QWdabDR2SU5JRC1HVVBBRmxWZHBxbTZwMWZIeWgxYnlVT2hwRjVtRzJwSy1qLWxXWUhQMjZKeHduNjlkWktOYmRCc09B?oc=5",
+        "sources": [
+          {
+            "source": "The American Bazaar",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNemRIQV9OZlpBSGtKcURsMnNJR3FxMmV5MkhDT3FENW9IQzlzQkppM3lHV2hKemNHMzNfRUx1aURpV2VTdDlsa05xNlJ5WkwxM29Uc09vVlpYYW1sSUFEVXJ1QWdabDR2SU5JRC1HVVBBRmxWZHBxbTZwMWZIeWgxYnlVT2hwRjVtRzJwSy1qLWxXWUhQMjZKeHduNjlkWktOYmRCc09B?oc=5"
+          },
+          {
+            "source": "Billionaires.Africa",
+            "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTTBaSm9Ed0t6OW01VjFQMjhncVBkT3B0RFlWZGk4eklkOTZrcmVqUXl4YXJLOV9aSWRNcUR2cnhVUVZEZ0IzYU9panRBY044eFVIOUgzYWhzZmFSM1RYN0ZaUl9RMkY4OFdhREFMaEJVM0VDNjZhbnRJcVNtU0NzT2RmMURCNEgzb2VlUWt1ZjRKUDhwcWFmV2h1Q3NwWnk1U3RLRGtJTEFWOGI5cllEUTBQblh5dVlybWozaFdSbzQ3c3pjamxxZlVuTWhfZENKOHZuV3VuZ0kwUnNIVFB6RTNR?oc=5"
+          },
+          {
+            "source": "Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZHgwal9kaEktbjNXcWt5V1NIcUxqZEVwclh3NXFVME5DTUk2LTNPdjNZd2RJZENhMm1KRTNLS2p6aWhQTUI3QU1VTXNycDVvZUVxMXBhWmZXeVRPd0xEdG8zejhOdHM4Ny1lUmo0SmxfVll6bVZrSUVMM1RkQU5MaElJWXZJV3dwNEtISjU0LWZDcFJpSE5PaA?oc=5"
+          }
+        ]
+      },
+      {
+        "title": "Democrats plan AI regulation targeting model safety expansion",
+        "feedTitle": "Democrats Plan Legislation for Artificial Intelligence",
+        "summary": "Incoming Democratic Congress majorities are preparing new legislation to expand AI oversight, particularly targeting model safety and rapid expansion practices (proposed, not final). The legislative push reflects voter concerns over data center impacts and AI safety. Bills likely to focus on environmental standards, safety benchmarks, and disclosure requirements for large-scale AI deployments.",
+        "source": "GV Wire",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX1Z2QnBLYS1BdHpLY2xyUURvX1M5Qk5FdHJKZ1Y4cDFBWEpVY3RFU3R6aVc3Q0Fvc1JPaDl0NU9UbW1uYUZuTEp1VFgtb2JDSm9QYUZaWmJ6RlpDNEZvc2Zab3RObmtDcDRqNDdvUktlZnNyTmJDM2RORDZYc25Vc19PbzBtanJzTWg4RWtxaS1BS04yYWFlYUgxOWk1Rnc0bmkzcQ?oc=5",
+        "sources": [
+          {
+            "source": "GV Wire",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX1Z2QnBLYS1BdHpLY2xyUURvX1M5Qk5FdHJKZ1Y4cDFBWEpVY3RFU3R6aVc3Q0Fvc1JPaDl0NU9UbW1uYUZuTEp1VFgtb2JDSm9QYUZaWmJ6RlpDNEZvc2Zab3RObmtDcDRqNDdvUktlZnNyTmJDM2RORDZYc25Vc19PbzBtanJzTWg4RWtxaS1BS04yYWFlYUgxOWk1Rnc0bmkzcQ?oc=5"
+          },
+          {
+            "source": "StateScoop",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSThraUM2MFR6ZzBvajR2OTNYRWFFZ3hTcm9NaXlCTklDZ2EtNzF3bW5EOGRGM2FOQTB5Ny1uNnFBdzFWVVdzTV9TWXQ3UFVpdkZBUnZMM1VJNFg2RGZ1U1pRX3k3NG1zTTl0dXF3ejA2eDd5bnRuMTU4WTRFalRIZF93N3NtcDhFa3Rpakh4V3U1Q2FRcnJQNkVYZXNRQ0JSLUE?oc=5"
+          },
+          {
+            "source": "CDO Magazine",
+            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRW5wVTVmZ2hYeGpnUFNOVml0bUtneHR4TnFBOHg0amFLQVhhOEVKOXRDak5LSm5HNzl5LWFhUlA0S2taQzNBTlh2Ni1MSmxOYURHQ205VWxzSExfSVEtRXY0dGdlb2g4NnE1dTdwcEc5U2UwUklDdUxEcGczMExVV2ctQU5Tcks3dHMzUXNManJ6blpfSi1OUVVmS0Q2YU9uUC0tald3U2s2clI2SlNDUDdDNFhZbzkwZDU4end0aFE5YVZadWZNVXZHMA?oc=5"
           }
         ]
       }

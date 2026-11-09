@@ -1,152 +1,168 @@
 {
-  "generatedAt": "2026-11-09T02:11:38.732Z",
+  "generatedAt": "2026-11-09T21:11:22.704Z",
   "location": "St. Charles, MO",
   "weather": {
-    "high": 63,
-    "low": 33,
-    "highC": 17,
-    "lowC": 1,
+    "high": 67,
+    "low": 38,
+    "highC": 20,
+    "lowC": 3,
     "precip": 0,
-    "wind": 6,
-    "sunrise": "6:36 AM",
-    "sunset": "4:54 PM",
-    "now": 52,
+    "wind": 7,
+    "sunrise": "6:38 AM",
+    "sunset": "4:53 PM",
+    "now": 67,
     "nowLabel": "Clear",
     "alerts": [],
     "label": "Mainly clear",
     "emoji": "🌤️"
   },
   "watch": [
-    "U.S. consumer price inflation data this week—critical for Fed rate-hike timing and growth expectations",
-    "Anthropic IPO roadshow and potential repricing following Nvidia scandal and AI sector selloff",
-    "Iran-U.S. diplomacy progress; any new military action would immediately spike oil and volatility"
+    "Anthropic IPO pricing and first trading day reaction to AI competitive landscape",
+    "Hegseth impeachment vote timing and Republican Party fractures",
+    "Russia-Ukraine peace talks in Abu Dhabi and impact on oil/energy markets"
   ],
   "tabs": {
     "local": {
       "items": [
         {
-          "title": "Trump says immigration crackdown 'might be too tough' after midterms",
-          "feedTitle": "Trump says his immigration crackdown ‘might be too tough’ after midterm losses",
-          "summary": "President Trump told CBS News his deportation policies may have been \"too tough\" and contributed to Republican losses in the midterm elections. Trump said the policy \"both helped and hurt\" the party electorally. The statement marks a significant reversal from his earlier hardline immigration rhetoric and could signal a potential policy shift in his second term.",
+          "title": "Defense Secretary Hegseth faces House impeachment vote",
+          "feedTitle": "Pete Hegseth faces House impeachment vote amid controversy over Iran War",
+          "summary": "Rep. Thomas Massie (R-Ky.) forced a House vote to impeach Defense Secretary Pete Hegseth, citing controversial policy decisions on Iran and Venezuela. Hegseth announced he will hold a news conference to defend his record. The effort faces long odds but signals GOP dissent over Hegseth's tenure as one of Trump's most controversial Cabinet picks.",
           "source": "The Hill",
-          "link": "https://thehill.com/homenews/6207170-trump-immigration-policy-midterm-losses/",
+          "link": "https://thehill.com/homenews/house/6208854-massie-escalates-hegseth-impeachment/",
           "sources": [
             {
               "source": "The Hill",
-              "link": "https://thehill.com/homenews/6207170-trump-immigration-policy-midterm-losses/"
+              "link": "https://thehill.com/homenews/house/6208854-massie-escalates-hegseth-impeachment/"
             },
             {
-              "source": "AP News",
-              "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMHFjRVMzbEZndUhYM0sycFZhdi1qQWotWnFnQU56YjF0T1pWYXFTSGRUclQxWmVMUmRRRnFnRTFsUFVnYWc5VExMZnM5c3NOVFBzWDFIdVZWSmhvSzN3a1pqVGlhempaRzItTTMtR1JpaUUyMDZnWUI5d3d6Q2lsQ0tuVWdjbDB5UzAyZk9ObWVzb2RyTERFdG9TZFRjTTRDeUpsT3FBV3Z1bURCeV9WLWtn?oc=5"
+              "source": "CNBC",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOTc5YnduUF82cnhuQXZaTFFzYTk0SDhZQmRlaGpYMkpJWWV1NnNCOWRMYmZxYnR6QkpNTjMtNWdyRnNEOFVMbFMyNUFqTDl6c29pcDc1VHl3eEg5SlluSXZ1ZG12WmhQZUpIUTZ5c2VxbGJRM1p2bi1JUkxYMXBjTUFuOA?oc=5"
             },
             {
               "source": "PBS NewsHour",
-              "link": "https://www.pbs.org/newshour/economy/voters-demanded-economic-relief-trump-and-democrats-face-tough-choices-on-how-to-deliver"
+              "link": "https://www.pbs.org/newshour/world/watch-live-hegseth-speaks-at-the-naval-war-college-as-possible-impeachment-vote-looms"
             }
           ]
         },
         {
-          "title": "Native American women make historic election gains nationwide",
-          "feedTitle": "Native American women made history in tribal, state and federal elections",
-          "summary": "Native American women achieved unprecedented electoral success in Tuesday's midterm elections, including Peggy Flanagan becoming the first Native American woman elected to the U.S. Senate, Deb Haaland winning a state governorship, and Crystalyne Curley leading the Navajo Nation. Advocates characterized the results as a watershed moment for Native representation in American politics at federal, state, and tribal levels.",
-          "source": "PBS NewsHour",
-          "link": "https://www.pbs.org/newshour/politics/native-american-women-made-history-in-tribal-state-and-federal-elections",
+          "title": "Supreme Court allows Trump border wall construction in Texas",
+          "feedTitle": "Supreme Court allows Big Bend border construction to continue in Texas, siding with Trump",
+          "summary": "The Supreme Court halted a lower court's pause on barrier construction in Big Bend National Park, allowing the Trump administration to continue the project. The decision represents a major legal win for Trump's border security agenda despite environmental concerns.",
+          "source": "The Hill",
+          "link": "https://thehill.com/policy/energy-environment/6208853-big-bend-national-park-texas-trump-border-wall-scotus/",
           "sources": [
             {
-              "source": "PBS NewsHour",
-              "link": "https://www.pbs.org/newshour/politics/native-american-women-made-history-in-tribal-state-and-federal-elections"
+              "source": "The Hill",
+              "link": "https://thehill.com/policy/energy-environment/6208853-big-bend-national-park-texas-trump-border-wall-scotus/"
+            },
+            {
+              "source": "The New York Times",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQXRJdHFlR3B5SDg0Y1BBTlE3WVRmX1BnRU4xYjAtTUNHMXN6em1TY05MbHRwQmJabkkzSUowQ0c0MVRfekowZ21va0ppQld1T2JkM0pCOXlSNUJsNnJqNkFwbGFFRUJhUUlsZlM0UmxHbThKbENaOXV1OS1YTkxPaTNFQm5VbmtWaHY4?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Texas Democrat James Talarico sworn into Senate",
+          "feedTitle": "Talarico, Cornyn meet in Washington",
+          "summary": "Newly elected Sen. James Talarico (D-Texas) met with outgoing Sen. John Cornyn as lawmakers gathered for Capitol Hill orientation. Talarico, who defeated incumbent GOP Rep. Cory Mills in a primary, represents a significant Democratic gain in Texas.",
+          "source": "The Hill",
+          "link": "https://thehill.com/the-120/6208891-talarico-cornyn-texas-senate-transition/",
+          "sources": [
+            {
+              "source": "The Hill",
+              "link": "https://thehill.com/the-120/6208891-talarico-cornyn-texas-senate-transition/"
+            },
+            {
+              "source": "MS NOW",
+              "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdmNXRFlWMXcwaW9tYnk2bDBwMjlrWWZLWndLVDIzTzNvV000U2d0WS1iSDZyMHB6V0ZoREtybm5IYWJEMExaaGZ2SmtVZC0wR0c4Qnc1UUpmRTdNS2stdHJUTHZMcHFIVUhucjAxcndMTkx0d0MxV0FKWDhxV1ZwS2xoREdLUzRqcV9RRW5YVFVrc3dsTVE?oc=5"
+            },
+            {
+              "source": "The New York Times",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTm5GLXNMWFRPWHRWMGVTektVcWVrcFV2ZFpiZVZUdUxmN1ZpMnRSZTkydlh0bXhjWEtUODlGLTdscGN1czJNOHQ3aWJQejFpR3JGQnJ1TEtkc0lQSm00TnEzVmx2S3hyd1hNVXBiRFpJY1R1TDJYX2lJNU9rb18wWjAwQUM0d2FIMk1rVUxSZFlEX2ZPRF93VzhR?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Trump questions midterm election results without evidence",
+          "feedTitle": "Trump Veers Back Into Claims of Rigged Election, Questioning Midterm Results",
+          "summary": "President Trump returned to unfounded election fraud claims on Truth Social, questioning the integrity of the recent midterm results. The allegations contradicted his earlier acceptance of the outcome and drew criticism from Democratic leaders including Chuck Schumer.",
+          "source": "AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYU93QldOVDh4akJpdkd5MUk1OUl5ajgyeVE0RzlyTjVJaFZINnFuelZjcWN6MWhGMFFRNEJxNlNTZ1JEY09qQ2hHN094RjRwRUR0ek5xcWwyMkFTZUxjOUZYVS02WFltY1Q1WXlXR05DM2RZVXNVZXpvMURzMFdkR01TQzVBcE9jNDctbldVRlhMWW5oaHJ3VDFjRnZSbkNDN2x3QXE2N2c?oc=5",
+          "sources": [
+            {
+              "source": "AP News",
+              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYU93QldOVDh4akJpdkd5MUk1OUl5ajgyeVE0RzlyTjVJaFZINnFuelZjcWN6MWhGMFFRNEJxNlNTZ1JEY09qQ2hHN094RjRwRUR0ek5xcWwyMkFTZUxjOUZYVS02WFltY1Q1WXlXR05DM2RZVXNVZXpvMURzMFdkR01TQzVBcE9jNDctbldVRlhMWW5oaHJ3VDFjRnZSbkNDN2x3QXE2N2c?oc=5"
             },
             {
               "source": "NPR",
-              "link": "https://www.npr.org/2026/11/08/nx-s1-5393776/color-climate-change-coral-lakes"
+              "link": "https://www.npr.org/2026/11/08/nx-s1-6034002/nasa-astronaut-class-applications-2026"
+            },
+            {
+              "source": "The New York Times",
+              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTzhkZC1lQXN1VGt3RjlJRmV1RGNrVGw0andnVWxpS0lPV3otWmJra0ptNXZRMENfaS1SMEZCc0FiekVrUDNHclhub1U5R29uWklBd2p5ZHJRY1o3Y3JuUVptRHZFVlRfTFl0RWJPUkFuQW9MSVZrLXdTcFJaREJsWlRmTTBrdG1pamczNjgtelNrWjg?oc=5"
             }
           ]
         },
         {
-          "title": "Midterms energize abuse survivors as political constituency",
-          "feedTitle": "The midterms energized a powerful political constituency: abuse survivors",
-          "summary": "The 2026 midterm elections saw significant victories for abuse survivor advocates, from Ohio Governor-elect Amy Acton's win to candidates accused of domestic violence withdrawing from races. Activists called the results \"a win for survivors\" and pointed to growing voter appetite for holding elected officials accountable on abuse and violence issues.",
+          "title": "Trump suggests deportation policy was too harsh for voters",
+          "feedTitle": "Trump says his deportation policy 'might have been too tough' for midterm voters",
+          "summary": "Trump told reporters his aggressive immigration enforcement approach may have cost Republicans in the midterms and expressed willingness to work with Democrats on an immigration deal. The comment represents a potential shift in his hard-line stance.",
           "source": "PBS NewsHour",
-          "link": "https://www.pbs.org/newshour/politics/the-midterms-energized-a-powerful-political-constituency-abuse-survivors",
+          "link": "https://www.pbs.org/newshour/politics/trump-says-his-deportation-policy-might-have-been-too-tough-for-midterm-voters",
           "sources": [
             {
               "source": "PBS NewsHour",
-              "link": "https://www.pbs.org/newshour/politics/the-midterms-energized-a-powerful-political-constituency-abuse-survivors"
-            }
-          ]
-        },
-        {
-          "title": "Strokes among younger adults have nearly doubled in recent years",
-          "feedTitle": "Sen. Chris Murphy's stroke at 53 highlights a trend: Strokes among younger adults have risen",
-          "summary": "Research shows stroke incidence among adults nearly doubled from 1993-94 to 2020, jumping from 33.90 to 62.18 cases per 100,000 people. The concerning trend was highlighted after Senator Chris Murphy suffered a stroke at age 53, drawing attention to the rising prevalence of cerebrovascular events in younger populations.",
-          "source": "PBS NewsHour",
-          "link": "https://www.pbs.org/newshour/health/sen-chris-murphys-stroke-at-53-highlights-a-trend-strokes-among-younger-adults-have-risen",
-          "sources": [
-            {
-              "source": "PBS NewsHour",
-              "link": "https://www.pbs.org/newshour/health/sen-chris-murphys-stroke-at-53-highlights-a-trend-strokes-among-younger-adults-have-risen"
-            }
-          ]
-        },
-        {
-          "title": "Multiple shootings at Winston-Salem State University kill one",
-          "feedTitle": "1 dead, 3 others injured following two separate shootings at Winston-Salem State University",
-          "summary": "Two separate shooting incidents on the campus of Winston-Salem State University resulted in one death and three injuries. A suspect was arrested in connection with the attacks, which occurred during the university's homecoming weekend and prompted police to seek community support.",
-          "source": "WXII",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeVowZ1g3UUpIakstZDlGU3Y0dTdWQXZJeldUTU9PMVA3NVlYTkczY3lnY3Z6TkpsT0RoS01tVkhmbnhXekkxbVpjQUNWdzk4bEpOQlh2b0xUc2hnc0NPU1NldDhlbUhheHJFeU91SHlaWDR1OUxrUHdaYm1TMF9maWVCd0xNZU9pc3RBeUtsb00?oc=5",
-          "sources": [
-            {
-              "source": "WXII",
-              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeVowZ1g3UUpIakstZDlGU3Y0dTdWQXZJeldUTU9PMVA3NVlYTkczY3lnY3Z6TkpsT0RoS01tVkhmbnhXekkxbVpjQUNWdzk4bEpOQlh2b0xUc2hnc0NPU1NldDhlbUhheHJFeU91SHlaWDR1OUxrUHdaYm1TMF9maWVCd0xNZU9pc3RBeUtsb00?oc=5"
+              "link": "https://www.pbs.org/newshour/politics/trump-says-his-deportation-policy-might-have-been-too-tough-for-midterm-voters"
             }
           ]
         }
       ],
       "stlouis": [
         {
-          "title": "Man critically injured in downtown St. Louis shooting",
-          "feedTitle": "Man critically injured in Downtown St. Louis, Missouri shooting",
-          "summary": "A man was critically injured in a shooting incident in downtown St. Louis. Emergency responders treated the victim at the scene, with details on the circumstances and shooter still being investigated by local authorities.",
-          "source": "cedarnews.net",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObGJ6M2lmMzhPTGxlYWlMd3VtOGZXSWZnZTE4WmFyaGhHZ1RxM3FyWVlCbTJPQTU0ZEpmc1BmbEhLNUg0ZFhad19BMjBpMHhRd3F2WGRUd3dKUmYwYkdWSXNET3ZQdkNUcVpmY3dRSG8yeVItNmZmYk50V2xwYnlfNGZOXzZJNEpNcFJzYzZUanp6eG9X?oc=5",
+          "title": "St. Louis receives $68 million federal crime-fighting grant",
+          "feedTitle": "St. Louis to receive $68 million in federal funding to fight crime",
+          "summary": "Attorney General Todd Blanche announced that St. Louis won a Model Cities Initiative award, delivering $68 million in federal funding for law enforcement to tackle violent crime. The award highlights the region's status as a priority jurisdiction for federal support.",
+          "source": "U.S. Senate (.gov)",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRHRoczFzNU9Rd0JJU054b2xOLUtvMjF1X2hMQWVTWVBJckVrQkRRRks2Q3VjYXVTbGxNRVpmRkhZalhNVV80V0l1NkpzTU1OWGM3T0N6MUNGRXg4WFVIRlFkbUVwZzRpWFc2Z3B0aFFJVUxaSXFJZml2VkxvUllYZ3ZVYzQ4ZHdGNEtVYy03M1EzVDVvRGszVmRLYjNTZnR5VjZOSjFtZV9MdmtUbWgwZWktd3Z4dXlXTG9JWFM0RENFdkhkODE4WHlMM25COERSSHU3NDk0eWNaU1lCSUVaT1FFcFpudTVGTnAw?oc=5",
           "sources": [
             {
-              "source": "cedarnews.net",
-              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObGJ6M2lmMzhPTGxlYWlMd3VtOGZXSWZnZTE4WmFyaGhHZ1RxM3FyWVlCbTJPQTU0ZEpmc1BmbEhLNUg0ZFhad19BMjBpMHhRd3F2WGRUd3dKUmYwYkdWSXNET3ZQdkNUcVpmY3dRSG8yeVItNmZmYk50V2xwYnlfNGZOXzZJNEpNcFJzYzZUanp6eG9X?oc=5"
+              "source": "U.S. Senate (.gov)",
+              "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRHRoczFzNU9Rd0JJU054b2xOLUtvMjF1X2hMQWVTWVBJckVrQkRRRks2Q3VjYXVTbGxNRVpmRkhZalhNVV80V0l1NkpzTU1OWGM3T0N6MUNGRXg4WFVIRlFkbUVwZzRpWFc2Z3B0aFFJVUxaSXFJZml2VkxvUllYZ3ZVYzQ4ZHdGNEtVYy03M1EzVDVvRGszVmRLYjNTZnR5VjZOSjFtZV9MdmtUbWgwZWktd3Z4dXlXTG9JWFM0RENFdkhkODE4WHlMM25COERSSHU3NDk0eWNaU1lCSUVaT1FFcFpudTVGTnAw?oc=5"
+            },
+            {
+              "source": "Department of Justice (.gov)",
+              "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcHJJTVMyYzBmVks2TGlmUklsZDNlZHpvdC1rOGxtdTB3NnFIV2pBR0ZJaUZFV1RDeks0Rm1qcnJxbTNmV1pQN1U3N3lHYTgwVEl1MjRZLTBtSUxkV2tTcG5OMnAyZU5SajVWT0RUSk12UG0tdElqOE9Md2tUR3JyRWw4Qk0yNDdvNlVfWDFpODN3bmQ2TG9yTmNCSTAyTlBYZWRXbWJIUnF5YzIzNUhvLTNmdzBVaU0?oc=5"
             },
             {
               "source": "KMOV",
-              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTHhhN2RqbjBFcGhyY0xTY3lDdVNHMTlpN1YzNE1ONjhuRllqSVE5N0Jsd1JFck5UMTYyUFNPU2ZMek96SEtSMkZHMG9uUlE1aG9wQTBubDNyVVJLVndoNGJiZ2l3NlNUUUtNTlRERkRIU0VmbGlFaGlJV1hMVGFyRFJYaFB4bEhPMS1CWjdyaXg2aTA?oc=5"
+              "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT1FoU0Q1Q0ZmU2MyNE1GQm0tX0puUmNfeTVPalpfd0l5bXlVaUJrbjdxVlI5YXZHY0tlT2U3R2hUNXowWUlaSmVVM200eFhkaEZaZTNBUjhWLUp6R0JMM0RrWjJaSWM3UjZaMTN3RWVCNVlXdGJfNGJWREltazhWNUZKS2xpVmxiT2RtaVRROVJNbGhxeGVsRmdtQQ?oc=5"
             }
           ]
         },
         {
-          "title": "St. Louis CITY SC earns playoff berth with stoppage-time winner",
-          "feedTitle": "Lukas MacNaughton's stoppage-time winner sends St. Louis CITY SC into playoffs as West's No. 3 seed",
-          "summary": "Lukas MacNaughton scored a stoppage-time goal to send St. Louis CITY SC into the MLS playoffs as the Western Conference's No. 3 seed. The dramatic finish secured the club's postseason entry and advancement in the league standings.",
-          "source": "St. Louis American",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNlFyVnZveE9RSkxRRGN1RXF3VjhCM3JWSHc3Rkh0UWhCNDhvLVJuczVvSUF4NnhCWXdESUo4cXJWNHZWVjdLRVZQazduRXlPU25pUEotT09OY2w1cU84QWZXbWY2dG9oN2tsdnJRcDhKX2lBeUUtQkpaYVBrNjV1OGotTVZsTXBDOXMycHNvVl94TDZCNmZjX0dFdnVrTF9QdWxFUXhIZi1BUTMxRFZ4WmZKUlBYS3JVdHR5bmF4V3NEeFRrWTNhbjQtUnNtUVdOQl9UTA?oc=5",
+          "title": "St. Louis police launch drone transparency portal",
+          "feedTitle": "St. Louis police launch drone transparency portal",
+          "summary": "The St. Louis Police Department launched a new public portal to increase transparency around its drone operations. The initiative aims to provide accountability and public access to information about drone deployment and usage.",
+          "source": "FOX 2",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZVJWdVVzY2NKc0dJLVFqZW5ueWJIaVZRMGpacnVTZHl3ZmQ2c2lVRzJQOXFXZmhHeHFTQTRLZHZfQndjUGdwc3pmSkRheEdLb0Nmd25SV0hBZzFEcW9nZzVlcWVIRXM1emNJTF80Skw1NndJeFFZVWM0ZTl5UW5ySi0zckNWak9BZ0ow0gGQAUFVX3lxTE9RODFiRzZrNGFxbGtIUE5DVzgxN0UyN0IxWGNzUlVlQWZ6ZUJ2NFB2azNYWV8xaFYza3djZVhZaXdRa3I1ZENfd014VER6aGFBSlFUNlBJam9GUVBQTXZHT2pQYTNpMnYtaGdDdWl5VHZzSUc3M2R3SERmdXRrRUNRbnp4YkwyTFBLMm1mdC10ZA?oc=5",
           "sources": [
-            {
-              "source": "St. Louis American",
-              "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNlFyVnZveE9RSkxRRGN1RXF3VjhCM3JWSHc3Rkh0UWhCNDhvLVJuczVvSUF4NnhCWXdESUo4cXJWNHZWVjdLRVZQazduRXlPU25pUEotT09OY2w1cU84QWZXbWY2dG9oN2tsdnJRcDhKX2lBeUUtQkpaYVBrNjV1OGotTVZsTXBDOXMycHNvVl94TDZCNmZjX0dFdnVrTF9QdWxFUXhIZi1BUTMxRFZ4WmZKUlBYS3JVdHR5bmF4V3NEeFRrWTNhbjQtUnNtUVdOQl9UTA?oc=5"
-            },
             {
               "source": "FOX 2",
-              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR3ozMVFGUXdVZzFreVliNjhFUVlad19pcTJHX1dGZmI0OHBHcWlYTk9xQnRaeURnNC1RSjQ3TTFORm1YWFBZY3dOSkNyMW1HYnQ4WFRGMHV4N25GY2QzNFVvOThIaTRpQngzRzRRa2FBSDg5azlDcHR0UnNZc1NkQ21Vd214Yi1UTk9KOWxEQXJUTEJxaVFlYl9jdzJkZ9IBowFBVV95cUxOazhmMnM4ZXBfMkJYU2Nqc3NCY0dXNmNDbXVtc2JCZ2tWQXd2QWtfalhuRHJ4VWZkUWNfWHc5bWtQaERkR0ZjODh1WU9HQjZDN01TYUlzRVYzVXIzUEVPNHNKeVdfYVNHcGNzMjhYN1BRd3BmYlNyNWtDU3JFd19HRHN0R0x4b0tBZE1udnBqRXctLVR0UDN0RWtxSDQ4M09XTEVr?oc=5"
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZVJWdVVzY2NKc0dJLVFqZW5ueWJIaVZRMGpacnVTZHl3ZmQ2c2lVRzJQOXFXZmhHeHFTQTRLZHZfQndjUGdwc3pmSkRheEdLb0Nmd25SV0hBZzFEcW9nZzVlcWVIRXM1emNJTF80Skw1NndJeFFZVWM0ZTl5UW5ySi0zckNWak9BZ0ow0gGQAUFVX3lxTE9RODFiRzZrNGFxbGtIUE5DVzgxN0UyN0IxWGNzUlVlQWZ6ZUJ2NFB2azNYWV8xaFYza3djZVhZaXdRa3I1ZENfd014VER6aGFBSlFUNlBJam9GUVBQTXZHT2pQYTNpMnYtaGdDdWl5VHZzSUc3M2R3SERmdXRrRUNRbnp4YkwyTFBLMm1mdC10ZA?oc=5"
             }
           ]
         },
         {
-          "title": "MetroBus Route 71 returns to service on November 30",
-          "feedTitle": "St. Louis Brings Back MetroBus Route 71 on Nov. 30",
-          "summary": "St. Louis is restoring MetroBus Route 71 service beginning November 30, expanding transit options for riders in the region. The route's return comes after a period of suspension from the regional bus network.",
-          "source": "deeparrival.com",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQkt1NEdFX1BsbkwtQUdpZjZPWmJ3WndOR21aZ3VhZ0s5YXRDMlN6NUgta2k0RWgwTDNGMVVMQm1RbkdfNW5OdG5pNHcxUmI5UDN5LVlnV3ZEVlRZLWpHTzhaLWVGbWVuam9ta3lmOS1pNnVGVHVfRkcxTkN3enR6eE1WSFNrVWh1?oc=5",
+          "title": "Hospital discharge questioned after I-70 death",
+          "feedTitle": "Fiancee questions hospital discharge after O'Fallon man dies on I-70",
+          "summary": "The fiancée of an O'Fallon man who died on Interstate 70 is questioning the hospital's decision to discharge him, raising concerns about the discharge process and medical care decisions. The incident raises questions about patient safety and hospital protocols.",
+          "source": "KSDK",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONEkyYjJxUjVxN1RocUdsRjVNRWhiaG4yZWwyV3FkZTdPT3RjWHNtRXFJT2ItWXloeDJEM2hLOHJ1dG44OHROSkx3Ynp4X08zYU1PR3RwS0hQUF91cklpaUgzUGVNUlVYWTQxcFJFRFhxdG1UcWtKY3djWUthR2doR0ZlT0F3Y3hUem5xMXh6UDdFNkNEcEtGQkZ3S2k5akNlNnE5ZG1qMWRfczhHWkM0UG5SNlpuT2ZhNUh1dFNiT0VnZDBsdV81WlA3SUZFU21takMw?oc=5",
           "sources": [
             {
-              "source": "deeparrival.com",
-              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQkt1NEdFX1BsbkwtQUdpZjZPWmJ3WndOR21aZ3VhZ0s5YXRDMlN6NUgta2k0RWgwTDNGMVVMQm1RbkdfNW5OdG5pNHcxUmI5UDN5LVlnV3ZEVlRZLWpHTzhaLWVGbWVuam9ta3lmOS1pNnVGVHVfRkcxTkN3enR6eE1WSFNrVWh1?oc=5"
+              "source": "KSDK",
+              "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONEkyYjJxUjVxN1RocUdsRjVNRWhiaG4yZWwyV3FkZTdPT3RjWHNtRXFJT2ItWXloeDJEM2hLOHJ1dG44OHROSkx3Ynp4X08zYU1PR3RwS0hQUF91cklpaUgzUGVNUlVYWTQxcFJFRFhxdG1UcWtKY3djWUthR2doR0ZlT0F3Y3hUem5xMXh6UDdFNkNEcEtGQkZ3S2k5akNlNnE5ZG1qMWRfczhHWkM0UG5SNlpuT2ZhNUh1dFNiT0VnZDBsdV81WlA3SUZFU21takMw?oc=5"
             }
           ]
         }
@@ -155,99 +171,91 @@
     "world": {
       "items": [
         {
-          "title": "Iran vows 'astonishing' strikes, lifts missile-range limits",
-          "feedTitle": "Iran vows ‘astonishing’ strikes and lifts missile-range limit as US targets land routes",
-          "summary": "Iranian officials have vowed to launch \"astonishing\" military strikes and announced they are lifting restrictions on missile ranges amid escalating tensions with the United States. The statements come as Iran responds to U.S. military operations and raises the stakes in an already volatile regional conflict.",
-          "source": "Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeGY4UThBZ2p5aG5CeVd1RWktVFhWbjVMUGJmaEZmdWdkLXpFa3dfcW1PRkZlcUJvLWFBbU1lc05NbmVTT2I1bDB3M1M4Rzg5VkxleDJJNkRZNlJPRHFrOFQxYkxZdzVRY29lR1hZY09oUko3Y2pUZGlqdG42Y2lIZ1lEWDQ1dlRSMXFoTnFTczZvclUzclMxNtIBngFBVV95cUxNNnV4cG5GTnQ4SmJXeWxmV1pXY0pQRDQyZWwtcWVFYnhPRHNsQ2VIRnhVZlhybWdObWVreUNJSGU1UzIzdHcxU2RkU3B5WFVHVHFrUFprNkthQ2JQaWNPMm1ET3ZKNTd2eW5wTkFDOC1GSDJpemZWelk4ZlhCaWdVUWdBRWx3TkFiWUd1OVlCTWktODJlNkVya1BmZDVTdw?oc=5",
-          "sources": [
-            {
-              "source": "Al Jazeera",
-              "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeGY4UThBZ2p5aG5CeVd1RWktVFhWbjVMUGJmaEZmdWdkLXpFa3dfcW1PRkZlcUJvLWFBbU1lc05NbmVTT2I1bDB3M1M4Rzg5VkxleDJJNkRZNlJPRHFrOFQxYkxZdzVRY29lR1hZY09oUko3Y2pUZGlqdG42Y2lIZ1lEWDQ1dlRSMXFoTnFTczZvclUzclMxNtIBngFBVV95cUxNNnV4cG5GTnQ4SmJXeWxmV1pXY0pQRDQyZWwtcWVFYnhPRHNsQ2VIRnhVZlhybWdObWVreUNJSGU1UzIzdHcxU2RkU3B5WFVHVHFrUFprNkthQ2JQaWNPMm1ET3ZKNTd2eW5wTkFDOC1GSDJpemZWelk4ZlhCaWdVUWdBRWx3TkFiWUd1OVlCTWktODJlNkVya1BmZDVTdw?oc=5"
-            },
-            {
-              "source": "Fox News",
-              "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVmFjY1UwcWdiOGlGSXgyQlZZakp5clRWaDZZeTUtay1ndlRWMTFUU3hSbGtVWFFUWERkN1VRVlByaXlRUGhlSWJQa09VSnNrUlRIYWpqWjhGZ0xEUXJKU3V0MXRHbGE5SVk1dHNWcTI1a0NlWlhHTEo0dHJHMXlrUDN5YVltc19XWVRBWDJLYVI5ZWVRZVl4RndYd2ZpdFA3bzVROURqS1ZFeXlv0gGyAUFVX3lxTE1OQmZMZjJrSEsxcXQ4WDlPUUlmZkVRcVBmaTRMdGQwTWRLM09EQ0dqSk5aWWhuZnRvVXFNNjVFZ1M4OFdHT3k4UkJpMS1Tc2dNQnVoc1RMbVdydWRzZHRsVmRfNVZjZDIwNmNoTDZkOHpSN3c4UV9KY3FFWU9panRjZm05WTEtb3RxdVFuRi1XVVBNTDVkLUlMdGlwc2o1QzBDQjFaNjVHaktKSE1GUk5VUEE?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Nvidia launches investigation into CEO Jensen Huang affair",
-          "feedTitle": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
-          "summary": "Nvidia's board announced an independent investigation after reports that CEO Jensen Huang admitted to having an intimate relationship with a woman U.S. intelligence officials believe was spying for China. The probe was initiated in response to foreign intelligence concerns raised about the executive.",
+          "title": "France blames Iran for supermarket refrigerator cyberattack",
+          "feedTitle": "Iran was behind cyber-attack on French supermarket freezers, Paris says",
+          "summary": "French authorities say a cyber unit linked to Iran's Revolutionary Guard hacked supermarket freezers and chillers across the country last month, spoiling food in over 1,000 stores. France's foreign minister called it an 'unprecedented scale' attack and vowed European sanctions against Tehran.",
           "source": "The Guardian",
-          "link": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
+          "link": "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges",
           "sources": [
             {
               "source": "The Guardian",
-              "link": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation"
+              "link": "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges"
             },
             {
-              "source": "Al Jazeera",
-              "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/nvidia-ceos-affair-sparks-chinese-espionage-probe?traffic_source=rss"
+              "source": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss"
             },
             {
-              "source": "The New York Times",
-              "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IMC1KVG9Ya3lRLXhObVBSYWJLeFNxY0ZRMUpUUnZKQ0FOSlNyNGFyeWNmU0c2elJoOXlGWDhuOExCVzdhWnFGRlp5UjdFN2M5d1d6Mlh3WVZKUXZXaWdfZW5PdjNkLURJa21TTk1iaFZnQW5nY0p1M0hB?oc=5"
+              "source": "Sky News",
+              "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORFE3a3RSV0Q5OUpONXRhWFc1bWlCVXg2OEYyR1RjY1lnam9FV0o3VTYwMjdFSmp3Wk8zQUg5WWhDa1V3OVRBemp2ZGVzU2RBSmwwTlBpWFg2Zk9ncDBuQ0hnbVdQYXlnMmVnSDVlM2czZDZJY0VKR3NwNm5WZ2xqTE5VTElFWDVwRWtrVWJLMFdzLWcya0NITk1UMjdBMkFEdHpRQm1KdEhqU3RacTVpU1hNaXZLUQ?oc=5"
             }
           ]
         },
         {
-          "title": "Two Polish officers hailed as heroes after Kraków shooting",
-          "feedTitle": "Two police officers hailed as heroes for confronting Kraków gunman",
-          "summary": "Two Polish police officers were injured while pursuing and apprehending a gunman in Kraków who killed six people in a mass shooting at the Main Market Square. Officers Jakub Kulik and Artur Morański were praised for their actions preventing further casualties, with a nearby surgeon providing critical medical aid.",
+          "title": "Russell Brand sentenced to 10.5 years in prison",
+          "feedTitle": "Russell Brand sentenced to more than 10 years in prison for rape and sexual assault",
+          "summary": "A UK jury convicted the comedian of raping one woman and sexually assaulting three others dating back to 2004. A judge praised victims' bravery and criticized Brand's 'casual, arrogant disregard' for women's consent. Jemima Goldsmith has separately accused him of physical assault and abuse.",
           "source": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/nov/08/two-police-officers-heroes-confronting-krakow-gunman-poland",
+          "link": "https://www.theguardian.com/news/2026/nov/09/russell-brand-sentenced-rape-sexual-assault",
           "sources": [
             {
               "source": "The Guardian",
-              "link": "https://www.theguardian.com/world/2026/nov/08/two-police-officers-heroes-confronting-krakow-gunman-poland"
+              "link": "https://www.theguardian.com/news/2026/nov/09/russell-brand-sentenced-rape-sexual-assault"
             },
             {
-              "source": "BBC",
-              "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss"
+              "source": "Reuters",
+              "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbmk4dlVnT1E1bFJGb01tRkZvLVFXSkt0bTRsY2t4RzMzRDVGb2RzLUJTblJPQ1EwZFhlSUZXOTR3VlF2UTU0V29tVjd5dWwtOFZpUGNxSE1uRW5JNF94a0RmRV9SRWgyZ3dCaDNJZmR2M05ZRHMzam9EVkF0OUJ3bnloSGdkNVZZU3QyODdKei14dU9nalBDSmwxOFpCNUJHUDFTbnFLTVp2UTJfaGlPQ1htNGxvbjRB?oc=5"
             }
           ]
         },
         {
-          "title": "Train collision near Cairo kills seven, injures 125",
-          "feedTitle": "Collision between 2 trains in Egypt kills 7 and injures at least 125",
-          "summary": "Two trains collided south of Cairo, Egypt, resulting in at least seven deaths and more than 125 injuries. Several carriages derailed in the al-Ayyat district about 50 kilometers from the capital, prompting a presidential investigation into the incident.",
-          "source": "AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR1pDemVhQ0RJdmhpWXA2akRYZHFLSkpCaXlHdUIwRmZab2JCcHdDMEU0VU5QajU2ODBvc21yUm5TLW9oUlRhWVI0Z2FUX2cta21RZFhYSEJIa3R4TjhDQkpnTWlBS0VvZDRhSnowTGlwdThyODM2UlEwTHlHQnM3N0E5LTR5dWlXZEZDZS02T3NlbnBmQ1ZaSXdhV21nbVJWRmZuTWF6Q3g5MDQ?oc=5",
+          "title": "Turkish steel plant explosion kills at least 16 people",
+          "feedTitle": "Turkey steel factory blast kills at least 17 people",
+          "summary": "An explosion at a blast furnace at the Habas Demir Celik plant near Izmir killed at least 16 workers after a crane collapsed into the furnace. President Erdogan announced an investigation; eyewitnesses reported the blast shook the ground violently.",
+          "source": "BBC",
+          "link": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
           "sources": [
             {
-              "source": "AP News",
-              "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR1pDemVhQ0RJdmhpWXA2akRYZHFLSkpCaXlHdUIwRmZab2JCcHdDMEU0VU5QajU2ODBvc21yUm5TLW9oUlRhWVI0Z2FUX2cta21RZFhYSEJIa3R4TjhDQkpnTWlBS0VvZDRhSnowTGlwdThyODM2UlEwTHlHQnM3N0E5LTR5dWlXZEZDZS02T3NlbnBmQ1ZaSXdhV21nbVJWRmZuTWF6Q3g5MDQ?oc=5"
-            },
-            {
               "source": "BBC",
-              "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss"
+              "link": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss"
             },
             {
-              "source": "The Guardian",
-              "link": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision"
+              "source": "Al Jazeera",
+              "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/deadly-explosion-at-iron-and-steel-plant-in-turkiye?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Pope Leo visits Argentina, urges safeguarding democracy",
-          "feedTitle": "President Milei welcomes Pope Leo during historic visit to Argentina",
-          "summary": "Pope Leo XIV began a historically significant visit to Argentina, marking the first papal trip to the country in nearly four decades. During the visit, the pope urged President Milei to safeguard democracy and build bridges, amid tensions between the Church and the populist administration.",
+          "title": "Nvidia investigation shakes CEO over alleged Chinese spy affair",
+          "feedTitle": "Nvidia shares slump amid investigation into CEO Jensen Huang",
+          "summary": "Nvidia launched an independent investigation after reports that CEO Jensen Huang had an affair with Alice Huang, a Chinese businesswoman allegedly working for Beijing intelligence. Huang admitted infidelity but denied compromising company security; Nvidia's shares fell sharply on the news.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/11/8/president-milei-welcomes-pope-leo-during-historic-visit-to-argentina?traffic_source=rss",
+          "link": "https://www.aljazeera.com/economy/2026/11/9/nvidia-shares-slump-amid-investigation-into-ceo-jensen-huang?traffic_source=rss",
           "sources": [
             {
               "source": "Al Jazeera",
-              "link": "https://www.aljazeera.com/news/2026/11/8/president-milei-welcomes-pope-leo-during-historic-visit-to-argentina?traffic_source=rss"
+              "link": "https://www.aljazeera.com/economy/2026/11/9/nvidia-shares-slump-amid-investigation-into-ceo-jensen-huang?traffic_source=rss"
+            },
+            {
+              "source": "The Guardian",
+              "link": "https://www.theguardian.com/technology/2026/nov/09/nvidia-affair-huang-trump-national-security"
             },
             {
               "source": "BBC",
-              "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss"
-            },
+              "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "Ukraine strikes Russia's second-largest oil refinery",
+          "feedTitle": "Ukraine hits Russia’s second-largest refinery, Rosneft caps sales",
+          "summary": "Ukrainian forces attacked Rosneft's Kirishi refinery, prompting the company to cap sales as fuel shortages return to Russian regions. The attack reflects Ukraine's ongoing targeting of Russian energy infrastructure to degrade military logistics.",
+          "source": "Euronews.com",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWWtZT193eDlnanMxSDhzN0V1VVZHbHpCQzdMRHJXeGtIVXA1R0hXVHItLXpkZ1pueDN1WnVTWnhiczRyT0JvckpUTGFoWm5KdEthbHJ3Q19uVlNMNnZZUnhOMTdvU0JmTHFpdzZtakVITXFBYjAza1Yyd1R4eDVmTXA0Uk5FWUJMVXFEcUZvekpWS3NpblZiUlFwRGVZWENzMWxWY01WRk9SQQ?oc=5",
+          "sources": [
             {
-              "source": "WSJ",
-              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMF9zWG9Bd3dIY3FRUl90dE5TNFI0bE9fZjl4VERCazM1TkhHTFNJN0tSRGx0c1ptdUV4RG0zN2NSSjk2RGJZN1d6R1dJV2VkZHJQdXpRTnltZzVfM091Q3ppUEJtVGhjQ0ItZFZWeXdycXo3eExqYXpaV3hjVVMtVXJ4U1ozdS1KS09Ra2VSM1dFYjU2Z1F2eE5aUkY4UVdLcnBoLXdQUFJzWWJZVUVR?oc=5"
+              "source": "Euronews.com",
+              "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWWtZT193eDlnanMxSDhzN0V1VVZHbHpCQzdMRHJXeGtIVXA1R0hXVHItLXpkZ1pueDN1WnVTWnhiczRyT0JvckpUTGFoWm5KdEthbHJ3Q19uVlNMNnZZUnhOMTdvU0JmTHFpdzZtakVITXFBYjAza1Yyd1R4eDVmTXA0Uk5FWUJMVXFEcUZvekpWS3NpblZiUlFwRGVZWENzMWxWY01WRk9SQQ?oc=5"
             }
           ]
         }
@@ -256,120 +264,136 @@
     "india": {
       "items": [
         {
-          "title": "Delhi air pollution 50 times WHO limit on Diwali night",
-          "feedTitle": "Air pollution over 50 times WHO limit in parts of Delhi as people defy ban on firecrackers on Deepavali",
-          "summary": "Air pollution in parts of Delhi reached levels over 50 times the WHO guideline during Diwali celebrations, with the overall air quality index remaining in the \"very poor\" category. Despite a government ban on firecrackers, many residents continued to burst fireworks, contributing to severe air quality degradation across the city.",
-          "source": "The Hindu",
-          "link": "https://www.thehindu.com/news/cities/Delhi/air-pollution-over-50-times-who-limit-in-parts-of-delhi-as-people-defy-ban-on-firecrackers-on-deepavali/article71681210.ece",
-          "sources": [
-            {
-              "source": "The Hindu",
-              "link": "https://www.thehindu.com/news/cities/Delhi/air-pollution-over-50-times-who-limit-in-parts-of-delhi-as-people-defy-ban-on-firecrackers-on-deepavali/article71681210.ece"
-            },
-            {
-              "source": "Hindustan Times",
-              "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOaDJSNmJjYVYxLU5aUGRqMF84N21NY2xlYzJOSFE3MFpxNUZIazJ4bG5LMG5IZEZJWUtxeXkwOEVWLW9mV0ZIeThPMW9JNEhVMHhYbDluRzcxdkRwTlp3Z2dYLWJJdUxXRFR6RFZQc0NWQzRvcnZIV1pjdERzZ3FGUHJ1aXluUThuWk5JaGxtMS1CRW5SSDdkZHM5cVdTLVd1LXNFRldPM0lwNW1yWU5SZnVxWW5UWWtwTC1UNzJYOUszdTlMdHY4dDdEaXd5Mi1pSld5Zkw2NnhoSjhGWnE2WGpwc0x3S2VGRTBvRjRtZXJNUkN0X3R3TW1EcWwxdFBk?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Major fire breaks out in Mumbai's Dongri area",
-          "feedTitle": "Major fire breaks out in Mumbai's Dongri, dousing ops on; one dead in November 7 highrise blaze",
-          "summary": "A Level-I fire erupted in Mumbai's Dongri neighborhood on November 7, claiming at least one life. The Mumbai Fire Brigade deployed multiple personnel alongside police and ambulance services for extensive dousing operations in the densely populated area.",
-          "source": "The Hindu",
-          "link": "https://www.thehindu.com/news/cities/mumbai/major-fire-breaks-out-in-mumbais-dongri-dousing-ops-on-one-dead-in-november-7-highrise-blaze/article71681271.ece",
-          "sources": [
-            {
-              "source": "The Hindu",
-              "link": "https://www.thehindu.com/news/cities/mumbai/major-fire-breaks-out-in-mumbais-dongri-dousing-ops-on-one-dead-in-november-7-highrise-blaze/article71681271.ece"
-            }
-          ]
-        },
-        {
-          "title": "Diwali 2026: Indians celebrate festival of lights nationwide",
-          "feedTitle": "Diwali 2026: Indians celebrate festival with lights and fireworks",
-          "summary": "Indians across the country celebrated Diwali with traditional prayers, lights, and fireworks marking one of the country's biggest Hindu festivals. Despite air quality concerns, millions participated in the festival, which fell on November 8 in 2026.",
-          "source": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfTXNJbGMtUmNiVlRHdWpoRE9WT0ZhWTV0Vm5WN0VhVHN1Z0ptaFJ1cFJsazFwNWk3VTg4MTJZYTZrajVkaUpHS3dFWWN2UG1oQXVrUGV5M3pfZVU?oc=5",
-          "sources": [
-            {
-              "source": "BBC",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfTXNJbGMtUmNiVlRHdWpoRE9WT0ZhWTV0Vm5WN0VhVHN1Z0ptaFJ1cFJsazFwNWk3VTg4MTJZYTZrajVkaUpHS3dFWWN2UG1oQXVrUGV5M3pfZVU?oc=5"
-            },
-            {
-              "source": "Hindustan Times",
-              "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOc0tGY2lleHFmSE9pelBMczd3dzZfdFZBR1RSTnZHZzdYbzUyZjMtMGpudnJZaHF2cUhMbGNJakJ6UEt3TVZpZ0g3RzJmREh6YkNoZTRZa3J2VXdTSFZFdVdlbXB2VV9mYnJiLVdpUll4ZW41c3JBRUpKcFlOSEx4dXRJUzlfSW1jOGZoeXRLTUU5TTA0Rk5tZHNZU2VDT0Ztb0pwamY0SENPeTFjaGp5RHhBM2RGSnE1OGRKUXROVmpzaDgyVGg3R2lpSjZBMDFPNzhZal8tcW5IMVNFWS1OeEpBV3hqTlcwVXFPVC1B0gHzAUFVX3lxTE02TGtRdUpZQkFVTTI4NUFLVzlsdTRham9yYVZaQm1NakNnWFZsSUpOQ1VLdmtxV1YzUFRycXlCV1gyZHZib0pXNmNCVUNTdGhTY2hiZjJBZmhxZkhyU1FqVjB1VDlJMDFycW1LTDRsUVdyTlJROU5HWlZVUW1wX3ZLWXNBNmtHZGtNSUlCaVR0N1dWSHRLVHE4STJwdGxKeEpXLVVqZXJvbDFLMnE3cnNrWWNPankwbEFDanJaUGpYRkdrNmctaFVMTWxnbGtTdW5vbGlMazNPUVZXUkRlWkdXZ1hKc0dWUU9GNXI2RkpWaEViNA?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "India's clean energy push saved $240 billion in fuel imports",
-          "feedTitle": "India's clean energy push cut its fuel import bill by $240 billion: IEA",
-          "summary": "According to the International Energy Agency, India's renewable energy investments have cut the nation's fuel import bill by approximately $240 billion. The achievement underscores India's progress toward clean energy targets while reducing dependence on fossil fuel imports.",
+          "title": "Delhi air pollution hits worst level in five years",
+          "feedTitle": "Delhi pollution on Diwali rockets to worst in 5 years",
+          "summary": "Air quality in New Delhi deteriorated to 'severe' levels on Diwali after residents defied the firecracker ban, contributing to thick smog. Pollution monitoring data showed PM2.5 levels well above WHO guidelines as celebrations and seasonal factors worsened conditions.",
           "source": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMjlDOFJ3T3FlUzUwdngzZXhWUzBHeWxnTUdsRjdiQ2VxNk5TeFlvMXlQTHlGSnEtZV9DaXlwTS1ubnRiUEhvLXczcVhBSG05LXlDNFpYb1ZfdTVaNHFKWnFHWTlfSmhhQ0JmS0h0am56WWFYMmktN3lKWnpjVVFPS2hrYUNsU2dvcl9YbHJRV1J1SHRxNmRoUXZIV1NpaTJmOFBoMVRfYXhLcTdiTncyWkVOSV9JWmpFQjZFRW9DMVNoOFEycl9jT3ItSUx5Y3RteVhNYzhRRGZtazNEZ2g1Sko5R195Vm1JcUE?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORE1iZlBlX3RxakRuZXNFaGE5azhEWnZZYngtaDE1MkY5RW1VYjFOTGVZTE1vQmZ5Mzd1QmhxQW11SVQtcjVYSFJFY2dWZVlXMzBrSU9KZ1QwMlM1QlE5bm9kUDBFRlp6RW45NHJrd29ScUdYc3Z2X3VSS0dCcGU0bnotMnNUNGgwS2VQWHhPV3pIMFdyemNQVVlGSzgtbzlFd0ZmZl9HZnNWZUZHWGRYSTBta1BsNTRwZlZjZUd30gHDAUFVX3lxTE51V2k1NVdSalpNa1F0SVNWZUxWNWx5NUE4ZGw0QjN1eVNsR0c3U3A2NDVFU2J2bG9jelFtVTBpVzNXbGlNbmdWQjZqdVJYQ2VmZFNmZTR3NTJRMEUwRS1BUHBNeVNTYjBidklZSS1UUlFfaVZJX3JveDhyYTdrYV84U3I5SnEwRW51dHNMMUxENTd3My12ODMydmRCOXI3SjlxcGlBdDRzQmFsb3lNT1ptLVgwbHJDYjVxZHZxeU5IVWl0MA?oc=5",
           "sources": [
             {
               "source": "The Times of India",
-              "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMjlDOFJ3T3FlUzUwdngzZXhWUzBHeWxnTUdsRjdiQ2VxNk5TeFlvMXlQTHlGSnEtZV9DaXlwTS1ubnRiUEhvLXczcVhBSG05LXlDNFpYb1ZfdTVaNHFKWnFHWTlfSmhhQ0JmS0h0am56WWFYMmktN3lKWnpjVVFPS2hrYUNsU2dvcl9YbHJRV1J1SHRxNmRoUXZIV1NpaTJmOFBoMVRfYXhLcTdiTncyWkVOSV9JWmpFQjZFRW9DMVNoOFEycl9jT3ItSUx5Y3RteVhNYzhRRGZtazNEZ2g1Sko5R195Vm1JcUE?oc=5"
+              "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORE1iZlBlX3RxakRuZXNFaGE5azhEWnZZYngtaDE1MkY5RW1VYjFOTGVZTE1vQmZ5Mzd1QmhxQW11SVQtcjVYSFJFY2dWZVlXMzBrSU9KZ1QwMlM1QlE5bm9kUDBFRlp6RW45NHJrd29ScUdYc3Z2X3VSS0dCcGU0bnotMnNUNGgwS2VQWHhPV3pIMFdyemNQVVlGSzgtbzlFd0ZmZl9HZnNWZUZHWGRYSTBta1BsNTRwZlZjZUd30gHDAUFVX3lxTE51V2k1NVdSalpNa1F0SVNWZUxWNWx5NUE4ZGw0QjN1eVNsR0c3U3A2NDVFU2J2bG9jelFtVTBpVzNXbGlNbmdWQjZqdVJYQ2VmZFNmZTR3NTJRMEUwRS1BUHBNeVNTYjBidklZSS1UUlFfaVZJX3JveDhyYTdrYV84U3I5SnEwRW51dHNMMUxENTd3My12ODMydmRCOXI3SjlxcGlBdDRzQmFsb3lNT1ptLVgwbHJDYjVxZHZxeU5IVWl0MA?oc=5"
+            },
+            {
+              "source": "Deutsche Welle",
+              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaUFQa3VOS0VmN0lJb3hUdjEzQVF4QURPYk1WY1A1NTBpeEhXN0JfZkZneTJ6WlJlWHhJdDhvOFZocmRyWUpsb1FXdjhoZi1UaE52SWJiakVZWXJyb3VyYnNrV1lTTGpEc0dGWUF4MVp4cVVHUE43YkxLeE56azVhZER0d05xamxkT0p5RWk5MV9qSGxZ?oc=5"
+            },
+            {
+              "source": "ANI News",
+              "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORnYxV0VoYzFkNk8waFh4bzJrdTZQSU5iTlpZaHJacnFld3F5RWpZTUNPbjR5Nllrc09EeVNOeW5ZQTN5Sm5wQ2xGR0pLeDBYTGhYdm81bHEtNUdnblpuS2NtdkVsLVczMHp2V2ZTQ1Y5N2NMV1hvbDJCZXREWnEzX2NvVF9LY3N6UDdqWGZPMzUyRXl6Y1FHdW9waHZoZzU5M0FDZ1hwOWtrd0R2VjRXOFFmdVVKd0Z3TlBrNmR2TUc3RHY1aXJuMk45Rm9yWEtMVVNaTDJ3NGRyeXlCV3Aw?oc=5"
             }
           ]
         },
         {
-          "title": "India evacuates 19 seafarers stranded in Yemen",
-          "feedTitle": "India evacuates 19 stranded seafarers from Yemen",
-          "summary": "India successfully evacuated 19 seafarers who were stranded in Yemen, according to the Embassy of India. The evacuation followed recent incidents involving Indian nationals aboard vessels in the region and reflected ongoing efforts to bring Indian citizens to safety from the conflict-affected area.",
-          "source": "The Hindu",
-          "link": "https://www.thehindu.com/news/national/indian-seafarers-stranded-in-yemen-evacuated/article71681203.ece",
+          "title": "PM Modi speaks with Zelenskyy on Ukraine peace efforts",
+          "feedTitle": "PM Modi, Zelensky Discuss Bilateral Ties, Peace Efforts In Russia War",
+          "summary": "Prime Minister Narendra Modi held talks with Ukrainian President Volodymyr Zelenskyy ahead of US-brokered Russia-Ukraine peace negotiations in Abu Dhabi. India offered to help establish a food corridor through the Black Sea to ease grain safety concerns.",
+          "source": "NDTV",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdXRqNG50bUlOR0RpWlhiT25RN09qUFVLR1R0Y2RaZ0xMN1R5UGVnSUhkRV9YY29nQVBzelJqRjJUOUpFRjgxSVNGbEV0X1Z3V3hQR01jLTZCLXhyTEVld1pRc25ueEdpRXFhN0hCYlJzM0JwLUt1d1h1bmJaeDYxaHpmVG5jLV90azA4LVg4dWJ6Rnh2XzhpbnJ6NGRvcWhuZENUR3U3V0NQOXFiTm56UDdaQktDYklIY3IwVFhZRXIxcG5ZMFdaOWxHUFAtTUhE0gHYAUFVX3lxTE16dWc3cFJOdl83V3RHREtjbks0UHlvV3BKaC02VHJOd3JNWVRkblExZUxOTnZaRW0xd2hvblFkUm9NUWpScUUtc2xHdkZReUw1WkhhNHVqN3g4RTlKcURaOXZfWTNIUmJpNUU0a2FoZ1JqeWd5Y3VSQ2lveGxfTzktTE9qS0ZVdl9yQnFjWXBxRERhVndGT0x5OVVQZHp0NEVNXzcxVmNYc21tSWFFLWxtbXdyTURNczJlMDNEU2V5WEF4UVNzWFpzWjR2NTUySVNGa0RhLWE5bg?oc=5",
           "sources": [
             {
-              "source": "The Hindu",
-              "link": "https://www.thehindu.com/news/national/indian-seafarers-stranded-in-yemen-evacuated/article71681203.ece"
+              "source": "NDTV",
+              "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdXRqNG50bUlOR0RpWlhiT25RN09qUFVLR1R0Y2RaZ0xMN1R5UGVnSUhkRV9YY29nQVBzelJqRjJUOUpFRjgxSVNGbEV0X1Z3V3hQR01jLTZCLXhyTEVld1pRc25ueEdpRXFhN0hCYlJzM0JwLUt1d1h1bmJaeDYxaHpmVG5jLV90azA4LVg4dWJ6Rnh2XzhpbnJ6NGRvcWhuZENUR3U3V0NQOXFiTm56UDdaQktDYklIY3IwVFhZRXIxcG5ZMFdaOWxHUFAtTUhE0gHYAUFVX3lxTE16dWc3cFJOdl83V3RHREtjbks0UHlvV3BKaC02VHJOd3JNWVRkblExZUxOTnZaRW0xd2hvblFkUm9NUWpScUUtc2xHdkZReUw1WkhhNHVqN3g4RTlKcURaOXZfWTNIUmJpNUU0a2FoZ1JqeWd5Y3VSQ2lveGxfTzktTE9qS0ZVdl9yQnFjWXBxRERhVndGT0x5OVVQZHp0NEVNXzcxVmNYc21tSWFFLWxtbXdyTURNczJlMDNEU2V5WEF4UVNzWFpzWjR2NTUySVNGa0RhLWE5bg?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Kiren Rijiju visits Saudi Arabia, signs Haj-2027 agreement; India’s pilgrim quota fixed at 1,75,025",
+          "feedTitle": "Kiren Rijiju visits Saudi Arabia, signs Haj-2027 agreement; India’s pilgrim quota fixed at 1,75,025",
+          "summary": "Summary unavailable for this update.",
+          "source": "DD India",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVGxyVmtub1NzYzJYZnk5eWxGX0lRS1hrMHk0b3ZxWG9fTnRLaGFfZzgzSDdTMy1EUXhFUE5XRHNzcEQxS2haTGNGekRIb2t6S1BJbk5KLW1OOWRuQXk5b25ZRUJJbWI4eG5vdFdtQTBBUDRxWVJRclpXTl9HV251MkZYM1FqV3BXald4QWdfUXhLV3J2MlRSWVQ2ZDdVRENoTzBURVVzcDM0djU1d2VmdEpuUFhzbW5QLWktX25uNlpucEk?oc=5",
+          "sources": [
+            {
+              "source": "DD India",
+              "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVGxyVmtub1NzYzJYZnk5eWxGX0lRS1hrMHk0b3ZxWG9fTnRLaGFfZzgzSDdTMy1EUXhFUE5XRHNzcEQxS2haTGNGekRIb2t6S1BJbk5KLW1OOWRuQXk5b25ZRUJJbWI4eG5vdFdtQTBBUDRxWVJRclpXTl9HV251MkZYM1FqV3BXald4QWdfUXhLV3J2MlRSWVQ2ZDdVRENoTzBURVVzcDM0djU1d2VmdEpuUFhzbW5QLWktX25uNlpucEk?oc=5"
             },
             {
-              "source": "News On AIR",
-              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53aXN5YXZ4WFptUmYyYWpDX1o0OFJrY05TM2t5RDdQRk9qTFRleGFBYS1pbXhKbFJ3V05EeGtsSTRWa3VBMGRZNVNCSGVTTEdMNWp0WGlSelhMVms0Z0d6RFBxZFhfbG5XdlEwYTRyd2tEd2luQnpveHFBVVprNVk?oc=5"
+              "source": "ANI News",
+              "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORnYxV0VoYzFkNk8waFh4bzJrdTZQSU5iTlpZaHJacnFld3F5RWpZTUNPbjR5Nllrc09EeVNOeW5ZQTN5Sm5wQ2xGR0pLeDBYTGhYdm81bHEtNUdnblpuS2NtdkVsLVczMHp2V2ZTQ1Y5N2NMV1hvbDJCZXREWnEzX2NvVF9LY3N6UDdqWGZPMzUyRXl6Y1FHdW9waHZoZzU5M0FDZ1hwOWtrd0R2VjRXOFFmdVVKd0Z3TlBrNmR2TUc3RHY1aXJuMk45Rm9yWEtMVVNaTDJ3NGRyeXlCV3Aw?oc=5"
+            },
+            {
+              "source": "Hindustan Times",
+              "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUUUtZ2ZtdUJrejBOSUNWRFFyaS12YVdiWXY4RlhRTWV2a19FNUdoTUtBOXoxSjdRNURTTXJQaXYwb2FKaDQ0NGQ5SzNzTl96MnNrQ3l5bWpZTlMyT21VcjlCMC0wQV9KU0NQaXJ5SE1sOE1LVzVnQy04Y3hsWDFvMHdCbENYYmw3R0k5X3FNZ1RFWVlsZ2F2c2NSRmlPcVY0YWlsUS15R3ZoblZNcWVrb3o5a3FSS2dTZGNraDl3WmVtdXBEU05ZbGg3MzlmM0IxRi1VekhHVEdIeG9TWWxsV3lSUE_SAeoBQVVfeXFMTUgzWTVicVAycHphWTNKVU5PNVpJQWZfQ3FGdlI4aGFTNndiWm5RcENYU2MxSnV4RlROdEthUkhlbnhvME1JS2lCM3BydV9meHdxNld5aFExQzVCY1M0OGtoX3lUbHNxeXhWcWdnTmpOeUFlNENnUXdocDZFR05LTmlyVS1YYjFjREk5M0hwYnVRQlZ2TmEyVVpaTWVUMEJvTzA0ZU5WZDFQbERXQkdWVUxEcDQycXdWcEd2bnJ3eVN1dXpodE95SHJZNWZnV3p1SGV5ZTJUR2tpZzZzUkt5cGZqdmY4YVpUVUVR?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Chinese vloggers falsely portray Dhaka slums as Delhi",
+          "feedTitle": "Chinese whispers in Dhaka: 1000s of vloggers film suburb, claim they’re in ‘dirty’ India. No one knows why",
+          "summary": "Thousands of Chinese vloggers have livestreamed from poor neighborhoods in Dhaka, Bangladesh, falsely claiming they were in Delhi to paint India negatively. A JNU professor accused the effort of seeking to damage India's reputation through coordinated misinformation.",
+          "source": "ThePrint",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeTB2eENyYUNReUYydERmbUdQeXlTZExfVlFXeWdYMHlrVS1GQTVrR0FfdXlPRlp5ZGN0UDduckc3eTRHYTJCTkNjdTlIdks1R2N2YzJvd2Z0eXE0Zkl5bmc1bHVwSVhaUmx5U3BxNm56U29fcXBxY0NkOUo5bnJ5alRxUFZRUFpZNUpVQVFBVzAzV1l4UUtzdEp3RVVOcmZ6VTRZS055T2hIU0JwUC02N1Z2RFJsc2x6Q1doT0kyQmxOaTJ5OVozOVoxcFRlT05Z0gHWAUFVX3lxTE5kZTU3cFRFeXZBS3M1UTd1cFJUT19FcWFOcWtjNW5YNEo3WFpqamY0Uk1talZqT3U1bGE2eVlITTU4NlU2LVFFcktTSDEyVHJheDliYk13bklWYVV6dHo1Q2tqaU96SWdtSzkyX05GaEpkRjhwR2dEX3lRaF9FN05ERUhMOU5fcXJZd3V4Sl9VdGJCNno2dlRUcHY1YkFmYVhuMUVROUJxV2hzM3FMbDZDOFpOT2ZaWjBmaFpjVEVJYTc5b2dwb3Vna2MteVdQRHFTdFJ6T2c?oc=5",
+          "sources": [
+            {
+              "source": "ThePrint",
+              "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeTB2eENyYUNReUYydERmbUdQeXlTZExfVlFXeWdYMHlrVS1GQTVrR0FfdXlPRlp5ZGN0UDduckc3eTRHYTJCTkNjdTlIdks1R2N2YzJvd2Z0eXE0Zkl5bmc1bHVwSVhaUmx5U3BxNm56U29fcXBxY0NkOUo5bnJ5alRxUFZRUFpZNUpVQVFBVzAzV1l4UUtzdEp3RVVOcmZ6VTRZS055T2hIU0JwUC02N1Z2RFJsc2x6Q1doT0kyQmxOaTJ5OVozOVoxcFRlT05Z0gHWAUFVX3lxTE5kZTU3cFRFeXZBS3M1UTd1cFJUT19FcWFOcWtjNW5YNEo3WFpqamY0Uk1talZqT3U1bGE2eVlITTU4NlU2LVFFcktTSDEyVHJheDliYk13bklWYVV6dHo1Q2tqaU96SWdtSzkyX05GaEpkRjhwR2dEX3lRaF9FN05ERUhMOU5fcXJZd3V4Sl9VdGJCNno2dlRUcHY1YkFmYVhuMUVROUJxV2hzM3FMbDZDOFpOT2ZaWjBmaFpjVEVJYTc5b2dwb3Vna2MteVdQRHFTdFJ6T2c?oc=5"
+            },
+            {
+              "source": "ANI News",
+              "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOc3IwWjRmbjJmVWV6TDJweFZwbkl3cUJQWHBGQ2pmQmx0ZDJXdXVlRU5nc295T2s5VkRQdFJnSGtyVDY3UUtNaERzT3V2bTdESncwWUYwWWVjN3VBQnl1MkJUemFMNkoxdUktamJWWWRtVTBxYWRVaGNodXNXUWpVLVlib253dDJPUEVXaFJrcGRGZllhTUc0dGFFZWk0SG1VdzRrVUdDei0ydFhjUWtYRzRvOXVGQ2VvQThWbVNYcjlWMENWazBUR3g0VG1JVkFMekxjWlg2NDdoNmtlY05kaE4zeVhMRzBBQ3c0S0ZuZzVWbTh0TkE?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Punjab records biggest single-day spike in farm fires",
+          "feedTitle": "1,152 farm fires on Diwali day reverse Punjab’s stubble-burning progress",
+          "summary": "Punjab reported 1,152 farm fires on Diwali, the season's largest single-day jump, reversing progress on stubble-burning reduction. The spike contributed to severe air pollution across northern India and renewed political accusations between ruling and opposition parties.",
+          "source": "The Indian Express",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOGVUUWpzeUp2NENkTFNEQmxod25GZXJDUU5heDVZV3BleUJaZmktRkZyaFR2QVBmZU5EUmttY0J1ZEU1NjNkS1l2ZjFqZWNrMHVFVWluUTBMSlYtRzhqc3VlRk9DTVFjR1F4MzNyUTY0MWpnQXhyYVZTS1kwYmQyblV5dm51Nk5TZ2d3SWJ2eVJteDNnSzJHQjhFdDlFMVpCdW5xRXVSc2Zxb08xVzBOR3dCSlBLX280eE1IdEE5MVAyWi1oczBV0gHOAUFVX3lxTE1QdUxCZGdMd2V0QXMxbDR3Zkl0b2dPZ0VrZmdkNmNrSVRXaHdTMkwwOUtEczZMY3BxY3F3SGZ4S3lBQUhsbjZybzhTSXpkbnkxeDFRc2ZWV2EtYmkzbWVocGlrMm5ZWk50bVZ2OGQwbVV1YjRGN0ZnSnNkWnhCQjVrU1ppa1dUWnBieXhWel9kc09rUEU4RDIwUFNwQ2ZWcy11ZHpXMW8tOFZLSXBJU3BsVmxWX2tKQWY0SXhuSnhVVjk3eGt4VlBWalpFNFBR?oc=5",
+          "sources": [
+            {
+              "source": "The Indian Express",
+              "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOGVUUWpzeUp2NENkTFNEQmxod25GZXJDUU5heDVZV3BleUJaZmktRkZyaFR2QVBmZU5EUmttY0J1ZEU1NjNkS1l2ZjFqZWNrMHVFVWluUTBMSlYtRzhqc3VlRk9DTVFjR1F4MzNyUTY0MWpnQXhyYVZTS1kwYmQyblV5dm51Nk5TZ2d3SWJ2eVJteDNnSzJHQjhFdDlFMVpCdW5xRXVSc2Zxb08xVzBOR3dCSlBLX280eE1IdEE5MVAyWi1oczBV0gHOAUFVX3lxTE1QdUxCZGdMd2V0QXMxbDR3Zkl0b2dPZ0VrZmdkNmNrSVRXaHdTMkwwOUtEczZMY3BxY3F3SGZ4S3lBQUhsbjZybzhTSXpkbnkxeDFRc2ZWV2EtYmkzbWVocGlrMm5ZWk50bVZ2OGQwbVV1YjRGN0ZnSnNkWnhCQjVrU1ppa1dUWnBieXhWel9kc09rUEU4RDIwUFNwQ2ZWcy11ZHpXMW8tOFZLSXBJU3BsVmxWX2tKQWY0SXhuSnhVVjk3eGt4VlBWalpFNFBR?oc=5"
             }
           ]
         }
       ],
       "immigration": [
         {
-          "title": "Trump admin updates USCIS I-129 form for work visa applications",
-          "feedTitle": "Trump administration updates USCIS form: Employers must use the new I-129 to apply for work visas starting in November",
-          "summary": "The Trump administration has finalized and implemented new I-129 form requirements that employers must use starting in November 2026 when applying for work visas. This represents a procedural change affecting H-1B and other employment-based visa categories, with compliance required for all new petitions filed after the effective date.",
-          "source": "El Cronista",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOR1RXWkxlRGNoTktjZmJpM3VURlZuRC1MZUg5TTgxS25NdV9jNDViNWdrVjRHWmlyNzRJdWNFdUM2TkkzNjBFbHhNQ1QxaXBJb2w1d2FzdjRESDZIT3J2cWZLTlBURnpXUmY3WTVqd1JTblpHdUM1Y19NSFg5VjZuZThUYkRaOVNPVG9tSUtmLUNHc2xIa3FTeHVyaHlrOXBEVGlKd0RrS1R2ZjdTT2pNRTFNQ2lDQjByVG1hR0lTZGFuOC12ck9LWDV0N0N2eFVsUUJLM3Q1bktCZ0lXb0NPeGgwRDhwTTFyZl9PdzFBWQ?oc=5",
-          "sources": [
-            {
-              "source": "El Cronista",
-              "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOR1RXWkxlRGNoTktjZmJpM3VURlZuRC1MZUg5TTgxS25NdV9jNDViNWdrVjRHWmlyNzRJdWNFdUM2TkkzNjBFbHhNQ1QxaXBJb2w1d2FzdjRESDZIT3J2cWZLTlBURnpXUmY3WTVqd1JTblpHdUM1Y19NSFg5VjZuZThUYkRaOVNPVG9tSUtmLUNHc2xIa3FTeHVyaHlrOXBEVGlKd0RrS1R2ZjdTT2pNRTFNQ2lDQjByVG1hR0lTZGFuOC12ck9LWDV0N0N2eFVsUUJLM3Q1bktCZ0lXb0NPeGgwRDhwTTFyZl9PdzFBWQ?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Stephen Miller elevation signals tighter immigration enforcement",
-          "feedTitle": "Stephen Miller Becomes White House Chief of Staff: What It Means for Legal Immigrants",
-          "summary": "Stephen Miller's promotion to White House Chief of Staff, proposed and not yet final in implementation details, signals the Trump administration's intent to pursue hardline immigration policies. Immigration advocates and Democratic lawmakers have expressed concern about tighter enforcement, visa restrictions, and potential changes to work permit programs under Miller's leadership.",
-          "source": "Reddy Neumann Brown PC",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaUIwMHA4N0FUSllsbk94NGdYSFp0enI4WjcxU21Sck9kVlFCV0dVNkt2RENneHlRZkQtS3owaXlHTHFBUklxSE10WlBMNkw0dXBRa2VpSnUzT2xDZ1dWWUVja0NHYnU0cUl5RFJGc2RVVFFCX3NoTHZieHV5OFhYWmNhSVBjbnpVR1A0ZU1BajRUdUdwaU4ybkpocHJBQk5uRmhSY3ZrTzVhUHlLaEtFQWtn?oc=5",
-          "sources": [
-            {
-              "source": "Reddy Neumann Brown PC",
-              "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaUIwMHA4N0FUSllsbk94NGdYSFp0enI4WjcxU21Sck9kVlFCV0dVNkt2RENneHlRZkQtS3owaXlHTHFBUklxSE10WlBMNkw0dXBRa2VpSnUzT2xDZ1dWWUVja0NHYnU0cUl5RFJGc2RVVFFCX3NoTHZieHV5OFhYWmNhSVBjbnpVR1A0ZU1BajRUdUdwaU4ybkpocHJBQk5uRmhSY3ZrTzVhUHlLaEtFQWtn?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Automatic work permit extension ending; renewals now required",
+          "title": "DHS ends automatic work permit extensions, finalized and in effect",
           "feedTitle": "Removal of Automatic Extensions for Certain Employment Authorization Documents",
-          "summary": "Finalized and in effect as of October 30, 2025: USCIS ended the automatic extension of employment authorization documents (EADs, Form I-766) for workers who timely filed renewal applications. Affected workers must now file affirmative renewal applications and cannot rely on automatic validity extensions during processing.",
+          "summary": "The Trump administration published an interim final rule on October 30, 2025, ending the automatic extension of employment authorization documents (Forms I-766, or EADs) for applicants with timely renewal filings. This policy change, now in effect, requires workers to apply affirmatively to renew rather than relying on automatic extensions of up to 540 days.",
           "source": "Federal Register",
           "link": "https://www.federalregister.gov/documents/2026/10/14/2026-20955/removal-of-automatic-extensions-for-certain-employment-authorization-documents",
           "sources": [
             {
               "source": "Federal Register",
               "link": "https://www.federalregister.gov/documents/2026/10/14/2026-20955/removal-of-automatic-extensions-for-certain-employment-authorization-documents"
+            },
+            {
+              "source": "El Cronista",
+              "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSVhnczRleGV0TkZlQ1BSemFQc3Z0ZG5GajlyNVRxeTFnQS1kcVpUYXFXd0RpZG1ob2dfay1pRjNNM2Z3M1kxN3ZTRUp1NU9nMWlDc04xdFAwTkxFSnVrRGtua2NaVUdnUVFwMnZDRDFjSjZCNG5BdkFHajk2S1V5SlRlLXVHdlRuVjliZENvX0ZHakozc25hN2xhcFVxNlRVR21CQjdrcVRxTTdHbW5lQWhxX0V1RGs0a1hZRGpsdTJhUlZVUTNIT1FlYXkyeUlMTDFySXdrWXJWamdzNXVUb2MybkVWTGZ5RjB3?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Stephen Miller promoted to White House Chief of Staff",
+          "feedTitle": "Stephen Miller Becomes White House Chief of Staff: What It Means for Legal Immigrants",
+          "summary": "Trump promoted hard-line immigration adviser Stephen Miller to Chief of Staff, replacing Susie Wiles. The move signals intensified focus on restrictive immigration policies and raises concerns among legal immigrant advocates about enforcement direction.",
+          "source": "Reddy Neumann Brown PC",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaUIwMHA4N0FUSllsbk94NGdYSFp0enI4WjcxU21Sck9kVlFCV0dVNkt2RENneHlRZkQtS3owaXlHTHFBUklxSE10WlBMNkw0dXBRa2VpSnUzT2xDZ1dWWUVja0NHYnU0cUl5RFJGc2RVVFFCX3NoTHZieHV5OFhYWmNhSVBjbnpVR1A0ZU1BajRUdUdwaU4ybkpocHJBQk5uRmhSY3ZrTzVhUHlLaEtFQWtn?oc=5",
+          "sources": [
+            {
+              "source": "Reddy Neumann Brown PC",
+              "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaUIwMHA4N0FUSllsbk94NGdYSFp0enI4WjcxU21Sck9kVlFCV0dVNkt2RENneHlRZkQtS3owaXlHTHFBUklxSE10WlBMNkw0dXBRa2VpSnUzT2xDZ1dWWUVja0NHYnU0cUl5RFJGc2RVVFFCX3NoTHZieHV5OFhYWmNhSVBjbnpVR1A0ZU1BajRUdUdwaU4ybkpocHJBQk5uRmhSY3ZrTzVhUHlLaEtFQWtn?oc=5"
+            },
+            {
+              "source": "Diya TV",
+              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV05Fa1NYS1VDX2tKOG5OYlc1SUY4dmRUdUFMQUVtQ3VSa3h4RC1JbkZ4c2tMM3VsMFZDamhxWlFYaS1nUmZhRmN2dGFFMk1vU28yczNjMk5VcHlXN1RqS0NlUzcyclh2YjFMc3V4cFVtZW9DZHU1ck1zVXVrUG5MVlRvdnhQSWNiQlJ2Njh2WC0?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "US plans largest mass visa revocation in history targeting 200,000",
+          "feedTitle": "US set for largest mass visa revocation in history targeting up to 200,000 foreigners, officials say",
+          "summary": "US officials say the government is preparing for the largest visa revocation in history, potentially targeting up to 200,000 foreign nationals who have violated their visa status. The proposed action represents a major escalation in immigration enforcement scope.",
+          "source": "AP News",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ0FQU2lNNmJpYkg3Z3hpVUdkQ3lWUXp0WFBtTUpFWmhmcWpoa2V1WmFpRXlTWEJod01kZUNtSUpLLUIteTh4WGpFN2pxV0hGcmFRSDNYZUNWSjhCRUhHcXl0OFZXNTI0Z2MtSlUzRTVyV051RHFGX180VGlvMl9LaGtOVnpWSEN1Tk9MUg?oc=5",
+          "sources": [
+            {
+              "source": "AP News",
+              "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ0FQU2lNNmJpYkg3Z3hpVUdkQ3lWUXp0WFBtTUpFWmhmcWpoa2V1WmFpRXlTWEJod01kZUNtSUpLLUIteTh4WGpFN2pxV0hGcmFRSDNYZUNWSjhCRUhHcXl0OFZXNTI0Z2MtSlUzRTVyV051RHFGX180VGlvMl9LaGtOVnpWSEN1Tk9MUg?oc=5"
             }
           ]
         }
@@ -378,95 +402,95 @@
     "finance": {
       "items": [
         {
-          "title": "Nvidia launches investigation into CEO Jensen Huang spying case",
-          "feedTitle": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Chinese Spy",
-          "summary": "Nvidia announced an independent board investigation into CEO Jensen Huang following reports he had an affair with a woman suspected by U.S. intelligence of spying for China. The disclosure weighed on tech sector sentiment, contributing to broader AI-related market volatility as investors reassess concentration risks in semiconductor leadership.",
-          "source": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaHdZZkpucG9aOVF5R2JPeHljWV85XzlhbUxnbUREYWlKQzBiR1UzeWxwaF9EMnpDajI1aXlmMlo0aENzeGdyRzJDSEtJR0xVanhFSkN3bXE0R1FYV2VWZHdIV1A1MmFlczN4VnRZcVZ5QV9xdUlxZXVlZVl3eHRqVWxsVmE1dktHZzdnelB0ZjUwejJj?oc=5",
+          "title": "Dow rallies 1,000 points, Nasdaq gains 2.5% on oil slide",
+          "feedTitle": "Stock Market Today, Nov. 9, 2026: Nvidia Slides Amid Alleged Chinese Spying as Dow Surges Over 1,000 Points",
+          "summary": "US stock markets surged Monday with the Dow jumping over 1,000 points and Nasdaq up 2.5% after oil prices fell to $97 amid speculation about potential Iran peace talks. The rally clawed back some of last week's tech losses, though Nvidia fell 6.5% amid the Chinese spy investigation.",
+          "source": "Eurasia Business News",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQV1YxM2NkT0hRWXM5amJzaVNTLXJPbkNEaTM1OGxLZVVvOEVJRVppczcxWDF6cmJDYm9mbU5DZnotUTFnUGs0amU1Tkw0ZGduNE1ZOU9CaE9PYTlnRHFHSVllTkRPYWhDMWZvZmRCOEZOSmYyaVlCRGtfSVpSQ1dYNUxsN1MtaDkxcTFydWpWZ2l3Qm55SVhvbGFCR3lhS2R3ZWlvN3BReTVzLWUxU3V6UEZfV2RmUTFLMktHSFZXRDZROXlWMXRVOUhrZnIwalphZ1djbjk2SmlGMElxdXdZ?oc=5",
           "sources": [
             {
-              "source": "The New York Times",
-              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaHdZZkpucG9aOVF5R2JPeHljWV85XzlhbUxnbUREYWlKQzBiR1UzeWxwaF9EMnpDajI1aXlmMlo0aENzeGdyRzJDSEtJR0xVanhFSkN3bXE0R1FYV2VWZHdIV1A1MmFlczN4VnRZcVZ5QV9xdUlxZXVlZVl3eHRqVWxsVmE1dktHZzdnelB0ZjUwejJj?oc=5"
+              "source": "Eurasia Business News",
+              "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQV1YxM2NkT0hRWXM5amJzaVNTLXJPbkNEaTM1OGxLZVVvOEVJRVppczcxWDF6cmJDYm9mbU5DZnotUTFnUGs0amU1Tkw0ZGduNE1ZOU9CaE9PYTlnRHFHSVllTkRPYWhDMWZvZmRCOEZOSmYyaVlCRGtfSVpSQ1dYNUxsN1MtaDkxcTFydWpWZ2l3Qm55SVhvbGFCR3lhS2R3ZWlvN3BReTVzLWUxU3V6UEZfV2RmUTFLMktHSFZXRDZROXlWMXRVOUhrZnIwalphZ1djbjk2SmlGMElxdXdZ?oc=5"
             },
             {
-              "source": "Bloomberg",
-              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR1JWME4tcFN3Vlh6UlhVeEN3c2FlRUFkUWRrczJ6OUZ1QWRkRndtMy1nZFhBaU5Lc0dzaXU2ZjJnNUtwN2RSa3dyLXlwUV9QanZmaC1Wb2xhbUVZekZhaXdXZkpSazFDVnJqZWIweWtvdGczQi0xTnB1aEhiSy00aVFsMWdYaE1sRkN3NlU2YmVJdzhv?oc=5"
+              "source": "KTVN",
+              "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPT2lpUElRVXBvV0o3eldmQUZtRFp5blZuZ3AySndXaWlDYmFWemx2QkNGalpDaEtLTUdyVi1mMFBDZWRlZEhMZU1fR25jOUx4SVNhVFBoT3l1eTlzT09tdnJWT19mcDBaeG5OWGlMUVN2WDdRX0gtTDdRTDVJZ1BUWW5JRlZhODhzWjY4VVZrcU96ajlPWVAyQmJxbU5FMGJZQUFEU1A3R2hhMFlmNXE0MGtBNXpMRDJkcmVDeEc1X2JSZDFSdXN5R3R2VzIzcFNSLUVwR0JRaXVnd0dLLWdjMlluSGJIUGkxblV6Uzhn?oc=5"
+            },
+            {
+              "source": "WSJ",
+              "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX0N4MG4xaFJUQjN1c2hSV2dIbjI3UlptZ3BDenpiYmFNdVkzOFVlSFcxSGJiSDY1bTBkckZnMldxaTBzaWxqWkRzaGlaTmtzVXI3MkRqM2NHeHhsZHJsVDNSQWdtRTA1cEM1OWNkYnlYeVZGRjBlZldWSklJVVIxN0NFQnhsbFF4dGRocHRSa1BuZXJaMmRLOFpCQ3A0RlY4cC0xbEVYU2gzeW0xTkhoSjRPSEx3cEV0?oc=5"
             }
           ]
         },
         {
-          "title": "Oil prices fall as Trump signals de-escalation with Iran",
-          "feedTitle": "Oil falls on open as Trump says fresh Iran attacks 'unlikely'",
-          "summary": "Oil futures declined after President Trump told media outlets that renewed attacks on Iran are \"highly unlikely\" if diplomacy progresses. The statement signaled a potential reduction in near-term geopolitical risk premium in energy markets, allowing crude to trim recent war-risk gains.",
-          "source": "Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWnV4VENDNkFNVllVVEpoVTJLcC13SlhHREstWFZZQ252QTRiU3dKeW5EYWYxVUJjNnQzVzh1M1FsWjNGTmRKMVFEYjhxT3M2VmF4aVpERWwwczh6dV9OTG5NcFJCMFVZZ0toWEEyMnRRTnBZUm9iQVVzblIzcmJMOTR4V29sUDFVME1jcFQ5VVhoMHVUM0YzWHM2bmE1b3VCV0s0R2JmUUQ?oc=5",
-          "sources": [
-            {
-              "source": "Reuters",
-              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWnV4VENDNkFNVllVVEpoVTJLcC13SlhHREstWFZZQ252QTRiU3dKeW5EYWYxVUJjNnQzVzh1M1FsWjNGTmRKMVFEYjhxT3M2VmF4aVpERWwwczh6dV9OTG5NcFJCMFVZZ0toWEEyMnRRTnBZUm9iQVVzblIzcmJMOTR4V29sUDFVME1jcFQ5VVhoMHVUM0YzWHM2bmE1b3VCV0s0R2JmUUQ?oc=5"
-            },
-            {
-              "source": "NDTV Profit",
-              "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOZTlmdUlkb2RuMGtkdHp4eUJETmlORjZtYm12anJ2UW1NLW01a1dhMDl0Y3gwdWtXelBkeFl0VlBXU1lLVVdVSkJELXNJeENXbFFCNWNyTGlBSlhTaUpxZldoVGROSUFOY0Z1eTRnRDU1cktWblBUdTlkOGdybkRIQzBuRjlPOFdDUzNaSFpWV2g2Y0tuREUyZElHYmdwMzhCcEpCMFZXdE9LbHNLTk1pT05FUmI5SlVHcEV1VDJZZFRhZVVyN01sQktGVXp3YlNIY2ZzZlhId1JxOVFrRHVHUXQ5TkpjRkRhWTZQX3l4cjh0dzgyQVdISFZRcFhMdw?oc=5"
-            },
-            {
-              "source": "Investor's Business Daily",
-              "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ0hGNFB0QTUyUUxKc2F4M2x6bVg4TERkVlF5ak9TbTAtTzN2U3IzaE1NNmFET1FJLUdsYnNvUWxaNm5iZHJtRmkyX0Fmb1dEanFlMGkyZzZSRDZhWHplTnRBVDRpOXlYZkRUNU51bVFWbEF6bnFwa1NOMEx6Nkt4UnhfYUtmQ1VFWlpyaVNCVm5peWhMYkRmeVhuaUc4QWZ2ckE0U1JUOXh4ZVl3dk1NTWlIT1dDZlhR?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Sensex and Nifty end Muhurat trading lower, first time since 2017",
-          "feedTitle": "For the first time since 2017, Sensex and Nifty end Muhurat trading in the red",
-          "summary": "For the first time in nine years, Indian stock indices Sensex and Nifty ended Diwali Muhurat trading in negative territory, breaking a traditional winning streak. The decline reflected profit-taking after a strong seven-day rally and cautious sentiment ahead of U.S. inflation data.",
-          "source": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVENMVjFfbUI0dHh2dUdPWmNuVUxOTzJ5UXFDUXRsbmQ2a3UzMHF6YUN4dDNfd1AzUWt1bnAwT2JRajhRM291Y201bUhIQ3VoaTQ5V296bDMwVnNEUWVtLV9RaGdxWXE1a1FPQkh2Z2R6X1p2Zi10b3RrYlpiQm5PSENWLU4zU25rNWtzanpueXhza0JVbm51ZVVPMGdOLTBTY295cGlqbjhfaFBZTVFfaGNDSXVscGlDSTlqZ29falJrNmZTWnhDQkFJVEEzMnh0eU9sMjIwRTJxTVNfT3I0VDVEU2pNYXZNRGoyRkpxSDJUZmZ4bXfSAfsBQVVfeXFMTTR2NlRGWjQ0U2N6V3lORmd0NWhIMDB4ekVBeHV0UEJNeTVXcWNLUGJ4NUZJZzZoQ090dmlYZHNTeE9ITUtfZmNydmE1blpxdjk0U1FqaEo4RFJKXzc4NnV6YW42OUdiNmNLY1ppX0JzeTlVaUF0Tjh6Yk96Y0RZd0c4RTJFcjB3cnJUaFJFeU10NkFOSUN3d2tYRnM2ZFZRMUNJV09JVEpiYV9xWnlfdHNfam1Vb1ZuMUxmMzNBa3hKWFlmeksyb3hpSXlqNFBwZHVLVWVUV3ZIUVlWZ3h1OUFfdGM4WFlxcG1SNE42UnNXLTFVNkxsSFB3NGs?oc=5",
-          "sources": [
-            {
-              "source": "The Times of India",
-              "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVENMVjFfbUI0dHh2dUdPWmNuVUxOTzJ5UXFDUXRsbmQ2a3UzMHF6YUN4dDNfd1AzUWt1bnAwT2JRajhRM291Y201bUhIQ3VoaTQ5V296bDMwVnNEUWVtLV9RaGdxWXE1a1FPQkh2Z2R6X1p2Zi10b3RrYlpiQm5PSENWLU4zU25rNWtzanpueXhza0JVbm51ZVVPMGdOLTBTY295cGlqbjhfaFBZTVFfaGNDSXVscGlDSTlqZ29falJrNmZTWnhDQkFJVEEzMnh0eU9sMjIwRTJxTVNfT3I0VDVEU2pNYXZNRGoyRkpxSDJUZmZ4bXfSAfsBQVVfeXFMTTR2NlRGWjQ0U2N6V3lORmd0NWhIMDB4ekVBeHV0UEJNeTVXcWNLUGJ4NUZJZzZoQ090dmlYZHNTeE9ITUtfZmNydmE1blpxdjk0U1FqaEo4RFJKXzc4NnV6YW42OUdiNmNLY1ppX0JzeTlVaUF0Tjh6Yk96Y0RZd0c4RTJFcjB3cnJUaFJFeU10NkFOSUN3d2tYRnM2ZFZRMUNJV09JVEpiYV9xWnlfdHNfam1Vb1ZuMUxmMzNBa3hKWFlmeksyb3hpSXlqNFBwZHVLVWVUV3ZIUVlWZ3h1OUFfdGM4WFlxcG1SNE42UnNXLTFVNkxsSFB3NGs?oc=5"
-            },
-            {
-              "source": "The Economic Times",
-              "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxON1VLR09iN0xyZ2x3bmpmS3hPbEx3c05JYnF5VXJyRVhJQUlDcm1XVk80S0VjbW1hNVhCM01LTU9KNVRUQUhwN2lPRnRrbjN5a24yTUFYS2VmUThpZThqdU1XbTk0NXFUMkpmWUpKVS1OTVJaMTlvM3dlaVB4VWNXRTA2Qi12UVdiblRuZm5KeDZDOWhKVHM0VENGaVVyZl9kVU5XZVdYZnlvLVByRHhGOEhtVmFRaS14eXJ0NUdoUklzRE4tOWp0SEhCVV9GOVXSAdQBQVVfeXFMTi1PYmd4bnVyLTlxeEl4cW50MXVaaFdyNHExUWtVSXM4Y1FPTlBPOXQ5bERVWnFYckRzU3hqbUI2emlMTERIUVk5SXpQZWZ0Qy1aUThVcFFuRHlrTm9faG0za3o1Snh0MlctejJOdklfb1JrbWI2dmhyNFQyT2pSNU5RaVE4VWE5Y1ZHNUJmSVV4UDFOQkpXQXZkWDhMUXo3SVA2Yk03MElKcW5uWWRNSlN4ZUQ0S3VfMzlkTlBCOXc4dVhkeHhWaHB5WDVnRUkwb3lZOGU?oc=5"
-            },
-            {
-              "source": "The Indian Express",
-              "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORUFpS1hyRUd0clhzQkVUZmZJS0ZpWXV5VlIzbGpuNVJjeEdNTmtFUldPZmtFN0hOcjBWc1paLVVmRDk1T0RuRnN3WEs4QUNUVlhtdWRKY1kyOTE4M1Z6dW9LOGtBNVFNQUF4VWlZekJ2bTFLdTd1UlRxUmNYaGdXS2hGekRhNFpGMVFOdTFYLWJpNFZHSkthZTE0eFJzZ040Q294am91TU5OVWttX3RpdzJXdU9lQ1lOQnhBLUhKNFBfSnBDekhlMzVLa3VvRmdOV0HSAdgBQVVfeXFMTUNJSmRyS2xPX2p0NG5VbmoyWTFkbFUxRWFSMUNkZjdQbGZyVmVDd1V3d0NPbmNlQTQ5QnZqWExXQnl5aDdRQWVVZUZ6SzcyT1lzVHIzalFyMEZVRjFBbFRHVWhFV2UtSXJjOGdKUHZXamwzTkE5RThoZlctVngya1pjZG5UeE8tYzFlS1lfeDJlcnBKZkFldXJXZmh2NkU2R3AyWmxXMXJzeFdWcHlSVFVYMTgyZUF0MjRnemVwd0kxRzN2RFlxazRLcjU3LXRpLUQ1ZGlja3lZ?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "FTSE MIB Weekly Review: FTSE MIB Rises 1.12% to 50,052.95 Despite a Friday Bank Sell-Off",
-          "feedTitle": "FTSE MIB Weekly Review: FTSE MIB Rises 1.12% to 50,052.95 Despite a Friday Bank Sell-Off",
+          "title": "ICE to Launch Wind Futures in Expansion of Global Energy Markets",
+          "feedTitle": "ICE to Launch Wind Futures in Expansion of Global Energy Markets",
           "summary": "Summary unavailable for this update.",
-          "source": "The Guardian",
-          "link": "https://www.theguardian.com/business/2026/nov/06/us-job-growth-october",
+          "source": "01net",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTTN4M1pEbG1veGVpX2NnZU15UUJmT2Y5NFJmM1hGWTJ6aGdsaEh0T0xtSk9xaFdBcndVWVd4SVAxeEhsOGpIME1rQ0s1SFhQYVVoeU1YQ3dXSWhTX25MUV9OUEhqR3Yxczh2aXB0Qkxob2N3Y0tHbEVGRzhFWGJXRjZVcGVXQVVVSUhnZGJmUQ?oc=5",
           "sources": [
             {
-              "source": "The Guardian",
-              "link": "https://www.theguardian.com/business/2026/nov/06/us-job-growth-october"
+              "source": "01net",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTTN4M1pEbG1veGVpX2NnZU15UUJmT2Y5NFJmM1hGWTJ6aGdsaEh0T0xtSk9xaFdBcndVWVd4SVAxeEhsOGpIME1rQ0s1SFhQYVVoeU1YQ3dXSWhTX25MUV9OUEhqR3Yxczh2aXB0Qkxob2N3Y0tHbEVGRzhFWGJXRjZVcGVXQVVVSUhnZGJmUQ?oc=5"
             },
             {
-              "source": "BBN Times",
-              "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOG9YV1RET0xMWGNCU0VYdUh0UlZpdk1KWERhcUFicU1DX042WFBYTTVKcHFBLXJNaDBDRXdqZFl0WGEyZFk5NDBabUdyR2xDcTJ2SkJnb3dWRUM3eERRVFAwb1RuU2RITXNvNHJWT2VMUVVBYUxiWmVPNGJUcHU5YnBFZ3lYLVJfQmdsdnN3bGxNeUMtcmtORFpFWHB1eko0Ukt5X2FfNTR4QVdrWkdjLTRPRFBZeDhwR3l5UzBB?oc=5"
+              "source": "Eurasia Business News",
+              "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQV1YxM2NkT0hRWXM5amJzaVNTLXJPbkNEaTM1OGxLZVVvOEVJRVppczcxWDF6cmJDYm9mbU5DZnotUTFnUGs0amU1Tkw0ZGduNE1ZOU9CaE9PYTlnRHFHSVllTkRPYWhDMWZvZmRCOEZOSmYyaVlCRGtfSVpSQ1dYNUxsN1MtaDkxcTFydWpWZ2l3Qm55SVhvbGFCR3lhS2R3ZWlvN3BReTVzLWUxU3V6UEZfV2RmUTFLMktHSFZXRDZROXlWMXRVOUhrZnIwalphZ1djbjk2SmlGMElxdXdZ?oc=5"
             },
             {
-              "source": "TradingKey",
-              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONjZ5NUVyRjVEZ1l2dlZlbGYxNmFRWW9qdmVBTkdKVER5Rjl0QWV0cXdvSUFLWTAydzhWU0JjZU5PWi1MMksxcVM4ZGlWX05zUHJUZWZ3dUNMSXhaOFhKY3hMd3dxMnNxOVp6SF9GVGNEYzJIbk9BZ1RvZmNsNlRTR3NoUlB5U2NxenYyd1BJeDI0Zm1BUUNPQ3JHcS1wQXZ1SUhydkVQX2VCa24wM05hSDc5R1o?oc=5"
+              "source": "Multibagg AI",
+              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM0lwWVZJU3VoR0NGSkt4UUN2MXVoZVhtb3NrazFmdEx2M1ZLSkJ2dXBZLUJGbFBmdkNoM3kwY0p5X3A0UF9DRlJ1emV6VVRySFVzbUtDNmZvQjRxU2FTYWloTlNrdzRLRkhGSG11REVmUlhyOGNmX25UdThHMEptQkhxbHM2UXk4TnV1ZmZkY29JWjVlZFFqd3RCZ19ZTGZKRUp5N1BDVUM?oc=5"
             }
           ]
         },
         {
-          "title": "Tesla to wind down Cybertruck production, focus on robotaxi",
-          "feedTitle": "Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI",
-          "summary": "Elon Musk announced Tesla will discontinue Cybertruck production to free up factory capacity in Texas for Cybercab, the company's autonomous vehicle platform. The decision marks an exit from the traditional pickup truck segment and a refocus on autonomous robotaxi development.",
+          "title": "Nifty 50 reclaims 25,000 as PSU banks rally on crude decline",
+          "feedTitle": "Sensex gains 107 points, Nifty reclaims 25,000 amid easing oil prices & buying in bank stocks",
+          "summary": "Indian benchmark Nifty 50 gained 8.58% to close above 25,000 levels, with PSU bank stocks surging 3.7% as crude oil prices declined and foreign investor inflows strengthened. The index hit an 8-month high despite IT stocks dragging on global AI concerns.",
+          "source": "MillenniumPost",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOU2lGSk1JZVBweG1sd0NJdXZqR29EbkpRSG94VjlIeGd4WDZJWFJWdTUtMXEtMURQWkZaUEREalFFOENNOE00Tlk3MXp2ZW1zbVFGcjVLTVF2dmxXdUlHazZaZnhfbzdYQnF5QXZIbE84Rnk4QXQ5NnFPd1ZqajYxTE9HSkJ1VEpBcFQ2YkhNTFFKSVg2MjRvV2FIcm8wdmI5Y0p6UUh1UnJtTUprZTZEU1N5WmVqRFpDeTVBQmpwbjgxUm9vTFE2V2hNYWVOR1Bi0gHWAUFVX3lxTE1aSEtvOXlsT3Y4NUsyYTltSHVsM2g5ZzFDVG1yRExWQ3Qyb3NuUUg2UjJiSnB4cVlldHlMV28yc2ZTOXNZbDZoN0M0THpDbDNPWllLT254TktXc2ZpX1lMNmlFT2h0cmRTbDNXUFBhTWxscEE0azNXWW0yQUdlMDFhaG95eVpiNk5Db3NfaGhCandMLTdmTFJ5VjRVSUxuRkhOOWJENGVQSFlYYXMxQUpESUo1MUM4dFNzeHJRZ2FKV1BuZGNWUzhFWE5YNnNMeVhBYXdfRVE?oc=5",
+          "sources": [
+            {
+              "source": "MillenniumPost",
+              "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOU2lGSk1JZVBweG1sd0NJdXZqR29EbkpRSG94VjlIeGd4WDZJWFJWdTUtMXEtMURQWkZaUEREalFFOENNOE00Tlk3MXp2ZW1zbVFGcjVLTVF2dmxXdUlHazZaZnhfbzdYQnF5QXZIbE84Rnk4QXQ5NnFPd1ZqajYxTE9HSkJ1VEpBcFQ2YkhNTFFKSVg2MjRvV2FIcm8wdmI5Y0p6UUh1UnJtTUprZTZEU1N5WmVqRFpDeTVBQmpwbjgxUm9vTFE2V2hNYWVOR1Bi0gHWAUFVX3lxTE1aSEtvOXlsT3Y4NUsyYTltSHVsM2g5ZzFDVG1yRExWQ3Qyb3NuUUg2UjJiSnB4cVlldHlMV28yc2ZTOXNZbDZoN0M0THpDbDNPWllLT254TktXc2ZpX1lMNmlFT2h0cmRTbDNXUFBhTWxscEE0azNXWW0yQUdlMDFhaG95eVpiNk5Db3NfaGhCandMLTdmTFJ5VjRVSUxuRkhOOWJENGVQSFlYYXMxQUpESUo1MUM4dFNzeHJRZ2FKV1BuZGNWUzhFWE5YNnNMeVhBYXdfRVE?oc=5"
+            },
+            {
+              "source": "Equitymaster",
+              "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOT1BaVnBPalZlRWV1UXhGVXhfbzRtVmRjMFNzUko4RDYyX3JYUEdqeGJETnc1MFc3VXo4VzVyS2M0bDVucjFJUTVCZDAtN0k2VDQ4V1JDTFJERnRzLWotbTEzYWNIYVowS0FHajU1UEZ5VXJOT1ZMbjR3VDdzVHJpUG1iaTJCZFItSEdEdFNDWW9ycDI0ei01QVNLU2RQNHBlcTBoUDVWSWRZMFg5V1JqRUR3RldsSi1JY0l3MlNoVWM2Y0oyd1BWLUtoaW9vcEV5?oc=5"
+            },
+            {
+              "source": "INDIA New England News",
+              "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMmNUQ1l0RW1zWEx3QTgwMUZlYS03SUpSMFIyTUdsaUJWb1RxaktDQnVFZF9pN29EVFY2bFh0OWV4MHJCbW5pU25TV20xdXNjVWJsYnloc2NQS1RWNXBwTDBHWktjakNJZDQxR1loa3oydk5aN1RHYTNvUjFjYlZCY2tJV1dNellTVEVlZTA1UlhiLUxVUVFwblBNaXRyaHJDYVl4Sg?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Boeing to cut 5% of commercial airplane workforce",
+          "feedTitle": "Boeing to cut about 5% of its commercial plane workforce",
+          "summary": "Boeing announced it will reduce approximately 5% of its commercial airplane workers through layoffs and attrition as the company moderates the pace of ramping up jet production. The company will begin issuing notices in December.",
           "source": "The Guardian",
-          "link": "https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai",
+          "link": "https://www.theguardian.com/business/2026/nov/09/boeing-to-cut-commercial-plane-workforce",
           "sources": [
             {
               "source": "The Guardian",
-              "link": "https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai"
+              "link": "https://www.theguardian.com/business/2026/nov/09/boeing-to-cut-commercial-plane-workforce"
+            },
+            {
+              "source": "The Seattle Times",
+              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOGM0bEkzbG9oUUpaRTZ6bTlBVmdfXzFuTFh2ZmZnSThOY2dZSVlJa0lqM09SZ3JNckVpdVJQY2FsUGYwcThhODNMcC1faDI0YlZtaXBkUHJ4QkowSDUzUUEtb3VLYWFIWFNCblNlYWVmLUJpNDQtNmZKcHd5d1FCM1BEZEdkMk83U1ZRU09jX2Y5SlI3d0s0WWxVczhTeTgzbGtLa01XTXczTmt1SHRj?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Honda to invest $3 billion in new Ohio vehicle plant",
+          "feedTitle": "Honda to invest $3 billion in new vehicle assembly plant in Ohio",
+          "summary": "Honda announced a $3 billion investment to build a new vehicle assembly plant in central Ohio focused on hybrid vehicle production. The move expands Honda's US manufacturing footprint and green energy commitments.",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT1UxU0FxYmJ6WnFEeEIxYzNvTG8zVjg0eUxNV09EMFk2b3VZeGdWbnF5UnpOaGNieW9tMmhPeDdIOFFPOWRhM2xTYVB6N0JWZGVhaU1OUjVuLXVnY0dJbmlXZWRSeTdhUUotbXV2LWRVV041MUNFbjlOODFob3hjLTdKTmxsRXYzN1pFZjY3b2xXSi00aFZyZUdrUkF3Z1VJNFE?oc=5",
+          "sources": [
+            {
+              "source": "CNBC",
+              "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT1UxU0FxYmJ6WnFEeEIxYzNvTG8zVjg0eUxNV09EMFk2b3VZeGdWbnF5UnpOaGNieW9tMmhPeDdIOFFPOWRhM2xTYVB6N0JWZGVhaU1OUjVuLXVnY0dJbmlXZWRSeTdhUUotbXV2LWRVV041MUNFbjlOODFob3hjLTdKTmxsRXYzN1pFZjY3b2xXSi00aFZyZUdrUkF3Z1VJNFE?oc=5"
             }
           ]
         }
@@ -475,156 +499,172 @@
         {
           "symbol": "SPY",
           "name": "S&P 500 · SPY",
-          "price": 735.29,
-          "changePct": 0.31
+          "price": 752.64,
+          "changePct": 2.36
         },
         {
           "symbol": "QQQ",
           "name": "Nasdaq · QQQ",
-          "price": 656.1,
-          "changePct": 1.4
+          "price": 679.35,
+          "changePct": 3.54
         },
         {
           "symbol": "DIA",
           "name": "Dow · DIA",
-          "price": 512.22,
-          "changePct": -0.4
+          "price": 523.36,
+          "changePct": 2.17
         },
         {
           "symbol": "INDA",
           "name": "India · INDA",
-          "price": 50.89,
-          "changePct": 1.74
+          "price": 51.42,
+          "changePct": 1.03
         },
         {
           "symbol": "EWJ",
           "name": "Japan · EWJ",
-          "price": 88.26,
-          "changePct": 0
+          "price": 91.49,
+          "changePct": 3.66
         },
         {
           "symbol": "EWU",
           "name": "UK · EWU",
-          "price": 47.22,
-          "changePct": -1.4
+          "price": 48.33,
+          "changePct": 2.35
         },
         {
           "symbol": "EWH",
           "name": "Hong Kong · EWH",
-          "price": 23.32,
-          "changePct": 0.47
+          "price": 23.4,
+          "changePct": 0.32
         },
         {
           "symbol": "VT",
           "name": "World · VT",
-          "price": 151.73,
-          "changePct": 0.23
+          "price": 155.65,
+          "changePct": 2.58
         },
         {
           "symbol": "BZ=F",
           "name": "Brent crude · BZ=F",
-          "price": 97.36,
-          "changePct": -0.98
+          "price": 92.88,
+          "changePct": -5.53
         }
       ],
-      "note": "Oil prices dipped after Trump signaled reduced likelihood of new Iran strikes if diplomacy progresses, easing near-term conflict premium. U.S. stocks rebounded modestly on stronger-than-expected October jobs data (165,000 payrolls), though sentiment remained fragile amid Nvidia CEO investigation and concerns that Democratic midterm wins could slow AI infrastructure spending. Indian markets snapped a seven-day winning streak, with Sensex and Nifty ending Diwali Muhurat trading in red for the first time since 2017—watch this week for U.S. inflation data, any further geopolitical escalation, and Anthropic's IPO roadshow."
+      "note": "Oil prices fell to $97 on speculation about Iran peace talks, lifting broader equity markets; the S&P 500 and Nasdaq rallied 1%+ and 2.5% respectively, though Nvidia slumped 6.5% on CEO investigation headlines. India's Nifty reclaimed 25,000 on foreign inflows and PSU strength. Watch: October CPI data for inflation signals and December Fed rate expectations; Anthropic's IPO pricing Tuesday; any Russia-Ukraine peace negotiation updates from Abu Dhabi talks."
     }
   },
   "micro": {
     "theme": "stoic philosophy",
     "cards": [
       {
-        "title": "Control and Acceptance",
-        "insight": "The Stoics distinguished between what lies within our control (our judgments, desires, aversions) and what does not (external events, market swings, others' opinions). Markets fall and rise; your portfolio's future is partly yours to shape through discipline and partly contingent on forces beyond you.",
-        "takeaway": "Today, identify one financial worry outside your control (geopolitics, rate decisions) and consciously redirect effort to what you can govern—your spending, learning, and strategic positioning."
+        "title": "What lies within your control",
+        "insight": "A stoic recognizes that outcomes—whether elections, market movements, or others' judgments—often escape our grasp. Only your effort, choices, and responses remain under your command. Fixating on what you cannot change drains energy from what you can shape.",
+        "takeaway": "Today, identify one uncontrollable worry and redirect mental energy toward a decision or action within your power."
       },
       {
-        "title": "Virtue as the Highest Good",
-        "insight": "Stoics held that virtue—wisdom, courage, justice, temperance—is the only true good. Wealth, status, and market gains are indifferents; they are neither good nor bad in themselves. A person of integrity who loses money honestly is more fortunate than a wealthy cheat.",
-        "takeaway": "When tempted by a risky shortcut to returns, ask: Does this compromise my integrity? Stoic wealth-building prioritizes character and long-term trustworthiness over quick wins."
+        "title": "Indifference to fortune's turns",
+        "insight": "Wealth, status, and technological dominance are 'preferred indifferents'—useful but not the source of a well-lived life. A CEO embroiled in scandal and a worker facing layoffs both benefit from accepting circumstance and maintaining their character intact.",
+        "takeaway": "Before reacting to news—good or bad—ask: does this change who I choose to be, or only what I temporarily possess?"
       },
       {
-        "title": "The Dichotomy of Desire",
-        "insight": "Seneca taught that we should examine whether our desires are natural (shelter, modest food) or vain (luxury, fame). Unnecessary craving leads to anxiety and poor decisions. The contentment of living simply on less is itself a kind of freedom.",
-        "takeaway": "Audit your spending this month: What do you buy out of genuine need versus social pressure or fear of missing out? Reduce the latter and notice the calm that follows."
+        "title": "The discipline of assent",
+        "insight": "Events happen. Your job is not to prevent them, but to choose your judgment about them. A natural disaster, a betrayal, a policy shift—none require your emotional turbulence unless you assent to the narrative that you are harmed.",
+        "takeaway": "When facing setback, pause and separate fact from the story you're telling yourself about it."
       },
       {
-        "title": "Amor Fati: Love of Fate",
-        "insight": "Rather than resisting what has happened—a market crash, a job loss—Stoics cultivated the stance of accepting reality fully and finding meaning within it. This is not resignation but fierce engagement with what is.",
-        "takeaway": "Reframe today's setback or loss: What skill, resilience, or clarity does this difficulty teach you? Channel frustration into learning and adaptation."
+        "title": "Virtue as the only true good",
+        "insight": "In times of flux—political upheaval, corporate scandal, mass layoffs—stoicism anchors you to what cannot be taken: integrity, wisdom, courage, and justice. These outlast any headline.",
+        "takeaway": "Ask yourself: in this situation, what virtue am I being called to practice, regardless of the outcome?"
       }
     ],
     "ai": [
       {
-        "title": "OpenAI raises $11 billion at $1.25 trillion valuation",
-        "feedTitle": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-        "summary": "OpenAI has reportedly raised an additional $11 billion in a funding round expected to close in coming weeks, valuing the company at $1.25 trillion. The funding underscores continued investor confidence in the AI leader despite recent market volatility and heightened regulatory scrutiny.",
+        "title": "Anthropic releases Claude Fable, Mythos models ahead of IPO",
+        "feedTitle": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+        "summary": "Anthropic unveiled new frontier AI models—Claude Fable 5.2 and Claude Mythos—with improvements in coding, reasoning, and vision capabilities, priced 20% below OpenAI's competitive offerings. The launch comes days before Anthropic's highly anticipated IPO, positioning the company as a strong challenger to OpenAI.",
         "source": "TechCrunch",
-        "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+        "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
         "sources": [
           {
             "source": "TechCrunch",
-            "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
-          }
-        ]
-      },
-      {
-        "title": "Nvidia board investigates CEO over foreign intelligence concerns",
-        "feedTitle": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-        "summary": "Nvidia's board announced an independent investigation into CEO Jensen Huang after reports that he had an intimate relationship with a woman U.S. intelligence officials believe was spying for China. Huang confirmed the affair in a company memo, raising questions about foreign espionage risks in semiconductor leadership.",
-        "source": "TechCrunch",
-        "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
-        "sources": [
-          {
-            "source": "TechCrunch",
-            "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
+            "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/"
           },
           {
-            "source": "Tom's Hardware",
-            "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxONjlUN25OeGR5Y3ZBZGFzYU5ZR3ExemVBSENRSzRwcUdDUXlIV3JTZEZUcHpMaGZtaktka3p1WUQxNGU3WTZmV1VuS3R3RUFyWW8xZGRhaTZxQTB5N2F1VnRPS1ljSHJrQl9QeWRzVjhuckZrMTlLQm91YjI5S2ZPb1E1TTl3ZzNGbHFrX091ODBjVWlSNkphb3dmMHZrRDRLRGxmZXlQNEQ2RDJjUVVXQlJjVGVNOW90cVpWZHhhNTB2azJKLXdtRFdjdENrSVB3Sk8xcXRBTUM3V3B2WEcxY2M4clZZRlV2T2ljVlhtY0NNWkVCR0prbGR0NmpCUTRrZGw1Smx4eWhDUEJya3ozR1p4b2Y4bjN6MThQTGNUYjdPY25qUE5ubUNrSjQ1TDhseXpMSjluVEZ2Vkc0NjdWcnBVUGFZQnVxVXpzMlhhbExNOVc2SDFXV0VEeDJ0LTQwOWdBQXBYcHFqMUE?oc=5"
-          }
-        ]
-      },
-      {
-        "title": "After the midterms, is the AI industry in for a rough two years?",
-        "feedTitle": "After the midterms, is the AI industry in for a rough two years?",
-        "summary": "Summary unavailable for this update.",
-        "source": "TechCrunch",
-        "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
-        "sources": [
-          {
-            "source": "TechCrunch",
-            "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/"
-          }
-        ]
-      },
-      {
-        "title": "OpenAI says GPT-6 Cyber found 81 Firefox flaws, and Mozilla has started shipping fixes",
-        "feedTitle": "OpenAI says GPT-6 Cyber found 81 Firefox flaws, and Mozilla has started shipping fixes",
-        "summary": "Summary unavailable for this update.",
-        "source": "MIXED News",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SRWFTaFZsYnJTNzdfRzY4Njg5UmxhNGszTHpJRy1oWWp6eWZPb3d4a3VldFhjc1dzQUdjSGQxdWw4bVcyM21sVDlwYW5feHdVWVl0cVQ4SkdTdWlxRE9MVVR2QU83bVpqdDdPYUZXLWw0VXVFNmFma2VZZHJ3YkE?oc=5",
-        "sources": [
-          {
-            "source": "MIXED News",
-            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SRWFTaFZsYnJTNzdfRzY4Njg5UmxhNGszTHpJRy1oWWp6eWZPb3d4a3VldFhjc1dzQUdjSGQxdWw4bVcyM21sVDlwYW5feHdVWVl0cVQ4SkdTdWlxRE9MVVR2QU83bVpqdDdPYUZXLWw0VXVFNmFma2VZZHJ3YkE?oc=5"
+            "source": "Fortune",
+            "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZXh5WWJvWmxMbkZBakNhNWhkR3R2YnFvS2Uwc3JuOFlPOGh0aU1mbWZXZEJJU0xuRDZ2TW1nLXdyMWxnWllFcnRnRGlHWDJBdWUxdHJaR1NIZDc5Y0djdEliTUhGTDlxazlFbER1cmZyTk9udlJ1eHJxRHo1cmlKV2QtMW0yVTFaVk55dFJJVE9DRVYyM21nMXl0eEVzVEVxR1lVVGJWb2lzNDl1MmJONWVsc2ZET2VST3dEUUxGQWdIeFFkQjB6TnlKY0M5WmFqck80Q1VaSHQ?oc=5"
           },
           {
-            "source": "TechCrunch",
-            "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/"
+            "source": "Tech Xplore",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMmE5U19RNkwya2F5bnB6VE1jVnNrTW9mZV9nSVBCWURwUkJzd3ZBazR4TXRmRmRDTmI3d2pQOTI5bktHMzROdV9BcmQ1aVAwNWpsU3FOYXhPcUlDSnRYeno5SjFjM3c1UmJYNkFzSkNEcVVYNTBvWkd1M0hYQ1FYX2V3TQ?oc=5"
           }
         ]
       },
       {
-        "title": "OpenAI president says company could be IPO-ready by 2027",
-        "feedTitle": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-        "summary": "OpenAI President Greg Brockman stated at a Wall Street Journal conference that the company could be prepared for an initial public offering in 2027. Brockman highlighted OpenAI's growing enterprise market traction as a key driver of revenue diversification and business resilience.",
+        "title": "Nvidia CEO Huang's affair threatens China market access",
+        "feedTitle": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+        "summary": "Jensen Huang's alleged affair with a suspected Chinese spy threatens to complicate Nvidia's lobbying efforts to loosen US chip export restrictions and maintain access to China's AI market. The scandal coincides with heightened national security scrutiny of US-China technology ties.",
         "source": "TechCrunch",
-        "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+        "link": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
         "sources": [
           {
             "source": "TechCrunch",
-            "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/"
+            "link": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/"
+          }
+        ]
+      },
+      {
+        "title": "Meta launches Muse Ember, lightweight agent model at $0.10 per million tokens",
+        "feedTitle": "Meta launches Muse Ember, a small AI model built for the repetitive work agents actually do",
+        "summary": "Meta released Muse Ember, its cheapest AI agent model priced at $0.10 per million input tokens, designed for repetitive task execution. The model undercuts frontier competitors significantly and reflects Meta's push into affordable, specialized AI for practical applications.",
+        "source": "The Economic Times",
+        "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQeld1bjVNQk96YWE0ZkgxbEM0WmowM2hTZVZmcUp0U1FhaVFZaUJTcnowV1pVeXRYQlJOU09jUU5PNEFjY1JCQl9zRDgtSDg3bm5rMjItTmJHaXVJeE9hd0tJYUtISDd6d0RyclotYklDUUlhczdRUmlIQVVSQVllNllheTQ1SU1ERG5xU0ExaHJJdENNZjdNNElMV2VxTFktM0p6TXFLN3JwQVF6QmFXZ0NEUG1UOE81VXdxRS0yd1NpNkQ4eTF1b2NtUzZDeS1pVEQtelgyX25SVlNEVE1JczFfb2N0R3Q4VU1GNTVqQjlxOUFVSGFKVEVTcy10cnNVYXk4TkFJejBfS0ZwYzVoeGxiN1M5OGNhYWhnaGlLOFVRS1Q50gGqAkFVX3lxTE90ZVJjTGZtYl9SY3dkb2N4TjJXRlp5UFB5dUd2bmdLOGVtckZVWmg0NUM1QXhWSjRfQmIycHF2R0wxNmNyT3MyZUVuaXlNYlJNR295V1Q0SjRfVlZNRkc1WGwxbXVPZGVtU1RhY3lfVmhCZk02TTRiX19qT19wUGVIZllRSUlzZTI2ZGYzQVNRX3htQkNtdUZITHFVa3V6aUY3cnYyQlR2bUx6ZzV1VldQNWUwaldtRi1zaW5BRWxGX1hrSmlWUGo0U19tcDRCWjRtMXNGNTZ3OG52Rmx4dU5OekhCSERVM1RxeGFYbU02bmtVVG1zejNDcDFWVklJdFUwb21ubDU2enBkLVpsa0RORDRhTW8yVGVaZlA4Zkp5NXhlWnpQbm03VXc?oc=5",
+        "sources": [
+          {
+            "source": "The Economic Times",
+            "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQeld1bjVNQk96YWE0ZkgxbEM0WmowM2hTZVZmcUp0U1FhaVFZaUJTcnowV1pVeXRYQlJOU09jUU5PNEFjY1JCQl9zRDgtSDg3bm5rMjItTmJHaXVJeE9hd0tJYUtISDd6d0RyclotYklDUUlhczdRUmlIQVVSQVllNllheTQ1SU1ERG5xU0ExaHJJdENNZjdNNElMV2VxTFktM0p6TXFLN3JwQVF6QmFXZ0NEUG1UOE81VXdxRS0yd1NpNkQ4eTF1b2NtUzZDeS1pVEQtelgyX25SVlNEVE1JczFfb2N0R3Q4VU1GNTVqQjlxOUFVSGFKVEVTcy10cnNVYXk4TkFJejBfS0ZwYzVoeGxiN1M5OGNhYWhnaGlLOFVRS1Q50gGqAkFVX3lxTE90ZVJjTGZtYl9SY3dkb2N4TjJXRlp5UFB5dUd2bmdLOGVtckZVWmg0NUM1QXhWSjRfQmIycHF2R0wxNmNyT3MyZUVuaXlNYlJNR295V1Q0SjRfVlZNRkc1WGwxbXVPZGVtU1RhY3lfVmhCZk02TTRiX19qT19wUGVIZllRSUlzZTI2ZGYzQVNRX3htQkNtdUZITHFVa3V6aUY3cnYyQlR2bUx6ZzV1VldQNWUwaldtRi1zaW5BRWxGX1hrSmlWUGo0U19tcDRCWjRtMXNGNTZ3OG52Rmx4dU5OekhCSERVM1RxeGFYbU02bmtVVG1zejNDcDFWVklJdFUwb21ubDU2enBkLVpsa0RORDRhTW8yVGVaZlA4Zkp5NXhlWnpQbm03VXc?oc=5"
+          },
+          {
+            "source": "The Decoder",
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUWp4eXdBcTNCbmdnSzF3S2xuYnVnMkxkWmltMVpoNldWR01kVFgxc2gyRzdzNS1mM1ZleHN1em5LZm1DRHJnYVJxRlB6NDdyWFU3bkkyV0Rwc2pMUkV5eTZ0SVFGX0Y0Ukp6QmM3M0llNmpjaTZqZl9jU2hkUC1GWUxlNVk1bTVKTjlOcl9QWnJlUmNkZi1ud2tmVE1WUFlSaVNCaFUwMkN0ZEdZSVAyNVVlNHB6dw?oc=5"
+          },
+          {
+            "source": "TradingView",
+            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWXhhTGlJYm82TXlDWTV0SWRKYm5UX1o1ZU5nbW5acy10WFkxdmFvYS02eEF3TDN5VVp0VmNPZ3dBYXJHR1VkQ0l0MjNtLWxPLTczakliNm0tdldyeXJKdmVnV2FhWk1HR0VrbUROa2djVU5jNHNiaUkyUmROZVZrSWhvLWNPOXdPbTlhY0c2UHZiX1RMTVJxYWNMeWtWUFNYMm5N?oc=5"
+          }
+        ]
+      },
+      {
+        "title": "Google challenges Nvidia with new AI chips for privacy",
+        "feedTitle": "Google Takes Aim at Nvidia With New AI Chips Built for Privacy and Massive Memory",
+        "summary": "Google unveiled new custom AI chips designed to handle privacy-sensitive workloads and massive memory requirements, competing directly with Nvidia's AI chip dominance. The move signals Google's strategic effort to reduce dependency on Nvidia and advance its own silicon capabilities.",
+        "source": "Decrypt",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX0tjVUxOM2EzN25ycWc4TU94TXdaVnd5X09nWm5XX25TeE10SWs0SllSc0xjTndrUkRrZFgyLWp3WDFMcFZOcnJCdndSTHR0V0lmTUtjdGhBS2RKZGFQNEtCcWp4b2dEei11TzZiSnBJc28xdTZ5NGRVekJ2amh4SUtQVFZzNmtz?oc=5",
+        "sources": [
+          {
+            "source": "Decrypt",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX0tjVUxOM2EzN25ycWc4TU94TXdaVnd5X09nWm5XX25TeE10SWs0SllSc0xjTndrUkRrZFgyLWp3WDFMcFZOcnJCdndSTHR0V0lmTUtjdGhBS2RKZGFQNEtCcWp4b2dEei11TzZiSnBJc28xdTZ5NGRVekJ2amh4SUtQVFZzNmtz?oc=5"
+          },
+          {
+            "source": "TradingView",
+            "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUEVrbTJPQzE1ZE9RRThfMVNrVmdwNnNfWFgyU2E3M1RkZmxpWmZ4XzY4cnE1TDhKS25GRm5rUk9SeXA0R2hZeThMSk85aldaT0ZfVmhMdWEtWHlXckg5akNKUHBpZ2c5OHFkbF9nVXhIOUprZjY2cjVXYWpGM3gxVy1TYlhaa2gtbWx4Z3kzWThiby1DUW5OcHhiMGI3Yno0WXFyRDQ2UG9lNkMxVUUxUVBTYmgtbU1aNG5GU19XYlI2azQ5TTB6Q2N1RHBFV0pZbi11aE9kOG53ZUtfSERIUndUWkpOd3hqbnhVdU9n?oc=5"
+          },
+          {
+            "source": "Barron's",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZazVRUERrTHRSeFc3QmhwZHNSVEU0NFNHaXBreUJpeW01YXJRQVIzbTdtYUtGYjB6ZUZKblZGSU14S0xHQ0JTQ3ZmN0lPamxIUFRBajFUTVdXc1NXbjZTN1FQMXYwVGxoZ0FZRE5VZmVPdFJ4Q3pFN1l3?oc=5"
+          }
+        ]
+      },
+      {
+        "title": "AI spending stalls as price cuts, cost controls kick in",
+        "feedTitle": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+        "summary": "Ramp data shows AI spending has plateaued despite rising usage, driven by price cuts from major providers and smarter cost controls among large spenders. The trend challenges investor assumptions about explosive AI hypergrowth and comes as Anthropic approaches its IPO.",
+        "source": "TechCrunch",
+        "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+        "sources": [
+          {
+            "source": "TechCrunch",
+            "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/"
           }
         ]
       }

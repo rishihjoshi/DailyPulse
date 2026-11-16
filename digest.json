@@ -1,116 +1,116 @@
 {
-  "generatedAt": "2026-11-15T17:29:54.132Z",
+  "generatedAt": "2026-11-16T02:28:06.425Z",
   "location": "St. Charles, MO",
   "weather": {
-    "high": 50,
+    "high": 51,
     "low": 30,
-    "highC": 10,
+    "highC": 11,
     "lowC": -1,
     "precip": 0,
-    "wind": 5,
+    "wind": 4,
     "sunrise": "6:44 AM",
     "sunset": "4:48 PM",
-    "now": 46,
+    "now": 39,
     "nowLabel": "Clear",
     "alerts": [],
     "label": "Clear",
     "emoji": "☀️"
   },
   "watch": [
-    "Anthropic IPO pricing and first-day trading—test of investor appetite for AI software amid sector downturn",
-    "Nvidia's Q3 earnings and new leadership direction following Jensen Huang's departure",
-    "India's WPI inflation data and RBI rate-hike expectations; crude oil price stability as supply-demand rebalances"
+    "Nvidia earnings report and forward guidance amid leadership crisis and Anthropic IPO competition",
+    "Anthropic's November 19 Nasdaq debut and trading performance as AI sector confidence barometer",
+    "Federal Reserve minutes and inflation expectations affecting interest rate trajectory and market volatility"
   ],
   "tabs": {
     "local": {
       "items": [
         {
-          "title": "Trump breaks silence, demands Congress fund air traffic control",
-          "feedTitle": "Trump breaks silence on nationwide ground stop and demands more money from Congress",
-          "summary": "President Trump called on Congress to fund a new air traffic control system following Friday's rare nationwide ground stop that disrupted air travel for hours. Transportation Secretary Sean Duffy blamed predecessors and Congress for failing to adequately fund the nation's aging system. The four-hour ground stop, the longest in 25 years, was attributed to equipment issues during a contractor's telecom network upgrade in Arkansas.",
+          "title": "FAA ground stop disruptions extend into Monday",
+          "feedTitle": "Flight disruptions expected to last into Monday",
+          "summary": "A nationwide aviation ground stop that occurred Friday has caused continued flight disruptions into the following week. Congress allocated $12.5 billion to upgrade the aging air traffic control system, though President Trump is requesting additional funding. Transportation officials are working to restore normal operations after the unprecedented grounding.",
+          "source": "NPR",
+          "link": "https://www.npr.org/2026/11/15/nx-s1-6041683/flight-disruptions-expected-to-last-into-monday",
+          "sources": [
+            {
+              "source": "NPR",
+              "link": "https://www.npr.org/2026/11/15/nx-s1-6041683/flight-disruptions-expected-to-last-into-monday"
+            },
+            {
+              "source": "PBS NewsHour",
+              "link": "https://www.pbs.org/newshour/nation/what-to-know-about-flights-after-the-u-s-nationwide-ground-stop"
+            }
+          ]
+        },
+        {
+          "title": "Democrat Mary Peltola extends lead in Alaska Senate race",
+          "feedTitle": "Peltola's lead increases in uncalled Alaska Senate race",
+          "summary": "Democratic candidate Mary Peltola continues to grow her lead in Alaska's closely watched Senate race as vote counting proceeds. Multiple outlets report her position strengthening, though the race remains officially uncalled. The outcome could have implications for the balance of power in Congress.",
+          "source": "USA Today",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMThuSnFVZXZCV2JnWnBza3NjVUxFeTNvUDJNZzUwcWhDWTV3d1Nrcm9Cb3Y1a3pSQkx1SjB1WHdraHg1WDYxUFg1b3BJYXoxbGQ4X2JjNXpaakMwTDBLNW1Gb3F3bmxDVnl2bnQwRUVYdnVMZUJfTm1pd3BUVnd2bjFyZEtHekVDeWM5SlJxM1dkMDRiaEV4UFRDb2VBaFFXV1JGZkxsQ1FaZ2Y5ZjN5ODk5QkVWdTQ?oc=5",
+          "sources": [
+            {
+              "source": "USA Today",
+              "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMThuSnFVZXZCV2JnWnBza3NjVUxFeTNvUDJNZzUwcWhDWTV3d1Nrcm9Cb3Y1a3pSQkx1SjB1WHdraHg1WDYxUFg1b3BJYXoxbGQ4X2JjNXpaakMwTDBLNW1Gb3F3bmxDVnl2bnQwRUVYdnVMZUJfTm1pd3BUVnd2bjFyZEtHekVDeWM5SlJxM1dkMDRiaEV4UFRDb2VBaFFXV1JGZkxsQ1FaZ2Y5ZjN5ODk5QkVWdTQ?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Steering failure preceded New Orleans tanker-cruise ship collision",
+          "feedTitle": "Preliminary investigation points to steering failure in tanker collision with river cruise ship",
+          "summary": "The National Transportation Safety Board released preliminary findings that the Atlantic Asphalt tanker suffered a steering casualty approximately two minutes before colliding with the American Heritage cruise ship on the Mississippi River. The incident, dubbed the 'miracle on the Mississippi,' resulted in no fatalities despite over 130 people being rescued. The port of New Orleans has sued the tanker's owners for at least $1 million in damages.",
           "source": "PBS NewsHour",
-          "link": "https://www.pbs.org/newshour/politics/trump-breaks-silence-on-nationwide-ground-stop-and-demands-more-money-from-congress",
+          "link": "https://www.pbs.org/newshour/nation/officials-say-a-tankers-steering-failed-before-it-crashed-into-a-cruise-ship-in-new-orleans",
           "sources": [
             {
               "source": "PBS NewsHour",
-              "link": "https://www.pbs.org/newshour/politics/trump-breaks-silence-on-nationwide-ground-stop-and-demands-more-money-from-congress"
+              "link": "https://www.pbs.org/newshour/nation/officials-say-a-tankers-steering-failed-before-it-crashed-into-a-cruise-ship-in-new-orleans"
             },
             {
               "source": "The Hill",
-              "link": "https://thehill.com/policy/transportation/6221316-trump-requests-air-traffic-funding/"
+              "link": "https://thehill.com/homenews/administration/6221569-east-potomac-park-legal-battle/"
             },
             {
-              "source": "AP News",
-              "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUjU5a3ljR1FocjlKQnRVS21kY1kwR3R4bEZvdUc4VExhbnc2NjZrU0ZfRS1iMkoxcGthaUV4a19MTlNsR2JFMlFqZDN0Y1JiejlNWUFUWjAyWTl3RFNXX0ZvbkNmX0l1elhVZndMd3pQSlQtbk1RYzBMT2tmOTJuaTlwUm5FQmdRODFJQTk4OWV5MlpScVhhc1BEWWotS1E?oc=5"
+              "source": "WDSU",
+              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbXg4VV8tVHNzbkFhQnlTQWdIOENpOEItamppNC1CdWpSNGlnNTlCdlA0TDJBM1AxV1hIemFnajh0b0ZoWkVqdWZUR1g3SGRmMmp6N05aRElXcmxUT09kWjhQSkFFRVh6Ym1zV3ZsdGhZSUV2TWZsUFo0RHM2ejdrLXAzb3JHNWZIYmhGZE5n?oc=5"
             }
           ]
         },
         {
-          "title": "SpaceX captures Starship booster in historic first",
-          "feedTitle": "SpaceX's Starship returns from orbit and is captured by launch pad arms in a dramatic first",
-          "summary": "SpaceX achieved a historic first by capturing its Starship booster mid-air using mechanical arms nicknamed 'chopsticks' during Friday's test flight from Texas. However, the first-stage booster exploded shortly after liftoff, preventing the desired double catch of both rocket and spacecraft. The spacecraft itself successfully reached orbit in the company's boldest test yet.",
+          "title": "Massive waves pummel California coast, close beaches",
+          "feedTitle": "Huge waves pummel California coast, forcing closure of popular piers",
+          "summary": "Huge waves up to 50 feet high battered the Southern California coast, forcing the closure of popular piers in Ventura, Hermosa Beach, and Manhattan Beach. The National Weather Service issued warnings as storms brought dangerous surf conditions and coastal flooding. Additional storms were expected to continue impacting the region through the weekend.",
+          "source": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOG9jeHVYQ3R3UXhFZmJzUlFhbmxBcGUxWlh4b2JuOEFOR0R4V0EwbThpcEFaUnhzZDgyTVlWaXJhSG5hWmxvZnVsVmtiaXpJQlhBVmtrSDU4Rng0U1BldlJ3Q1l3eVRQNGpTbmpkMEJhdlk5WlNiTG1fdVZmaHdrUUl5Tmp2T2d4S2lN?oc=5",
+          "sources": [
+            {
+              "source": "The Guardian",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOG9jeHVYQ3R3UXhFZmJzUlFhbmxBcGUxWlh4b2JuOEFOR0R4V0EwbThpcEFaUnhzZDgyTVlWaXJhSG5hWmxvZnVsVmtiaXpJQlhBVmtrSDU4Rng0U1BldlJ3Q1l3eVRQNGpTbmpkMEJhdlk5WlNiTG1fdVZmaHdrUUl5Tmp2T2d4S2lN?oc=5"
+            },
+            {
+              "source": "The Weather Channel",
+              "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRWpLanNGdDdZMzV4RWFEZVRpVy1OSjlGX2ZRLTZGN0hTbE16Q1BtMndrZTRZcmNFTElsb2lTUHdpZ3FUQ0xQbjVzM21lamR2cVMtc09UZkM3WnJyT0dGVHFLU2hHQ1VPSlgtRDJOYXZ6VUl3MGhIS0xtMTd2VVFoVmFTWG4xSkp0SlU4TjhQRjA1Sl9mZGlWd3kzM2ZWLVA4?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Congo Ebola outbreak remains out of control after six months",
+          "feedTitle": "Ebola outbreak remains out of control in Congo 6 months into response",
+          "summary": "The deadly Ebola outbreak in the Democratic Republic of Congo has recorded more than 11,000 cases with nearly half of those infected dying, according to government data. At six months into the response, the outbreak remains uncontrolled and is on track to surpass the death toll from the 2014-2016 West African outbreak that killed 11,000 people. The crisis underscores ongoing challenges in containing the disease.",
           "source": "PBS NewsHour",
-          "link": "https://www.pbs.org/newshour/science/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first",
+          "link": "https://www.pbs.org/newshour/world/ebola-outbreak-remains-out-of-control-in-congo-6-months-into-response",
           "sources": [
             {
               "source": "PBS NewsHour",
-              "link": "https://www.pbs.org/newshour/science/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first"
-            }
-          ]
-        },
-        {
-          "title": "New Orleans port sues tanker owners for $1 million cruise ship damage",
-          "feedTitle": "New Orleans port sues tanker owners over cruise ship collision for $1m",
-          "summary": "The Board of Commissioners of the Port of New Orleans filed a lawsuit against the owners of the Atlantic Asphalt tanker that struck a cruise ship on the Mississippi River on Friday, seeking over $1 million in damages to the terminal. The collision injured more than 30 people but resulted in no fatalities. A federal judge issued a warrant giving officials control of the ship for the lawsuit.",
-          "source": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TQXdmUW84QjZxYUtEc2NMZ0gwMlJ0LXNDOUt5TWw5VFlTeGpnN2FQc2NQNXAySUlsbjdRQm85dGoxQ29JLUc0X0prZ3RPcjViYm4zNld0cVdUcEk?oc=5",
-          "sources": [
-            {
-              "source": "BBC",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TQXdmUW84QjZxYUtEc2NMZ0gwMlJ0LXNDOUt5TWw5VFlTeGpnN2FQc2NQNXAySUlsbjdRQm85dGoxQ29JLUc0X0prZ3RPcjViYm4zNld0cVdUcEk?oc=5"
-            },
-            {
-              "source": "PBS NewsHour",
-              "link": "https://www.pbs.org/newshour/nation/new-orleans-port-sues-to-get-control-of-tanker-that-crashed-into-cruise-ship-on-mississippi-river"
-            }
-          ]
-        },
-        {
-          "title": "Iran targets US military base in Bahrain with drones",
-          "feedTitle": "Iran targets US military base in Bahrain with drone attack",
-          "summary": "Iran's Islamic Revolutionary Guard Corps launched a drone attack on a US military base in Bahrain on Sunday, marking the second attack on the country in three days. Bahrain said it intercepted the incoming drones, and officials said the strike targeted radar installations. The attack comes amid ongoing US-Iran tensions over the Strait of Hormuz and regional conflicts.",
-          "source": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54d1BneWo3NFRhV3MxVkVJa1p4SXJkTE5rbFZvUTVTWkM0UDFrVWp2WWloenJjMmcwTDBKdkV1N3QtRVgxWV91NEpXN2pCbUxtTFNaSjBQM0t6dEk?oc=5",
-          "sources": [
-            {
-              "source": "BBC",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54d1BneWo3NFRhV3MxVkVJa1p4SXJkTE5rbFZvUTVTWkM0UDFrVWp2WWloenJjMmcwTDBKdkV1N3QtRVgxWV91NEpXN2pCbUxtTFNaSjBQM0t6dEk?oc=5"
-            },
-            {
-              "source": "NPR",
-              "link": "https://www.npr.org/2026/11/14/nx-s1-6037565/why-the-governments-hurricane-helene-recovery-effort-in-north-carolina-was-so-slow"
-            }
-          ]
-        },
-        {
-          "title": "Early flu season hits South and West as CDC reports surge",
-          "feedTitle": "The U.S. flu season is off to a very early start. It's hitting the South and West now",
-          "summary": "The Centers for Disease Control and Prevention reported that seven states had high flu activity in the latest update, up from two states the week before, indicating the US flu season is off to a very early start. The surge is currently concentrated in the South and West regions. Health officials are urging residents to consider flu vaccination as cases rise.",
-          "source": "PBS NewsHour",
-          "link": "https://www.pbs.org/newshour/health/the-u-s-flu-season-is-off-to-a-very-early-start-its-hitting-the-south-and-west-now",
-          "sources": [
-            {
-              "source": "PBS NewsHour",
-              "link": "https://www.pbs.org/newshour/health/the-u-s-flu-season-is-off-to-a-very-early-start-its-hitting-the-south-and-west-now"
+              "link": "https://www.pbs.org/newshour/world/ebola-outbreak-remains-out-of-control-in-congo-6-months-into-response"
             }
           ]
         }
       ],
       "stlouis": [
         {
-          "title": "Missouri Sen. Schmitt backs $30B aviation modernization bill",
+          "title": "Missouri Senator Schmitt pushes $30B aviation modernization bill",
           "feedTitle": "Missouri Sen. Eric Schmitt pushes $30 billion aviation modernization bill after FAA ground stop",
-          "summary": "Missouri Senator Eric Schmitt is pushing a $30 billion aviation modernization bill in response to Friday's nationwide FAA ground stop. The proposal aims to modernize the country's aging air traffic control system, which failed during a contractor's equipment upgrade in Arkansas. Schmitt's bill addresses the need for updated infrastructure to prevent future disruptions.",
+          "summary": "Sen. Eric Schmitt is advocating for a $30 billion aviation modernization initiative in response to Friday's nationwide FAA ground stop. The proposal aims to modernize the nation's aging air traffic control infrastructure. Schmitt's push comes as Congress debates funding for aviation system upgrades.",
           "source": "Yahoo",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRWZyeWU0WEt0MjlFN09hMG9WcExFUHVjMG8zTnpPcEhLWUJvYVNNSlkwcktjZkcwQUNoU1VLcUpqQjlRYjcybHdEdzZ1SWVueEs2a01Xb3BDS0xMaTFUSjh6bEd2WkpTUkp4czVIYUZ5MHgxRmJseTQxQmhaZngtMlJETnJQSjYy?oc=5",
           "sources": [
@@ -121,36 +121,28 @@
           ]
         },
         {
-          "title": "Brady Tkachuk leads Panthers past Blues in special game",
-          "feedTitle": "Brady Tkachuk leads Panthers past Blues on special night for his father",
-          "summary": "Brady Tkachuk led the Florida Panthers to a 4-1 victory over the St. Louis Blues in what was described as a special night for his father. The Blues' offense was stifled in the loss, continuing the team's recent struggles. Tkachuk's performance highlighted a dominant Panthers team.",
-          "source": "Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMjRVc0NCdV9BODFVLWlDN2d2ekdGMVFMQlVWUDdNckl2V1hJcnY2MlpON2oxallMVGUxNXhDbHQ1eXZyQllZMXdpcGdWWU9UV2FpdUUxUUloREF6RFFfbGJWeDY1X3BxejdET1BpWUhZbUpYc2NWN0hhMkU5bkdkbU9RbWIxZUZSRUttMUtsTjRwYUx4Y3Fxa2FtOE54YkxSQjJuZXoyUVBfTjg5bS0tZTV1SUowdms?oc=5",
+          "title": "Cardinals prospect faces uncertain future with St. Louis",
+          "feedTitle": "Cardinals Former Top Prospect's Days In St. Louis May Be Numbered",
+          "summary": "A former top prospect in the St. Louis Cardinals organization may be on his way out of the organization, according to recent reporting. The prospect's status with the team remains unclear as the organization evaluates its roster.",
+          "source": "Sports Illustrated",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRUtLbXhSR3ZpLXhKdU0xZ3ZLRlFDUlZLdlpaRk0tQlRUazg2MDRkdzZ4NDdJS2V1d3pxQlBndXZnSmw2OW5YNUY4SVhjWEN2MHI1OTFRTjdWc0VlQmZFVnlSM2NOZDNNenVCdVhfaXhVMGgwNWZ6SHpZQjFUbE81ZWtSZEFidTNQUGxkWmVvczNoY1NDZXpFZHdZOVNtUkpUcXUybnhqak5VNVk?oc=5",
           "sources": [
             {
-              "source": "Reuters",
-              "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMjRVc0NCdV9BODFVLWlDN2d2ekdGMVFMQlVWUDdNckl2V1hJcnY2MlpON2oxallMVGUxNXhDbHQ1eXZyQllZMXdpcGdWWU9UV2FpdUUxUUloREF6RFFfbGJWeDY1X3BxejdET1BpWUhZbUpYc2NWN0hhMkU5bkdkbU9RbWIxZUZSRUttMUtsTjRwYUx4Y3Fxa2FtOE54YkxSQjJuZXoyUVBfTjg5bS0tZTV1SUowdms?oc=5"
-            },
-            {
-              "source": "STLtoday.com",
-              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQS0lvcDItdFZHMk1WcXVGcTZtaGVZdFVnMHJ1ek1GV2VLTGd3Yi1TSFVIbHpTaVdyRmU5TVlvVzZ6WjFrU1ZrQVBlcEJfenhTNXU3QXlWSHE3NTF1OGI0OElNTzByVDFBbldBb3BCN2MxWXhYMEJpeTFNZElyaXJFbDBqNnZYZmVPb1N5WDEweV9XOGw0alpLRURYeVk5SWh2UDFIOE53NA?oc=5"
+              "source": "Sports Illustrated",
+              "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRUtLbXhSR3ZpLXhKdU0xZ3ZLRlFDUlZLdlpaRk0tQlRUazg2MDRkdzZ4NDdJS2V1d3pxQlBndXZnSmw2OW5YNUY4SVhjWEN2MHI1OTFRTjdWc0VlQmZFVnlSM2NOZDNNenVCdVhfaXhVMGgwNWZ6SHpZQjFUbE81ZWtSZEFidTNQUGxkWmVvczNoY1NDZXpFZHdZOVNtUkpUcXUybnhqak5VNVk?oc=5"
             }
           ]
         },
         {
-          "title": "St. Louis police fatally shoot armed suspect on Meramec",
-          "feedTitle": "St. Louis police fatally shoot armed man on Meramec Street",
-          "summary": "St. Louis police fatally shot an armed man on Meramec Street in a police-involved shooting. Details on the circumstances of the encounter remain limited, but authorities confirmed the shooting occurred during an officer response. The incident is under investigation.",
-          "source": "cedarnews.net",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTzdTajJ5a2pvcnlaU2RSNWUtZFZ3YWFBckpMV2FpQTk0dVdEcGY0blJVZk5UVFBUYVpYajNOdEs1LUc3bGlHajJ6R0VQQy0zdlhxNEc1NURFTVpXQWF5RUhnaFJ0S3Y5bFFrNUJwOHdCVjM1cmdXRm5ITVNGdEhDRWZWWmdTQ2tYeWxmVm1lc0RyOEVlWnNqVWpYZ3ZKdlk?oc=5",
+          "title": "St. Louis Blues goalie becomes trade market focus",
+          "feedTitle": "NHL Rumours: Trade Market on St. Louis Blues Goalie",
+          "summary": "The goaltender for the NHL's St. Louis Blues has become a subject of trade speculation as teams assess potential roster upgrades. Multiple reports suggest interest from other franchises in acquiring the netminder.",
+          "source": "Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUlE4NUlQa3JvcjlDVGNmS3VqYkdVR05qSk5vdW5jSmJublVGOXBCdzhxYW9YZ0g1ZkhUdHN5djNUSXlQdDUzT0ZzSDFBVkhzLV9zYWFSVENmMng5OGlVTGtpc3JSZDFMaTlRV3RGSWVQd0RLRmJwdElzaWNtVldVOG9n?oc=5",
           "sources": [
             {
-              "source": "cedarnews.net",
-              "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTzdTajJ5a2pvcnlaU2RSNWUtZFZ3YWFBckpMV2FpQTk0dVdEcGY0blJVZk5UVFBUYVpYajNOdEs1LUc3bGlHajJ6R0VQQy0zdlhxNEc1NURFTVpXQWF5RUhnaFJ0S3Y5bFFrNUJwOHdCVjM1cmdXRm5ITVNGdEhDRWZWWmdTQ2tYeWxmVm1lc0RyOEVlWnNqVWpYZ3ZKdlk?oc=5"
-            },
-            {
-              "source": "FOX 2",
-              "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc1ZjVGxEYk1qVVJqaHJia2FkOUtYbEp2aFhONDRUNzZCVnFhcUVpOWFCVnNZRzdidG5MZzJPV0xDLWNZWk5RcjVZSWswYnE1TkM4WUtzcDVESW9Pc2lEbW9uQUhQOEtPRlZvbFFCU1Vjb3lldU1SRzFBcXNWNkl1WWVuNUM2czFsMFo5NGZkQTFKOFdGY0FwT9IBngFBVV95cUxNTmx5bDVTVVpiall6MVlFQ2VmZEZDeS12Z1JFUDdzSlhJT2pzSUNWTjhNQjJBempuVUJHTkZuUGF1c0VIcVZVeEJhTEkyRHVtY3dSbzdfSEtvaVcwQVRNcFhxX1BWTDllM2ZMdEhCM084Zkt6UEtKbVpLMGpCanRKVnZ6R1gtcTJWdkF1NVo0WVpuVEZJR3dLWTA3Zy1uQQ?oc=5"
+              "source": "Yahoo Sports",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUlE4NUlQa3JvcjlDVGNmS3VqYkdVR05qSk5vdW5jSmJublVGOXBCdzhxYW9YZ0g1ZkhUdHN5djNUSXlQdDUzT0ZzSDFBVkhzLV9zYWFSVENmMng5OGlVTGtpc3JSZDFMaTlRV3RGSWVQd0RLRmJwdElzaWNtVldVOG9n?oc=5"
             }
           ]
         }
@@ -159,9 +151,30 @@
     "world": {
       "items": [
         {
-          "title": "Czech Republic holds massive rally against media funding changes",
+          "title": "Iran launches drone attacks on US military base in Bahrain",
+          "feedTitle": "Iran launches drone attacks against US military base in Bahrain",
+          "summary": "Iran carried out a six-drone attack on a U.S. military base in Bahrain early Sunday, with Bahrain claiming it intercepted the strikes before they hit their targets. Iran claimed it struck the base, marking a resumption of escalatory actions in the region. The attack raises concerns about potential escalation in ongoing tensions between Tehran and Washington.",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain",
+          "sources": [
+            {
+              "source": "The Guardian",
+              "link": "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain"
+            },
+            {
+              "source": "The Hill",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZDdKWmtnMUUxYS0tZThsV2M0cmhTQlFZdDNNZGNPNGROOFczaTVZekdyYlNlblJaSEJmNUVKZDJsNzZydll1b25CMENycUVWMjZpNzFEUm5YNlg1b0QzUzkxRTBaa0tJcXV0c2dmazFOQ3VuNXE2NWhtSjItRU9pUdIBhgFBVV95cUxPdzVHb3A5UmNFSFpqdHpBWURnc3YteEtQVXJhSE5iSzRpdVcya2loNUVyaFY0aE1wUUZIVkZvQ1JsRWtyU0FWc0RBVzdOaG0zemdMRUJFOXNQSl92MXliU0Ntanp6bW1HcGhJSmpvcEFrVDBibFhKUkdEZ1NLNEJFeFh4c2pkdw?oc=5"
+            },
+            {
+              "source": "Sight Magazine",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbFBwOE83TUlzcm1VWm5iZDc5TXZUUmkwY3hWS0RCMWE4aGtkczFzdENMam92dXlMYTZuNW1iZ19SSWhtdmo2MEw0dWJadFQ4VG5kWTF2WUh0V3BlRV9sdXUtQWRQNFRmQnZBenZMUmJQcVV0WklUTlZaN1FsTzhTbDlyRVcwbkNPaElnUjhmYWp5UHdYaC05aFJB?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Hundreds of thousands of Czechs rally against media restrictions",
           "feedTitle": "Hundreds of thousands of Czechs protest in Prague over media freedom",
-          "summary": "An estimated 350,000 people gathered in Prague on Sunday to protest the government's plan to scrap mandatory broadcast licence fees and switch to state budget funding. Critics say the proposed changes would give the government more control over public broadcasters and stifle media freedom. The rally represents one of the largest public demonstrations in recent Czech history against what protesters view as threats to press independence.",
+          "summary": "An estimated 350,000 Czechs gathered in Prague to protest the government's plan to shift public media funding from mandatory licence fees to the state budget. Protesters argued the change would undermine media independence and freedom. The Czech government insists broadcasters need to cut costs, but opponents fear government control over content.",
           "source": "The Guardian",
           "link": "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom",
           "sources": [
@@ -171,67 +184,62 @@
             },
             {
               "source": "BBC",
-              "link": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss"
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GY2JWYVBmQXR0dnlyN2NQTGV5cVZIQUstdXZTcWp2cUN2cVhxLVpQUnNsaGIwSFBqeWczUTVjUHFVZUh0NzB1MkZTcjFpOWo5SzQ3RTl1NFZZcnM?oc=5"
             },
+            {
+              "source": "Newser",
+              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRjJ0MVlxOHdVdUs5Nldxd3RuVFYxZXFUMklIMVlLSktPYm5Qd1BUc3hPV0ZQUUtIUUxCMllFb2FuaEd4QmN4WmhtODNHQnluUUxyTG1PX2l6MWs5LUNPYmg0Qm95QnpoTUNKeFp3TG5ucTZoWTlpZjUxU2c1UlNNdVYtTWRqOGJTMzdLSElMNXJqNWFX?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Pope condemns murders of Peru's Indigenous environmental leaders",
+          "feedTitle": "Pope condemns murders of Peru’s Indigenous leaders, deforestation of Amazon",
+          "summary": "Pope Leo XIV demanded justice for Indigenous environmental defenders killed for protecting the Amazon during his visit to Peru. The pontiff spoke forcefully on the final day of his Latin America tour, backing Indigenous efforts to stop deforestation and illegal mining that threaten the rainforest and local communities. His remarks highlighted the violence faced by those defending the Amazon.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/16/pope-condemns-murders-of-perus-indigenous-leaders-deforestation-of-amazon?traffic_source=rss",
+          "sources": [
             {
               "source": "Al Jazeera",
-              "link": "https://www.aljazeera.com/news/2026/11/15/thousands-rally-in-czech-republic-against-state-media-funding-changes?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "Estonia closes border with Russia after sabotage attacks",
-          "feedTitle": "Estonia prepares to close border with Russia after GRU-linked sabotage attacks",
-          "summary": "Estonia announced plans to close border crossings with Russia following GRU-linked sabotage attacks, including a failed arson attempt at a drone manufacturing facility. The closure comes as tensions escalate over alleged Russian efforts to destabilize the NATO member state. Eight people were detained in connection with the attempted arson attack.",
-          "source": "ERR",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX2hUV0NzQ2diVFk2akVsWHJLa2dGenpKNHBjQkR6QS13eV9UNENTTWsySWR2WmZDNFlfSXJQZE10cjBSX1VVUXAtM2pVcnJUTDVVMGZVbjRnNTR2N3JaNGtNaTZGNDBHT0pqaDVjcFV0RnhJUmFhV250TG9sUGw2enhxdUpEQWpLX2hwTXNUcDdTOWFwcEZzR2NjcnJBTWdObjBFTlZXeUlvMXhCSEE?oc=5",
-          "sources": [
-            {
-              "source": "ERR",
-              "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX2hUV0NzQ2diVFk2akVsWHJLa2dGenpKNHBjQkR6QS13eV9UNENTTWsySWR2WmZDNFlfSXJQZE10cjBSX1VVUXAtM2pVcnJUTDVVMGZVbjRnNTR2N3JaNGtNaTZGNDBHT0pqaDVjcFV0RnhJUmFhV250TG9sUGw2enhxdUpEQWpLX2hwTXNUcDdTOWFwcEZzR2NjcnJBTWdObjBFTlZXeUlvMXhCSEE?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "World court to rule on Myanmar genocide against Rohingya",
-          "feedTitle": "World’s top court to rule if Myanmar committed genocide against Rohingya",
-          "summary": "The International Court of Justice will deliver a landmark judgment this week on whether Myanmar committed genocide against its Rohingya minority. The ruling marks a historic moment as the world's top court has never before found a state guilty of genocide. The decision will have implications for similar cases, including allegations against Israel.",
-          "source": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/nov/15/myanmar-rohingya-genocide-icj",
-          "sources": [
+              "link": "https://www.aljazeera.com/news/2026/11/16/pope-condemns-murders-of-perus-indigenous-leaders-deforestation-of-amazon?traffic_source=rss"
+            },
             {
               "source": "The Guardian",
-              "link": "https://www.theguardian.com/world/2026/nov/15/myanmar-rohingya-genocide-icj"
-            }
-          ]
-        },
-        {
-          "title": "Trump, Putin, Xi plan historic joint meeting in China",
-          "feedTitle": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-          "summary": "Trump, Putin, and Xi Jinping plan to hold an unprecedented historic joint meeting in China next week, according to the White House. Trump will discuss 'reduction of nuclear weapons' during the talks, marking a rare trilateral summit between the three leaders. The meeting underscores Trump's diplomatic approach during his presidency.",
-          "source": "BBC",
-          "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-          "sources": [
-            {
-              "source": "BBC",
-              "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "South Korea tax exam top scorer admits AI cheating scheme",
-          "feedTitle": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
-          "summary": "Han Won-seok, 34, the top scorer on South Korea's national tax accountancy exam, confessed to using a hidden camera and AI to achieve a near-perfect mark on the significant test. The admission has raised concerns about exam integrity and the potential misuse of AI technology. Authorities are investigating whether other test-takers may have engaged in similar cheating.",
-          "source": "The Guardian",
-          "link": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
-          "sources": [
-            {
-              "source": "The Guardian",
-              "link": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam"
+              "link": "https://www.theguardian.com/world/2026/nov/16/pope-leo-speech-peru-justice-for-amazon-activists-environment"
             },
             {
               "source": "BBC",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lOUVQZFp1akk1cEpBcHBndHRjTEhzbGx1TzlHZGx0Wkt4LTk1dlNPVGZ1RjNqWkJ5by1FSG1HdnJGTjZBU0JGeGp3ZF91R2trSUFpeU1kUmdQc1E?oc=5"
+              "link": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "Australian MP discharged from hospital after leg amputation",
+          "feedTitle": "Australian MP who lost both legs in alleged car attack discharged from hospital",
+          "summary": "Independent Australian MP Helen Haines was discharged from hospital four weeks after being allegedly attacked by a man outside her electorate office in regional Victoria, during which she lost both of her legs. The attack occurred over a month ago, and her discharge marks a significant milestone in her recovery process. The incident remains under investigation.",
+          "source": "BBC",
+          "link": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
+          "sources": [
+            {
+              "source": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "source": "The Guardian",
+              "link": "https://www.theguardian.com/australia-news/2026/nov/16/mp-helen-haines-out-of-hospital-after-attack-leg-amputation-ntwnfb"
+            }
+          ]
+        },
+        {
+          "title": "Bangladeshi garment workers strike over wage demands",
+          "feedTitle": "Clothing factories shut in Bangladesh as workers strike over pay",
+          "summary": "Clothing factories in Bangladesh have shut down as workers strike demanding a minimum wage of 30,000 taka (approximately £182) per month. The strike highlights ongoing tensions between workers seeking better pay and conditions and manufacturers resisting wage increases. The labor action reflects broader concerns about worker compensation in Bangladesh's garment industry.",
+          "source": "BBC",
+          "link": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
+          "sources": [
+            {
+              "source": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
@@ -240,43 +248,69 @@
     "india": {
       "items": [
         {
-          "title": "India's government health spending triples to ₹4.14 lakh crore",
-          "feedTitle": "India’s health spending triples to ₹4.14 lakh crore, but out-of-pocket share drops to 42.7%: NHA",
-          "summary": "India's government health spending more than tripled to ₹4.14 lakh crore over a decade, while the share of healthcare costs borne by households fell from 64.2% to 42.7%, according to the National Health Authority. Social security spending on health rose from 6% to 11% during the same period. The shift reflects increased public investment in healthcare infrastructure and reduced out-of-pocket burden on families.",
-          "source": "The Hindu",
-          "link": "https://www.thehindu.com/news/national/indias-health-spending-triples-to-414-lakh-crore-but-out-of-pocket-share-drops-to-427-nha/article71705136.ece",
+          "title": "AIIMS Delhi performs India's first open fetal surgery",
+          "feedTitle": "AIIMS Delhi performs India’s first open fetal surgery to repair severe spinal defect",
+          "summary": "AIIMS Delhi has performed India's first open fetal surgery to repair a severe spinal defect at 25 weeks of gestation, a medical milestone for the country. The procedure represents a significant advancement in fetal surgical capabilities and prenatal care in India. The successful operation demonstrates the hospital's expertise in complex fetal interventions.",
+          "source": "News On AIR",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ0NLc085U1JqcjFoQnNibTY0NFV2YURXWWtQRGh3cGtTQ3ZjeFYtZGJpd2FTb0h6UVh2V2lFMnl2dEt5REt6YkRkYmI1R2xoTk1fR0U5azNJSjZYUGJSQzhkQ1dBcmtsY1JERTJnT05PemFReTBHd2lOUHp0UTdPQVU5S0tqV3FqOXlHcTJSRkl4bFpNVnhVOGk0aGtQbjlqQmxsOVd5Ym1LVEQ0QVE?oc=5",
           "sources": [
             {
-              "source": "The Hindu",
-              "link": "https://www.thehindu.com/news/national/indias-health-spending-triples-to-414-lakh-crore-but-out-of-pocket-share-drops-to-427-nha/article71705136.ece"
-            },
-            {
-              "source": "Moneycontrol.com",
-              "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQV92Wmcxd0xST2xRWThxM0xSMHRwZkxtVjEyZV9Md3lESGdYeXZsT1owY0VMSnJSTkVMQmczMDEzU3VCdnA1YWVPWWhqZWZxck5wRWstYUJEajNTbm85RlBwZ0plZXNBR2Y1N1FRd1NIbWwzZHNENWRuSzhSWDBwRV8wZmlySmhjcGF5ZTdTYV8tRGRsTDBDUzQ0RnVRNmJXTzk3dE9VNG5GT2dvUnB6MWdjYXFJTlpEOHkxSEFxOE1JU3cx0gHKAUFVX3lxTFBYcnhxV3BDWkNNMTN5ZmxGUmh3ZXZIM0VCZEczX1NDRFhzcVdSUVAzZHJ2UXU3VnJKR2JoNlN4Y09TY3NEQUctMnhhZWw4OGl0ajlZRGtFb3c3MVZhUEZodHNnTmQtMU1FWVBGb3FsR3pUZDIzVkNZM2tEekhUbUE4MTkwUFFMT1pDSE1WQU1JLVlOaDZWUFZJMUVaN3VsRDRkdndHaDM0eXg2VFdWNWwzNWVjRkdsYzNHN251MTFzcUlvaml5OE1PR2c?oc=5"
+              "source": "News On AIR",
+              "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ0NLc085U1JqcjFoQnNibTY0NFV2YURXWWtQRGh3cGtTQ3ZjeFYtZGJpd2FTb0h6UVh2V2lFMnl2dEt5REt6YkRkYmI1R2xoTk1fR0U5azNJSjZYUGJSQzhkQ1dBcmtsY1JERTJnT05PemFReTBHd2lOUHp0UTdPQVU5S0tqV3FqOXlHcTJSRkl4bFpNVnhVOGk0aGtQbjlqQmxsOVd5Ym1LVEQ0QVE?oc=5"
             }
           ]
         },
         {
-          "title": "India, US agree on preferential market access for Indian goods",
-          "feedTitle": "India, U.S. agreed on preferential market access for Indian goods in America: Goyal",
-          "summary": "India and the US agreed on preferential market access for Indian goods in America, according to Commerce Minister Piyush Goyal. The deal, initially scheduled to be signed earlier, faced delays due to changes in the US tariff landscape requiring further negotiations. Lower tariffs than rival nations were already agreed upon by both sides.",
-          "source": "The Hindu",
-          "link": "https://www.thehindu.com/news/national/india-us-agreed-on-preferential-market-access-for-indian-goods-in-america-goyal/article71705526.ece",
+          "title": "Search operation launched after Kulgam CRPF post attack",
+          "feedTitle": "Kulgam terror attack: Search operation launched in J&K to hunt terrorists who attacked CRPF post",
+          "summary": "A major search operation has been launched in Jammu and Kashmir following an attack on a CRPF post in Kulgam. Hundreds of people have been questioned and detained as counter-insurgency operations intensify. The incident revives concerns about militant activity in the Kashmir region.",
+          "source": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRmxLajVINERZOTBDTktmQUpWZTNzYjY0OEotQmN3UDdXcm1FZGw3ZHp2UUY4Y3FHQkdOZlZvYk5sRVhjTFdydjNkenBTbS1wMVYzZnBrMjB2ZnVYRU4xRHpRc2JmWHBxSy0tYlRhVkx3azZyeG9qNUdEMXprOUNsVGxwckFZcmh3dkZOUkxyOHRfUWFub2V2Z2IyZldWRG5RdTM1MVZURnZHWUdwUE55SmdpU1hEdE9jb0RSek5hSFpJS3Fhb2xkVGlQOVZHSzF0WWhlRXc3OGtobkRLWGdURWR6aXc3cGFrdWdqTDdTWG9mOXJ1?oc=5",
           "sources": [
             {
-              "source": "The Hindu",
-              "link": "https://www.thehindu.com/news/national/india-us-agreed-on-preferential-market-access-for-indian-goods-in-america-goyal/article71705526.ece"
-            },
-            {
-              "source": "Moneycontrol.com",
-              "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNS0dybEw0N0ZjWnloYTZqLUcyTDlORmpwZmVidWN3WFZ1VjdObHE5aTY5VG9SZmdNR21KdU1RZlNhc1hVYTZKNERMOC1QR19uaXhQUVNWNktDdzJ0WVRMNEFIN0F2Y0ZuMGJWaTZvMXJtZzJhTzh4Zmkwd2tUWXdRcFVOeUZkVENiNFpPRmJZaUs5emozUnE1RHRRZkxyR1c1MFJxb1JFc2NVQmx0UzBabmFoc2NkUXljN2lqbWpOMjNGcHB2UmI3RTFwOE9ybF8xYVZTdmhB0gHbAUFVX3lxTFA1aXBuQTg4R2Fsd0lpSmw3SXN0YXdFZno1UWpROTVlTHJULUw3dlBfaV9iYW9DXzFxWjZjVkNLYnVpQkdiODQ1cFhoN0xuLVRQU0xpZkdUR1RzbjF0WXV0OEpKNC1wTW9iZV9MdXdBbk9kRnl0bHJ3WVA0NzVKWXdOWml4djRwb0lqQzRJVHFwLUE3OWtKazdlcW12YTd0MXZqeTN5VEVUcnNUeUF5TG03UjU2Vm5EMlZzc1Fuc0Vmb0hyQVRtbkJyZERCX1pBSkRQMmNpeDJKSjdibw?oc=5"
+              "source": "The Times of India",
+              "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRmxLajVINERZOTBDTktmQUpWZTNzYjY0OEotQmN3UDdXcm1FZGw3ZHp2UUY4Y3FHQkdOZlZvYk5sRVhjTFdydjNkenBTbS1wMVYzZnBrMjB2ZnVYRU4xRHpRc2JmWHBxSy0tYlRhVkx3azZyeG9qNUdEMXprOUNsVGxwckFZcmh3dkZOUkxyOHRfUWFub2V2Z2IyZldWRG5RdTM1MVZURnZHWUdwUE55SmdpU1hEdE9jb0RSek5hSFpJS3Fhb2xkVGlQOVZHSzF0WWhlRXc3OGtobkRLWGdURWR6aXc3cGFrdWdqTDdTWG9mOXJ1?oc=5"
             }
           ]
         },
         {
-          "title": "India pulled 500 million from poverty, many still struggle",
+          "title": "US govt seeks 24-year jail, Nikhil Gupta pleads for 12",
+          "feedTitle": "US govt seeks 24-year jail, Nikhil Gupta pleads for 12",
+          "summary": "Summary unavailable for this update.",
+          "source": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdUVscG9ucFFhdFFFeGZIVnA2OUZBbGJINjFsUURZczVNdXFtQUE4eUNFNEVnM2E1WEROMW5Ja3VTaDkyWFpMM25NN290SXJZSDRWVHVWVEZrX0k0bVhJeU42dlZiNU5Da0FxOHRsS0k3RHFwMEpidjBVaTdvZHNId2wzdlVub1ZtS2Izai1GdTVWdU9pZVZNdjEySWlucUQ0Mk9rNnZDRl93bkl2Q1B5dkdJWnFwdEhLZDQ2bTV3aHpGZw?oc=5",
+          "sources": [
+            {
+              "source": "The Times of India",
+              "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdUVscG9ucFFhdFFFeGZIVnA2OUZBbGJINjFsUURZczVNdXFtQUE4eUNFNEVnM2E1WEROMW5Ja3VTaDkyWFpMM25NN290SXJZSDRWVHVWVEZrX0k0bVhJeU42dlZiNU5Da0FxOHRsS0k3RHFwMEpidjBVaTdvZHNId2wzdlVub1ZtS2Izai1GdTVWdU9pZVZNdjEySWlucUQ0Mk9rNnZDRl93bkl2Q1B5dkdJWnFwdEhLZDQ2bTV3aHpGZw?oc=5"
+            },
+            {
+              "source": "The Hindu",
+              "link": "https://www.thehindu.com/news/national/west-bengal/man-accused-of-opening-fire-at-cop-in-bengals-santiniketan-killed-in-police-encounter/article71705045.ece"
+            },
+            {
+              "source": "Law.asia",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44VHpSai1Qa2lRSFAtNUdKeDVjWmt6d2JiYWw0UTk1LVVsb0loYi1YeEJpWW42NXExS2UzS3RicWFoQzlMamI0a1g0WFF2anJRa0hkUkJrUVhTTWFxX0t3QmZkRlFWWDA?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Chinese military aircraft reportedly enters Indian airspace",
+          "feedTitle": "Chinese Military Aircraft Reportedly Enters Indian Airspace Over Sikkim",
+          "summary": "A Chinese military aircraft allegedly breached Indian airspace over Sikkim, hovering for approximately 20 minutes according to reports. Indian officials and the IAF have not yet confirmed the incident. The alleged incursion raises tensions along the India-China border.",
+          "source": "Arunachal24",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUWxIWEhfYnRWd2tTaUJGVEhoTmJsVEJURkIyMVhEQ0dFVnp6VVozTm5XQ01ESG5vVVJMbmYtQ1Fad2hZQ0M1V3o0ZWNjNHVoVW0teVNkZkV0QTBTWTMxMkhrYUJULXRkUHdFZDVrNG1yVVNDZ2lJNFBRQVRGamlvWU5rNDNGRG95VFk0S0U5SGRWMDRJM3hUVFh6aw?oc=5",
+          "sources": [
+            {
+              "source": "Arunachal24",
+              "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUWxIWEhfYnRWd2tTaUJGVEhoTmJsVEJURkIyMVhEQ0dFVnp6VVozTm5XQ01ESG5vVVJMbmYtQ1Fad2hZQ0M1V3o0ZWNjNHVoVW0teVNkZkV0QTBTWTMxMkhrYUJULXRkUHdFZDVrNG1yVVNDZ2lJNFBRQVRGamlvWU5rNDNGRG95VFk0S0U5SGRWMDRJM3hUVFh6aw?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "India lifted 500 million people from poverty but survival remains precarious",
           "feedTitle": "India pulled 500m people out of poverty. Many of them still barely survive",
-          "summary": "India has pulled approximately 500 million people out of extreme poverty over the past 12-13 years, according to World Bank data cited by PM Modi. However, many of those lifted from poverty still barely survive on minimal incomes, raising questions about the sustainability of gains. The report highlights the ongoing challenges of ensuring quality of life improvements beyond income thresholds.",
+          "summary": "Despite India pulling 500 million people out of poverty over recent decades, many remain in precarious economic situations with minimal resources to sustain themselves. The World Bank report highlights that while poverty reduction has been significant, the sustainability and quality of life improvements remain concerning for newly emerged populations. The findings underscore ongoing development challenges.",
           "source": "Al Jazeera",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdWVDYXdYMlpHdW9JVDVMUHJGdzl1QzdaQkJnNDRnM1lSWW9TcmpOQW9TSHFjR1llWDBpTTdidVdEYk12T2FtN2Q5ZUNPTDJZSDBqbUdzR2xWaFRtcTBtclRKNmhYVWMxaWJvU2Rxd0hBRXBKNHJjLS1jZzhNbUVJQ25XYlZEYmFRWHpuV0hNYnVYREEyTHZ6OUV6aDB2TXptSWhZRWhjWmNRd2xTc0ZTay1wMEc5eUpmTWfSAb8BQVVfeXFMT1h1SElLMHdfN0E3ejBLWFBFaHExaTN6cHYzWTVwVkhJWjZuenkybkVRM1hKR1RBWDFud2s1VGN2YVdOMHBZVlFKaGlpNkxQdU1oelY3ck1ydGMyZDZGYmtPd3hTTWtLbDc4WUJjT3FUY3Bwel9VLXY1SnZnVWhjRjVCVFhfX2pVcUNFUXFVQmJrT1R1Q280LWgteDJLWWI0bWczdGk4WnFrd3NrOC11ZjdlWTZxeXNzNFozTzE0RGc?oc=5",
           "sources": [
@@ -285,72 +319,13 @@
               "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdWVDYXdYMlpHdW9JVDVMUHJGdzl1QzdaQkJnNDRnM1lSWW9TcmpOQW9TSHFjR1llWDBpTTdidVdEYk12T2FtN2Q5ZUNPTDJZSDBqbUdzR2xWaFRtcTBtclRKNmhYVWMxaWJvU2Rxd0hBRXBKNHJjLS1jZzhNbUVJQ25XYlZEYmFRWHpuV0hNYnVYREEyTHZ6OUV6aDB2TXptSWhZRWhjWmNRd2xTc0ZTay1wMEc5eUpmTWfSAb8BQVVfeXFMT1h1SElLMHdfN0E3ejBLWFBFaHExaTN6cHYzWTVwVkhJWjZuenkybkVRM1hKR1RBWDFud2s1VGN2YVdOMHBZVlFKaGlpNkxQdU1oelY3ck1ydGMyZDZGYmtPd3hTTWtLbDc4WUJjT3FUY3Bwel9VLXY1SnZnVWhjRjVCVFhfX2pVcUNFUXFVQmJrT1R1Q280LWgteDJLWWI0bWczdGk4WnFrd3NrOC11ZjdlWTZxeXNzNFozTzE0RGc?oc=5"
             }
           ]
-        },
-        {
-          "title": "ICC confirms India hosts 2029 Champions Trophy, 2031 ODI World Cup",
-          "feedTitle": "India to host 2029 Champions Trophy, co-host 2031 ODI World Cup, confirms ICC",
-          "summary": "The International Cricket Council confirmed that India will host the 2029 Champions Trophy and co-host the 2031 ODI World Cup. The announcement solidifies India's position as a major venue for international cricket tournaments. India will share hosting duties for the 2031 World Cup with another nation.",
-          "source": "Rediff",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ1FYWjNzWVQwZmFJUlI3cDktTEdqM2p6TFA3dm5RWkEycHVwOXl6WmJfeGpPSnVSdmE3elZvc3d0S2pCYjJ4TVlTOU9QN1l6dmxkUVJxWDlFYVVtV2VmcldaalVvZ2V3bms2aVlRT1luXzBpNnVPZ3BEelczdF8waDJUbWJCSHVaSTlWbzdQXzFLaENDY2hjZnRUNUxydGhLQThrVi1IS2tBWHpfSTI3WdIBswFBVV95cUxPeVQzMzh1ZEdGeElKLWgyaWpPOW1ZNV9OT0FER3dxbU5NdG1jcW85WG45T191WXpsMWt6REdSZXc0SFM5cjZfWjZoa3AyNXJBclJhbUxVQ1V3QVRVdUdoUllUSDBXbjhfdG9fbllmMkJDREVTa2dQcFlyZ0gwMzJITUFtNTJxWnoyODVpZEJGUWpfVzJaSmxSLXRfN1lCc25BU2MwLS1vcERSUUllMjZ5YXktNA?oc=5",
-          "sources": [
-            {
-              "source": "Rediff",
-              "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ1FYWjNzWVQwZmFJUlI3cDktTEdqM2p6TFA3dm5RWkEycHVwOXl6WmJfeGpPSnVSdmE3elZvc3d0S2pCYjJ4TVlTOU9QN1l6dmxkUVJxWDlFYVVtV2VmcldaalVvZ2V3bms2aVlRT1luXzBpNnVPZ3BEelczdF8waDJUbWJCSHVaSTlWbzdQXzFLaENDY2hjZnRUNUxydGhLQThrVi1IS2tBWHpfSTI3WdIBswFBVV95cUxPeVQzMzh1ZEdGeElKLWgyaWpPOW1ZNV9OT0FER3dxbU5NdG1jcW85WG45T191WXpsMWt6REdSZXc0SFM5cjZfWjZoa3AyNXJBclJhbUxVQ1V3QVRVdUdoUllUSDBXbjhfdG9fbllmMkJDREVTa2dQcFlyZ0gwMzJITUFtNTJxWnoyODVpZEJGUWpfVzJaSmxSLXRfN1lCc25BU2MwLS1vcERSUUllMjZ5YXktNA?oc=5"
-            },
-            {
-              "source": "The New Indian Express",
-              "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaWxSVTZ4ZHNBWURWTEFIcHJuMEkza1IyNmhKVnpFN2h1RWJIMEVGOWR5QUtrTHJxUm1nWTN0LVRBMVdqR3dUSUdZWEx0QjJuUmpUZkg2LVhrbGlkZ0ZLc0d4SjJfOTJ1czdDajZpZFVSRFpOQTg4X0lkRTBPRkFxcGZsUDJVRzQ3OFZQQWhXUG5aTnhoU1JZdDRhWGhVT1NvcGc5d0gwYzF1NFBxYy1PajJPa1hGUDVtcDlHcDY4Yk9QU2dNYnJteTVIeU9PZ9IB2wFBVV95cUxQd3Vzbk15cGptMVVGSnlabFE1ZUtOZVNGSGpXaVFuUGR4eWV6QXRQRTVsU0FvOGwwWHhjbFhkVEEtaEQyS3QzOHBhcE1BNlMyUERFekpORWdOamZCRTdJcy13M1poRnhORHMyZE45cnNiR3VhOWQ0TGVUaG81bklPczhuOVFHZVJUM2ppMDdLZUk0cXdxS0RCcEhHWUV0eE1CeG81Z0pRT25ocmdTQXJ1ZkxOa0ZFcGxKQ2x3ZHRUVEZxR3JKWjZxNUZfMVdJdEl3TDIzU1lhMlJnSG8?oc=5"
-            },
-            {
-              "source": "India Today",
-              "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZGJuc2s5YUM3VjF3RjgxN0RNMk1SZHJOaVByMzNDVHItY0g3b0VYV2EtS2JoT0I4YS02UEdpZ0Y2X2tCU2pHWjZ1bWozNndDMDltM09Wd0FOY0dkdlJHN1ZDZ2hHVGNHdE1NMGxQN0xRS255bUZyMXJGY2gwUWViYWN0NjZ5MFdrd1Z2XzN5M0dJbEI3d05PNDhfMDl6Xzg2RThNZWFLM1pxR1pVZk9hbmo0WGRuX04zWjVlYTZyT0dHek9oT2R4NE01U01rZ9IB0wFBVV95cUxQbWtCZW56RlI0Q2pnQ3EtTnA0WHdYWmlXXzJnV1RnM2JIbHpWNVV5dUF5UFphX2VqQUtuc01LT1V5b3ZOWVFZaW9NdGQzRWF6ZDQzTlRrQVRYOVlVMHYyZUE1S2Y0dU0yYkJ2dkxIbngyR0ppamV0WHVPX3hBTEdGMmNzVGJsbTFleXZUWnFKbzZMMlJfRFloMjJZSXpfWkRYT0dwWG9xek9jWjdmMGtyVnI4QVJxbVRQNlp4dkcwOWdrSzY5QVlzUTJPbzBnZ0ZRaC1B?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Activist Sonam Wangchuk placed under 60-day house arrest",
-          "feedTitle": "Activist Sonam Wangchuk Under 60-Day House Arrest Over Ladakh Anti-Poll Protest",
-          "summary": "Activist Sonam Wangchuk, known for environmental and educational work in Ladakh, has been placed under a 60-day house arrest by the Ladakh administration under Section 163 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023. The restrictions were imposed over his anti-poll protest activities. A Ladakh civil society group has characterized the action as administrative high-handedness.",
-          "source": "NDTV",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOczF6NlI3bURxLTNKNTdXOVVfU216LVBRQzZ4UlhTcG8xYkpXZkRWN2tueUNQaHhlTUhVdDNVRWJqUEFIVG5ldE9IbnI4clZTUnBMUk9xcWpES0FnX0JCNUFCNUxhblVmM3owS0VOaGVuVUcxcG9WRXpvREJJNTlPSUhac0lzN0NlTzBtN1M0eU9qXzd4MlJDUi02Q1JEUFExQjRFTWRLNkhEVTdMY3hZQXFxdERrZ0MyUFVHd9IBxAFBVV95cUxNWWpqTV9lNlhNbUh5bGRGSjdZY3NWZDFuYlpYY05DOEM4Z2Nkc2FXYjVCck5WRTJ0WnpoVnVVWlJyUnpuUWdwUTVKd3doc0VUazRWMDJVLU1zR2hfX0NudkU2UmYzRko0RVBNeDlJQ3JZdm1yOVlMdUZ0MjJHc0RsU080SEhEZFoydUt6U0pPU0hRaWs1SlMwWnlxTGl6emFNY25YMFBPLVplYllSeTlMOC15NFR5T0RyeGVnV0U2bVpQbldx?oc=5",
-          "sources": [
-            {
-              "source": "NDTV",
-              "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOczF6NlI3bURxLTNKNTdXOVVfU216LVBRQzZ4UlhTcG8xYkpXZkRWN2tueUNQaHhlTUhVdDNVRWJqUEFIVG5ldE9IbnI4clZTUnBMUk9xcWpES0FnX0JCNUFCNUxhblVmM3owS0VOaGVuVUcxcG9WRXpvREJJNTlPSUhac0lzN0NlTzBtN1M0eU9qXzd4MlJDUi02Q1JEUFExQjRFTWRLNkhEVTdMY3hZQXFxdERrZ0MyUFVHd9IBxAFBVV95cUxNWWpqTV9lNlhNbUh5bGRGSjdZY3NWZDFuYlpYY05DOEM4Z2Nkc2FXYjVCck5WRTJ0WnpoVnVVWlJyUnpuUWdwUTVKd3doc0VUazRWMDJVLU1zR2hfX0NudkU2UmYzRko0RVBNeDlJQ3JZdm1yOVlMdUZ0MjJHc0RsU080SEhEZFoydUt6U0pPU0hRaWs1SlMwWnlxTGl6emFNY25YMFBPLVplYllSeTlMOC15NFR5T0RyeGVnV0U2bVpQbldx?oc=5"
-            },
-            {
-              "source": "The Hindu",
-              "link": "https://www.thehindu.com/news/national/ladakh/restrictions-on-sonam-wangchuk-a-pattern-of-administrative-high-handedness-says-ladakh-body/article71705555.ece"
-            }
-          ]
         }
       ],
       "immigration": [
         {
-          "title": "US Labor Department warns H-1B cannot be used as business model",
-          "feedTitle": "More companies may face action in H-1B probe, warns US Labour Department's Anthony D’Esposito",
-          "summary": "US Labor Department official Anthony D'Esposito warned that H-1B visas cannot be used as a business model and signaled further suspensions in a widening immigration fraud probe. The warning targets Indian IT giants Infosys, TCS, and Wipro over H-1B visa abuse. More companies may face action as the department escalates scrutiny on visa misuse, proposed and not final.",
-          "source": "The Economic Times",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPb0FEUTdYeFJYV2Vpclk5QkZqVmNJT2gwVkY0ZUgwY0pCZkt5MUFESm5PUlFSQ0VWMWJWejZFRkszUDk5ejF1OXRHZVJxY01RMmk0eGgxOGp3QWV1WkNnTE0tTmpYekUwSXJIaXBpb0pQMnAySl8zeG9TTmV2eWpSMGlOVzRBNE9ua2tMTFlveXBPRDZneTgzRXhiSi1xOXlaSEYzUlA0Wk4xWExHX0JPbUJtZVh5eEtQVmEyZTVXbFlCQzF2UDM2WXloZlozY1E3dXN1UmNRRlBtd2lTVXh0SVN0UHJBeWw40gHuAUFVX3lxTE9BYjI1LW9FTFZ3bVRxWS0zQ2VqaXdzWC1yV0RlbWwwcUs3cExfZWRqbHZ3ZlZiNmN0YWdwaGtUbnNiY2EtdlBMTzR0ODkxQ2NvTUMtdHFtRzhpSXh6bzRjWUFmRnF6akNxRzUtSUxKdGxWaVFTbG1iUDB0T09XV2JUbWZKNVNRUDltaE11MVprRHJhY0ozR3A2dDJzQ095SzZVVmhNYjFOVmNoMktqMC1CaGdYdXRZTHV0SHIzcFg3NU5EUThwdmNJVG11ZzJLOTYxRk5TblFmTVhQdHotZlFZbW5oMDJ2M0dHRFc0SWc?oc=5",
-          "sources": [
-            {
-              "source": "The Economic Times",
-              "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPb0FEUTdYeFJYV2Vpclk5QkZqVmNJT2gwVkY0ZUgwY0pCZkt5MUFESm5PUlFSQ0VWMWJWejZFRkszUDk5ejF1OXRHZVJxY01RMmk0eGgxOGp3QWV1WkNnTE0tTmpYekUwSXJIaXBpb0pQMnAySl8zeG9TTmV2eWpSMGlOVzRBNE9ua2tMTFlveXBPRDZneTgzRXhiSi1xOXlaSEYzUlA0Wk4xWExHX0JPbUJtZVh5eEtQVmEyZTVXbFlCQzF2UDM2WXloZlozY1E3dXN1UmNRRlBtd2lTVXh0SVN0UHJBeWw40gHuAUFVX3lxTE9BYjI1LW9FTFZ3bVRxWS0zQ2VqaXdzWC1yV0RlbWwwcUs3cExfZWRqbHZ3ZlZiNmN0YWdwaGtUbnNiY2EtdlBMTzR0ODkxQ2NvTUMtdHFtRzhpSXh6bzRjWUFmRnF6akNxRzUtSUxKdGxWaVFTbG1iUDB0T09XV2JUbWZKNVNRUDltaE11MVprRHJhY0ozR3A2dDJzQ095SzZVVmhNYjFOVmNoMktqMC1CaGdYdXRZTHV0SHIzcFg3NU5EUThwdmNJVG11ZzJLOTYxRk5TblFmTVhQdHotZlFZbW5oMDJ2M0dHRFc0SWc?oc=5"
-            },
-            {
-              "source": "Livemint",
-              "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZC02TnRZZF9rRXEyZUJUU1VCenlTWFBRUWZvOVhJbnZaMFo5dVAzZzljUkE4V1c3OXNmQm9sdWlteEVDT25wZkcwNjU0cllVVWE4OE1TTWtfWkNoM3JuMVFYYTFXQ3lJWlQwMVNEemIyTHBwRkd0UjNkYnNfUzAzNThzeURWcG9jaGwwV0R5Y0p6MzU5YUpsUUw2WFRRb2lFbDFCS2lvZ0ozSm4zeXdJcGdJYlVWRU4xcDFJcWNWU3hBdThMZUJoYkpHZkEzVzZ3S01zdWxpWkhzVWUtZVV6WWNHNGwyQdIB6wFBVV95cUxORXJySEwxbGhxUGJoTllYM2lTbTlsUTROaDZXRC1UbnBYczlpWXFTOGxiWERjSWJHRVBISzhlbUpJeUp3aHNGOGp2Wk80bUJKc1YtX2c1VUhDV1JQeHBDMUFxd0Ywd3k0RUR5SFY2N1V6VndGS3FZVFFWTHBnNTA0cFFGS1BaZldpT2RERWNnV3A0Mld4TVB3dGJtejUzQ0hOYlBnZnBlWTktZ0dfMkl3UUQ2NWtvV0VsTnF0VGoyREctYjNYakNwUHpqbUNpYXR4cURQWW5xODJ4b2NNMUFURFlEWWxTSUxGUWJz?oc=5"
-            },
-            {
-              "source": "Business Today",
-              "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxON3RhSWhMc0gycEVpT2hEdHVsZ2l1TmlwQTJERmJ3dlctSzBjdTZXd2hzUGE1bnpGMUdWSTdDc1dWLVpoSzU2ODJNdFVld3ctNmVKYUtPNUVrd2F5NHFmal9LNHpEVHVZS2k5LUZoZTRkSHJnU0hGVnhVNmcwdy1heUxOck5lNjVqaF8tVTN6dTcxbGliUW9BSy12bTlFZHNtZEpYSTR6YkRScWpFV3ZoRldoVEFfV2VyY2NYTjBPbnJfMzBpSkQ0bDdpNG1nMVU5Y244VmVuMEEzUGFBUzJUUWxSM1JleE9lTWl5SHRoeTU?oc=5"
-            }
-          ]
-        },
-        {
           "title": "US revokes over 6,000 visas in birth tourism crackdown",
           "feedTitle": "Crackdown Against Birth Tourism: US Cancels 6000 Visas",
-          "summary": "The United States revoked more than 6,000 visas of foreigners linked to birth tourism participation or facilitation, the State Department announced. The crackdown reflects tougher immigration enforcement targeting parents who travel to the US specifically to give birth and obtain citizenship for their children. This represents one of the largest visa revocations on record, finalized and in effect.",
+          "summary": "The United States has revoked over 6,000 visas as part of an expanded crackdown on birth tourism and related immigration fraud. The State Department implemented the policy to prevent foreign nationals from using US citizenship as a mechanism for anchor family visas. The revocation represents one of the largest visa cancellations in recent history and is now in effect.",
           "source": "Trak.in",
           "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5DMEk0b202TFhnZldUbUp5WUpwa2Z4NEVzTjZaOUtTMGNaREVTQWtkckd4dHFWb050ckNBeTRYTktDd3dKSlF0cUJn?oc=5",
           "sources": [
@@ -369,9 +344,9 @@
           ]
         },
         {
-          "title": "DHS proposes ending USCIS deference on H-1B extensions",
+          "title": "DHS proposes ending deference on H-1B visa extensions",
           "feedTitle": "DHS wants every H-1B extension reviewed from scratch; the rule is only proposed and comments close November 13",
-          "summary": "The Department of Homeland Security proposed ending USCIS deference to prior approvals on H-1B and other I-129 visa extensions, requiring all renewals to be reviewed from scratch. The change could impact approximately 208,000 work visa renewals and trigger an estimated 6,000 additional Requests for Evidence (RFEs). The rule is proposed, with comments closing November 13, not yet finalized.",
+          "summary": "The Department of Homeland Security has proposed ending the USCIS deference rule, which requires each H-1B extension to be reviewed from scratch rather than automatically approved if the initial petition was approved. The proposal, still pending and not yet finalized, could impact approximately 208,000 work visa renewals and trigger additional requests for evidence. Comments on the proposed rule closed November 13, and the final rule has not yet been issued.",
           "source": "Nacionale",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTTBVN3k1bnFLV2lJYV9xRF94UENsdTZvWXpWUkphTE5yQUdlcnRPUnZOSWphRVhDM1BfVGV1T19OSTcwMUQ4Mm5TZXl0dlVPUkQ5cm93MERSR09LSlA1V1p1TW4yZHNVem5JTGlqUUNScUwySXVZb1pXdWNPU2tTLUlLNGpWQ3NOR2Y5VDB0LVZHLTVOZDU5QklGV2kycXNKVDFTOWdMU055SXM4UlI2OW9tWWZkdHM?oc=5",
           "sources": [
@@ -380,8 +355,29 @@
               "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTTBVN3k1bnFLV2lJYV9xRF94UENsdTZvWXpWUkphTE5yQUdlcnRPUnZOSWphRVhDM1BfVGV1T19OSTcwMUQ4Mm5TZXl0dlVPUkQ5cm93MERSR09LSlA1V1p1TW4yZHNVem5JTGlqUUNScUwySXVZb1pXdWNPU2tTLUlLNGpWQ3NOR2Y5VDB0LVZHLTVOZDU5QklGV2kycXNKVDFTOWdMU055SXM4UlI2OW9tWWZkdHM?oc=5"
             },
             {
-              "source": "Clarín",
+              "source": "Clarin.com",
               "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNc1h0VGRFc09HX01kaFBhYk9vNDlRbENGSENXblhyRGFSVThmejZZUDgwOWdaTHZSbVdtOVF2OU5lOHJNOWJtY0Z4Uno2UEt6U3JOQkJFNVpydGtteDBVdVhDM05Lb1FuVGtKS0NENjJmb0hEQ204YlhzcnpWSVc1dmdxVy1lRGlQNHdCZERJRlRDdXRpVWpLMUR1UTFPcHVvTEtmWC1oNWt5R0FhSjVlQVM4Zzk2RE53UDZaU2RiR01HSDhrSFZmczdQR2tzcGxZajU2MncyS1VqQWFPRXFXb2xXdEpIY2RSODNkWXg0Z1NMTDg3eXk4M1FVd1JaeDI2cXFGadIBigJBVV95cUxPX2pJbjE1SGpzRTR0b0o3cWZDODFpT25rQmR6YWZwdVlwWFdRNm1HRS04UXgzaFE4SW1EaENsQkR3b05nRE9LOXpSX3Jxbm9lRE1XTXZibkp0Z19fUkZjajhodE8xQU5kd2ZJdWY1a0Fsc1ZIOF82SkVuRmNOY2NFclJ5NGtvV21FX1RNRlV1RWlyWGhDczJxV29BTEV4aVZhaVdobHMzTW5aZHF5TkJ3OG1maS1rNzVhOWJ3QTR0RjR2OXQteU1qMjZUeTd4MWtuWmdqdHlNR2lobHBBc3BHaGFMTEpKWEd6cFZKVG1LejM2NTNrNXBsS2pqZjBOeHhXdlB3UHJCck1Edw?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "IBM ends H-1B sponsorship for most consulting roles",
+          "feedTitle": "IBM to end H-1B visa and green card sponsorship for most consulting roles amid Trump's immigration crackdown — Report",
+          "summary": "IBM has announced it will end H-1B visa and green card sponsorship for most roles in its consulting division by the end of 2026. The move comes amid the Trump administration's broader immigration crackdown targeting skilled visa workers. The decision reflects broader industry concerns about the uncertain future of the H-1B program.",
+          "source": "Livemint",
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPUnBDY1JpMGpRcHdXdGNQZjRhNzRzUGRGdGN2SnkxVURnYXhiQkdVNjRHRlQ5RnQycjBzSTR2a3dsSGl1d2JFOHJNSnNscTloRGZMblhSZ2NiRHVuOXJ6Z09OOTVxS2FhQmxHM2NIbWw4UHRoSEs1N0ZDZXlWMWFlbjhHRjJCYnJpaXFPc3N6WjdCeVpna04yNDktclc0RVpmMV9wUzl5VmwwZ0hYSDRSNzMyandheC1zM2xrS0lfYld1N002aVEwbnRCLUtHY3poWjZucERpeVc1Uy1va1RHbE1EUFNQWDNSN29JTWlDTm0wbTZ5azBSbmx4OGZ6Zjd0djM3YdIBigJBVV95cUxOeWV1MGpKVEY1M0g4ZS1jUkpvT2UzaFdkRnRidGZQOXB5UHFrVFRlVmo1MFFJU1BCNWJ0OHh4SjZkck1FdnN0UVplRXBxVTRkUEZiOW1mbXhoalFLUzE1Z0FZdldULU1JUVQ0cThFN05tMHRpYlpSV3FHV2FwNEEwQmp2SVlUWGdUVE4wZFlEOFRwbVpyU0taeFZ5LXVBZ1pRVm04d1FZbUpGb1NZTGhiRG84RHRwWXFvbGZCVF9uaUpzOFBzay1PSVNpYXltZUo3VU9UZ1J4a0MzZHpPdkNaM0JQLUtYQVRhZV92eS1kbzlQQm5NQWlNa2JRWkxWRVJVUzhoYjlSMllHUQ?oc=5",
+          "sources": [
+            {
+              "source": "Livemint",
+              "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPUnBDY1JpMGpRcHdXdGNQZjRhNzRzUGRGdGN2SnkxVURnYXhiQkdVNjRHRlQ5RnQycjBzSTR2a3dsSGl1d2JFOHJNSnNscTloRGZMblhSZ2NiRHVuOXJ6Z09OOTVxS2FhQmxHM2NIbWw4UHRoSEs1N0ZDZXlWMWFlbjhHRjJCYnJpaXFPc3N6WjdCeVpna04yNDktclc0RVpmMV9wUzl5VmwwZ0hYSDRSNzMyandheC1zM2xrS0lfYld1N002aVEwbnRCLUtHY3poWjZucERpeVc1Uy1va1RHbE1EUFNQWDNSN29JTWlDTm0wbTZ5azBSbmx4OGZ6Zjd0djM3YdIBigJBVV95cUxOeWV1MGpKVEY1M0g4ZS1jUkpvT2UzaFdkRnRidGZQOXB5UHFrVFRlVmo1MFFJU1BCNWJ0OHh4SjZkck1FdnN0UVplRXBxVTRkUEZiOW1mbXhoalFLUzE1Z0FZdldULU1JUVQ0cThFN05tMHRpYlpSV3FHV2FwNEEwQmp2SVlUWGdUVE4wZFlEOFRwbVpyU0taeFZ5LXVBZ1pRVm04d1FZbUpGb1NZTGhiRG84RHRwWXFvbGZCVF9uaUpzOFBzay1PSVNpYXltZUo3VU9UZ1J4a0MzZHpPdkNaM0JQLUtYQVRhZV92eS1kbzlQQm5NQWlNa2JRWkxWRVJVUzhoYjlSMllHUQ?oc=5"
+            },
+            {
+              "source": "IndianEagle",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcV9ES3pKcTVob3lsTmlsZWZBcVY0QWdxdHZQSkVsMm1iUjV4YWNHVEl5cC0wYmViMTdSQ2xJSDlqYU9ONTNjdDFqcG50UzVtMUFURVc2TDhuaDlaaDlFUm1uWEpNZXJjLVFWbGZQV3F1ZGtBY3lvUUxTY1gybGxkRHhseUQtbUhwaVoxX042NA?oc=5"
+            },
+            {
+              "source": "Analytics India Magazine",
+              "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONExMbTBFelJYQUNhbDZsajFpaXB3QWZ1ZVVvS2lBbEVpejFFNTVCTm15Y0tHaFVuYmhoeDJnU1Z4cUdoTFpkSFNEZWF2UnlEaVhPS2xacm4tQ1VlaUxYbVpoR0NQb19LLUx0dmVrdWNqRjZQX1BwdUpBamVubTRzTC1KUTRYTFA3SG1qR1ZOTG5WZG9XRzlYdVZBa3BjM2dZTjU3Vk9iVnRuQWE3a1dMajJR?oc=5"
             }
           ]
         }
@@ -390,71 +386,95 @@
     "finance": {
       "items": [
         {
-          "title": "Treasury Secretary calls for Nvidia leadership overhaul",
-          "feedTitle": "Bessent Says Nvidia Needs ‘Dramatic Shakeup’ After Huang Ouster",
-          "summary": "Treasury Secretary Scott Bessent called for a 'dramatic shakeup' at Nvidia, urging the company to seek an external CEO amid the scandal involving founder Jensen Huang and export control scrutiny. Bessent's public call for new leadership reflects concerns about Nvidia's direction following Huang's departure. The statement signals broader concerns about AI chip export controls and corporate governance at the semiconductor giant.",
-          "source": "Global Banking & Finance Review",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN2tBV0YyZ2lfS0UzaHp3WlhvaW9rT1F5SXdTRV9OWk9LYnZIeEctRl9JVTFqYkViZVBLdmR1cGR0dndXdGVuRTl3bmtkalRUMDFFZFlsbGZ2WkJPdnlrTC1GWGVjUnVWTXNkNHZ1SzVTSUdpX0prb3QxU2IxUl9sV2xvT29MdkZFdkZQMWtuOVQ?oc=5",
+          "title": "Anthropic Is About to Become the World’s Most Important AI Stock",
+          "feedTitle": "Anthropic Is About to Become the World’s Most Important AI Stock",
+          "summary": "Summary unavailable for this update.",
+          "source": "Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQODdmTFpBUUlXcW55cnVOTjdwX0RPc3E0YklsbEN5S1hidDJHd0NVNHpUaV9md0pZQTluZFBCV2hmajM1UWpWbXBxbTlJRjRGd0NleDRJYjg5dTBiUkZWMlpzUlgxQkUtaWJRZTlhRTd0MGc1LU1fTmRtb3JvMG00OXl1NmJQMnQzaHR1ZzduNlZKSHdVZGNzYUUwUFY1QUhFSjRpeGNUb0dRbHItVENqQ0k4MXg3V3p6MFdvMUZBYXdOZTd6OGlSVUxn0gHPAUFVX3lxTE1GM0ltbXYyTHVyQVBDc1ZVWG5DUjMtZkVXT2diNVJqT3R5Yk8tQmhRc19MakszblJUbEM0WGE1d0hQU2tKRDBPZmMzeFpUYzkxeTZHckE5SDhtUVo0d2YtdXRTYVREVnpGU2o5bEthVjc2NXZEblkzWkpTeWxZUFVQSVZZei12MThTZlplNWk5ZXhFTWRXV2h0MzhGNlprdUdWTUdKTGJZaEZvTGV3RnhDaHRUcTUyX1ZWZXo5WGk3UkNNWEJLR2FBWHFRUnp1MA?oc=5",
           "sources": [
             {
-              "source": "Global Banking & Finance Review",
-              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN2tBV0YyZ2lfS0UzaHp3WlhvaW9rT1F5SXdTRV9OWk9LYnZIeEctRl9JVTFqYkViZVBLdmR1cGR0dndXdGVuRTl3bmtkalRUMDFFZFlsbGZ2WkJPdnlrTC1GWGVjUnVWTXNkNHZ1SzVTSUdpX0prb3QxU2IxUl9sV2xvT29MdkZFdkZQMWtuOVQ?oc=5"
+              "source": "Moneycontrol.com",
+              "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQODdmTFpBUUlXcW55cnVOTjdwX0RPc3E0YklsbEN5S1hidDJHd0NVNHpUaV9md0pZQTluZFBCV2hmajM1UWpWbXBxbTlJRjRGd0NleDRJYjg5dTBiUkZWMlpzUlgxQkUtaWJRZTlhRTd0MGc1LU1fTmRtb3JvMG00OXl1NmJQMnQzaHR1ZzduNlZKSHdVZGNzYUUwUFY1QUhFSjRpeGNUb0dRbHItVENqQ0k4MXg3V3p6MFdvMUZBYXdOZTd6OGlSVUxn0gHPAUFVX3lxTE1GM0ltbXYyTHVyQVBDc1ZVWG5DUjMtZkVXT2diNVJqT3R5Yk8tQmhRc19MakszblJUbEM0WGE1d0hQU2tKRDBPZmMzeFpUYzkxeTZHckE5SDhtUVo0d2YtdXRTYVREVnpGU2o5bEthVjc2NXZEblkzWkpTeWxZUFVQSVZZei12MThTZlplNWk5ZXhFTWRXV2h0MzhGNlprdUdWTUdKTGJZaEZvTGV3RnhDaHRUcTUyX1ZWZXo5WGk3UkNNWEJLR2FBWHFRUnp1MA?oc=5"
             },
             {
-              "source": "Bloomberg.com",
-              "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS1ZOWlF3ZUlxWGYyZm9kX3NnZUsyNEpjYXhKaWMxY3hPbnRvSlJYeHc3ak9lejRYcHdmWjB2dk54cmMweklHdXdpVDdmRm9yNE91LWJKV2VoUC16bF9sdzRTM2NhWk5MMnBROXJ2UHA2SU0tSDNpeEZLZkxJZGg4T1laVHUyU1Fid0dtYjQ3c0tHMFRsOVp3TndoeEUzaElUSkxVT3hlOGQyZTVPZDF3emxB?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Nvidia scandal wipes thousands off investor 401(k) accounts",
-          "feedTitle": "How Nvidia's scandal knocked thousands off your 401(k)",
-          "summary": "The scandal involving Nvidia founder Jensen Huang's affair and alleged connections to a suspected Chinese spy has knocked thousands of dollars off investor retirement accounts, as Nvidia's stock tumbled. Many individual investors hold Nvidia shares through diversified index funds and 401(k) plans, meaning the decline affects a broad swathe of Americans. The decline reflects broader concerns about AI sector valuations.",
-          "source": "Axios",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5TcWtMLWwzT2tqM2hJUjhrdnZUY2RZOWV2dWFYcURGSFJqRlVMaVBFSDdxVDV4NzFtbUc0M2NpRWN1QUlLZmdiNGhhWkZWTVlxYl9ocjZ2NVpxMTNtdnZNdFF1NVo4V3NISGNhMDJYOUo1V0twaG5QNWxqZw?oc=5",
-          "sources": [
+              "source": "Investor's Business Daily",
+              "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQmoxeERFTVM2VG9DVVBnRERlZG4tcU0tOGFveC1mYlhEZEJydUZNM2ptaExRYU1LYXg3XzlUUHhtZ29JSF9OYlZtd0FSaF9mME9TYzhTWUVJT0lSSGVPSTMxZlhkTWhQMVp4MkRFVUdUZHRTNVd1bTdTckF2Q3VYdUxKY3kyaFpDaTZkQ1BVMHdrTUNQLUhnVVhPZzJIM3h6Tlg2THNnZU5NRDRvV3NFZUlta28wVXloNGhfNUFFTWdKR3Q3Vk05RnBhQXdWQkl3UTlGRC1RRGo2QU9rTmc?oc=5"
+            },
             {
-              "source": "Axios",
-              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5TcWtMLWwzT2tqM2hJUjhrdnZUY2RZOWV2dWFYcURGSFJqRlVMaVBFSDdxVDV4NzFtbUc0M2NpRWN1QUlLZmdiNGhhWkZWTVlxYl9ocjZ2NVpxMTNtdnZNdFF1NVo4V3NISGNhMDJYOUo1V0twaG5QNWxqZw?oc=5"
+              "source": "Bloomberg",
+              "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ0FXWUttSDRhNUNacC1GM0hiUWtnSVRoamZreG5QRkFqNlZVTHdSUjNNeHNCNmhGWWZBcGxiaTBIcDhvSDZxNExuclFYRlBJTXFuRXdjd2xzNkdpZ2RkblFZYlFNNnBkcHdfU0VRQXhvaWNaamU2SUNNdDNCVTctZnB5cUZiVmFuXy1aWFNqRWlXQ3pZSl9NcGQ1MFFnWEZBTHdaZE9GNGI5cEJSaG1pQkhGNA?oc=5"
             }
           ]
         },
         {
-          "title": "India's stock market rebounds as AI retreat fuels rotation",
-          "feedTitle": "AI retreat fuels India's stock market comeback in great rotation trade",
-          "summary": "India's stock market is experiencing a comeback as the 'great rotation' trade gains momentum following weakness in US AI stocks. Short covering and foreign inflows are fueling the Indian market rebound, with investors rotating out of expensive tech names into emerging market equities. The shift reflects a reassessment of valuations after the AI sector's recent turbulence.",
-          "source": "Business Standard",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPN2hpYVlVZnN6Q0RBTUMtVHFqbTd2Y2RlTHliV0RLTENfeENwb19sU3JLYlE2eUprbWFtUE5tLVJfQklWNHI0UzNsRGE2VjJWR0U0cmF0dGZ0eDhjS0VvR19LbG9CWWV4VDNCR3N5WGtKNlQtNUcybThDRDZQb2dqdWQzYWFrZ0JBLTM5alN6WDFNSFFLdmh1SDF5QTRGRXVMNzdXY0NVUUxkcDlXSllfdlllZDVqUENQZTZ0eUUxc1NrdW1yc3lHWlJWbTZ2dkRZ0gHWAUFVX3lxTE5oX3dlbW5paDJsTHdpR01CRzVXUl9CcEU5NVZPd1A5QU9JUGdaSW1rcVdVZkJjSzlnczU0UlZTXzV4Y1M0cERCWGE0dDZTdm1WampKQ19RLUM3c0VvOEFDTG5BZ2lKYnV4OVMxOWVQQkZIV0l4elZQR01NcjlQQ0RqeUExZmo3X1JUc21vUTBUT1h2WlBUcUZiVDZJVjhZSkZudVFIbzVfN21zNWtaTGlFUmhTZFBLQUdlTjRPdXotay1LRFdnREFHTHJCaEVVSEtLOFVxd3c?oc=5",
-          "sources": [
-            {
-              "source": "Business Standard",
-              "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPN2hpYVlVZnN6Q0RBTUMtVHFqbTd2Y2RlTHliV0RLTENfeENwb19sU3JLYlE2eUprbWFtUE5tLVJfQklWNHI0UzNsRGE2VjJWR0U0cmF0dGZ0eDhjS0VvR19LbG9CWWV4VDNCR3N5WGtKNlQtNUcybThDRDZQb2dqdWQzYWFrZ0JBLTM5alN6WDFNSFFLdmh1SDF5QTRGRXVMNzdXY0NVUUxkcDlXSllfdlllZDVqUENQZTZ0eUUxc1NrdW1yc3lHWlJWbTZ2dkRZ0gHWAUFVX3lxTE5oX3dlbW5paDJsTHdpR01CRzVXUl9CcEU5NVZPd1A5QU9JUGdaSW1rcVdVZkJjSzlnczU0UlZTXzV4Y1M0cERCWGE0dDZTdm1WampKQ19RLUM3c0VvOEFDTG5BZ2lKYnV4OVMxOWVQQkZIV0l4elZQR01NcjlQQ0RqeUExZmo3X1JUc21vUTBUT1h2WlBUcUZiVDZJVjhZSkZudVFIbzVfN21zNWtaTGlFUmhTZFBLQUdlTjRPdXotay1LRFdnREFHTHJCaEVVSEtLOFVxd3c?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "US home sales hit 16-year low amid mortgage rate surge",
-          "feedTitle": "Home sales hit 16-year low in October amid soaring mortgage rates",
-          "summary": "US existing home sales fell to a 16-year low in October, dropping 8.8% year-over-year to 3.75 million units, as buyers were driven away by high mortgage rates near three-year highs and rising inflation. The weak sales data reflects persistent affordability challenges in the housing market. Elevated mortgage rates continue to dampen buyer demand despite recent economic data.",
+          "title": "Nvidia Fallout Looms Over Trump-Xi Meeting",
+          "feedTitle": "Nvidia Fallout Looms Over Trump-Xi Meeting",
+          "summary": "Summary unavailable for this update.",
           "source": "The Guardian",
-          "link": "https://www.theguardian.com/business/2026/nov/12/home-sales-october-low",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbGVtNVJwRV8wTl9BUEQ4ZXBIT0V6aHVHdEt2NHk3ZWhHVzZkek5RX0pZN1lnSmN4cVNvOEtvVmttTXpLbkVGU0JmNXRVd3N1T1B4dlg4YWNEbjE4UjAwckdqREthS3BrQy1rSFdydzlNMlB0cTk5Z2NuZnhTZ0IzV2EzOTRObkJUQUdwcnViZ2dUTk5QaVVlbDFYQXVySVp4cWNTVlNGN1BXXzBQOVIzVjhiMWc?oc=5",
           "sources": [
             {
               "source": "The Guardian",
-              "link": "https://www.theguardian.com/business/2026/nov/12/home-sales-october-low"
+              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbGVtNVJwRV8wTl9BUEQ4ZXBIT0V6aHVHdEt2NHk3ZWhHVzZkek5RX0pZN1lnSmN4cVNvOEtvVmttTXpLbkVGU0JmNXRVd3N1T1B4dlg4YWNEbjE4UjAwckdqREthS3BrQy1rSFdydzlNMlB0cTk5Z2NuZnhTZ0IzV2EzOTRObkJUQUdwcnViZ2dUTk5QaVVlbDFYQXVySVp4cWNTVlNGN1BXXzBQOVIzVjhiMWc?oc=5"
+            },
+            {
+              "source": "The Motley Fool",
+              "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQmlNU2ZORE5RUjR1M3V0dzRtQWtHMWhZTmR3RGl2REtEYlB2U0JaTjA5anlOMHFuNkNfMmNINzlXZXg5cllMUVNjSFY5Q3FHT1RpSk1nLWtfazUxTFpWOG1wMVp5aWhxMV8yMUJHZC1zeHNNTmhRNlhlY0o1Rkt6S2VPVll6MUYyenQyQnV1WFFJSlRNcW94WDNid2FrMnhRTHNsa2FNQkpFR1ZIVE84VVJnMlBjQTdwQ3k1THVWeE1uUG83Znc?oc=5"
+            },
+            {
+              "source": "The New York Times",
+              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUnBicm1Jcmo3Ukx0dXNldVp4TmRXbkpvN0JIV2NaWE9VaFB5RGxqLTU1WFV2MGpSTXlzZ3A0ZHlZdG5pcHVjaWxJQl9idVJfSUZFVUp1RWJzTGphUzNDc0Z0S0xrNkFwdlZqbWl3dFRPM2MwYmdIVGpKVVhTR2wxT1AzVWlSUQ?oc=5"
             }
           ]
         },
         {
-          "title": "Global oil supply swings to surplus as Iran war pressures ease",
-          "feedTitle": "Global oil supply returns to surplus for first time since start of Iran war, says IEA",
-          "summary": "The world's oil supply swung back to a surplus for the first time since the start of the US-Israeli war against Iran, with supplies outstripping demand by nearly 2 million barrels a day in October, according to the International Energy Agency. The shift signals tentative signs of market rebalancing after months of supply concerns. Lower geopolitical tension and increased production are easing pressure on prices.",
+          "title": "Global oil prices drop amid surplus supply expectations",
+          "feedTitle": "Oil Prices Drop on Expectations of Global Supply Surplus",
+          "summary": "Oil prices have declined as the global market shifts toward a supply surplus for the first time since the start of the US-Israel war against Iran. The International Energy Agency reported supplies outstripped demand by almost 2 million barrels per day in October, signaling tentative signs of market rebalancing. Brent crude is trading near $95 per barrel.",
           "source": "The Guardian",
           "link": "https://www.theguardian.com/business/2026/nov/13/global-oil-supply-returns-to-surplus-for-first-time-since-start-of-iran-war-says-iea",
           "sources": [
             {
               "source": "The Guardian",
               "link": "https://www.theguardian.com/business/2026/nov/13/global-oil-supply-returns-to-surplus-for-first-time-since-start-of-iran-war-says-iea"
+            },
+            {
+              "source": "Global Banking & Finance Review",
+              "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYUFHM0s1REdZelkxTFJUWHBBRGlyR05uX0w3V1Y2Vk5wNlp4d2IzSm5zYjZKRDVqbGhVa1Bhakh0UHd6cXZtYlJpU3RuMzBGQnpUWDlXaHN1eF9YUjhOMThueFV2M05sMUR0dFNOQnNLYy1JLVluTFUwbHFJTldZenBWVEU0VkZDT2o0dkc2RnozWmRBT1E?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Asian shares fall ahead of Nvidia earnings and IPO test",
+          "feedTitle": "Asian shares fall before Nvidia earnings, Anthropic IPO test tech rally",
+          "summary": "Asian equities declined as markets brace for pivotal tests of the AI sector: Nvidia's earnings report and Anthropic's blockbuster IPO debut. The pullback reflects caution among investors concerned about the trajectory of AI stocks following recent market turmoil. Market participants are awaiting key economic data and Federal Reserve minutes.",
+          "source": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa3g3MVMxZ2lSN1ZpTmpaWkdYR25ZdDZ4M3BELXQ3ZC1PZDhtNTVjYmpQdHlJZUFtLWxiUkFLbXhUVHM0OHNScEUyTWFHUU5MMmZYb0EyVW51dXd1OWJFak1NbVFwazhlVzBIcHB3TENzRG1IZ2FvVFlpS0xubFBadXlPYw?oc=5",
+          "sources": [
+            {
+              "source": "Reuters",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa3g3MVMxZ2lSN1ZpTmpaWkdYR25ZdDZ4M3BELXQ3ZC1PZDhtNTVjYmpQdHlJZUFtLWxiUkFLbXhUVHM0OHNScEUyTWFHUU5MMmZYb0EyVW51dXd1OWJFak1NbVFwazhlVzBIcHB3TENzRG1IZ2FvVFlpS0xubFBadXlPYw?oc=5"
+            },
+            {
+              "source": "Bloomberg.com",
+              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU3BQd2lUam5YX1RGekdqV203U1BmRzNUQnlhem10ajRycVpfTUYzRWtOM2h1ZDd5M2tvUnNXeG1VOHRGTEl4VkJsSUhuQk41UlcyNU1EZDJaSTNTd2NvM3lDUDV5NU95SUtxSHZaZEpjSnMxRGgtamUtb0lYWUtHMTFZZDBLblVaeXhVTEhSa2ZPeF9y?oc=5"
+            },
+            {
+              "source": "Bloomberg",
+              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU3BQd2lUam5YX1RGekdqV203U1BmRzNUQnlhem10ajRycVpfTUYzRWtOM2h1ZDd5M2tvUnNXeG1VOHRGTEl4VkJsSUhuQk41UlcyNU1EZDJaSTNTd2NvM3lDUDV5NU95SUtxSHZaZEpjSnMxRGgtamUtb0lYWUtHMTFZZDBLblVaeXhVTEhSa2ZPeF9y?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Diamondback nears $5 billion drilling portfolio deal",
+          "feedTitle": "Diamondback nears $5bn deal to expand drilling in oil-rich Permian Basin",
+          "summary": "Diamondback Energy is nearing a $5 billion acquisition to expand its drilling operations in the oil-rich Permian Basin, according to Financial Times reporting. The deal with Double Eagle would significantly bolster the company's production capacity in one of America's most productive shale regions. The transaction underscores continued capital investment in US oil production.",
+          "source": "Financial Times",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV3B2VmdHSUxiU3lZeEo1UVExQlkxU1VWeEtvcjlhcUpud2xabDVHc0w3M3dVV0Y3ZGJEdzRDbjduYmpjbDVTQ1VKSU5GUldSeXlUZnNYMWl1OFBybmpGektyblI3X3BndmxRaENDTE1MNVY5SkdOYXNNakJtR25oS3kyU1k?oc=5",
+          "sources": [
+            {
+              "source": "Financial Times",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV3B2VmdHSUxiU3lZeEo1UVExQlkxU1VWeEtvcjlhcUpud2xabDVHc0w3M3dVV0Y3ZGJEdzRDbjduYmpjbDVTQ1VKSU5GUldSeXlUZnNYMWl1OFBybmpGektyblI3X3BndmxRaENDTE1MNVY5SkdOYXNNakJtR25oS3kyU1k?oc=5"
             }
           ]
         }
@@ -511,104 +531,108 @@
         {
           "symbol": "BZ=F",
           "name": "Brent crude · BZ=F",
-          "price": 95.84,
-          "changePct": 0.02
+          "price": 95.13,
+          "changePct": -0.74
         }
       ],
-      "note": "Oil markets shifted to supply surplus for the first time since the Iran war's onset, with WTI pressure easing as geopolitical tensions cool; US stock futures indicated lower as inflation concerns and rate-hike fears weigh on equities, though Indian markets rebounded on foreign inflows and rotation out of US tech. Watch: Anthropic's IPO valuation confirmation and Nvidia's post-Huang earnings this week, India's WPI inflation data, and whether crude holds above $70."
+      "note": "Oil prices are declining as global supplies shift to surplus, with Brent trading near $95/barrel. US stock futures are mixed ahead of Nvidia's earnings and Anthropic's record IPO on November 19, while Asian equities fell on AI sector concerns following Huang's resignation. Watch: Nvidia earnings results, Anthropic IPO performance, and Federal Reserve minutes for monetary policy signals."
     }
   },
   "micro": {
-    "theme": "creativity",
+    "theme": "productivity & focus",
     "cards": [
       {
-        "title": "Constraints forge novelty",
-        "insight": "The best creative breakthroughs often emerge not from unlimited resources but from scarcity: limited time, budget, or tools force unexpected combinations and force prioritization of core ideas. Friction with limits drives lateral thinking.",
-        "takeaway": "Set artificial constraints on your next project—time, tools, or scope—and use them to force creative recombination instead of defaulting to what works."
+        "title": "Batch similar tasks to minimize context switching",
+        "insight": "Our brains perform best when holding one complex idea. Switching between email, reports, and meetings fragments attention and increases the time needed to re-engage with deep work.",
+        "takeaway": "Block 90 minutes for one task type daily—write all emails in one batch, hold all meetings in one window, do all analysis together."
       },
       {
-        "title": "Authenticity amplifies reach",
-        "insight": "Creators who share genuine struggle, doubt, or failure often resonate more deeply than polished perfection. Audiences connect to vulnerability and recognize the messy, iterative process behind finished work. Transparency builds trust and credibility.",
-        "takeaway": "Show process, not just product. Share what didn't work or what surprised you—it humanizes your work and invites audience participation in the creative journey."
+        "title": "Use friction as a focus tool, not a barrier",
+        "insight": "Low friction enables distraction (notifications always on, apps always open). Strategic friction—closing unnecessary tabs, phone in another room, silencing notifications—redirects mental energy back to intention.",
+        "takeaway": "Add one deliberate friction point: turn off notifications for 2 hours, close Slack, or move your phone. Notice how focus sharpens."
       },
       {
-        "title": "Crossing disciplines sparks invention",
-        "insight": "Most original ideas live at intersections—where one field's convention meets another's assumption. A poet's metaphor applied to engineering, a chef's layering technique applied to design, or a musician's rhythm applied to narrative all create novelty unavailable within silos.",
-        "takeaway": "When stuck, borrow a principle from an unrelated discipline: how would a biologist, architect, or improviser solve this? Unexpected adjacencies unlock new directions."
+        "title": "Endings boost focus more than beginnings",
+        "insight": "We focus better with a deadline than a to-do. A time-boxed end creates urgency and commitment; an open-ended task invites procrastination and drift.",
+        "takeaway": "For each focus block, set a visible timer and a specific end state ('report draft done by 2 pm') rather than vague goals."
       },
       {
-        "title": "Iteration beats inspiration",
-        "insight": "The myth of the lone genius receiving a flash of brilliance obscures the truth: most creators ship first versions that are mediocre and improve through cycles of feedback, refinement, and failure. Consistency and volume beat waiting for the perfect idea.",
-        "takeaway": "Ship something imperfect today rather than perfecting nothing. Use real feedback, not imagination, to guide the next version."
+        "title": "Recovery time is part of focus, not a break from it",
+        "insight": "A 5-minute walk or window stare after deep work isn't wasted time—it consolidates learning, prevents burnout, and readies the brain for the next challenge. Grinding continuously depletes focus reserves.",
+        "takeaway": "After each 90-minute focus block, take a 10-minute genuine break—no email, no scrolling—before the next task."
       }
     ],
     "ai": [
       {
-        "title": "Anthropic's IPO lands amid embattled AI trade downturn",
-        "feedTitle": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot",
-        "summary": "Anthropic's highly anticipated IPO arrived as the broader AI sector faced significant headwinds following the Jensen Huang scandal at Nvidia and concerns over AI valuations. The company is targeting approximately $1.4 trillion valuation and seeks to become a major test of investor appetite for AI infrastructure companies. The IPO timing comes as the industry grapples with questions about AI spending priorities and governance.",
-        "source": "CNBC",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOFFaaTFOMmRsSmNwRlBQZTNqWUJhZXlDbzRYQk5TRWpoLVQ5R0trbFZySzNhQU9pa1JZRXE5Q2VhVTNBUVhxOFB2b0JiUVNLZHpWQkxsYW5EeHY5YW9jU09hNzFhbnMxMnctaVFaUTdyYnhGS1g2Z2pNU0pWdmlYUUtuR0pWR2ZnMVhMWHhjd3VweXMyd0h2X2ZRc9IBoAFBVV95cUxObFlSaHJnalF6bnZ6eDUwbTlYZGlPNjlFN2xxZ3Q1blZNREx3YTlQaWx4NEtXeHlEbmZqc0doTExsM1RXSXMzM05TaVEzTjIxd1N6OGVWYkFhZUZLaXZKZWkyLW5EaW85eHQtMk5FMUcxMmVkNmJwSHZOWWZpVUZVd1FROVJKYjBlWUxERUpxZTNYdUZ0aldWX3RIa0ZrUXR3?oc=5",
+        "title": "Anthropic IPO arrives as AI sector seeks confidence amid turmoil",
+        "feedTitle": "The unfolding Jensen Huang scandal: a timeline",
+        "summary": "Anthropic is set for a November 19 Nasdaq IPO with $900 billion in commitments, positioning itself as a major test of investor confidence in the AI sector following Nvidia CEO Jensen Huang's resignation. The company has emerged as a leading alternative to OpenAI and Google in large language model development. The IPO timing is critical as the broader AI industry confronts questions about leadership, governance, and competitive dynamics.",
+        "source": "France 24",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQjU0ejRtN3QwUkRoUW1CV1NqUHBsMjh5NnkyUkMtNFpvbkI5bkw3Yk5LZFFQdzloZXFkSW45ZC10bUxKaW9wR1RNSGZHSlhuYVIzZ1Q1bUZxSjdMSzVscGl0MTJiN3FKRDc3Wkc2QXZsRHczT1hKbXU3SmFoVDduZVM3ampzeWlJOXc?oc=5",
         "sources": [
           {
-            "source": "CNBC",
-            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOFFaaTFOMmRsSmNwRlBQZTNqWUJhZXlDbzRYQk5TRWpoLVQ5R0trbFZySzNhQU9pa1JZRXE5Q2VhVTNBUVhxOFB2b0JiUVNLZHpWQkxsYW5EeHY5YW9jU09hNzFhbnMxMnctaVFaUTdyYnhGS1g2Z2pNU0pWdmlYUUtuR0pWR2ZnMVhMWHhjd3VweXMyd0h2X2ZRc9IBoAFBVV95cUxObFlSaHJnalF6bnZ6eDUwbTlYZGlPNjlFN2xxZ3Q1blZNREx3YTlQaWx4NEtXeHlEbmZqc0doTExsM1RXSXMzM05TaVEzTjIxd1N6OGVWYkFhZUZLaXZKZWkyLW5EaW85eHQtMk5FMUcxMmVkNmJwSHZOWWZpVUZVd1FROVJKYjBlWUxERUpxZTNYdUZ0aldWX3RIa0ZrUXR3?oc=5"
+            "source": "France 24",
+            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQjU0ejRtN3QwUkRoUW1CV1NqUHBsMjh5NnkyUkMtNFpvbkI5bkw3Yk5LZFFQdzloZXFkSW45ZC10bUxKaW9wR1RNSGZHSlhuYVIzZ1Q1bUZxSjdMSzVscGl0MTJiN3FKRDc3Wkc2QXZsRHczT1hKbXU3SmFoVDduZVM3ampzeWlJOXc?oc=5"
           },
           {
-            "source": "Startup Fortune",
-            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa0E5Z0ZIZDR2Nm1zM2xobkpzZUdJVlFhSTVUd0dJSURzbmxzMUlmdHplcEY4T2xPdlZLekR2RlpZVXlPSW5zel94WG9aQTBpU2JOWkR6Qzdsa1RWU3hqYnlHWGtKYXJZM3AzUjJ1c2ZnUkstZVJWNGU1R1NROXJVN3NFaVVLVXNUM3hmQ2VfbE9wVUJa?oc=5"
+            "source": "TechCrunch",
+            "link": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+          },
+          {
+            "source": "bloomingbit",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zZXFQWTBFTndVNnhOd3JEWDZUcm9GcEJtR182Z1RoVkxZVnVRYWh0akNXUHVESUVJdWhkLVBPRm41MTVfMWVLMHl2YU1LcFV3c1dmTA?oc=5"
           }
         ]
       },
       {
-        "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-        "feedTitle": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-        "summary": "Summary unavailable for this update.",
-        "source": "TechCrunch",
-        "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+        "title": "Congress tightens export rules on AI chips after Nvidia scandal",
+        "feedTitle": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+        "summary": "Congress is moving to tighten export controls on advanced AI chips in response to the Nvidia scandal involving alleged illegal sales to China through intermediaries. The legislative action aims to prevent repeat scenarios where banned chips reach Chinese AI developers. The crackdown reflects national security concerns about maintaining US dominance in AI infrastructure.",
+        "source": "The Verge",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYUdJdF80Q0hNQ1d6di0yZVRpSDNKZm1ZSkxCYVEtNERiVFpwOTROZ2RXZXRrNEd1U2RtR1hVaGJPUXgtS3BUczNCV2EyUGpFRkxqemZWLXBZTHU4WklGcnBRcTVLLW1QcWZUQmNiR21CYjVRQ3VydWg1ZVRHVlJ2UjRpLUprZTg2QjhkVGxrRTdDWDRLV1NUY1JMbW0?oc=5",
         "sources": [
           {
-            "source": "TechCrunch",
-            "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
+            "source": "The Verge",
+            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYUdJdF80Q0hNQ1d6di0yZVRpSDNKZm1ZSkxCYVEtNERiVFpwOTROZ2RXZXRrNEd1U2RtR1hVaGJPUXgtS3BUczNCV2EyUGpFRkxqemZWLXBZTHU4WklGcnBRcTVLLW1QcWZUQmNiR21CYjVRQ3VydWg1ZVRHVlJ2UjRpLUprZTg2QjhkVGxrRTdDWDRLV1NUY1JMbW0?oc=5"
           }
         ]
       },
       {
-        "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-        "feedTitle": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-        "summary": "Summary unavailable for this update.",
-        "source": "TechCrunch",
-        "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+        "title": "South Korean tax exam top scorer admits to AI cheating",
+        "feedTitle": "Mini camera, AI and smartphone: How tax exam top scorer says he cheated under two proctors’ noses",
+        "summary": "Han Won-seok, the top scorer on South Korea's national tax accountancy exam with a near-perfect mark, has confessed to using a hidden camera and AI to cheat the test. He sent photos of exam questions to an AI tool for assistance, undermining the integrity of the high-stakes assessment. The admission raises concerns about cheating in national college entrance exams scheduled the following week.",
+        "source": "The Korea Herald",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56QmlaajA5SzBVQ1VTb1g4cmw2V1YyNnZzYWo1OHNVRVRlTVZFOXJramxYTDNFTkkyZjdxSzBUOXJaWXBxLVhrbjc5aUVOMTV4ZXdnVkI0OA?oc=5",
         "sources": [
           {
-            "source": "TechCrunch",
-            "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
+            "source": "The Korea Herald",
+            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56QmlaajA5SzBVQ1VTb1g4cmw2V1YyNnZzYWo1OHNVRVRlTVZFOXJramxYTDNFTkkyZjdxSzBUOXJaWXBxLVhrbjc5aUVOMTV4ZXdnVkI0OA?oc=5"
           }
         ]
       },
       {
-        "title": "Huang's exit puts Nvidia's open source AI commitment in question",
-        "feedTitle": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
-        "summary": "Jensen Huang's resignation from Nvidia raises questions about the company's future support for open source AI initiatives, including its Hugging Face acquisition, open-weight models, and advocacy against AI restrictions. The leadership transition creates uncertainty about Nvidia's strategic direction on these fronts. Hugging Face CEO pledged to continue fighting for open source AI despite the leadership change.",
+        "title": "Jensen Huang was having multiple affairs, Reuters reports",
+        "feedTitle": "Jensen Huang was having a third affair, Reuters reports",
+        "summary": "Reuters reported that Nvidia founder and CEO Jensen Huang was involved in a third affair with another Nvidia employee, in addition to the alleged affair with a woman suspected of being a Chinese spy that led to his resignation. The expanded revelations add to questions about corporate governance and Huang's judgment during his tenure leading the company. The company has not confirmed details of all alleged relationships.",
         "source": "TechCrunch",
-        "link": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+        "link": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
         "sources": [
           {
             "source": "TechCrunch",
-            "link": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/"
+            "link": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/"
           }
         ]
       },
       {
-        "title": "Google's Gemini 4 Hydrogen powers improved Search answers",
-        "feedTitle": "Google’s latest Search upgrade promises better answers to your most complicated questions",
-        "summary": "Google announced an upgrade to its AI Mode, powered by Gemini 4 Hydrogen, that promises better answers to complex queries and improved link surfacing. The new model aims to deliver richer visual responses and more sophisticated understanding of user intent. The update represents Google's push to compete with ChatGPT and other advanced AI assistants.",
+        "title": "Indian startup Bharat Semi secures $24M seed funding for AI sensors",
+        "feedTitle": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+        "summary": "Bharat Semi, an Indian chip startup, has raised $24 million in seed funding to develop AI-enabled sensor technology for the global market. The company has already secured design wins with major customers including General Atomics. The funding reflects growing interest in Indian AI chip startups competing in the broader semiconductor landscape.",
         "source": "TechCrunch",
-        "link": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+        "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
         "sources": [
           {
             "source": "TechCrunch",
-            "link": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/"
+            "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/"
           }
         ]
       }

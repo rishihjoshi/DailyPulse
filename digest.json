@@ -1,154 +1,168 @@
 {
-  "generatedAt": "2026-11-26T04:35:18.184Z",
+  "generatedAt": "2026-11-26T19:55:27.296Z",
   "location": "St. Charles, MO",
   "weather": {
-    "high": 39,
-    "low": 29,
-    "highC": 4,
-    "lowC": -2,
-    "precip": 95,
-    "wind": 10,
-    "sunrise": "6:55 AM",
+    "high": 36,
+    "low": 32,
+    "highC": 2,
+    "lowC": 0,
+    "precip": 98,
+    "wind": 17,
+    "sunrise": "6:56 AM",
     "sunset": "4:42 PM",
-    "now": 32,
-    "nowLabel": "Heavy snow",
-    "alerts": [
-      {
-        "event": "Winter Storm Warning",
-        "severity": "Severe",
-        "headline": "Winter Storm Warning issued November 25 at 10:27PM CST until November 26 at 12:00PM CST by NWS St Louis MO"
-      }
-    ],
+    "now": 35,
+    "nowLabel": "Heavy drizzle",
+    "alerts": [],
     "label": "Heavy snow",
     "emoji": "❄️"
   },
   "watch": [
-    "Fed signals on inflation trajectory ahead of December meeting; market reaction to Trump tariff proposals and China trade escalation",
-    "Nvidia governance concerns and board stability; tech sector rotation out of mega-cap AI stocks continuing",
-    "PERM labor certification rule finalization deadline; H-1B visa policy announcements affecting 2028 lottery season"
+    "Black Friday sales reports and early holiday shopping trends to gauge US consumer resilience",
+    "Federal Reserve December meeting outcome and guidance on rate trajectory amid inflation concerns",
+    "Trump tariff implementation details and retaliatory responses from China, EU, and India"
   ],
   "tabs": {
     "local": {
       "items": [
         {
-          "title": "Judge blocks FCC from punishing ABC in free speech case",
-          "feedTitle": "Trump, FCC illegally sought to punish ABC in free speech case, judge rules",
-          "summary": "A federal judge ruled that Trump and the FCC illegally sought to punish ABC News, granting a preliminary injunction that blocks the FCC from taking further action against the network's broadcast licenses. The judge said the case was \"not a close case,\" finding the administration's actions violated free speech protections. This marks a significant legal setback for the administration's efforts to target the media outlet over its coverage.",
+          "title": "Record snowstorm buries St. Louis on Thanksgiving",
+          "feedTitle": "Major snowstorm buries St. Louis in time for Thanksgiving",
+          "summary": "A major winter storm dumped record-breaking snowfall across the St. Louis region on Thanksgiving, with the National Weather Service confirming 5.2 inches at Lambert Airport and over 11 inches in some areas like Jefferson County. The heavy, wet snow caused widespread power outages affecting approximately 125,000 homes across the St. Louis metro and metro-east areas. Ameren warned that power restoration could take multiple days, and the wet snow was heavy enough to collapse the Wentzville Ice Arena's roof.",
           "source": "The Hill",
-          "link": "https://thehill.com/regulation/court-battles/6244298-judge-blocks-fcc-from-early-renewal-of-abc-licenses/",
+          "link": "https://thehill.com/opinion/congress-blog/6239022-thanksgiving-partisan-politics-evolution/",
           "sources": [
             {
               "source": "The Hill",
-              "link": "https://thehill.com/regulation/court-battles/6244298-judge-blocks-fcc-from-early-renewal-of-abc-licenses/"
+              "link": "https://thehill.com/opinion/congress-blog/6239022-thanksgiving-partisan-politics-evolution/"
+            },
+            {
+              "source": "AccuWeather",
+              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMTAxTTJmSEM1V1FrdW5KdG5lWW5sSUVJcmFHd1VRaDdEQ2lFNkJGUzNkYTVha1lORFd1dWJESnpDeEpHd0ZMOU9OdE9XMDRab2VVbWFtQkdiSElfQ29rMTR5emlhOEY1aHU0bU5KRzl0SVRlTWZWNzlRcldKaUttUkhtOXJsRWp2OW1zLTllSmZvaW9HOHF5OTJ6ZTBYUXIxTlp5RlRLRk1GUFNaZXlJ?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Powerful US storms disrupt Thanksgiving travel nationwide",
+          "feedTitle": "Powerful storms disrupt holiday travel, as Macy's Thanksgiving Day Parade is postponed",
+          "summary": "Severe weather including heavy rain, strong winds, high tides, and flooding impacted an estimated 81.5 million people traveling across the United States during the Thanksgiving holiday. The storms forced the postponement of Macy's Thanksgiving Day Parade for the first time in its 100-year history and caused widespread disruptions to flight schedules and coastal infrastructure. Multiple regions from the East Coast to California reported significant damage and flooding risks.",
+          "source": "NPR",
+          "link": "https://www.npr.org/2026/11/26/nx-s1-6054079/storms-expected-on-both-coasts-as-millions-travel-for-thanksgiving",
+          "sources": [
+            {
+              "source": "NPR",
+              "link": "https://www.npr.org/2026/11/26/nx-s1-6054079/storms-expected-on-both-coasts-as-millions-travel-for-thanksgiving"
+            },
+            {
+              "source": "AP News",
+              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNkxMTUs5ZzFmZFBCR2pBVGg1TEYwSGlKdVI2LWhaYk4zSno0MTJud0xrNHpralVPQWFmdXhaM3dmUmJNNGRFQk9XSGdRSUpCdmx6ZXUtY2V0SWFxdHplbmh2NHlHVUpsUVlnXzRISDhVd203ZmpLb2F6bzdkQU11bm5jQklqb3FZRi1KeDZGWmxDWDhkYXI5VG9WMjFpWkxULUQ3S0dR?oc=5"
+            },
+            {
+              "source": "PBS NewsHour",
+              "link": "https://www.pbs.org/newshour/nation/thanksgiving-holiday-plagued-by-heavy-rain-wind-and-flooding-across-much-of-the-u-s"
+            }
+          ]
+        },
+        {
+          "title": "High school football game shooting kills one in Massachusetts",
+          "feedTitle": "1 person killed in shooting after football game at Chelsea High School, DA says",
+          "summary": "One person was fatally shot during a fight that erupted on the sidelines of a high school football game at Chelsea High School in Massachusetts. Local authorities are investigating the incident that occurred after the game ended. The shooting represents another instance of violence at a youth sporting event.",
+          "source": "WCVB",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBMOGRiNGhVdWh0anltSUh1NHJ5enNDbkxZVFR4LWQtU01TQjlEWkU4N3NZSlUweFd5M0hHbFpFbHNDZlBCUGtoS2hoMEUwUWZxV28yd2sySm84LWszM0NWekxydUdTbWZ2bXFBZ1VFOGdmY2VGVWg2enEyYkpzdw?oc=5",
+          "sources": [
+            {
+              "source": "WCVB",
+              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBMOGRiNGhVdWh0anltSUh1NHJ5enNDbkxZVFR4LWQtU01TQjlEWkU4N3NZSlUweFd5M0hHbFpFbHNDZlBCUGtoS2hoMEUwUWZxV28yd2sySm84LWszM0NWekxydUdTbWZ2bXFBZ1VFOGdmY2VGVWg2enEyYkpzdw?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "ICE arrests Massachusetts lottery winner days after claiming prize",
+          "feedTitle": "Man claimed $1M Massachusetts lottery prize. Days later, ICE arrested him",
+          "summary": "A man who won a $1 million Massachusetts lottery prize was detained by ICE just days after claiming his jackpot. The arrest highlights immigration enforcement actions occurring even as individuals attempt to claim legitimate winnings and integrate into the financial system.",
+          "source": "USA Today",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOakxqNjZmNDBjeERPdVRXTUY5MU8wVmJ3LWt6MWNMNXVvTE1WcEU0U19qdlo1Wm12dFAwTVF4MmptYlpvc1hFZHpRYVY0N2hUclJwYVQ1VFNoaGUzdVNQeVQ4RUJoYU8ydTc5VE1zZG96cWVMVjM4WDJfY2RNYWN2MUd4eW13ZXdBdnZyR1FTNTMxdFlBYjlLSlNZQUt0QWFPb2J3WEIwSWZvUQ?oc=5",
+          "sources": [
+            {
+              "source": "USA Today",
+              "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOakxqNjZmNDBjeERPdVRXTUY5MU8wVmJ3LWt6MWNMNXVvTE1WcEU0U19qdlo1Wm12dFAwTVF4MmptYlpvc1hFZHpRYVY0N2hUclJwYVQ1VFNoaGUzdVNQeVQ4RUJoYU8ydTc5VE1zZG96cWVMVjM4WDJfY2RNYWN2MUd4eW13ZXdBdnZyR1FTNTMxdFlBYjlLSlNZQUt0QWFPb2J3WEIwSWZvUQ?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Judge blocks FCC from early review of ABC broadcast licenses",
+          "feedTitle": "Trump, FCC illegally sought to punish ABC in free speech case, judge rules",
+          "summary": "A federal judge blocked the Trump administration's FCC from conducting an early review of ABC's broadcast licenses, finding that the network's free speech rights were being chilled by the administration's actions. The judge agreed with ABC that the FCC's actions were motivated by political retaliation rather than legitimate regulatory concerns.",
+          "source": "PBS NewsHour",
+          "link": "https://www.pbs.org/newshour/nation/judge-blocks-fcc-from-early-license-review-for-abc-which-network-says-has-had-a-chilling-effect",
+          "sources": [
+            {
+              "source": "PBS NewsHour",
+              "link": "https://www.pbs.org/newshour/nation/judge-blocks-fcc-from-early-license-review-for-abc-which-network-says-has-had-a-chilling-effect"
+            },
+            {
+              "source": "NPR",
+              "link": "https://www.npr.org/2026/11/26/nx-s1-6000576/fcc-disney-abc-first-amendment-trump-brendan-carr"
             },
             {
               "source": "Los Angeles Times",
               "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWWJpVHlqeHV3UkNCM19NSXdjczdRNGcycDBObW1rdUljeVU2ajVFNzZ0ck5vUjdKaFJXaTdUUE5zVDB1VVBwSWVpSmt2TmhIR2ZadGtMdkpCVGNCblVvcVpVTVBadWdhNmhNeXdRRjhkdHIwQXJJbTVNQmJQVF82RnhDMG85WHhJN1JLLVB0Nl95VENTakR3UXVsXzZWUkN2QlhDbmNycHFZa1VMb1NhbG5ram9SelRLUVExZDNYUVVEMzNjSzROOE9vbG1sOHFWTUgyMWZZV0M?oc=5"
             }
           ]
-        },
-        {
-          "title": "New York declares emergency ahead of Thanksgiving storm",
-          "feedTitle": "Hochul declares state of emergency in New York counties ahead of Thanksgiving storm",
-          "summary": "New York Governor Kathy Hochul declared a state of emergency in New York City and several surrounding counties as a severe Thanksgiving storm approaches. The storm has already begun disrupting travel and weather forecasters predict significant wind and precipitation. Officials are preparing infrastructure and urging residents to prepare for potential hazards.",
-          "source": "The Hill",
-          "link": "https://thehill.com/homenews/state-watch/6244382-hochul-declares-thanksgiving-emergency/",
-          "sources": [
-            {
-              "source": "The Hill",
-              "link": "https://thehill.com/homenews/state-watch/6244382-hochul-declares-thanksgiving-emergency/"
-            },
-            {
-              "source": "The New York Times",
-              "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUUNNNURkWkNzVzAwQ191cnlsbFZaUVVvZUtEWjJwSjBlSWJTMkY0MXNoUERLRWtvN1VUeWEwVHc0M3ZpNmcweHdIQjdwTnQwS0hyWU1BblVPVVJpd0c1bG9TSlVpS0IzczNDX3RERjNoRFo2U1J0dERqS2ZEUmxTT0FwTlliZmZyZGRabVRYeVRmQQ?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Second judge blocks Trump's birthright citizenship order",
-          "feedTitle": "Trump's newest order curtailing birthright citizenship is blocked by second judge",
-          "summary": "A second federal judge has blocked Trump's latest executive order attempting to restrict birthright citizenship, finding it likely violates the 14th Amendment. The ruling continues a series of judicial defeats for the administration's immigration policies. Legal experts say the constitutional protections remain intact pending further appeals.",
-          "source": "Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUVNKamgtYTNRNHFWRVliOUF5X3pqbzBEdzBWZmRKUUZDX3FoaDhaNFB2Z3pza2dSS2NHOUtzYW9jblRqSnY2Q0VESXJYSTlnbVRibzZ4c1I2eWZrMEVkTUNOTGI4VlFRc1dLdGUyNFZPTGZlX0pGMkpkTTVBWGoyNi1RUWZ2cjBDcGdtTGpBeWJBTTJFbldlVFZ0OW93N1NPVW8zN1JfTHlxdWRVZDZ6YVRqMmtFZjE1UzBPRzVfNURCMUtGSi1vTVhyZXN6UQ?oc=5",
-          "sources": [
-            {
-              "source": "Reuters",
-              "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUVNKamgtYTNRNHFWRVliOUF5X3pqbzBEdzBWZmRKUUZDX3FoaDhaNFB2Z3pza2dSS2NHOUtzYW9jblRqSnY2Q0VESXJYSTlnbVRibzZ4c1I2eWZrMEVkTUNOTGI4VlFRc1dLdGUyNFZPTGZlX0pGMkpkTTVBWGoyNi1RUWZ2cjBDcGdtTGpBeWJBTTJFbldlVFZ0OW93N1NPVW8zN1JfTHlxdWRVZDZ6YVRqMmtFZjE1UzBPRzVfNURCMUtGSi1vTVhyZXN6UQ?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Salvadoran mistakenly deported arrives in Spain",
-          "feedTitle": "Kilmar Abrego García arrives in Spain to start a new life",
-          "summary": "Kilmar Ábrego García, a Salvadoran national who was mistakenly deported by the Trump administration and became a symbol of mass deportation concerns, has voluntarily departed the United States and arrived in Spain. His lawyer described the move as temporary, with hopes of returning to his family in Maryland after the administration changes. The case highlighted errors in deportation procedures.",
-          "source": "PBS NewsHour",
-          "link": "https://www.pbs.org/newshour/politics/abrego-garcia-a-salvadoran-mistakenly-deported-by-u-s-goes-to-spain-but-hopes-to-return-after-trump",
-          "sources": [
-            {
-              "source": "PBS NewsHour",
-              "link": "https://www.pbs.org/newshour/politics/abrego-garcia-a-salvadoran-mistakenly-deported-by-u-s-goes-to-spain-but-hopes-to-return-after-trump"
-            },
-            {
-              "source": "The Washington Post",
-              "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZkpUVGlqck9qSlVEblNFUjduVV9acW90QnZXQmpoQTQwWE93aUNoMEg2aGs0VUVvUUdGLTFZYVR5LVpQMHNkcF85TmNTS3Npckx0SF91NTRkd3hucHhHM3VFUFFJY0pZN0szM3oyN3pzZTRldXRvZEZhRHFxUXNjM1FOZGVHMXg4ck5jTEQySmwtTzlORTJWRUp3NldPSVFzV25tUGlmN0hoaElpV1VxT2RwY3V4clVGS2dMY21yTjZEd28?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Macy's Thanksgiving parade postponed to Saturday",
-          "feedTitle": "Macy's Thanksgiving Day Parade postponed to Saturday due to expected bad weather",
-          "summary": "The Macy's Thanksgiving Day Parade, marking its 100th edition, has been postponed from Thursday to Saturday due to severe weather warnings of damaging winds and heavy rainfall across New York City. The delay marks the first time in the parade's history that it has been postponed due to weather. The event will still broadcast on television.",
-          "source": "PBS NewsHour",
-          "link": "https://www.pbs.org/newshour/nation/macys-thanksgiving-day-parade-postponed-to-saturday-due-to-expected-bad-weather",
-          "sources": [
-            {
-              "source": "PBS NewsHour",
-              "link": "https://www.pbs.org/newshour/nation/macys-thanksgiving-day-parade-postponed-to-saturday-due-to-expected-bad-weather"
-            }
-          ]
         }
       ],
       "stlouis": [
         {
-          "title": "St. Louis braces for unusual Thanksgiving snowstorm",
-          "feedTitle": "MoDOT, forecasters prepare for 'unusual' Thanksgiving snowstorm in St. Louis",
-          "summary": "MoDOT and weather forecasters are preparing for an unusually heavy snowstorm expected to impact the St. Louis area around Thanksgiving, with preparations underway for possible record snow levels. Officials are coordinating with transportation agencies to manage road conditions during one of the busiest travel periods of the year. The storm represents an atypical weather event for late November in the region.",
-          "source": "Spectrum News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNXh5WkRBUWxfLTctRnU5M0xCcHI3cFYwYU15ZS05WEFTaElvV2poUEE3NVZkbWVsRFN1cmZyTko2MmRSYmdxVWRJOGZWNlFkbWh3MGtSeWtkVi1NWkxDMVpZVlgzd3c2cVVjMDAtZ3JjWWQ5RXJJR2tUd1pPTlpwRTR6eFJLMjh4UExyemxXZ0RWS0NuSy03Nk1nT1k?oc=5",
+          "title": "Record snowstorm buries St. Louis on Thanksgiving",
+          "feedTitle": "Metro-east, St. Louis under a winter storm watch for possible ‘heavy’ snow - Belleville News-Democrat",
+          "summary": "A major winter storm dumped record-breaking snowfall across the St. Louis region on Thanksgiving, with the National Weather Service confirming 5.2 inches at Lambert Airport and over 11 inches in some areas like Jefferson County. The heavy, wet snow caused widespread power outages affecting approximately 125,000 homes across the St. Louis metro and metro-east areas. Ameren warned that power restoration could take multiple days, and the wet snow was heavy enough to collapse the Wentzville Ice Arena's roof.",
+          "source": "\"\"St. Louis\" metro\" - Google News",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91WmRaSFhzYWRQOFREQ3Nndk1RRzZXMUQzVkFSbjFMMmxEWEZHa2NicXZ3c2NOTFZhUlB1RkhpMG14UXRwNVFYQU5uSVZWUTZEX18yMVhLc251SnctaEVIaEtITmcxc01yYW5F0gFrQVVfeXFMT1NyNzQ2VjVYYUpJbzYxbWNvRU01ZVZNUzdBYUYxRTNYaXFnOGtNTXBXQkhSdEtGTVV6QS1KYUk2NlhjZUJQR1JaZEREbGM2M0phNkJjaGV2dXljUzlmbzQ4NVdpblZVR2xEZGM?oc=5",
           "sources": [
             {
-              "source": "Spectrum News",
-              "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNXh5WkRBUWxfLTctRnU5M0xCcHI3cFYwYU15ZS05WEFTaElvV2poUEE3NVZkbWVsRFN1cmZyTko2MmRSYmdxVWRJOGZWNlFkbWh3MGtSeWtkVi1NWkxDMVpZVlgzd3c2cVVjMDAtZ3JjWWQ5RXJJR2tUd1pPTlpwRTR6eFJLMjh4UExyemxXZ0RWS0NuSy03Nk1nT1k?oc=5"
+              "source": "\"\"St. Louis\" metro\" - Google News",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91WmRaSFhzYWRQOFREQ3Nndk1RRzZXMUQzVkFSbjFMMmxEWEZHa2NicXZ3c2NOTFZhUlB1RkhpMG14UXRwNVFYQU5uSVZWUTZEX18yMVhLc251SnctaEVIaEtITmcxc01yYW5F0gFrQVVfeXFMT1NyNzQ2VjVYYUpJbzYxbWNvRU01ZVZNUzdBYUYxRTNYaXFnOGtNTXBXQkhSdEtGTVV6QS1KYUk2NlhjZUJQR1JaZEREbGM2M0phNkJjaGV2dXljUzlmbzQ4NVdpblZVR2xEZGM?oc=5"
             },
             {
+              "source": "KSDK",
+              "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQM2hfVWVQYnhPbHpBeVpET3k5eGFaeU96Q21CejFGcWRZRjloeHQ0Wml6NFRPMnBqMmRycXdtRk00Rm1YMlJlRmw1b0JxVlFGell4amJrM0ZpaWU3R3RzVXR1b2VkMjl3UkM0ME1hV3hNZ0NueDlHaEVPVXJSTXhJZHJSbzZBaUpmR3R1cTNsX2VsLWVfclRKSEZubVZCXzkwVUlJeUNmSFRod0dOeWtucFpUa1dkUVhXOC1XOG1zOFYxcDlOMTEyZ3Z0SEF2MS1VWXJLWU9nQmhiNU1fOV8tWHFuUktCSzc0UkdN?oc=5"
+            },
+            {
+              "source": "Nacionale",
+              "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZGtvUnduQ240UXluNi1TaENhZjd6OHEwSi03alJYV2M5blZMSndpY20yUjhrMHo0WWw5LWJyVHBDcGxDMTRZc0ppVGJqU21hblNER0V3N1llRHg2b1JGN2lPcGVFQ2J2dzVOd01OZDVfdVpvekZRaEFmYnBvRnZFdWZmYjVCcWprTU4wU1BFbl92UHF4anZ5a21HZGs2ZTJLbGplb3VOb0w1c0I1c1lmMEE0VUFscW15blE?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "125,000 St. Louis homes without power after Thanksgiving snowstorm",
+          "feedTitle": "Lost power on Thanksgiving? What to know as 125,000 homes in St. Louis region wait for crews",
+          "summary": "The heavy Thanksgiving snowstorm left approximately 125,000 homes across the St. Louis region and metro-east without power. Ameren utility officials indicated that power restoration could take days as crews work to clear downed lines and assess storm damage. The outage affected a significant portion of the metropolitan area during the holiday period.",
+          "source": "STLPR",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV2tkNFdLc1JYQ1FJaVlVQTQ1TjlNTm9HYVotc0xMOU1YR3F2RkVFeFJFelhJcFFlWURlbUhBWDNxNVhSTFl0Z1ktYTZqS01FYW13SHZ5VWw1ekh6YldGNERFSW10eFZhQWdfS21KMFhFOUhUb0o3MVJsRWtnV2FRTWgwZ2VPZTBlTEFmT2tGZ2xPTDBXQmx4dWxaNm5kNHFxdUg2VTltYTJXWkVKZXV3M0lGdw?oc=5",
+          "sources": [
+            {
               "source": "STLPR",
-              "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYjJMbndUZDkzTUZzRzAwTHJGSnJhb3podnJGZjhjanhISThlWDRIRHQwcTlZeGV5UnloWHZnZzM1OVlQUjZ4MXpTRmRHbi03V3d0T0t4NHZwdnF6Q3hfV1NPRERsN2tWdXphWTFsLUdvY2pOT0xjMEtRLWNjRG1NeW9CN2ZNM2RyRmFKRm1FV2hBZ1JkTG5oMjlBNWpjaHQwTlc4RlVoZUpJZ2dLU0JVQ3VmMTN2ZXBVQlhnWUl4WVJRZDRCSHFONm40M05UejQ?oc=5"
+              "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV2tkNFdLc1JYQ1FJaVlVQTQ1TjlNTm9HYVotc0xMOU1YR3F2RkVFeFJFelhJcFFlWURlbUhBWDNxNVhSTFl0Z1ktYTZqS01FYW13SHZ5VWw1ekh6YldGNERFSW10eFZhQWdfS21KMFhFOUhUb0o3MVJsRWtnV2FRTWgwZ2VPZTBlTEFmT2tGZ2xPTDBXQmx4dWxaNm5kNHFxdUg2VTltYTJXWkVKZXV3M0lGdw?oc=5"
+            },
+            {
+              "source": "Spectrum News",
+              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPc18tMVozT21KS0NkUDhMakpxOVUtVWQ3djgwTGVOYTBHWDFndDJ6Mkw4a1E2ZDZTN1Y3cVg5TFZGR3QySGZqaDVpRU9oSXN3cmpiRS0xZEhRWnBPSHBmRDEtWENVOV95YS16bUVBVDJiM1JiLU1DSW1CR2dEdW51LVdCbmpNSlV1WHIyUE4zQjlKR1Iw?oc=5"
+            },
+            {
+              "source": "NewsBreak: Local News & Alerts",
+              "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPazB3SC1NZEVHZHp4WWFjWmgwd0JlQ2FSM01BVWJiQ2NCbHliZmlnLWw2c1AzbFRDYkJEa1ctODV3VUJ2a2txX1FFZ2FzeTNCY2hnR2dIOEFxbFJUdVVtZjZIVWZtYkFEUXZqZ2ZFUHNIdGRZMjZISFNfRW5MRC1MRFBHQnhlTm9Vb3JKMGxDSVFEN3RBckNsQnh0TXpCQjgyTm8xMXRyX0J3MmFxcGQ5dWdOand4VGY0Tk15TjJGX282VENjU1hXdWpUblBZMTVsR0hvLXdMdi1kbHh3WmJF?oc=5"
             }
           ]
         },
         {
-          "title": "Former St. Louis circuit attorney Kim Gardner disbarred",
-          "feedTitle": "Former St. Louis City Circuit Attorney Kim Gardner disbarred",
-          "summary": "Kim Gardner, the former St. Louis City Circuit Attorney, has been disbarred following professional misconduct proceedings. This marks the conclusion of a legal process examining her conduct during her tenure in office. The disbarring removes her ability to practice law.",
-          "source": "KMOV",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMk4tWDU0NnZmR21aYkY3ekFObmZLLUQ3UVl3TllHMG1VcFdod2NveGRBZ0xrSTYtcTV2V3RKSGdyanl2enYxM2xGZ1FMeEI2N3FrUE9aLVdyMkdKYXRLUGJsMGtLcXc5OURocnNRWW40bEc5SGJhZVNjZHBXNEVWSEVILUFaQk5DV0FXbk5jcUE4ak5ORGdRT3pkTFdxU3BJdVpyQ0NBMTk?oc=5",
+          "title": "Wet snow and aging trees caused massive power outages in St. Louis",
+          "feedTitle": "Why did the St. Louis snow knock out so much Ameren power? Wet snow, trees and an old problem",
+          "summary": "The widespread power outages across St. Louis were caused by a combination of heavy, wet snow and the region's aging infrastructure, particularly mature trees that brought down power lines under the weight of snow accumulation. Experts noted that the region's tree canopy and aging utility infrastructure made it particularly vulnerable to major storm impacts.",
+          "source": "Nacionale",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcVVLeVR6MjVDcHdxcmpicWJxbjItLVp4XzI2NXBmN0FyaDNYU2hGaENrMV9RZ0lGamZidHFPdGc3dXVKcGQ3N0d0SmJZa2hxR3pPZTE4eXZIMkxDMzZOcFlQLWlmQ29jVExTRzlWTFRJNk04LW9jNWE4Sk1hbW4wd2I5bU0xZWRsWGRhdFBmWTIySHd6TFNGaW44LV8wQVMtXzBQNmdoMGhyNklFVTJR?oc=5",
           "sources": [
             {
-              "source": "KMOV",
-              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMk4tWDU0NnZmR21aYkY3ekFObmZLLUQ3UVl3TllHMG1VcFdod2NveGRBZ0xrSTYtcTV2V3RKSGdyanl2enYxM2xGZ1FMeEI2N3FrUE9aLVdyMkdKYXRLUGJsMGtLcXc5OURocnNRWW40bEc5SGJhZVNjZHBXNEVWSEVILUFaQk5DV0FXbk5jcUE4ak5ORGdRT3pkTFdxU3BJdVpyQ0NBMTk?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Man dies while in St. Louis jail custody",
-          "feedTitle": "Man dies while in St. Louis jail custody, city officials say",
-          "summary": "A man has died while in custody at a St. Louis jail facility, according to city officials. Authorities are investigating the circumstances surrounding the death. Details remain limited pending the completion of the investigation.",
-          "source": "KMOV",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSk1mVUFJZldxRGZOMzF2TnVodmFOcG1aWDVlVFpSTEFnbnpsSGN5WV9GNXRHeGNUV011VUlSaTZ5VkQ0aDRBbzh0alVHamkySzlub2wwaUFnZl9JVl9QLXNHMkc0Skl1dHFoR0xiOS1rZkVRX18ydzU4X0haMExGM1JPVHAzU08zUXRPZWQ2S21IN19CSGVGalJPUQ?oc=5",
-          "sources": [
-            {
-              "source": "KMOV",
-              "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSk1mVUFJZldxRGZOMzF2TnVodmFOcG1aWDVlVFpSTEFnbnpsSGN5WV9GNXRHeGNUV011VUlSaTZ5VkQ0aDRBbzh0alVHamkySzlub2wwaUFnZl9JVl9QLXNHMkc0Skl1dHFoR0xiOS1rZkVRX18ydzU4X0haMExGM1JPVHAzU08zUXRPZWQ2S21IN19CSGVGalJPUQ?oc=5"
+              "source": "Nacionale",
+              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcVVLeVR6MjVDcHdxcmpicWJxbjItLVp4XzI2NXBmN0FyaDNYU2hGaENrMV9RZ0lGamZidHFPdGc3dXVKcGQ3N0d0SmJZa2hxR3pPZTE4eXZIMkxDMzZOcFlQLWlmQ29jVExTRzlWTFRJNk04LW9jNWE4Sk1hbW4wd2I5bU0xZWRsWGRhdFBmWTIySHd6TFNGaW44LV8wQVMtXzBQNmdoMGhyNklFVTJR?oc=5"
             }
           ]
         }
@@ -157,83 +171,79 @@
     "world": {
       "items": [
         {
-          "title": "Trump announces new tariffs on 14 trading partners",
-          "feedTitle": "US announces new tariffs on host of countries including China",
-          "summary": "The Trump administration unveiled a new round of tariffs targeting 14 major trading partners, including China, the EU, and others, with China facing a proposed 20% rate on most products. The administration says the tariffs are designed to address what it claims are unfair manufacturing practices and overcapacity in key sectors. Trading partners have already pushed back, with Brazil and China calling the measures unacceptable.",
+          "title": "Two Italian workers killed in Kuwait drone strike",
+          "feedTitle": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+          "summary": "Two Italian technicians working for German defense contractor Rheinmetall were killed in a strike on Kuwait's air defense system. Iran has denied responsibility for the attack, though Italian authorities and media reports attributed it to an Iranian drone strike. The incident marks an escalation of regional tensions and potential foreign involvement in Middle Eastern conflicts.",
           "source": "BBC",
-          "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
           "sources": [
             {
               "source": "BBC",
-              "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "source": "The Guardian",
-              "link": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat"
+              "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Fuel tanker fire kills at least 31 near Cairo",
-          "feedTitle": "At least 31 killed as fuel tanker crash ignites large fire on Cairo highway",
-          "summary": "A massive fire erupted when a fuel tanker crashed on a busy ring road surrounding Cairo, killing at least 31 people and injuring at least 21 others. The incident occurred on a key highway in Egypt and left vehicles charred in its wake. Egyptian authorities are investigating the cause of the crash and fire.",
-          "source": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
+          "title": "Egypt detains driver in Cairo fuel tanker crash that killed 31",
+          "feedTitle": "Egypt detains a driver suspected of causing Cairo tanker crash that killed 31",
+          "summary": "Egyptian authorities arrested a driver suspected of causing a massive fuel tanker fire near Cairo that killed at least 31 people. Officials say the man confessed to traveling at excessive speed and clipping the fuel truck while attempting to overtake traffic, triggering the explosion. The incident represents one of Egypt's deadliest transportation accidents in recent years.",
+          "source": "AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNU2w0bC1tN2k4SU92bG9kc3U2U053dGZvZEh5WEs4U2IzRnVkRk9RdDlYSGZkekNQNy1WYmtKaHhWblI0U1F6SmxmVHJuWmhkRFJQV0xTaXRQRGFxUnd2b0tNMlNNZkszZy00cDNzazdNR1k4WElZTk5lSWNmR1dnQ1l1N2tCa1dtYmNoZmdZS21nd3NDVENDQ01XcDRCQXpocEpIeVhiMA?oc=5",
           "sources": [
             {
-              "source": "The Guardian",
-              "link": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway"
+              "source": "AP News",
+              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNU2w0bC1tN2k4SU92bG9kc3U2U053dGZvZEh5WEs4U2IzRnVkRk9RdDlYSGZkekNQNy1WYmtKaHhWblI0U1F6SmxmVHJuWmhkRFJQV0xTaXRQRGFxUnd2b0tNMlNNZkszZy00cDNzazdNR1k4WElZTk5lSWNmR1dnQ1l1N2tCa1dtYmNoZmdZS21nd3NDVENDQ01XcDRCQXpocEpIeVhiMA?oc=5"
             },
             {
               "source": "BBC",
-              "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss"
+              "link": "https://www.bbc.co.uk/news/articles/c3gre90l0g45o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Ukraine strikes Russian military airbase east of Moscow",
-          "feedTitle": "Ukraine attacks Russian military base, says five planes struck",
-          "summary": "Ukrainian forces attacked an airbase in the Nizhny Novgorod region east of Moscow, with the Ukrainian General Staff claiming five military aircraft were struck. The attack represents an escalation in strikes on Russian military infrastructure far from the front lines. Russia has promised retaliation for the attack.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/11/26/ukraine-attacks-russian-military-base-says-five-planes-struck?traffic_source=rss",
-          "sources": [
-            {
-              "source": "Al Jazeera",
-              "link": "https://www.aljazeera.com/news/2026/11/26/ukraine-attacks-russian-military-base-says-five-planes-struck?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "Record-high king tides flood California coastal communities",
-          "feedTitle": "Record-breaking California tides cause major flooding of roads and businesses",
-          "summary": "Record-breaking high tides driven by El Niño weather swept across the California coast on Wednesday, flooding roads, businesses, and beaches with seawater. Authorities warned residents to stay away from beaches as super tides combined with big wave action created dangerous conditions. Los Angeles and La Jolla experienced all-time high tides, with landmark piers affected.",
+          "title": "Spanish economist chosen as next ECB president",
+          "feedTitle": "Spain’s Pablo Hernández de Cos wins race to be next ECB president",
+          "summary": "Spain's Pablo Hernández de Cos, former governor of the Bank of Spain, has been selected as the next president of the European Central Bank, succeeding Christine Lagarde. The choice came after winning support from the EU's major economies at a eurozone leaders' meeting. Hernández de Cos will take on a critical role managing monetary policy for the eurozone.",
           "source": "The Guardian",
-          "link": "https://www.theguardian.com/us-news/2026/nov/25/california-flooding-high-tides",
+          "link": "https://www.theguardian.com/business/2026/nov/26/spain-pablo-hernandez-de-cos-next-ecb-president",
           "sources": [
             {
               "source": "The Guardian",
-              "link": "https://www.theguardian.com/us-news/2026/nov/25/california-flooding-high-tides"
+              "link": "https://www.theguardian.com/business/2026/nov/26/spain-pablo-hernandez-de-cos-next-ecb-president"
             },
             {
               "source": "Al Jazeera",
-              "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/king-tides-and-big-waves-batter-coastal-california?traffic_source=rss"
+              "link": "https://www.aljazeera.com/news/2026/11/26/spanish-economist-to-become-new-european-central-bank-chief?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Colombian police end supermarket hostage siege",
-          "feedTitle": "All hostages rescued after Colombian security forces storm supermarket, police say",
-          "summary": "Colombian security forces stormed a supermarket in Cartagena, ending a daylong siege in which all hostages were freed. One man described as a hostage-taker was killed, though questions remain about whether he may have been a hostage. President Dumont subsequently confronted the arrested men, characterizing the incident as a robbery gone wrong.",
-          "source": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket",
+          "title": "UK-EU treaty includes 10-year termination clause for future exits",
+          "feedTitle": "New UK-EU treaty has 10-year termination clause",
+          "summary": "The published text of the UK-EU post-Brexit treaty includes a 10-year termination clause that would allow either side to exit the agreement, according to the BBC. The treaty grants ministers significant powers to enact even closer ties with Brussels in future, though it stops short of pursuing rejoining the single market or customs union.",
+          "source": "BBC",
+          "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
           "sources": [
             {
-              "source": "The Guardian",
-              "link": "https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket"
+              "source": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss"
             },
             {
-              "source": "Al Jazeera",
-              "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/colombian-president-taunts-arrested-supermarket-hostage-takers?traffic_source=rss"
+              "source": "The Guardian",
+              "link": "https://www.theguardian.com/politics/2026/nov/26/uk-bill-to-implement-eu-deal-closer-future-ties"
+            }
+          ]
+        },
+        {
+          "title": "Cheaper HIV prevention injection reaches Africa via UN programs",
+          "feedTitle": "Hope for millions as cheaper HIV prevention jab reaches Africa",
+          "summary": "Lenacapavir, a twice-yearly injectable HIV prevention medication that is nearly 100% effective, has begun reaching African nations through UN-coordinated programs at significantly lower costs than previously available. The drug represents a major advance in HIV prevention technology and accessibility for populations at high risk of infection.",
+          "source": "BBC",
+          "link": "https://www.bbc.co.uk/news/articles/cmly7jve72r2o?at_medium=RSS&at_campaign=rss",
+          "sources": [
+            {
+              "source": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/cmly7jve72r2o?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
@@ -242,109 +252,97 @@
     "india": {
       "items": [
         {
-          "title": "India pavilion wins Venice Biennale visitors' award",
-          "feedTitle": "India Pavilion bags Visitors’ Lion at Venice Biennale; PM Modi calls it ‘proud moment for country’",
-          "summary": "India's national pavilion at the Venice Biennale, themed \"Geographies of Distance: Remembering Home,\" won the prestigious Visitors' Lion award. The pavilion explored memory and belonging in a rapidly transforming world. Prime Minister Modi called the win \"a proud moment for the country\" in a statement celebrating the cultural achievement.",
+          "title": "Sheikh Hasina's return gambit tests Bangladesh political fault lines",
+          "feedTitle": "Sheikh Hasina’s return gambit tests Bangladesh’s political fault lines",
+          "summary": "Former Bangladesh Prime Minister Sheikh Hasina is reportedly considering a return to the country amid ongoing political tensions. Her potential comeback would test the nation's political stability and relations with neighboring India, given the significant role India played in her previous government. The move comes as Bangladesh navigates internal divisions and external pressures.",
           "source": "The Hindu",
-          "link": "https://www.thehindu.com/news/national/india-pavilion-bags-visitors-lion-at-venice-biennale-pm-modi-calls-it-proud-moment-for-country/article71745067.ece",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcmYxMFVMMmlkSW1lR2VPT0hsOUlaOTV1ZWktMTJnMFZFeUtiQ1Zxa2tweG1QRFJucTdydmN4NUpCTXh6N0pLbnpJVlV2dzFVVWo4SUM0MVlVamp1RnBGaGdBU01hU2xZNFNqc1pCclRURFBHYkgxQkpqRWNlakVJcTl2SlRoOXBkdTZGYzBVZjRQbEEtRndGMVd4cWR3cXYzYVVMQldyV19KbWFlVXBvTjlzeVo2Mm9hRDBGbm0weTJiQWluQ3BSY3p0N3XSAdMBQVVfeXFMTi1WRjUxYlRyVkNkaXc2UjZaUmtmV1ZQai1iZXRPQlZ4OVh1TzZkd2lWT1QyU2IzX3prUnFhMFRfcXRReU4zRTZrUmRSUHlYdllTUDRaVDNjc25MdTZRRmhPc3g0NVdxeXktVkk3UG9xNmxjRUhKWEJ3MXBvSXJKVkVFa3l0enZ1Ty1jYnhGNUQ2RHEwYURPWWRFOExYNnltajNISllqR2hQajVLbGlieVF2alowTXMzejlsMFUxRG14bjJMX2ZnTE9JamIzQ0Q5VWNHUQ?oc=5",
           "sources": [
             {
               "source": "The Hindu",
-              "link": "https://www.thehindu.com/news/national/india-pavilion-bags-visitors-lion-at-venice-biennale-pm-modi-calls-it-proud-moment-for-country/article71745067.ece"
-            },
-            {
-              "source": "Utkarsh Classes",
-              "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQODR1dTY0SjFnY0kxS2VnbzRULWdFZjJKNnhPWGkzTDFHZEQ2eUx4NTJqYzNlZlVZazlBcE1BclJkUGJGcXp6QVQwZXNpUWNJQTgzN3k1b0txY1VzbFVNMkttSjk1XzRKV1dqM2JNUGdSRWlnZFhuSzRKWVdTak5kTFRaSlZJUTdkLWt0VlNDejJDWFlDMk5OWTNnRFZlU2ktR2RaaC1FTWkwQU5kYWp3Q2NVZExkWnZfRGwwdHZR?oc=5"
+              "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcmYxMFVMMmlkSW1lR2VPT0hsOUlaOTV1ZWktMTJnMFZFeUtiQ1Zxa2tweG1QRFJucTdydmN4NUpCTXh6N0pLbnpJVlV2dzFVVWo4SUM0MVlVamp1RnBGaGdBU01hU2xZNFNqc1pCclRURFBHYkgxQkpqRWNlakVJcTl2SlRoOXBkdTZGYzBVZjRQbEEtRndGMVd4cWR3cXYzYVVMQldyV19KbWFlVXBvTjlzeVo2Mm9hRDBGbm0weTJiQWluQ3BSY3p0N3XSAdMBQVVfeXFMTi1WRjUxYlRyVkNkaXc2UjZaUmtmV1ZQai1iZXRPQlZ4OVh1TzZkd2lWT1QyU2IzX3prUnFhMFRfcXRReU4zRTZrUmRSUHlYdllTUDRaVDNjc25MdTZRRmhPc3g0NVdxeXktVkk3UG9xNmxjRUhKWEJ3MXBvSXJKVkVFa3l0enZ1Ty1jYnhGNUQ2RHEwYURPWWRFOExYNnltajNISllqR2hQajVLbGlieVF2alowTXMzejlsMFUxRG14bjJMX2ZnTE9JamIzQ0Q5VWNHUQ?oc=5"
             }
           ]
         },
         {
-          "title": "US announces 25% tariffs on India, second-highest rate",
-          "feedTitle": "U.S. announces new 25% tariffs on India, second-highest in the 14 countries against which action has been taken",
-          "summary": "The Trump administration announced new 25% tariffs on India, the second-highest rate among 14 targeted nations, though the order leaves room for a reduced 17% rate if India and the US sign a trade deal. India is examining the USTR's Section 301 determination on manufacturing capacity claims. The tariff represents a significant trade development with implications for India's export sectors.",
+          "title": "Amended Delimitation Bill likely tabled in special Parliament sitting",
+          "feedTitle": "Amended Delimitation Bill likely to be tabled in special Parliament sitting from November 30",
+          "summary": "India's Union Cabinet is expected to meet on November 27 to clear an amended Delimitation Bill, which is likely to be introduced in a special Parliament sitting beginning November 30. The bill relates to redrawing of electoral boundaries, a politically sensitive matter in Indian politics.",
           "source": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/donald-trump-tariffs-us-midterm-elections/article71743081.ece",
+          "link": "https://www.thehindu.com/news/national/government-to-reconvene-parliament-from-november-30-to-december-3-kiren-rijiju/article71747089.ece",
           "sources": [
             {
               "source": "The Hindu",
-              "link": "https://www.thehindu.com/news/international/donald-trump-tariffs-us-midterm-elections/article71743081.ece"
-            },
-            {
-              "source": "CNBC",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCNEVmNUhlTHZVREEzZ01xdzYwNmpBWE1fNEk2WTlKREhuUWtqN2xsVnRTLWtWUkVGQ2d3UmFURW1ORUY1ZV9FV3V1YVpLa19jczZrS21YVWtYLXhBb0dSY2taSzVvWlR0djdYQWlBcjF6UdIBd0FVX3lxTE8xSVBVQVFIMm5qRmN0dDNJeE5XZEk5eVF3ZjgzaWZhUlZTWVhnWC1FLWtwZ3Q2UE5YSEtpalkxb1lidFZMWk1CMU9qa25OcURkdjkzRk4xdEoxdDl0ZEZhTVNzQUxSZFR2aXdXbm5CZE92X0pqaERJ?oc=5"
+              "link": "https://www.thehindu.com/news/national/government-to-reconvene-parliament-from-november-30-to-december-3-kiren-rijiju/article71747089.ece"
             }
           ]
         },
         {
-          "title": "Trump tariffs on India: exemptions possible for key sectors",
-          "feedTitle": "Trump slaps new tariffs on 14 nations; India faces additional 17%",
-          "summary": "Analysis of Trump's proposed tariffs shows that certain Indian products in pharmaceuticals, auto, and metal sectors could potentially be exempt from the new 25% duty rate. Industry analysts are examining which goods might qualify for relief under the proposed tariff structure. The exemptions remain dependent on trade negotiations between the two countries.",
-          "source": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbE9aYUh4Zkd5REJfZ3ExLTdUNFJjeHVMTE5Fa1EwclZzY3c0ZkFrdjlNMXYzX2lXRzJLY0dydXVSNFgzaS1FSllhckVfWG5aR00tcWhDNkstd0tYTUdzR2JfbDVfMUVnTVNleEpEYUNqUFRfUk1tOEZFX0xNcUxZenVrdWpnbDdkMkxyQWF5VG5maW5ic1c4eVBYQzlYVkVBdnZPMlRpSUVCb2RGRVYwVHFJREtXSHBvaDlMeA?oc=5",
+          "title": "India needs $500 billion annually for net-zero by 2070",
+          "feedTitle": "India needs $500 billion a year for net zero by 2070, report says",
+          "summary": "A new report indicates that India requires approximately $500 billion per year in investment to achieve its net-zero emissions target by 2070. The massive funding requirement highlights the scale of India's climate transition challenge and the need for both domestic and international financial commitments.",
+          "source": "climate.economictimes.indiatimes.com",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQzY3M1lMclh3OTJycDNSa0hsYVBydWUtR0RLVmJUQTFXNFVISkpMMGVjNU9xNEt0c2NyRXl3ZlY4QkJaN2ZvS204UzVGRnhqTW56cFByQkdpQ0VpazNRMWxhQXZmZzNZaDZoNTdOclcxSm81WWllbEtoZHFfSW0wUHFlWUdFRVJaY2M3ci02RFNIamttczBpRmpROGswQWtkcm5VYUQwb0lZWnQ3VW9jWGF6eUZ4UFFKeVo2eVVaZmhETHB5eWFWOXNSdFFBcXBxRVJPSjVpQWc2T0U?oc=5",
           "sources": [
             {
-              "source": "The Times of India",
-              "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbE9aYUh4Zkd5REJfZ3ExLTdUNFJjeHVMTE5Fa1EwclZzY3c0ZkFrdjlNMXYzX2lXRzJLY0dydXVSNFgzaS1FSllhckVfWG5aR00tcWhDNkstd0tYTUdzR2JfbDVfMUVnTVNleEpEYUNqUFRfUk1tOEZFX0xNcUxZenVrdWpnbDdkMkxyQWF5VG5maW5ic1c4eVBYQzlYVkVBdnZPMlRpSUVCb2RGRVYwVHFJREtXSHBvaDlMeA?oc=5"
-            },
-            {
-              "source": "Kotak Neo",
-              "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUmVETTJkLXRHOVRTSWdUanU2U1N2b0I0UVdpMXFqQ0RlSVJqM2RvNWpsc0xSVE9VQUNldkhvZmlqV3N5RkpJUnQ1aDg1bXYxX1dEMzVVYnUzOGxfSWFudGtMZXU2WHdSaVdiRWV6MUtrRVVTc1p5dlRuNUJpZ21Oa09XSVY5Q2w1eW5UazBUaVdrX0d6UnV5cGNXbGFMaWRiNGRONlBJZENGbzc3T3NrbQ?oc=5"
+              "source": "climate.economictimes.indiatimes.com",
+              "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQzY3M1lMclh3OTJycDNSa0hsYVBydWUtR0RLVmJUQTFXNFVISkpMMGVjNU9xNEt0c2NyRXl3ZlY4QkJaN2ZvS204UzVGRnhqTW56cFByQkdpQ0VpazNRMWxhQXZmZzNZaDZoNTdOclcxSm81WWllbEtoZHFfSW0wUHFlWUdFRVJaY2M3ci02RFNIamttczBpRmpROGswQWtkcm5VYUQwb0lZWnQ3VW9jWGF6eUZ4UFFKeVo2eVVaZmhETHB5eWFWOXNSdFFBcXBxRVJPSjVpQWc2T0U?oc=5"
             }
           ]
         },
         {
-          "title": "Supreme Court issues notice on Delhi riots bail pleas",
-          "feedTitle": "Supreme Court issues notice on bail pleas by Umar Khalid, Sharjeel Imam in 2020 Delhi riots case",
-          "summary": "The Supreme Court has issued a notice regarding bail pleas by Umar Khalid and Sharjeel Imam in connection with the 2020 Delhi riots case. The court declined to grant interim relief, and Chief Justice will establish a three-judge bench to examine whether prolonged incarceration and trial delays can override stringent bail curbs under UAPA. The case involves complex questions about due process and anti-terrorism law.",
+          "title": "Tamil Nadu introduces 15 days paternity leave for government employees",
+          "feedTitle": "Tamil Nadu introduces 15 days of paternity leave for married government employees",
+          "summary": "Tamil Nadu state has announced a new policy providing 15 days of paternity leave for married government employees. The policy aims to support work-life balance and promote shared parenting responsibilities among state government workers.",
           "source": "The Hindu",
-          "link": "https://www.thehindu.com/news/national/sharjeel-imam-umar-khalid-bail-supreme-court-notice-to-delhi-police-on-pleas-in-uapa-delhi-riots-case/article71741295.ece",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYjRGRnVGZ2N5QklSY1JsXzlrQmdMUTU4eHE2NUwzTzJQZ3dCZ3JVcmJBSUdiRjB5X1JheU0tRWduUllGRmxkeHBJZUx3SVYxdERlbExQajA3TFB2Z1I1UGNkMnJ6eEwySm9rQjV5a21kQkxpcTlYZ2QtYzUyRDRoMDF2aG5QN1ZpM1FNbUZjZjNwbmJzcThDVjV5cnBkaTk5UE1mbmRVRDJ3SmJ2NlN2LUV5aDNHNkMtLU5qWmVWRkdsYVotS2pfc1NiMU1xcFMwWDFfN0UtWDN0QkhzR283a1hlZlcyd9IB7AFBVV95cUxOQ3hCYlMyalJOVjRfeEhKdmhKQVlYa3NtOW91TU00V2lZSThXNUV4RmNHQTNqM1U5U3VVZEExSjEwQ1pQOF9hNjhEeV94al9EZTgwVG9CSzV1VGFsaV84Rl92cHZzNkQzcW5rcjFPWDVxZWZTYkJ4T3Y2YWhyNXJzVlRldzhWTTEzZkd5T2YwYmhIOW9TUFlCa3RqQmd6aF8wT0VOdXVIVnJOX3B6MmRrZW11b0QxYkpHRE50UVFWVDRNZFU2NVhhODlncFc1UEZxYUlPQkw3cHJJTXpvMUZ1TWpYTXdQdkxYcHZLZQ?oc=5",
           "sources": [
             {
               "source": "The Hindu",
-              "link": "https://www.thehindu.com/news/national/sharjeel-imam-umar-khalid-bail-supreme-court-notice-to-delhi-police-on-pleas-in-uapa-delhi-riots-case/article71741295.ece"
+              "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYjRGRnVGZ2N5QklSY1JsXzlrQmdMUTU4eHE2NUwzTzJQZ3dCZ3JVcmJBSUdiRjB5X1JheU0tRWduUllGRmxkeHBJZUx3SVYxdERlbExQajA3TFB2Z1I1UGNkMnJ6eEwySm9rQjV5a21kQkxpcTlYZ2QtYzUyRDRoMDF2aG5QN1ZpM1FNbUZjZjNwbmJzcThDVjV5cnBkaTk5UE1mbmRVRDJ3SmJ2NlN2LUV5aDNHNkMtLU5qWmVWRkdsYVotS2pfc1NiMU1xcFMwWDFfN0UtWDN0QkhzR283a1hlZlcyd9IB7AFBVV95cUxOQ3hCYlMyalJOVjRfeEhKdmhKQVlYa3NtOW91TU00V2lZSThXNUV4RmNHQTNqM1U5U3VVZEExSjEwQ1pQOF9hNjhEeV94al9EZTgwVG9CSzV1VGFsaV84Rl92cHZzNkQzcW5rcjFPWDVxZWZTYkJ4T3Y2YWhyNXJzVlRldzhWTTEzZkd5T2YwYmhIOW9TUFlCa3RqQmd6aF8wT0VOdXVIVnJOX3B6MmRrZW11b0QxYkpHRE50UVFWVDRNZFU2NVhhODlncFc1UEZxYUlPQkw3cHJJTXpvMUZ1TWpYTXdQdkxYcHZLZQ?oc=5"
             }
           ]
         },
         {
-          "title": "India advances to Women's Asian Champions Trophy semi-finals",
-          "feedTitle": "India thrash Japan 4-0 to enter Women’s Asian Champions Trophy semi-finals",
-          "summary": "India's women's hockey team defeated Japan 4-0 to secure passage to the semi-finals of the Women's Asian Champions Trophy. The dominant victory advances the team through the group stage of the continental competition. India demonstrated strong offensive performance in the match.",
-          "source": "News On AIR",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQa3BRQ3pha0p6WHc3X1RCdFAzd1RYMHllaWhnU1VvVVBOUmFVMVBnaW41V0ZGVi00WWFFR3YwRm9yT0MyTWpWR3ItdUp4czBkZzBYUV9NMVdOc2JLd2pKTlp3bEhsS2FvbkhNUkdfWUx6R3oxbm11MHNKNlFQTlJsTmR4bzNwdDBqM25Qck83MmpRSXFnSW13UGV3TTQ0MzEw?oc=5",
+          "title": "India administers 10 million HPV vaccine doses in nine months",
+          "feedTitle": "India Administers 1 Crore HPV Vaccine Doses In Less Than Nine Months",
+          "summary": "India has administered 10 million doses of the HPV vaccine in less than nine months, marking significant progress in its cervical cancer prevention efforts. The rapid rollout demonstrates India's capacity to scale health interventions across its large population.",
+          "source": "BW Healthcare World",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNkFZU3BwNG9ZSGwxRmUxZUdrSFlkRUVadDdndDhlYjc2VVJIV2VsWVhhM0cxekVLRXU1bmtweDhlMHJ2NEtuMDJsU252UlRZOWtETkNFenl4N1dWTGRoXzlZbi1RMDNqeU9iTnQwOUlMczZ2SXpaeWV3WlplQ05ZbE5ZdjFCLVpUMWNXU0NQamFNOVhoM2I0N1ZvTUREcnZDRy1ZLUpHeWtUZmxuaVZia2p6aTl0aGVm?oc=5",
           "sources": [
             {
-              "source": "News On AIR",
-              "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQa3BRQ3pha0p6WHc3X1RCdFAzd1RYMHllaWhnU1VvVVBOUmFVMVBnaW41V0ZGVi00WWFFR3YwRm9yT0MyTWpWR3ItdUp4czBkZzBYUV9NMVdOc2JLd2pKTlp3bEhsS2FvbkhNUkdfWUx6R3oxbm11MHNKNlFQTlJsTmR4bzNwdDBqM25Qck83MmpRSXFnSW13UGV3TTQ0MzEw?oc=5"
+              "source": "BW Healthcare World",
+              "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNkFZU3BwNG9ZSGwxRmUxZUdrSFlkRUVadDdndDhlYjc2VVJIV2VsWVhhM0cxekVLRXU1bmtweDhlMHJ2NEtuMDJsU252UlRZOWtETkNFenl4N1dWTGRoXzlZbi1RMDNqeU9iTnQwOUlMczZ2SXpaeWV3WlplQ05ZbE5ZdjFCLVpUMWNXU0NQamFNOVhoM2I0N1ZvTUREcnZDRy1ZLUpHeWtUZmxuaVZia2p6aTl0aGVm?oc=5"
             }
           ]
         }
       ],
       "immigration": [
         {
-          "title": "IBM ends green card sponsorship for H-1B employees",
-          "feedTitle": "IBM ends green card sponsorship, H-1B employees could face 80% pay cut or exit - People Matters",
-          "summary": "IBM has ended green card sponsorship and given H-1B visa holders in its major divisions three weeks to choose between relocation or job loss, with some facing potential 80% pay cuts if forced to move. The move affects a significant portion of IBM's workforce and signals a major shift in employment-based immigration sponsorship by a major tech firm. This is finalized and in effect immediately.",
-          "source": "HR News",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQci00UkNsNVg2ZkxIcHRNMVdPU0IwWjVtcUVUYTNaUHQzX2o5Znk5UTNSTDl2LUY1M3hZVmdKSEpuRm4yMnpvYzNrYjNGcVVCdnhEVEVMZldQTy1sN2Ezd1l1X0FQZldQZVlCaHpqYnFMZ2pENW1SUGNwTHAyaFVoeGdDTS1CRmI3amhYaWgtbGFyTnprbm5zZVVVeHM3RGRWdG5vNFgwb2NzRHlVakFwbWJLQkw4cVJNcU1FZjB0UDc3ZWRJdHF6dU9ud2lrN0puTENHdg?oc=5",
+          "title": "IBM ends H-1B visa sponsorship for consulting roles",
+          "feedTitle": "IBM ends H-1B Visa, Green Card sponsorship for most consulting roles; employees asked to relocate or exit",
+          "summary": "IBM has announced it is ending H-1B visa and green card sponsorship for most of its consulting positions, giving employees three weeks to either relocate to another country or resign. The decision affects hundreds of Indian technology workers and represents a significant shift in IBM's hiring strategy amid changing client needs and visa dynamics. This is a major shift affecting H-1B holders' ability to remain in the US.",
+          "source": "Social News XYZ",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQT0R1OGFvRHNvREFRb3BQSDNMcHZBWUxwaS1lMkVCWUZmUk1mNF9fZXVKc0ktUjhzRUxvTk85NGFhVjBNRG1VNHM3emRPdDZsSExLRk1wdWctMzRHVG1VUC15ZDVOY2dsUkg4aTUxc0xqYUVvOTZXNGkzMUpoYUpQZXhMQ0E2VEtQRTNqZjM4ZkNzMzFFTWhFb0huRnFvejdNRzFaZnYxLXdlSG5QTkNTLXZyaWdHZGpiRVJKQ0NhUTJGd1VtUlREcWtxaEJDaDRndEN6R1F0SGpPQdIB2gFBVV95cUxQT0R1OGFvRHNvREFRb3BQSDNMcHZBWUxwaS1lMkVCWUZmUk1mNF9fZXVKc0ktUjhzRUxvTk85NGFhVjBNRG1VNHM3emRPdDZsSExLRk1wdWctMzRHVG1VUC15ZDVOY2dsUkg4aTUxc0xqYUVvOTZXNGkzMUpoYUpQZXhMQ0E2VEtQRTNqZjM4ZkNzMzFFTWhFb0huRnFvejdNRzFaZnYxLXdlSG5QTkNTLXZyaWdHZGpiRVJKQ0NhUTJGd1VtUlREcWtxaEJDaDRndEN6R1F0SGpPQQ?oc=5",
           "sources": [
             {
-              "source": "HR News",
-              "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQci00UkNsNVg2ZkxIcHRNMVdPU0IwWjVtcUVUYTNaUHQzX2o5Znk5UTNSTDl2LUY1M3hZVmdKSEpuRm4yMnpvYzNrYjNGcVVCdnhEVEVMZldQTy1sN2Ezd1l1X0FQZldQZVlCaHpqYnFMZ2pENW1SUGNwTHAyaFVoeGdDTS1CRmI3amhYaWgtbGFyTnprbm5zZVVVeHM3RGRWdG5vNFgwb2NzRHlVakFwbWJLQkw4cVJNcU1FZjB0UDc3ZWRJdHF6dU9ud2lrN0puTENHdg?oc=5"
+              "source": "Social News XYZ",
+              "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQT0R1OGFvRHNvREFRb3BQSDNMcHZBWUxwaS1lMkVCWUZmUk1mNF9fZXVKc0ktUjhzRUxvTk85NGFhVjBNRG1VNHM3emRPdDZsSExLRk1wdWctMzRHVG1VUC15ZDVOY2dsUkg4aTUxc0xqYUVvOTZXNGkzMUpoYUpQZXhMQ0E2VEtQRTNqZjM4ZkNzMzFFTWhFb0huRnFvejdNRzFaZnYxLXdlSG5QTkNTLXZyaWdHZGpiRVJKQ0NhUTJGd1VtUlREcWtxaEJDaDRndEN6R1F0SGpPQdIB2gFBVV95cUxQT0R1OGFvRHNvREFRb3BQSDNMcHZBWUxwaS1lMkVCWUZmUk1mNF9fZXVKc0ktUjhzRUxvTk85NGFhVjBNRG1VNHM3emRPdDZsSExLRk1wdWctMzRHVG1VUC15ZDVOY2dsUkg4aTUxc0xqYUVvOTZXNGkzMUpoYUpQZXhMQ0E2VEtQRTNqZjM4ZkNzMzFFTWhFb0huRnFvejdNRzFaZnYxLXdlSG5QTkNTLXZyaWdHZGpiRVJKQ0NhUTJGd1VtUlREcWtxaEJDaDRndEN6R1F0SGpPQQ?oc=5"
             },
             {
-              "source": "The American Bazaar",
-              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2J5cU5yczdaSXpkN0RyWkFIc3BJcFlEMUlTUnlyQ05JTTllbDlMOGp3ckJjUjgtUWx2MjFMNmZFOTVqbmZ3TmhYVW91UmxUSjhYb0x4ei1IblFtOTJzZkZMSTFzeTNTNm5GNXh5TDF6TjZ1ZTY0dUlUTkJZY05yRUloVk9ZUkZfRlplOHJzd1ZTcVp6YndtWW5B?oc=5"
+              "source": "Gulf News",
+              "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxON1NmUFlLUXl1Qmk0OFlacW9BcTg0WE5DNExlV3d5LXR4X2JhN2dySGdTZmE2MmhvTGFieFMwajlmTEx3VEhYeE9IcmNPd0x4bE0tNEpXUkQ4RlNzM1VlNFV1VXh2SENGVUxUNmdpWkZJbFhQU21GVmxxcmQ1aVZVZ1JZTC0zY1l2bTk1clR4a2cyQmVFd1Vzb0ZEUTE2c0t5SWttRk05ZjhJdTZaZU9ZajI0R080M19HdExaM2NOaTlFd2ljcHNvU0Z30gHfAUFVX3lxTE84X013S2RiMjVTdzNCTFpEQ013NUxqRlRST0dTdkV1VHRTRU5GdUtBbUpqajdjYW5YVGxLdkNkYWczRExERVZXY2Nwb01VUkhsMmxqVi1GbHJEbHNzME1CSEg4Sm5sZkg2UjJqYmRpUHhJTi1sSUc3OHQydmlIZVdVUndycWh4czE5aGlwV0QxM3FsQlZ1N1BuVmk0c0g3Tmk3anhFTmlTcldIVUFtZFhyTVZobEpYaldEUjA0WTczZkV4b3B6LUlxNjZldzAtOWxSdTRZbmNUMmNHV05NU2s?oc=5"
             },
             {
-              "source": "India Today",
-              "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPX2tFeEdBXzBWckx5T0E0alVSSUJyLS1wYm1hbnh5b0l6eExHZ043WnZ2VFk0UVRQaldXeGI3Y3ByM0dKODZFTjVmYzlDOGptblVDc05uQXM2Y3RncHRKaU8zVVlsLWotSGF4VjBNenE0Y3hLaWNVRUU3ZHhJZ01IXzRUdF9semd3RjZjZTJmY2FhQWZLTjBCZ3Rad3ZSelgxTVI5SjZfd2Vfd2pVRVBFejNEZ2hlRlF3NWE5MC1PUDZpYUpnU0NSbEZHODFqWk1tbU5GVC1LZVpzNnczVUJSQjdDZHhaSFJkVXlTTkRFNNIB9AFBVV95cUxNTEdUWHNqMWJuWGVuQ21FQ0kzV1ZkVmpqdjVxRnQzOHlBYlZfU1hhdXJ0bjAwZXhhNmh5bXNKTDdRdG1YV1gxREpNM3FJSGlQcUZEbndRRVFYb3VRcDI4d0MyUHVmZTZuNTE5SDhGbXZLX3dMQ202dm5nb19PSUZiM21ZWmlsRnhpYmQ2WE5sMlBXdVB0al9SSkF3Y3ZrbkE1LUYxWi1rUUkyQXRQZWxTbHBHb2dDVVY5V08yRmNlZ3ZtT0Nxc0hxS3Rxcl9wOGUzRnM5WnN0YVhsaG1KVTdjYWhlOUwzcHQtYnB6NUd1SWo0WWNu?oc=5"
+              "source": "The Indian Express",
+              "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPc2cxNkNJWjFBR3pRaVI3OTdMREUzVkJqbnRWdVQ1OER2em5qVEJtZjcyVFdMcWYyOUJ2OExDNHI4MVFpay15bFBRRDVCODJ6SHh6VEVNR3JkX2djelRUT241ZWJQNm1mUTdiNGxaV3lBZUVEZmpuRnhOTVV4RUVpeS1DbXVSaXM1aEZqM2w4c3pINGMwam91VG8wVndCZGxkbElTOXhnMW8xN1E0bGFsRDJjTDhxX1hJT254OUZFUUlfb2xOUHNwTTM4SW5yTnAzd0t1QWJTMUPSAd8BQVVfeXFMT2lUYlkyUnFQOFRWZXpsTEFlbW8yZ3dVOHNESWNGazI1VDlreUZtd3g0c0wxNXdBbVJUSmZIMzBGTzdBeEtMMGtEc0JnQjMzb1FIUlNsSURES0tMU2pMZ1I2eVZBMnp3aF9xQ2JHXzlBRXJqWFU5QXZzbW10ZjRRM1VFZHpTamVOSEV5azNXdnVsc0Jva2tTelBDNnFmQ2ZaMzBMQm5pU1lOdVJrNmd4MUZrcGYzZkYtZmxab3lrRFFqeV93bEMybXYybXpsSVZXTXRkTXFmYmZZeTVPVFdGNA?oc=5"
             }
           ]
         },
         {
-          "title": "DOL proposes sweeping PERM labor certification overhaul",
+          "title": "DOL proposes sweeping modernization of PERM labor certification",
           "feedTitle": "Modernizing the Labor Market Test and Improving Protections for U.S. Workers in the PERM Immigrant Visa Program",
-          "summary": "The Department of Labor has proposed major changes to the PERM (Permanent Labor Certification) process, the foundational step for employment-based green card sponsorship. The proposed rule, still pending finalization, aims to strengthen labor market testing standards and worker protections. This represents the biggest PERM overhaul since 2005 and directly affects how employers sponsor permanent immigration petitions.",
+          "summary": "The US Department of Labor has proposed major changes to the PERM labor certification program for green card sponsorship, including 90-day recruitment periods and a 2-year layoff bar for employers. The proposed rule, still under review and not finalized, aims to strengthen protections for US workers while modernizing the green card process. These changes could significantly tighten requirements for employers seeking to sponsor foreign workers for permanent positions.",
           "source": "Federal Register",
           "link": "https://www.federalregister.gov/documents/2026/11/17/2026-23370/modernizing-the-labor-market-test-and-improving-protections-for-us-workers-in-the-perm-immigrant",
           "sources": [
@@ -353,29 +351,29 @@
               "link": "https://www.federalregister.gov/documents/2026/11/17/2026-23370/modernizing-the-labor-market-test-and-improving-protections-for-us-workers-in-the-perm-immigrant"
             },
             {
-              "source": "The Quint",
-              "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSkNwWExsU2JDSkpZaTdCR1dicFlfWDU3dTZZQnFaWVdOTW5yQXM0TzdwMFRSand5YUktb2lIZG9sOEFGMmNEMEpEbEJVQjJRSVAtTUpfNVZMczdqV1lfajhhT011MlpMS2FUVmxYUjJUa0ZVejhqMFlITU5NSW1iWjlKbjNXSU9qcG8zZS1xMi1JWUNHUmVnZFhkNVVPdDF50gGuAUFVX3lxTE5DZ1l1bXREYUZFS2RoWFI4ZFlSMGRnal90Y0Z5YVNlNXdxV0hFY0lIeUFDZW1vV00xT1BPVzliZUpGZ1hqMUlIOV9fYnc0YXF5bXpyNjZKeWpKMEdCYTFpT2Z6LVZJdE5HV2JVN0JtQi1DeVB5THE2ejFQNjczOThSZHZ6c3VTTFpSS3JBbFV6LWY3cXZwWmd4SENLR1ZrYnRkMUtmNFdNMjRVT0xNdw?oc=5"
-            },
-            {
               "source": "The National Law Review",
               "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV0RWclpjQjNxNEhUdVBta1Yyb2FuSGlqNUpnQzFjWGdwak1FSVZEazJxOHF4QTUzWVpTb0hERWdsWmoybmM2eHdkWmcwTUtrUjdDNGxGU2pVTE52Slpzd0oxSjdNRVUzNGhlcWlyQjFmLUVLcWZ2QW5YYTNGelZ3V1lCOVVnQ21WQmZuNG5qT29DOVk2Z2lEVUpIOGU3UXNSTE5UUy1XYzNOM0xaWFE1UkVNZ2t4YknSAbwBQVVfeXFMTVhuY3YzMHpDUkExcDFRRFBzRnItQ3FzSk4wWjVZVm0xVXEyU3I4dUdoMlpob1ljRzVnYldETFBWWGdreW1OS0QydmlDUjdMdHZ0M1FtOEl4eExZaWJNQkVUWUZ6cHF2VHU3NEVGOGkxYmxSSVdrVVN2NF9jRjJZd28zdnhpVThyMV9GZ3NiczVtaDNHUnM4TVdRVFNmZ2JKWFl3NXNFbGM4bWxkTGVZUlFwVXhUak9iYk1BQXo?oc=5"
+            },
+            {
+              "source": "Clark Hill",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTmRqM3N4cHlubktiVXdQenVLd2k4UTdZQzVBNVNxemo4VHV1ZzJ3ajk3T3FWelEyTi0wUjRkLTJuWDNHZUtNTzBwTW96dUZfMWJYMHlmbU5QTVRNMjRpekVDZDUtRnVQZnhORFlpX0hsUGQ5MUZjaGlTSmVTQkxfVFlHMDBVT0tDUmxWNkE0R3ctbU01ZmxaOU13?oc=5"
             }
           ]
         },
         {
-          "title": "H-1B premium processing fee rises to $2,965 for FY2028",
-          "feedTitle": "H-1B premium processing costs $2,965 ahead of FY2028 lottery: What Indian F-1 OPT workers must know about rules and cap-gap",
-          "summary": "USCIS has increased the H-1B visa premium processing fee to $2,965 ahead of the FY2028 lottery, affecting Indian F-1 OPT workers and other H-1B applicants seeking expedited processing. The fee increase applies to new filings. This is finalized and in effect for current petition cycles.",
-          "source": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPQjlVZnRPSjZhWHhqNjhpVnlsbTg3OU5EN0pfaGhHRzBXLWdFNVE0Wk83Wk1iTHlPNVplY2tMdG50a3VwSjB6eXNRTVFGdUxIeG03dDdLeDQ4VDZJcVJ2YVZTVG02cHRJYjFFWi1TZ20zZzBFUEtlTUZiNzhYTWkzcnc2cThHMW9fUTB0djB3bldCdU1kMEZWUTRta3RTOG5zbWJRVkZsd0JvTTZFNEFRS3B2Y0dqY1lrc0FGWDlhb05adUc3cEFIamt3UnhPbnRIaG8wTXJfZ1c5NHdwbEtkUmQxMjZFaVdjdmk5UW5VcTg2VWRmOWY1OVZVa0R2aWhhMXItZVFUZ1AtUEpJbGg3NXBNN3Z1SVdVdDRVd2JKbW1sSXZ0S1NTWmxkYzdXdw?oc=5",
+          "title": "State Department pauses immigrant visas for 75 high-risk countries",
+          "feedTitle": "Update: State Dep't Pause on Immigrant Visas for Nationals of 75 Countries \"At High Risk of Public Charge Usage\"",
+          "summary": "The State Department has paused immigrant visa processing for nationals of 75 countries deemed at high risk of public charge usage, temporarily halting visa interviews worldwide as consular officers receive training on updated public charge rules. This policy change, finalized and now in effect, affects applicants from multiple nations seeking permanent residency in the US.",
+          "source": "Chodorow Law Offices",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQzBFalIyTFBucVVFb3V5azBKOWVDXzNpb1h1b093VzlSb0plVzkwWWVyNnktUDZ3Y2pOWjUtNkJMaHlkazZmN0NTTTVJdVNSWXZfYmpXYlZUWDZFTzI1UGNHVmYxQzZVSjhGUzJZeG5PdW5lcGVEdnVwVl94QnBRNXJ1cjRZYnRsdmJybVNaVUZYcElqc3ZsLW9IOEJrVlhTdFBrNXNyY1lnSExtbWNHT0pjWk94bHB1YzJ0aUQ4YUNmeTQ?oc=5",
           "sources": [
             {
-              "source": "The Times of India",
-              "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPQjlVZnRPSjZhWHhqNjhpVnlsbTg3OU5EN0pfaGhHRzBXLWdFNVE0Wk83Wk1iTHlPNVplY2tMdG50a3VwSjB6eXNRTVFGdUxIeG03dDdLeDQ4VDZJcVJ2YVZTVG02cHRJYjFFWi1TZ20zZzBFUEtlTUZiNzhYTWkzcnc2cThHMW9fUTB0djB3bldCdU1kMEZWUTRta3RTOG5zbWJRVkZsd0JvTTZFNEFRS3B2Y0dqY1lrc0FGWDlhb05adUc3cEFIamt3UnhPbnRIaG8wTXJfZ1c5NHdwbEtkUmQxMjZFaVdjdmk5UW5VcTg2VWRmOWY1OVZVa0R2aWhhMXItZVFUZ1AtUEpJbGg3NXBNN3Z1SVdVdDRVd2JKbW1sSXZ0S1NTWmxkYzdXdw?oc=5"
+              "source": "Chodorow Law Offices",
+              "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQzBFalIyTFBucVVFb3V5azBKOWVDXzNpb1h1b093VzlSb0plVzkwWWVyNnktUDZ3Y2pOWjUtNkJMaHlkazZmN0NTTTVJdVNSWXZfYmpXYlZUWDZFTzI1UGNHVmYxQzZVSjhGUzJZeG5PdW5lcGVEdnVwVl94QnBRNXJ1cjRZYnRsdmJybVNaVUZYcElqc3ZsLW9IOEJrVlhTdFBrNXNyY1lnSExtbWNHT0pjWk94bHB1YzJ0aUQ4YUNmeTQ?oc=5"
             },
             {
-              "source": "FlipItMoney",
-              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSnA1eE5GTVlaNVVsRzJ5N202dnBBZVVrSGtNaVlWSWNVWFdsNHFqTjdrbENFdHh1T2tjdTlkbWlvWnVKbkhrNUdPRUs0VWxjZExMQWhWclFOaFctVXdnejcwZkM2aUlHNXlVUW9vbF9sMXhZNHUzWWgxNEtlY2hCTlJUbGM3NXFwUVEzUUR1MTNMLTRaLUUtQXhxZmhnWUVEMHNvWG5oQQ?oc=5"
+              "source": "Legal 500",
+              "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOY0NDRmVPMFVjeFBSUWZVUDJZYTh3OEZyWGpSUE1lbFEtaWNWelBSdVFmVFBISkpnTFllTURZSS15aGR4aXRLbDZFS283UG1hQlU2NmwzdkZwb2lFZklHQ1h1a0hTZ1FMUDNaZGpoemhYUVFQYnVJRUl5S2k4LWFCNjFCMEp2WGd6T2toay1Jb1I5aWpxS05aSS1KaWRua0JTSUlBSXIyX3hnNjhaZkVVbnlJREFuRmRkWU5RTFZsbUdYb0ZHLUtINGZpYkJGYlJwc0VJUkhBb3diYzJLZXZNUm16S1JrUGs0T0NzUjQ3Yw?oc=5"
             }
           ]
         }
@@ -384,75 +382,91 @@
     "finance": {
       "items": [
         {
-          "title": "Indian IT stocks rally for fourth consecutive session",
-          "feedTitle": "TCS, Infosys, Wipro: NIFTY IT gains 7% as IT stocks rally for fourth straight session; growth challenges ahead?",
-          "summary": "India's NIFTY IT index surged 7% as TCS, Infosys, and Wipro led gains over four consecutive trading days, with analysts noting sector momentum but flagging ahead growth challenges. The rally reflects positive sentiment in the tech sector despite broader market volatility. However, experts caution about headwinds in IT spending and growth going forward.",
-          "source": "Upstox",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOU014bmZXWFkzekU3dG9BYVBoREVjQjI1c0FJT2c3aG8zOHByS2pIUUZCS3p0SUpjZVhvMTFNRW52d0NYV3BDRTFoV1pSTDZzODNjTlNsWngxaUVKV1Y3cXJoUzE0ZjhETmI1SnRGSHpnZzMxdG8tTmVLT1B2SHcwZmVibmc3cUZJck1RZmdZUm1ibEk5anpyd251X1RWNGtVcmViSkx3ZVMxTVlUYmx3UjN1bHdHRE9LVm1veU5MM3NsTFI2V2U0Wm9uUGlTTW9NMWNac2M4NjhXRHZ0ZE81LTBocDVFaEtETmNnU1VyOU9zb0lkN0pv?oc=5",
+          "title": "Global stocks rally as AI trade rebounds on Thanksgiving",
+          "feedTitle": "Stocks, Nasdaq Futures Climb as AI Trade Rebounds: Markets Wrap",
+          "summary": "Global stock markets rallied on Thanksgiving as investors rebounded from recent tech selloffs, with particular strength in AI-related sectors. The recovery came as markets globally responded positively to US economic resilience and reduced jitters over tariff uncertainty. Major indices showed gains across developed and emerging markets.",
+          "source": "Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeEQtTUQwY0ZyTEpubU1fOUV6eVQzR2llam9uaF9UUnQ5LVNvcWJFT0dRYW9NRHM2cDQtYkpaOF9rS1ZuVE8zaDhmYWk0S1IzdU1sOER5aWJLOTQteFZFTjRkMUJwUTdta0ZnemNITTBEa1VVb1c1MGJkUnZoMFRKNDZjM1d6SDBqZ1g2NDZTenZfSEZK?oc=5",
           "sources": [
             {
-              "source": "Upstox",
-              "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOU014bmZXWFkzekU3dG9BYVBoREVjQjI1c0FJT2c3aG8zOHByS2pIUUZCS3p0SUpjZVhvMTFNRW52d0NYV3BDRTFoV1pSTDZzODNjTlNsWngxaUVKV1Y3cXJoUzE0ZjhETmI1SnRGSHpnZzMxdG8tTmVLT1B2SHcwZmVibmc3cUZJck1RZmdZUm1ibEk5anpyd251X1RWNGtVcmViSkx3ZVMxTVlUYmx3UjN1bHdHRE9LVm1veU5MM3NsTFI2V2U0Wm9uUGlTTW9NMWNac2M4NjhXRHZ0ZE81LTBocDVFaEtETmNnU1VyOU9zb0lkN0pv?oc=5"
-            },
-            {
-              "source": "BusinessLine",
-              "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOY0pWdE9kRVdWc1pXQlp3OXVrV3ZLcElxdlpWWmUyYkt5RFhzWDVZVWJjWHNoVGg4SDBTWFRTSkRHdjBwT3ktSGx4MzJHa1I0aktGUnBweGRIQzJXY1A2LU5FS2ttX3MtcnFpbUZ3dmdiMkNPOC1DdVpKaHZ2dmZ5cVpKY1pBNEhYWnZBR3lfWHFsblpvdzkyZTFibmZ6ZDNuenF4V2pCM1NJWmhKMXp4LUhNVi1CcDRWbWJKVml6Mkc2dmplZk56RmlyanFnaTJSUFpj0gHaAUFVX3lxTFBHbzZWOHNOVElOME85ckdzWTVHcDVEX2pubkNBd1Nqa1gyOTZZdWdKUDdUbEVvT3VSdWJlWWxFeDNKZmVNNnJ1c1lKLU1FSmJHMlZvakRjaE01Zk5DUjdXWEhPeUZmSDhYWXNVbUNvaGs5U3M1ZWxUaHRONXFZQ2xOdWZJTzlrVUJYVmJGLTRuelVianRNOEJKWDlTZEJiRUh3YjY2RjV3QWdTMXE2d2ZtWDFtREhMR0pFcFF4VFVZSXhfZ1lPVDVsMTJuNC1WZjhTRmJSYVNhcjRn?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "US inflation hits highest level since May at 3.8%",
-          "feedTitle": "US inflation hits highest since May after prices climb 3.8% over the last year",
-          "summary": "US inflation climbed to 3.8% over the last year in October, reaching its highest level since May, driven by soaring energy prices and other cost pressures. The reading adds to concerns ahead of a crucial Federal Reserve board meeting. The uptick in inflation contradicts earlier hopes for cooling price pressures and complicates the Fed's policy outlook.",
-          "source": "The Guardian",
-          "link": "https://www.theguardian.com/business/2026/nov/25/consumer-prices-september-october-energy-inflation",
-          "sources": [
-            {
-              "source": "The Guardian",
-              "link": "https://www.theguardian.com/business/2026/nov/25/consumer-prices-september-october-energy-inflation"
-            }
-          ]
-        },
-        {
-          "title": "S&P warns Nvidia's governance may warrant credit cut",
-          "feedTitle": "S&P warns Nvidia's board may be compromised, puts chipmaker's rating on downgrade watch",
-          "summary": "S&P Global has placed Nvidia on negative watch for a potential credit rating downgrade, citing rising management and governance concerns following recent CEO turmoil. The rating agency flagged questions about board independence and decision-making around executive leadership changes. The warning reflects broader investor concerns about the company's governance amid the Jensen Huang controversy.",
-          "source": "Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb1ZBby1iVDJnTmJwX3hDYWJpU2lxTUdLTHdlWHFqRHJUcmtTOWFuQkFRTlUyZTJBcGdNMWR3N3d1YlJIV05kWk1mU21JSDZmSVpZR1BlanpqRzFXSkg3NkxkeElWcHM0Q2Y4eFJKb3Fha29XakxYNFJ4cXExZHo4MFVDOHdDbENrQWs0d0lqQ3Z5cEVDRVBQR1hNNWZxSmhiUll4NFg1amZlU01oWm9fN2hkUFBBNkdKT21v?oc=5",
-          "sources": [
-            {
-              "source": "Reuters",
-              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb1ZBby1iVDJnTmJwX3hDYWJpU2lxTUdLTHdlWHFqRHJUcmtTOWFuQkFRTlUyZTJBcGdNMWR3N3d1YlJIV05kWk1mU21JSDZmSVpZR1BlanpqRzFXSkg3NkxkeElWcHM0Q2Y4eFJKb3Fha29XakxYNFJ4cXExZHo4MFVDOHdDbENrQWs0d0lqQ3Z5cEVDRVBQR1hNNWZxSmhiUll4NFg1amZlU01oWm9fN2hkUFBBNkdKT21v?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "SpaceX wins FCC approval for 1 million data satellites",
-          "feedTitle": "FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical",
-          "summary": "The FCC has granted SpaceX approval to deploy up to 1 million satellites for orbital data center operations, a historic authorization for space-based computing infrastructure. Scientists have expressed skepticism about the environmental and space debris implications of such a large constellation. The approval represents a significant expansion of SpaceX's authorized satellite operations.",
-          "source": "AP News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUmh3LVh3RnFNUW5hVjJWcXlzOERNTTloeEdIbnRiRGVSV1B4UzJaWVhudzNvS0Q4YlRvN1pUTThRVjhka1JpYUFBWC1RWW1hYnFxT3RxM0VoMERWRmlJdmd4LXJJR0F5S083cThjNDFWay1zRWVPcmRUeXR5WWVuQ01ObUVGRVZBOGFzTDdobUxMUQ?oc=5",
-          "sources": [
-            {
-              "source": "AP News",
-              "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUmh3LVh3RnFNUW5hVjJWcXlzOERNTTloeEdIbnRiRGVSV1B4UzJaWVhudzNvS0Q4YlRvN1pUTThRVjhka1JpYUFBWC1RWW1hYnFxT3RxM0VoMERWRmlJdmd4LXJJR0F5S083cThjNDFWay1zRWVPcmRUeXR5WWVuQ01ObUVGRVZBOGFzTDdobUxMUQ?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Looking for Bargains? These S&P 500 Companies Are Aggressively Buying Back Stock.",
-          "feedTitle": "Looking for Bargains? These S&P 500 Companies Are Aggressively Buying Back Stock.",
-          "summary": "Summary unavailable for this update.",
-          "source": "The New Indian Express",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTVlqTmRTd3NmNldjOGRVYlE5TEdpRlU1Q0U4U01Ta3ZNUWstMXVxaVBUbUdkNnI4UGpHbDdJVWE3dENCU0VsX0NFcC1RT0dfMnBDdHRZcWFOUE1CaHU3R0lwdFkyUGFYenhXZzFEWmI0RDc2S3NndHNzWmpWdnhjRUljaFVfOU8wODVCQVgweE9qS3dQNU1qTXp30gGnAUFVX3lxTFBwOWxQenZFUU9sNmtOMGhYMkpYZFE4UTNsUDdHSUhid0ZfazlkbV92UlcxVjRPQ0cxNmZhZVNRQ1Fzcjh4ODE5Nm4wTHNQOUx4bXdLUGVKRE1DcWhZei1lMEtlWFNCLUtraG5za01SaVFuSTFNamdIbDZLMmthUFdYSEVUTjgxT0dibWphSklUTTFGbGM5aUVNbFVBRk9MeFMtaEtNbGFB?oc=5",
-          "sources": [
-            {
-              "source": "The New Indian Express",
-              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTVlqTmRTd3NmNldjOGRVYlE5TEdpRlU1Q0U4U01Ta3ZNUWstMXVxaVBUbUdkNnI4UGpHbDdJVWE3dENCU0VsX0NFcC1RT0dfMnBDdHRZcWFOUE1CaHU3R0lwdFkyUGFYenhXZzFEWmI0RDc2S3NndHNzWmpWdnhjRUljaFVfOU8wODVCQVgweE9qS3dQNU1qTXp30gGnAUFVX3lxTFBwOWxQenZFUU9sNmtOMGhYMkpYZFE4UTNsUDdHSUhid0ZfazlkbV92UlcxVjRPQ0cxNmZhZVNRQ1Fzcjh4ODE5Nm4wTHNQOUx4bXdLUGVKRE1DcWhZei1lMEtlWFNCLUtraG5za01SaVFuSTFNamdIbDZLMmthUFdYSEVUTjgxT0dibWphSklUTTFGbGM5aUVNbFVBRk9MeFMtaEtNbGFB?oc=5"
+              "source": "Bloomberg.com",
+              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeEQtTUQwY0ZyTEpubU1fOUV6eVQzR2llam9uaF9UUnQ5LVNvcWJFT0dRYW9NRHM2cDQtYkpaOF9rS1ZuVE8zaDhmYWk0S1IzdU1sOER5aWJLOTQteFZFTjRkMUJwUTdta0ZnemNITTBEa1VVb1c1MGJkUnZoMFRKNDZjM1d6SDBqZ1g2NDZTenZfSEZK?oc=5"
             },
             {
               "source": "Barron's",
-              "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeDZhcV9hX2pQRzdycUk5b3lXbldLcHEwVGVwY3ZGVll0UWxVNC1lS1lGQi1IWW1ZM05fVWE4eWJuVXFIcUg5dTdIaWlxbUxocjFTejJVNHdjZ3lOUDVQYzlrRmU2ekJIMGROVGtuRldHSXFWMzJaV3EwTUt2RXAtakNSb05rMlM1UGszUnV1ZUU4RzdGZ0JUclR4Q1IzQWlvUjdwSlhISHl1Mklxa1hXbVpMSFYzMDdP?oc=5"
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03UmtKSWxxaXFlWk9sdlFzUTZCazZiUzZtNGd5U2lFVXF4T2FpdXdIVlBMVmZFTGNaM3B3OTVMOVhubF80a1Zfd1pzSl9Ic1djOG1PTzRrZEdOaGRJaFZzMUUzbnVmYkpvMTVmT2l0MjBpMGhVQ2Vn?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Altria explores takeover bid for UK tobacco rival Imperial Brands",
+          "feedTitle": "Marlboro Maker Altria Explores Deal for Rival Imperial Brands",
+          "summary": "US tobacco giant Altria announced it is exploring a possible takeover bid for UK-based Imperial Brands, the maker of Davidoff cigarettes and other brands. Imperial's shares jumped over 14% on the news, reflecting investor expectations of a potential deal. The move represents significant cross-border M&A activity in the declining but profitable tobacco sector.",
+          "source": "Global Banking & Finance Review",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU1g4YkNVUmJIT2NWOTM3eXRSLVRESlFxSDlnMTZvM2lLaEMtMkhWNUVUSmJINWxJbmp5eDE5ckJuVjJTUkFuSHEzTXR2REx0OUlqTExINUVHODVpQ0h5YlRaTHJrN093MmxZNHo5eTF2d2U3cl9VT0ZScGtoN3RYRV8wN0daWldCLVdSSHVLRGdtc0tTZVlockNOcHphQ2s?oc=5",
+          "sources": [
+            {
+              "source": "Global Banking & Finance Review",
+              "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU1g4YkNVUmJIT2NWOTM3eXRSLVRESlFxSDlnMTZvM2lLaEMtMkhWNUVUSmJINWxJbmp5eDE5ckJuVjJTUkFuSHEzTXR2REx0OUlqTExINUVHODVpQ0h5YlRaTHJrN093MmxZNHo5eTF2d2U3cl9VT0ZScGtoN3RYRV8wN0daWldCLVdSSHVLRGdtc0tTZVlockNOcHphQ2s?oc=5"
+            },
+            {
+              "source": "LinkedIn",
+              "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMFpadktzU2JMZE1zTVo2NTUxb3pOQ09yZHN5eVhzY1VLeU1FV1lmRENIb1ZWVC1jRGdibTFLdlpNalJqSmtueDVuR2U0ZGJJSXpVYmM3S21ZTzh4Wkk5eW5SQS02bmkxRTdQc0pMVnZUaGYyME9MYWZNNjE5SXRkT3BueTh3UVhsZzEzcEF5cGJOaVc4N0FjY0RybG9MaC1kMWg1V0dpc19ISk10ZHRzWXBlRQ?oc=5"
+            },
+            {
+              "source": "WSJ",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVDlqUVNCX3B1RGxwZXp3NTRjTXd5a0N3OTJ2amFkSnZNdFZvWVp6TlFyU0E3TVJOdWk5QTFGX19scjZqZW4zaHdiRFplXy0tb3AyT2Z2cHdBNmtXMUQxNmgwbTJqTThEdWNFLXgxc0RIaXZWTWNSV19tVk1CeXJsdENkT0hpQ1ZfdFBHVF9fak9yQzlZWGdMQjcxSlloZw?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "JPMorgan expects Nifty 50 at 29,000 by end of 2027",
+          "feedTitle": "Nifty at 29,000 by end-2027; three more RBI rate hikes expected: JP Morgan",
+          "summary": "JPMorgan has issued a bullish forecast for India's Nifty 50 index, projecting it will reach 29,000 by the end of 2027. The investment bank also expects the RBI to implement 75 basis points of rate hikes in the current cycle, suggesting continued confidence in India's economic growth trajectory despite global uncertainties.",
+          "source": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWDM0T2lfY19fdWNzeGtJbkpBTHJGMDFiMUlYZjVjX3hVa1lmQlFfQmxXYnphaG4wSXJOSm95RHA4TnJRdTlCaXhMdlRNUlNDZnVQR2RYQ19JV0x2bDRwVFd1V2ptVkRNU1NrTk1Ya09iaDk1dE85T3ZETGxpb3RwR2FmYmlmRFlVYlJ5MWxranJUdFVvNHBQbjNSbXZkMFBoblRmT05DcU1zWmMycDVoRjQ5b1M5eUlQcW12elZmUUtWUDhhaEtnS1MzWUduYUs1Ym0xQlI5TFV1Sk1sSFhaWUJKNFBDdFVkeEJkdm5B0gHzAUFVX3lxTE5zc0N3Rlp5ZmU2eDVPOWFQRWFZNEc4bE5MckU3bDNaN3ZfaElFQ2VnT01ydE1ORWZhb3lXQjg3ZmRaM3VaX2hmNEhIZWg3bko3Q1JDdGtXQWV6aTNXQWxia3Z4dHRleEhucHZSazdKcjdtWUNJclA1a1JINmxrOFlxT2JVc3lEUm1nSU1Sb3N6YUdDWUpQdVZpX3JUcmNpbmgzUklpMV9Fb1BDME9HRHlvTGZMS21UdXNGazZsNF85VlNWdFo0NGR1M3ljaFBkYlFKVVZuWG5jc2FnNHBubEdBZWwteWxjbzUtTkdCajB3ZVU0Yw?oc=5",
+          "sources": [
+            {
+              "source": "The Times of India",
+              "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWDM0T2lfY19fdWNzeGtJbkpBTHJGMDFiMUlYZjVjX3hVa1lmQlFfQmxXYnphaG4wSXJOSm95RHA4TnJRdTlCaXhMdlRNUlNDZnVQR2RYQ19JV0x2bDRwVFd1V2ptVkRNU1NrTk1Ya09iaDk1dE85T3ZETGxpb3RwR2FmYmlmRFlVYlJ5MWxranJUdFVvNHBQbjNSbXZkMFBoblRmT05DcU1zWmMycDVoRjQ5b1M5eUlQcW12elZmUUtWUDhhaEtnS1MzWUduYUs1Ym0xQlI5TFV1Sk1sSFhaWUJKNFBDdFVkeEJkdm5B0gHzAUFVX3lxTE5zc0N3Rlp5ZmU2eDVPOWFQRWFZNEc4bE5MckU3bDNaN3ZfaElFQ2VnT01ydE1ORWZhb3lXQjg3ZmRaM3VaX2hmNEhIZWg3bko3Q1JDdGtXQWV6aTNXQWxia3Z4dHRleEhucHZSazdKcjdtWUNJclA1a1JINmxrOFlxT2JVc3lEUm1nSU1Sb3N6YUdDWUpQdVZpX3JUcmNpbmgzUklpMV9Fb1BDME9HRHlvTGZMS21UdXNGazZsNF85VlNWdFo0NGR1M3ljaFBkYlFKVVZuWG5jc2FnNHBubEdBZWwteWxjbzUtTkdCajB3ZVU0Yw?oc=5"
+            },
+            {
+              "source": "MillenniumPost",
+              "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWkZBZzVYNjQyc3NPOVUxNm96SWNveHBTa09hMkVLVy0xYlYxbk8tOXBBS0ttcUdNeUI5TjVMTzByaGgtclZaNHJGM25MV2hzb1NWQ2FKSzVZaGhLb01rekxiNGt5X1NMd0JGbkw5VmJrUGVuaDlPeGpFRlVXcXNwOEoyaWNKR3diOFlFZDE1RW9XOEpXT2J5cU9raGk3Y2thel9XczdaVTlrSG1OQkdFOEVIcm9oYmV3a3AwYjhHWm1YTTc0SEJ4bjBjbEFvYlVleGNIZVBVOHV6Z9IB3wFBVV95cUxQdTZ6NjBRSVNYY2NvSWpwSGV5U0htSjdyRzZXbXJ5b3dBdkJadVBFck1wTFJNVnlzY3N4eDd2WVEzWTlJcVFxeXotX0tibllRUkg2d3dqOWVFRE1RZXE5ZjU0NzBzRFdpWUhpNGVZREtpMjFzTVR1b3JucnBHRjNXS1BjZ0JCdElJc2ZLSjE2bEk4RWZYQUZCVU5DdUZhRUU3eFIxZ1FuQWtqclZneFlDWUZLN0t0Wno5OTNjYXgzSjBQYVBCeU5mOXYxSmpRWllxUVlQaVVycW9vNFA2LV9F?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Norse Atlantic suspends all flights, faces potential collapse",
+          "feedTitle": "Norse Atlantic suspends all flights as it faces potential collapse",
+          "summary": "Norse Atlantic, a low-cost European airline, has suspended all flights and warned it may file for bankruptcy after its share price collapsed. The suspension disrupts travel plans for thousands of passengers and raises concerns about additional airline failures in a challenging post-pandemic aviation market. Pakistan's national carrier PIA is adjusting its UK flight operations as a result.",
+          "source": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kcUhxMWplRk1tNm1GLW1Ca0tRRkJpUU94d0MtS0o1bGl6UHNoV3RxZEk5VHFYMGVBcmlzMnFDYzFJcmJUdEhkQ2xyeWg4eVdkemVCcEpsZ1NqbWs?oc=5",
+          "sources": [
+            {
+              "source": "BBC",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kcUhxMWplRk1tNm1GLW1Ca0tRRkJpUU94d0MtS0o1bGl6UHNoV3RxZEk5VHFYMGVBcmlzMnFDYzFJcmJUdEhkQ2xyeWg4eVdkemVCcEpsZ1NqbWs?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Trump proposes new tariffs on 14 trading partners",
+          "feedTitle": "Trump proposing new tariffs on 14 partners including China and EU",
+          "summary": "The Trump administration is proposing new tariffs on 14 trading partners including China and the European Union, with a proposed 20% additional tax on most Chinese imports that would bring total levies to approximately 40%. The tariffs are set to take effect in early 2027 and have drawn criticism from multiple countries, including Brazil and the EU, as market-distorting trade warfare.",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/nov/25/trump-new-china-tariffs-europe",
+          "sources": [
+            {
+              "source": "The Guardian",
+              "link": "https://www.theguardian.com/us-news/2026/nov/25/trump-new-china-tariffs-europe"
+            },
+            {
+              "source": "Dalal Street Investment Journal",
+              "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTVhfYTBpRHVoZTk3N0k0ejhFVUFac21qYTY1VGhQTmVJaVgyck8zREFCSlN3bkJ6TEswaENYSUNlanVpRnVYY0g4ZUQ4d2dJekp0NVd2elVKbmQycFNVLTBKSGZsMWttRUZkZTN1X2RkVWZWOFowY3pMNmpFcWtjZFdadzFheDBoVGRmWmNYVFY5ajhhRm5DWGEyV1RzNXNZTTJjYUhfaVlZWFhxUmR3bVpBMFZlRVJVWHlGQWNlU0VpVXIzVmtkOUhoYzQwSmZ2c0RGcWo5NHpORlJ0Nzcw?oc=5"
+            },
+            {
+              "source": "Bloomberg.com",
+              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSjg1OVFibDU2bFpQd0pYX1NWM3c2N25fN3l6TXVBYWk0SUw5RUdQV1NjUWx1Tm1remRsdWhzYjQzd0ZOei1FTlh4VFl3RzBfeXg2UDFLVmN0UFltWkJpdjJNUXBHRXlST0ttV1YwMFhmU0NSOVZ6aldXVTJXUGVfNzhtSWw0VnZBMmI1NHRMZU5QTUZMRHotMXRHTkRWNGNfWXdMbksxWjNPU2RVMDN1Q0FjSXg?oc=5"
             }
           ]
         }
@@ -509,116 +523,116 @@
         {
           "symbol": "BZ=F",
           "name": "Brent crude · BZ=F",
-          "price": 91.07,
-          "changePct": 0.47
+          "price": 91.73,
+          "changePct": 1.2
         }
       ],
-      "note": "Oil eased from recent highs, providing modest relief to inflation concerns, while Asian and Indian markets rebounded sharply after Tuesday's AI-driven sell-off. US stocks remain volatile as investors weigh tariff risks against tech recovery, with Nvidia's governance crisis adding uncertainty to AI sector leadership."
+      "note": "Global stocks rallied on Thanksgiving as investors rebounded from recent AI and tech jitters, with particular strength in IT stocks and consumer-focused sectors. Oil prices have been pressured by Middle East tensions and Houthi refinery strikes, though prices have stabilized as markets await further escalation signals. Tariff uncertainty remains a key pressure, with Trump's proposed 20% China tariffs and broader trade actions creating headwinds for multinational valuations and emerging markets. Watch for Black Friday retail sales data, the Fed's December rate decision, and any escalation in Middle East shipping disruptions."
     }
   },
   "micro": {
     "theme": "personal finance",
     "cards": [
       {
-        "title": "Tariff timing and spending",
-        "insight": "Trump's new tariffs (effective early 2027) will raise prices on imports from China and other partners. Consumers may face higher costs on electronics, clothing, and goods in Q1 2027, making holiday spending and post-holiday purchases more expensive.",
-        "takeaway": "Front-load discretionary purchases before year-end if items are imported; review monthly budgets for Q1 2027 to absorb likely price increases on essentials."
+        "title": "Emergency funds need weather-proofing",
+        "insight": "The St. Louis snowstorm left 125,000 homes without power for days, disrupting ATMs, card readers, and digital banking. Households that keep a small cash reserve—separate from digital savings—remained functional when infrastructure failed.",
+        "takeaway": "Keep at least $500-$1,000 in physical cash at home in a secure location, separate from your wallet, to cover essentials during extended outages or emergencies."
       },
       {
-        "title": "Stock market volatility and your portfolio",
-        "insight": "Recent wild swings (AI sell-offs, tariff fears, inflation data) underscore that short-term noise should not drive long-term asset allocation. Investors who panic-sold during dips missed rapid recoveries the same day.",
-        "takeaway": "Review your asset allocation (stocks/bonds/cash) and rebalance if needed, but do not chase daily market moves; stay disciplined to your plan."
+        "title": "Tech stock concentration amplifies portfolio swings",
+        "insight": "Recent AI selloffs followed by Jensen Huang's return to Nvidia triggered dramatic daily swings in portfolios heavy in mega-cap tech. Investors overweighted in AI-related stocks experienced sharper drawdowns and recoveries than diversified portfolios.",
+        "takeaway": "Review your portfolio's sector concentration; aim for no single sector representing more than 25–30% of your holdings to absorb volatility more gracefully."
       },
       {
-        "title": "Immigration changes and job mobility",
-        "insight": "IBM's abrupt end to green card sponsorship and DOL's PERM overhaul signal tighter employment-based immigration. H-1B visa holders and green card applicants face new uncertainty; companies are pulling back sponsorship commitments.",
-        "takeaway": "If you rely on employer sponsorship or plan to, clarify your company's current policy now; explore backup plans or negotiate terms before major policy shifts take effect."
+        "title": "Immigration visa changes create job mobility risks",
+        "insight": "IBM's abrupt end to H-1B sponsorship and proposed PERM rule changes signal tightening labor mobility. Workers reliant on visa sponsorship face forced relocation or job loss with little notice, undermining career stability.",
+        "takeaway": "If your career depends on work visas, build a 6–12 month emergency fund (not just 3–6 months) to cushion sudden job transitions, and diversify your relocation options geographically."
       },
       {
-        "title": "Holiday borrowing caution",
-        "insight": "High inflation (3.8% YoY) and rising credit card delinquencies mean debt is becoming more expensive to carry. Survey data shows 76% of holiday spenders fear overspending; many cite FOMO or poor planning as reasons.",
-        "takeaway": "Set a strict holiday budget, use cash or debit to avoid impulse purchases, and pay off high-interest debt before year-end to avoid January surprise bills."
+        "title": "Tariff uncertainty creates pricing windows",
+        "insight": "Trump's proposed tariffs on China, the EU, and Brazil are set for early 2027. Companies and consumers are racing to place orders before tariffs kick in, creating temporary price spikes and supply shortages in advance of announced dates.",
+        "takeaway": "If planning major purchases (electronics, appliances, vehicles) with tariff-sensitive inputs, prioritize buying before year-end to avoid tariff-driven price increases; avoid panic-buying that inflates personal debt."
       }
     ],
     "ai": [
       {
-        "title": "Chinese firms buying Nvidia's advanced chips despite US ban",
-        "feedTitle": "CBS News Investigation Finds US Firms With Chinese Owners Buying Advanced Nvidia Chips",
-        "summary": "A CBS News investigation revealed that two California-based companies with Chinese ownership are actively purchasing Nvidia's most advanced AI chips, circumventing US export controls designed to prevent China from accessing cutting-edge technology. The findings raise serious questions about the enforcement of export restrictions and national security vulnerabilities. Investigators traced how Chinese interests access restricted technology through legal loopholes.",
-        "source": "Rappler",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMUVDWFFubjRjN1dnUnFwc1RmblVLVVFQSFRxcUx2Z3pCWlRWS0JwZ2dHOVJodmRGUkRJUUJnMU0yQ24zTHdmU3IzZ2xGTU91UVRsVGVjUFQtb0JrWE9KT2pmck5XSlRmWVJobW1OQVJJbEJXNGRxSXFDeVo0R05pSWN0bw?oc=5",
+        "title": "OpenAI's pricing mix-up means most users of its new AI models will hit limits faster",
+        "feedTitle": "OpenAI's pricing mix-up means most users of its new AI models will hit limits faster",
+        "summary": "Summary unavailable for this update.",
+        "source": "Anadolu Ajansı",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPck5lMm83LTBidWFpR3NvSURRTk45eWNXMmozWC1lMkhLRDN0S1hvX1NaOHl3dkZxNzA3NXpIQkJaNmZHSGZ4TVI1czkta3drLWVWUmh5QmVjRW5ybTRQbHJKa2ZyV2pqM0tDdXBzSEN5SGVtalc1UkRVcFJ3eTlOOUtnN0RCVUlkMldwT0ZxWjNlanFfRk9JQWtaTnprMGNNeVVaOG41MmFrRm9wdG1RckEyZXlVOVU0?oc=5",
         "sources": [
           {
-            "source": "Rappler",
-            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMUVDWFFubjRjN1dnUnFwc1RmblVLVVFQSFRxcUx2Z3pCWlRWS0JwZ2dHOVJodmRGUkRJUUJnMU0yQ24zTHdmU3IzZ2xGTU91UVRsVGVjUFQtb0JrWE9KT2pmck5XSlRmWVJobW1OQVJJbEJXNGRxSXFDeVo0R05pSWN0bw?oc=5"
-          },
-          {
-            "source": "The Japan Times",
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV2wyampaa3NYcDczOWQtRHFfYmRwbXZibl9Pc2sxRHJmLVl5YkJ3elRDU0pWa0FSWV9Oc0NhUks3bWFRMmtSbnpxZnJzSDY2T0ZKWjZ5bjdZOS1iejM3b1hONjczOGJOQnEtYk9aWkpuTV9jQmtGWWFFcF83Q2M5ZjcwSWJLUmpPc01yb0pR?oc=5"
-          },
-          {
-            "source": "Open Magazine",
-            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOUhfVnFLOWpXd3hyYVNld2oyY1EtWlJpalBlR2xfZWtQWlhXTC1LQmtxczYydWFUaWVwS2swV0JJbElLaVlTVjkyWHhnSVQ1T2Y2TFB2OWN4a2Q5YWZYb3VoRW1UYlZFQy1uaWZGTGtLVkVYb1Q1Yk5sZlhHZ1BLQUEzaGJBYUdyWk5fQTZqXzVhVWtnbng0R09Fd1BmY3J6bml3Zjk3Z25UTXo3YjZpV0cyRVh3X2R4RUNSaw?oc=5"
-          }
-        ]
-      },
-      {
-        "title": "Anthropic CEO denies AI should govern human free will",
-        "feedTitle": "Anthropic CEO Amodei denies wanting humanity to ‘surrender’ free will to AI",
-        "summary": "Dario Amodei, CEO of Anthropic, pushed back against characterizations that the company wants AI systems to supplant human decision-making, saying predictions of AI matching or surpassing human intelligence do not imply humans should \"surrender\" agency. His remarks came amid broader debate about AI's expanding capabilities and appropriate human oversight. Amodei emphasized Anthropic's focus on AI safety and alignment.",
-        "source": "Al Jazeera",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU1lFeWR4WThickRrRFF1RS1jOWdOdXNxUDRqZkJQQjhHMnVsZjR4QTN3emM2YlRkcnlrbVFrVl9TUmNJdm9EZXZTTDh0MmZxSzc5Z2hZSjRZMndpU2RuZTlIRXU1WWxlTFZJOXVQTFc2QVRyYWpfc04xN2tDZDZkdERhVjdGaV9lblV0U0x0SHVmYzF5WFkxOC1UODkyaDhoNFF2MWtUSWt0TC0zZVVBWi1TU2Y2TXkzMEHSAb8BQVVfeXFMTXlRMjR0aXQxNjU5emprZTUtUVBYTlZjUlJVQ3NfV1NOY2V0V004bjdhZjJzaU96akpVNmtaaHpUcC1LazBYdE85ZVlSQW95bnBHQS1qTWdlcUlyMENxUmlIVDVydWdyVnZjX2xGRlRPSGxaS0NDeldfdUxHOUNsN0x3YUNQZjJBSGZEY1V0Vm1EQWNtMmlQMnVNQjE3cnhFRktibnF4MnVzaFVQT2EzeldXaHk0WWRvRm8yTlJBd2c?oc=5",
-        "sources": [
-          {
-            "source": "Al Jazeera",
-            "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU1lFeWR4WThickRrRFF1RS1jOWdOdXNxUDRqZkJQQjhHMnVsZjR4QTN3emM2YlRkcnlrbVFrVl9TUmNJdm9EZXZTTDh0MmZxSzc5Z2hZSjRZMndpU2RuZTlIRXU1WWxlTFZJOXVQTFc2QVRyYWpfc04xN2tDZDZkdERhVjdGaV9lblV0U0x0SHVmYzF5WFkxOC1UODkyaDhoNFF2MWtUSWt0TC0zZVVBWi1TU2Y2TXkzMEHSAb8BQVVfeXFMTXlRMjR0aXQxNjU5emprZTUtUVBYTlZjUlJVQ3NfV1NOY2V0V004bjdhZjJzaU96akpVNmtaaHpUcC1LazBYdE85ZVlSQW95bnBHQS1qTWdlcUlyMENxUmlIVDVydWdyVnZjX2xGRlRPSGxaS0NDeldfdUxHOUNsN0x3YUNQZjJBSGZEY1V0Vm1EQWNtMmlQMnVNQjE3cnhFRktibnF4MnVzaFVQT2EzeldXaHk0WWRvRm8yTlJBd2c?oc=5"
-          },
-          {
-            "source": "Benzinga",
-            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaWhLVnVINC1WWFU0ci1lU3RwRHpCano1MFRoaDlXVmkyREFpR1V6bEhyWFBIY3dRYWs2Q2dsVTFqVjBlSS0wRVdVWnk3eTRFaWtQbzJEa1BXRmhBbXRaWUVwM3B0eFY4WDY1T1lOekpwUGczOHMtbkt6MlFqY0dmaXNncUs?oc=5"
+            "source": "Anadolu Ajansı",
+            "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPck5lMm83LTBidWFpR3NvSURRTk45eWNXMmozWC1lMkhLRDN0S1hvX1NaOHl3dkZxNzA3NXpIQkJaNmZHSGZ4TVI1czkta3drLWVWUmh5QmVjRW5ybTRQbHJKa2ZyV2pqM0tDdXBzSEN5SGVtalc1UkRVcFJ3eTlOOUtnN0RCVUlkMldwT0ZxWjNlanFfRk9JQWtaTnprMGNNeVVaOG41MmFrRm9wdG1RckEyZXlVOVU0?oc=5"
           },
           {
             "source": "Gizmodo",
-            "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPZ2NzVE9nVDZOMU9MdVZYbk01bkFGWnB4ZTdRR1JaTnQ0OHJGZGd0eDNNMGpSbHlWTzJxXzlIVVJuNkIyU2lLNVd4TG1uVnQ2N3E3ZXpMZU5rU3pnc1psWGpDcTBXem9WWXM5VmFYVjdnTnlTaWd1b1dDYjFCYmx2bzFaLUQ3WUVYdFBQWGdCZy1MOVU3WldYZGMzeWlnUnpXQ1p5RUliT0U1UUtjMlJEX3FycW51UWJYeTgxb01XTUpEdlBQS3hMTnhUVVJRSnRZN1ZSZmJ1QzVQUGNpeExhRUdHdGdySWhwaF9sZkpjemotN1FIcE1EalVISXhDZnJKcG1sUDR5Tk95MjFRbGgtWVFjR3A?oc=5"
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdUh3MXpvTENyanZLczZzd29RNVFPTDh4aHVvcVA5OHNOREd1WWQtdk85YU9jbElGRllubnN6c1poTWRtQ2JoMk83Q2xKWWg5YzIxQmY5LTVXVkZXRFFSWS1QUUVmQUxLTzhzU0hqeWFSY193akwtR0ZRVTFTUG9YNXdzQ0NmM3BGUjNoeHpLVlBfRnliSXpUM2hWaG1xajB2MGZjZklB?oc=5"
+          },
+          {
+            "source": "Business Insider",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcGJiZ0ZrLTJYSmZ3d25GeGNZaVpMX3RyRmNtLTctdGUtZGpkVHVOQXJDWGlBdnVhNVhtVGdRTW9qUTg3dWFyeDRZQ3VsQTRzdjJzaHNGNmpYdGV4SWFGS0JyTF9QRWZIWld6WFZXVFV0YjJtZmtmWVRjMDNHT2lqVlIyUTBaRGFjb2dIUVMwWlBuSzJLdkFv?oc=5"
           }
         ]
       },
       {
-        "title": "Chinese AI chips to jump sixfold by 2030, UBS says",
-        "feedTitle": "Chinese AI chips to jump nearly sixfold by 2030, UBS says, as Nvidia woes mount",
-        "summary": "UBS predicts that Chinese AI chip production will increase nearly sixfold by 2030 as Beijing invests in semiconductor self-sufficiency amid US export controls. The forecast comes as Nvidia faces mounting scrutiny over how its advanced chips reach Chinese buyers. The projection highlights the race between US restrictions and Chinese chip development capacity.",
-        "source": "South China Morning Post",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcVFkdmJnVXo4N3RKXzFIM2ZvZWFON2xURmNfOFNPN0twalpVcnJ5aFVTakUyMGxrT2RCTWRRTVd1N2ZFT2xVWEhIeUI0dWVsZjl6S2VGS2FBLWl6WHI4ZU1xd1J5T2Y3T0Y3ekU4VEt6QTVINjNGLWJUZ0UySWd2Sk5CUXdjRlNiVFhQMUpxclNYdDdKd3dldzRDTUFIalpLTkJaQ19kOGozTFJSV0RpZldfbzZiXzlfZEN4VHRLRdIBvwFBVV95cUxOczRWLVN4Z1Y4ZUh4TGZKUUllUlR2Xy0tSVJlbDNNS2ZWSzZpenc3ZldBMklVWGF3aklncTUtalZtcDBzY3ZMSVY1aFlJcFdMczF3NFJCd2dSdEpzeDhTRUtWc0FIcVBQX1dFRzNOOFBNWDR0TWkta1JsMS1TUzFZeDNCLVUwQXlrZUV0OWlVdTBpZGhWY1lBb0U4QTRGMkFFbHFSLXBYY0c4b0RIZEZDaXl2NHZRVFF2Zl9pQ0lDVQ?oc=5",
+        "title": "Anthropic stock opens trading on public markets",
+        "feedTitle": "Anthropic Stock Is Now Trading as ANT. Should You Buy Today or Wait?",
+        "summary": "Anthropic, the AI safety-focused company founded by former OpenAI researchers, has launched its IPO at $83 per share and begun trading on public markets under ticker ANT. The company's founders cashed out $1.96 billion in the offering, marking a major milestone for the AI startup sector and providing a significant liquidity event for early investors.",
+        "source": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPODJ4azZ4azNueHpjY3c5TS1xV2FEV2JjY0ZLdmh3aVBBeFFSc2IyMkVIUTQ3aUhTZnhjemNmYVpvTTRTNlcwZ2dvaDlYMmExNGNuRFVJWWVLSzYzUEl3YW1HWDBCMlN3dk9TdWR3R2JKdjI5SjNwMExISW8zSXpVaXRHUkxxN1JEbVZ6TGFob3Q3Q1g1enpJS25vRG1Qckt4YnN5cmJ5dXRkU25Gcnc?oc=5",
         "sources": [
           {
-            "source": "South China Morning Post",
-            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcVFkdmJnVXo4N3RKXzFIM2ZvZWFON2xURmNfOFNPN0twalpVcnJ5aFVTakUyMGxrT2RCTWRRTVd1N2ZFT2xVWEhIeUI0dWVsZjl6S2VGS2FBLWl6WHI4ZU1xd1J5T2Y3T0Y3ekU4VEt6QTVINjNGLWJUZ0UySWd2Sk5CUXdjRlNiVFhQMUpxclNYdDdKd3dldzRDTUFIalpLTkJaQ19kOGozTFJSV0RpZldfbzZiXzlfZEN4VHRLRdIBvwFBVV95cUxOczRWLVN4Z1Y4ZUh4TGZKUUllUlR2Xy0tSVJlbDNNS2ZWSzZpenc3ZldBMklVWGF3aklncTUtalZtcDBzY3ZMSVY1aFlJcFdMczF3NFJCd2dSdEpzeDhTRUtWc0FIcVBQX1dFRzNOOFBNWDR0TWkta1JsMS1TUzFZeDNCLVUwQXlrZUV0OWlVdTBpZGhWY1lBb0U4QTRGMkFFbHFSLXBYY0c4b0RIZEZDaXl2NHZRVFF2Zl9pQ0lDVQ?oc=5"
+            "source": "The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPODJ4azZ4azNueHpjY3c5TS1xV2FEV2JjY0ZLdmh3aVBBeFFSc2IyMkVIUTQ3aUhTZnhjemNmYVpvTTRTNlcwZ2dvaDlYMmExNGNuRFVJWWVLSzYzUEl3YW1HWDBCMlN3dk9TdWR3R2JKdjI5SjNwMExISW8zSXpVaXRHUkxxN1JEbVZ6TGFob3Q3Q1g1enpJS25vRG1Qckt4YnN5cmJ5dXRkU25Gcnc?oc=5"
+          },
+          {
+            "source": "Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcF95VDVfWEJCUU9RTm0tQzA4Rmt2TVpFYVVBQmd1QS1MNVh0Q3Z2aEtmV09tU0RpU0daRlBzQzFiczhHbWdMdkxxSkdNalYzcjlEb292bWlnUV9vNDliSzNZaFYydjJPU3NieVotLUs2ZHJ6RTg2UUZSeVVWdVBkOVVoWFRBMC1YYklhMGJsMA?oc=5"
           }
         ]
       },
       {
-        "title": "Anthropic migrates Claude API from Python to Rust",
-        "feedTitle": "Anthropic says it moved its Claude API from Python to Rust with no downtime",
-        "summary": "Anthropic announced it successfully migrated its Claude API infrastructure from Python to Rust without any service downtime, improving performance and reliability. The migration represents a significant engineering undertaking for a production AI service. The move demonstrates advances in systems architecture for large-scale AI deployments.",
-        "source": "InfoWorld",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNT0hkbjZpczkxRkxndVZvU0g5OHBwUjBhdDBTSF9DSExpOVpZQU1pblNRU0hBSmtaQU42aDMxamtPLVpnWGd1TUFzUTRNdVZvWHdYdHoyMUZjTFdDb1pYODhiOU9BejU2Sjc1ZjZ1elJCV0dMZ256M3pzLW15SHpIdjNqR0lEc0ZxelB3TjBqa3lTZ3BDRFpaYXdzbnFVbUE3UzFTdTJFQVFpWUxBVkZoUEdSMWlBN0NVRmJQcVZ6TQ?oc=5",
+        "title": "US tightens AI chip export controls targeting Chinese firms",
+        "feedTitle": "US chip curbs, distillation crackdown threaten Chinese AI model development, sources say",
+        "summary": "The US government has implemented stricter controls on AI chip exports to China and Chinese-owned companies, with reports indicating that some US-based but Chinese-owned firms have been able to purchase Nvidia's most advanced chips. The enhanced enforcement reflects escalating efforts to restrict China's AI development capabilities through semiconductor supply chain controls.",
+        "source": "Taipei Times",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aNjQ3Q0FpX08xODhRZzNieDd1LXUyMmwwRnM1N1RXRXpoekExNTJhQjN0cEFwYlpxSVpKYmM2TWpSTW45YmFaYVNOYzJoZS1pR1NlSWNhNVBWNXU3NDI2bkNuSVZ0Z1ZTV0V1OEh5QXk5ZFU1clE?oc=5",
         "sources": [
           {
-            "source": "InfoWorld",
-            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNT0hkbjZpczkxRkxndVZvU0g5OHBwUjBhdDBTSF9DSExpOVpZQU1pblNRU0hBSmtaQU42aDMxamtPLVpnWGd1TUFzUTRNdVZvWHdYdHoyMUZjTFdDb1pYODhiOU9BejU2Sjc1ZjZ1elJCV0dMZ256M3pzLW15SHpIdjNqR0lEc0ZxelB3TjBqa3lTZ3BDRFpaYXdzbnFVbUE3UzFTdTJFQVFpWUxBVkZoUEdSMWlBN0NVRmJQcVZ6TQ?oc=5"
+            "source": "Taipei Times",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aNjQ3Q0FpX08xODhRZzNieDd1LXUyMmwwRnM1N1RXRXpoekExNTJhQjN0cEFwYlpxSVpKYmM2TWpSTW45YmFaYVNOYzJoZS1pR1NlSWNhNVBWNXU3NDI2bkNuSVZ0Z1ZTV0V1OEh5QXk5ZFU1clE?oc=5"
           }
         ]
       },
       {
-        "title": "OpenAI hires Cravath litigator for Musk court battle",
-        "feedTitle": "OpenAI taps Cravath litigator for court showdown with Musk over AI dominance",
-        "summary": "OpenAI has tapped a prominent Cravath litigator as it prepares for court proceedings with Elon Musk over AI dominance and corporate control issues. The legal hiring signals escalating tensions between the AI company and its former backer. The case touches on fundamental questions about AI development, profit orientation, and corporate governance.",
-        "source": "Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRzJ1c09xSU9NV3J5RGI1Ny1hUkFmV1pURmljRHV5aldoS2tsaTdIMDE2RVBncFNpSmYtWW04eHh4cnlvR3N0Q3Y1MnNSVVNfNmVFUi1KMFk0eTIxclN6TkhhbDNvR2d3S0VncjJlUXhPODlvRVZhcGVGM1NoREFRTHc1QzFFMHlOdjNwSm1DalZ5WTJRa0pTb2YtVloxN3p3ZDNmZkF4bjNORkxJM3ozZlJrRFJSYTJ0cWVORDVmajFmbjA?oc=5",
+        "title": "India launches Chariot-1 AI model suite for language tasks",
+        "feedTitle": "India launches Chariot-1 AI suite with three language-model sizes trained together",
+        "summary": "India has launched Chariot-1, a new AI model suite backed by the IndiaAI Mission, featuring three language model sizes trained together for Indian languages and use cases. The release positions India as an emerging player in developing locally-relevant large language models and reduces dependence on foreign AI systems.",
+        "source": "Superpower Daily",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPT0tUcjNXdzdTSExnSnBpUUVXMDhqVXFTWjN1VG9fUXpvV0pqb0U1Z3BFWGlnM1pVYkdFN2VpMlJtczBuaEpwRzBGSWRwQW1WdGs5RTlpOExQNTdQT2QyOFFXWVF5ZlhEdWJibGw1a3I2SXlLc2RSSUc1eDZDS3BsZmhOTVh2UWZqaHRMOGU4N1NpU0cyVVBweGVITXNfTzFFSmppaV96dW5VS2NzVUoyY1d4Q3dQMjA?oc=5",
         "sources": [
           {
-            "source": "Reuters",
-            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRzJ1c09xSU9NV3J5RGI1Ny1hUkFmV1pURmljRHV5aldoS2tsaTdIMDE2RVBncFNpSmYtWW04eHh4cnlvR3N0Q3Y1MnNSVVNfNmVFUi1KMFk0eTIxclN6TkhhbDNvR2d3S0VncjJlUXhPODlvRVZhcGVGM1NoREFRTHc1QzFFMHlOdjNwSm1DalZ5WTJRa0pTb2YtVloxN3p3ZDNmZkF4bjNORkxJM3ozZlJrRFJSYTJ0cWVORDVmajFmbjA?oc=5"
+            "source": "Superpower Daily",
+            "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPT0tUcjNXdzdTSExnSnBpUUVXMDhqVXFTWjN1VG9fUXpvV0pqb0U1Z3BFWGlnM1pVYkdFN2VpMlJtczBuaEpwRzBGSWRwQW1WdGs5RTlpOExQNTdQT2QyOFFXWVF5ZlhEdWJibGw1a3I2SXlLc2RSSUc1eDZDS3BsZmhOTVh2UWZqaHRMOGU4N1NpU0cyVVBweGVITXNfTzFFSmppaV96dW5VS2NzVUoyY1d4Q3dQMjA?oc=5"
+          },
+          {
+            "source": "Inc42",
+            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOemtSaWVxSTM1azhzM0luUm9obDlldTMydU1QOVhtY3pQY2J2dzBxbGo2RzBQeTVWdkV5MUNhZEdQMmZ6NXRobmM4M3V0eXZCLUVOdFJZWm42a05hX2pHU3FNWXBwbV9hSE1XRmFnU0NZYUJRd3llYnM1MWZJYzRuYVpnb1ZwQkdHdHJVUGFhX0xzSTRLV3BFTGFvTG1makU4?oc=5"
+          }
+        ]
+      },
+      {
+        "title": "Pentagon Hand Caroline Zier Now Leads OpenAI's Limits on Military Artificial Intelligence",
+        "feedTitle": "Pentagon Hand Caroline Zier Now Leads OpenAI's Limits on Military Artificial Intelligence",
+        "summary": "Summary unavailable for this update.",
+        "source": "Broadband Breakfast",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaHNyTTBaZE5ydGtvODFGS0Jra2F2Rl9lSUlnZVAzTWJfZndkWklTTFJ3UlQ5ckk4dnhyUzBUd3d4Q3JoWDI5M2M5dEs3VzdwLWk4cnBmVjBGby1WVnVoYmpsTnozaXJyWEVjRGEtcFRMSUVKRG1vUWpmNVh0RWNMR2M5RHZJNzd6VnU3TVV6V3oxMV9FZDVZOTNkbUNzSmtENWlPdXJERXpndEM3M1JaUlozNlF4b05faC0xSg?oc=5",
+        "sources": [
+          {
+            "source": "Broadband Breakfast",
+            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaHNyTTBaZE5ydGtvODFGS0Jra2F2Rl9lSUlnZVAzTWJfZndkWklTTFJ3UlQ5ckk4dnhyUzBUd3d4Q3JoWDI5M2M5dEs3VzdwLWk4cnBmVjBGby1WVnVoYmpsTnozaXJyWEVjRGEtcFRMSUVKRG1vUWpmNVh0RWNMR2M5RHZJNzd6VnU3TVV6V3oxMV9FZDVZOTNkbUNzSmtENWlPdXJERXpndEM3M1JaUlozNlF4b05faC0xSg?oc=5"
           }
         ]
       }

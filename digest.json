@@ -1,33 +1,46 @@
 {
-  "generatedAt": "2026-11-27T19:44:08.504Z",
+  "generatedAt": "2026-11-28T04:25:05.826Z",
   "location": "St. Charles, MO",
   "weather": {
-    "high": 38,
-    "low": 30,
-    "highC": 3,
-    "lowC": -1,
+    "high": 39,
+    "low": 32,
+    "highC": 4,
+    "lowC": 0,
     "precip": 13,
     "wind": 16,
     "sunrise": "6:57 AM",
     "sunset": "4:41 PM",
-    "now": 38,
-    "nowLabel": "Partly cloudy",
+    "now": 33,
+    "nowLabel": "Overcast",
     "alerts": [],
     "label": "Overcast",
     "emoji": "☁️"
   },
   "watch": [
-    "Fed rate decision in mid-December and guidance on 2027 monetary policy amid persistent inflation concerns",
-    "Continuation of Black Friday and Cyber Monday spending trends to gauge consumer resilience amid inflation",
-    "Trump administration tariff implementation on 14 trading partners and retaliatory responses from China, EU, and others"
+    "Federal Reserve interest rate decision following inflation data",
+    "China's formal response to Trump's tariff proposals and potential retaliatory measures",
+    "Taiwan's Saturday vote on nuclear power policy and its implications for semiconductor energy needs"
   ],
   "tabs": {
     "local": {
       "items": [
         {
-          "title": "Hundreds of thousands lose power after Thanksgiving storms",
+          "title": "Texas AG-elect refuses to defend Ten Commandments classroom law",
+          "feedTitle": "Texas AG-elect won't defend Ten Commandments classroom law",
+          "summary": "Texas Attorney General-elect Nathan Johnson (D) announced he will not defend a state law requiring public schools to display the Ten Commandments, stating the law is unconstitutional. Johnson's refusal signals a legal challenge ahead for the law, which faces constitutional scrutiny. The incoming AG's position puts him at odds with the state's current legal defense of the measure.",
+          "source": "The Hill",
+          "link": "https://thehill.com/homenews/state-watch/6245846-texas-ag-johnson-ten-commandments/",
+          "sources": [
+            {
+              "source": "The Hill",
+              "link": "https://thehill.com/homenews/state-watch/6245846-texas-ag-johnson-ten-commandments/"
+            }
+          ]
+        },
+        {
+          "title": "Thanksgiving storms leave hundreds of thousands without power",
           "feedTitle": "Thousands still without power after Thanksgiving storms",
-          "summary": "A powerful storm system battered the US Northeast and West Coast on Thanksgiving, leaving approximately 490,000 customers without power as of Friday afternoon, with the most severe outages in New Jersey and Pennsylvania. Power restoration efforts are ongoing as residents deal with spoiled food and disrupted travel plans. The storm also caused widespread flooding and downed trees across multiple states from Maine to Florida.",
+          "summary": "A severe weather system that swept across the Northeast and West Coast on Thanksgiving left approximately 490,000 customers without power as of Friday afternoon, with New Jersey and Pennsylvania accounting for over 200,000 outages. Heavy winds, rain, and snow downed trees and power lines across multiple regions. Power restoration efforts continued through the weekend.",
           "source": "The Hill",
           "link": "https://thehill.com/homenews/state-watch/6245503-black-friday-thanksgiving-storms-flight-delayed-macys-parade/",
           "sources": [
@@ -36,157 +49,102 @@
               "link": "https://thehill.com/homenews/state-watch/6245503-black-friday-thanksgiving-storms-flight-delayed-macys-parade/"
             },
             {
-              "source": "BBC",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuV1NzUW1LVDRtNXhBd1h1VTVHMVRPdlR1bm4xM1VOZzh4Nk9zOU9wT2pEMjFxU3U0NHBPd0tKZ1BZdWNmelg2c1ZmUFFJRVF0cEVMT2NtTVVMS0U?oc=5"
-            },
-            {
-              "source": "AP News",
-              "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWjRuNThwR0c4LU54RVBVM3kzcFFCOGFmR0szVnA2SUI1aW55bTMtWWlvZ1FYLUVLZmNEYk1HM2ZGZmotc09Wck9ySldYcW9zTWZaeUw5eFVoNUxrcFo0aDNmejFnbzkwTmNhRDUyamhlWHpWNTFwb1BiRUlqV0ZMUllxV3lnU2NzYnlfSUhNWUVyV09WcE9wN0pmeGp5d011djRj?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Senator Deb Fischer's husband died by suicide",
-          "feedTitle": "Sen. Deb Fischer's office says her husband died by suicide",
-          "summary": "A spokesperson for Senator Deb Fischer (R-Neb.) confirmed that her husband, Bruce Fischer, died by suicide earlier in the week. The announcement came after the senator's office released a statement Friday noting the tragic update on his death.",
-          "source": "The Hill",
-          "link": "https://thehill.com/homenews/senate/6245545-deb-fischer-nebraska/",
-          "sources": [
-            {
-              "source": "The Hill",
-              "link": "https://thehill.com/homenews/senate/6245545-deb-fischer-nebraska/"
-            },
-            {
-              "source": "CBS News",
-              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Md1MyaGhqRE1IOUFQVzZ3Q0J6WVJFWGtYMzE0YUpfYmdyeFlrSkJISHV6YkZyVUxuWFk3SXJ1TUE1cWd0MDVsMVp6cUxYTS1JMDk1clZ3dXhQWmtLd3hQSWs5WF9PT3JpZUdibDdxSUxRVGlhZmc?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "US military disables vessel breaching Iranian naval blockade",
-          "feedTitle": "Military says it disabled vessel that 'attempted to run the U.S. naval blockade' against Iran",
-          "summary": "US Central Command reported that American forces fired precision munitions at the stern of the Palau-flagged M/V Pacific Archer on Thursday, disabling the ship's propulsion after it attempted to breach the US naval blockade of Iranian ports despite multiple warnings. The civilian crew was unharmed in the strike.",
-          "source": "The Hill",
-          "link": "https://thehill.com/policy/defense/6245428-us-naval-blockade-iran-ship-disabled/",
-          "sources": [
-            {
-              "source": "The Hill",
-              "link": "https://thehill.com/policy/defense/6245428-us-naval-blockade-iran-ship-disabled/"
-            },
-            {
               "source": "PBS NewsHour",
-              "link": "https://www.pbs.org/newshour/world/u-s-military-says-it-disabled-another-ship-that-tried-to-breach-naval-blockade-on-iranian-ports"
-            }
-          ]
-        },
-        {
-          "title": "Trump to attend semiconductor facility groundbreaking in Phoenix",
-          "feedTitle": "Trump to visit groundbreaking for semiconductor manufacturer that supplies Nvidia: Reports",
-          "summary": "President Trump is reportedly set to attend the groundbreaking of a new semiconductor manufacturing facility in Phoenix that will produce chips for Nvidia and other companies. The facility represents a significant investment in US semiconductor production capacity amid ongoing industry competition.",
-          "source": "The Hill",
-          "link": "https://thehill.com/homenews/administration/6245480-trump-phoenix-tsmc-nvidia/",
-          "sources": [
-            {
-              "source": "The Hill",
-              "link": "https://thehill.com/homenews/administration/6245480-trump-phoenix-tsmc-nvidia/"
-            }
-          ]
-        },
-        {
-          "title": "Record Black Friday spending expected despite inflation concerns",
-          "feedTitle": "Weeks of hot deals are encouraging record Black Friday spending despite inflation concerns",
-          "summary": "Retail experts predict record Black Friday spending this year as consumers engage in extensive holiday shopping despite lingering concerns about inflation. Physical stores are experiencing strong foot traffic, with Sensormatic Solutions reporting Black Friday remains the highest-traffic retail day despite e-commerce growth and earlier online discounting.",
-          "source": "PBS NewsHour",
-          "link": "https://www.pbs.org/newshour/economy/before-sunrise-at-macys-a-familiar-black-friday-ritual-returns-despite-weeks-of-online-deals",
-          "sources": [
-            {
-              "source": "PBS NewsHour",
-              "link": "https://www.pbs.org/newshour/economy/before-sunrise-at-macys-a-familiar-black-friday-ritual-returns-despite-weeks-of-online-deals"
+              "link": "https://www.pbs.org/newshour/show/news-wrap-crews-work-to-restore-power-for-thousands-after-thanksgiving-storm"
             },
             {
               "source": "NPR",
-              "link": "https://www.npr.org/2026/11/27/nx-s1-6054884/thanksgiving-weather-black-friday"
+              "link": "https://www.npr.org/2026/11/27/g-s1-156004/up-first-newsletter-thanksgiving-storm-black-friday-shopping-asylum-supreme-court"
+            }
+          ]
+        },
+        {
+          "title": "90 million US consumers adopt buy-now-pay-later financing",
+          "feedTitle": "American consumers face pitfalls with rise of 'buy now, pay later'",
+          "summary": "An estimated 90 million American consumers have turned to 'buy now, pay later' (BNPL) financing programs during the holiday shopping season, as these services become increasingly mainstream. The growth of BNPL raises concerns among consumer advocates about potential debt traps and lack of regulatory oversight. Experts warn that many consumers may underestimate the financial risks of these programs.",
+          "source": "PBS NewsHour",
+          "link": "https://www.pbs.org/newshour/show/american-consumers-face-pitfalls-with-rise-of-buy-now-pay-later",
+          "sources": [
+            {
+              "source": "PBS NewsHour",
+              "link": "https://www.pbs.org/newshour/show/american-consumers-face-pitfalls-with-rise-of-buy-now-pay-later"
+            }
+          ]
+        },
+        {
+          "title": "Puerto Rico protests over cost of living and services",
+          "feedTitle": "Protesters take to the streets in Puerto Rico's capital as standard of living deteriorates",
+          "summary": "Thousands of Puerto Ricans, including retirees, students, and workers, joined protests in San Juan on Black Friday dubbed the 'Day of National Outrage' to demonstrate against deteriorating living conditions. The demonstrations targeted record-high electricity rates, surging costs of living, and declining basic services. Around 30 civil society organizations coordinated the action.",
+          "source": "PBS NewsHour",
+          "link": "https://www.pbs.org/newshour/nation/protesters-take-to-the-streets-in-puerto-ricos-capital-as-standard-of-living-deteriorates",
+          "sources": [
+            {
+              "source": "PBS NewsHour",
+              "link": "https://www.pbs.org/newshour/nation/protesters-take-to-the-streets-in-puerto-ricos-capital-as-standard-of-living-deteriorates"
+            }
+          ]
+        },
+        {
+          "title": "SNL caregiving sketch boosts bipartisan congressional support effort",
+          "feedTitle": "'SNL' caregiving sketch gives new momentum to bipartisan push in Congress",
+          "summary": "A viral 'Saturday Night Live' sketch about unpaid caregiving for aging parents has revived momentum for bipartisan legislation addressing gender disparities in family caregiving. The sketch highlighted the financial and personal burden placed disproportionately on women who provide unpaid care. Lawmakers are using the cultural moment to advance policy solutions.",
+          "source": "The Hill",
+          "link": "https://thehill.com/homenews/6243704-snl-skit-boosts-caregiver-legislation/",
+          "sources": [
+            {
+              "source": "The Hill",
+              "link": "https://thehill.com/homenews/6243704-snl-skit-boosts-caregiver-legislation/"
             }
           ]
         }
       ],
-      "stlouis": [
-        {
-          "title": "St. Louis area power outages persist; restoration could take days",
-          "feedTitle": "Ameren said it will still take a few days to restore power to some as nearly 80,000 customers remain without power",
-          "summary": "Nearly 80,000 customers in the St. Louis region remained without power following the Thanksgiving winter storm. Ameren said restoration efforts could take several more days, with heavy wet snow and downed trees causing widespread damage across the area.",
-          "source": "KSDK",
-          "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNUDRVSEtvZld1ZFJPbDRiT0lwYVpYcXlTeUpWWnBxcjFmUU4xcFZ2TXlzeDdiLWREaEVLY2tTdGZLdVI3cHZkU0RTbU83SDEtU2pNaHFOT3hFY1NhNjM2WlM4Um43ZzNrVndUd1J3QmNPbzBkWlVCUjVvd3ktemUxMi1iOU9tOFZPcTNQd0Z4TmhxTXdSTzVLd2xNVHBCNkdUMGtSenJCdGVRRFVBR2E2TS1IVmM2VnFvbUw3bzdkMmxkb1FZdkU3Q3JHVm9MR09VZ0JxdV9xN3lFU2NUZTlYcGJqQjFDOVRvUF92NkZFa3NqQzUtUjFHaGdsYUkxZkFSSDF3QzZwb0hfSUpiNllnOWw0X3Y2SXVQYzZLRFdB?oc=5",
-          "sources": [
-            {
-              "source": "KSDK",
-              "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNUDRVSEtvZld1ZFJPbDRiT0lwYVpYcXlTeUpWWnBxcjFmUU4xcFZ2TXlzeDdiLWREaEVLY2tTdGZLdVI3cHZkU0RTbU83SDEtU2pNaHFOT3hFY1NhNjM2WlM4Um43ZzNrVndUd1J3QmNPbzBkWlVCUjVvd3ktemUxMi1iOU9tOFZPcTNQd0Z4TmhxTXdSTzVLd2xNVHBCNkdUMGtSenJCdGVRRFVBR2E2TS1IVmM2VnFvbUw3bzdkMmxkb1FZdkU3Q3JHVm9MR09VZ0JxdV9xN3lFU2NUZTlYcGJqQjFDOVRvUF92NkZFa3NqQzUtUjFHaGdsYUkxZkFSSDF3QzZwb0hfSUpiNllnOWw0X3Y2SXVQYzZLRFdB?oc=5"
-            },
-            {
-              "source": "FOX 2",
-              "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMTE4NHA1bUcydkxoR096TVA2QmZscnNkc0FZRVh3dnVPWFRNUlRsU0VJM0hNcnJmUHU3QXZuaHNETWZNV1dac25tdXB2Y3NnZUNRYjZOaklsZXJaem84eHl4bWw1UndQbWxYazl1MHdMa2YwNUZNVlNRX2E1eDYtakJTSjBJU2ZpR3ZtNU1YNHdoOThPc2NTOEsxUdIBoAFBVV95cUxOQ2ZhOVhBWk1WaGl0Q2lqNENwckpDQlVkWU16WVk1WGZ5Z1pIbEFXRld0TEo1MUc4aHJrMFp4M0hFV29jdm9zMnRoVjhETi1XdzROWG5qT2VKZlZuQUNMU2VKeHZmVkFVMndBWFVzQ0x2WGswaDV0TjdSOW1XaFZ5Yk5KSGR4b2JfQ1loOE5nQmZ5eEg5REp1emVzS2RuNkFM?oc=5"
-            },
-            {
-              "source": "STLPR",
-              "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV2tkNFdLc1JYQ1FJaVlVQTQ1TjlNTm9HYVotc0xMOU1YR3F2RkVFeFJFelhJcFFlWURlbUhBWDNxNVhSTFl0Z1ktYTZqS01FYW13SHZ5VWw1ekh6YldGNERFSW10eFZhQWdfS21KMFhFOUhUb0o3MVJsRWtnV2FRTWgwZ2VPZTBlTEFmT2tGZ2xPTDBXQmx4dWxaNm5kNHFxdUg2VTltYTJXWkVKZXV3M0lGdw?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "St. Louis records second-snowiest Thanksgiving in storm history",
-          "feedTitle": "St. Louis Got 7.3 Inches of Heavy, Wet Snow, Its Second-Snowiest Thanksgiving Storm on Record. Missouri’s Extension Forester Says Damaged Trees Deserve Patience.",
-          "summary": "St. Louis received 7.3 inches of heavy, wet snow on Thanksgiving, marking the second-snowiest Thanksgiving storm on record. The Missouri Extension Forester advises residents to exercise patience with damaged trees, which will require time to recover from the weather stress.",
-          "source": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCNnZ0bEw3TDg1VmpRWHlGSjdjLTlVTWc3RmdLU05lR0FCZUdYVzhHWVl3cnBLdjk1VUxvTDk4ZmtoTmJQelp1RE9GVUk3M1oxQWR3SGNyYXlubkJrd0ZuYWw1aTVQYk84TTRrNA?oc=5",
-          "sources": [
-            {
-              "source": "AOL.com",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCNnZ0bEw3TDg1VmpRWHlGSjdjLTlVTWc3RmdLU05lR0FCZUdYVzhHWVl3cnBLdjk1VUxvTDk4ZmtoTmJQelp1RE9GVUk3M1oxQWR3SGNyYXlubkJrd0ZuYWw1aTVQYk84TTRrNA?oc=5"
-            },
-            {
-              "source": "FOX 2",
-              "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNODhqWWhDeldhZTMyVHRUX0djUWFvcDJraUdtWGt1NWRUNDdEZFBzYVFjU1ZzeWozN3VuaDlHUURaVjJ5c2c2UEJvLTBycUxQMlJLZ0lyLVctd2drdkNielYyaUFsTFhDcGh6bzBwSFJVdUliZTRVeU9nWXp5enU3cTc3MmpZZjFCQVBDN3otMGQyZ2ZVajNUa1RMWktoN0FsRGVVaDQxQkloRzgxS0JfZTBLRXFyQ09vdV9jV9IBwgFBVV95cUxOUUpBRFdoZ3RlNTZvR0YydWFzVnJ3a29JMktHZTJyMEJ1cW8yUzZBRjkzdEFmMWdiaW5GV2sxMTVleU9VM0UyZzhobWZHdzhORjZUVUlhUDAzaWc3a05LaTYyRnE1TFBMMFhORGVxWXV6SzE0NVNocUVNWFBaWnNpY2FySlZjYTg4TmVTLXctbG1pLVhsQ09wUTFvaGMwWU1TWWJxUTBTRnN3bml2azl0YkdHc19FRVlYaHIxVUFYLUtlZw?oc=5"
-            },
-            {
-              "source": "KSDK",
-              "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQM2hfVWVQYnhPbHpBeVpET3k5eGFaeU96Q21CejFGcWRZRjloeHQ0Wml6NFRPMnBqMmRycXdtRk00Rm1YMlJlRmw1b0JxVlFGell4amJrM0ZpaWU3R3RzVXR1b2VkMjl3UkM0ME1hV3hNZ0NueDlHaEVPVXJSTXhJZHJSbzZBaUpmR3R1cTNsX2VsLWVfclRKSEZubVZCXzkwVUlJeUNmSFRod0dOeWtucFpUa1dkUVhXOC1XOG1zOFYxcDlOMTEyZ3Z0SEF2MS1VWXJLWU9nQmhiNU1fOV8tWHFuUktCSzc0UkdN?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "St. Louis residents can seek reimbursement for spoiled food from outages",
-          "feedTitle": "Spoiled food from a St. Louis-area power outage? You could seek reimbursement",
-          "summary": "Residents in the St. Louis area who lost food due to power outages from the Thanksgiving storm may be eligible to seek reimbursement. Local authorities have announced options for compensation as thousands dealt with the aftermath of widespread blackouts.",
-          "source": "FOX 2",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb3k2dFVKOWFxbGhDVTVpem9nV3lsVTk2UDFyMlF3N1pQUHJ3eEs5SHNXUFctMkwzQXJZaTdOa1d2ZkR5cmNHNHNyckZCOWQ2ZFdULVZ5anZMaWlwUE1Ra2ZNaC13cEE1N2RUMktGaVBhQWZUVXpWenpRM25fdERYelA0UVhNQ1ZaVGFNa2pWSWpLX0ZBQ0liVmFJYkZkS1RSYUg0NHQ4THc1VHlvZnBN0gG0AUFVX3lxTE55SGpzNzZrVDBmRjJuTkpHNU5XbG5yRDJ5M0xvbWRUdktYNThfcGlpTXVjMWpGWUNET09aNTdudlRydmZoM3BxOGNHZ29CUDYyRkxrT2NlTW5EOTBnRE85RXNYT1JXLTNqT2pCVHRLM1MwcUdTZ05NSXRQeDcyeUJKbVdTUzM3TmlpMEUzSDc1anIxWER4dnNsaWp5OTYwQ3JjS2ROamRqSEFPUVJObTlkRVdwNg?oc=5",
-          "sources": [
-            {
-              "source": "FOX 2",
-              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb3k2dFVKOWFxbGhDVTVpem9nV3lsVTk2UDFyMlF3N1pQUHJ3eEs5SHNXUFctMkwzQXJZaTdOa1d2ZkR5cmNHNHNyckZCOWQ2ZFdULVZ5anZMaWlwUE1Ra2ZNaC13cEE1N2RUMktGaVBhQWZUVXpWenpRM25fdERYelA0UVhNQ1ZaVGFNa2pWSWpLX0ZBQ0liVmFJYkZkS1RSYUg0NHQ4THc1VHlvZnBN0gG0AUFVX3lxTE55SGpzNzZrVDBmRjJuTkpHNU5XbG5yRDJ5M0xvbWRUdktYNThfcGlpTXVjMWpGWUNET09aNTdudlRydmZoM3BxOGNHZ29CUDYyRkxrT2NlTW5EOTBnRE85RXNYT1JXLTNqT2pCVHRLM1MwcUdTZ05NSXRQeDcyeUJKbVdTUzM3TmlpMEUzSDc1anIxWER4dnNsaWp5OTYwQ3JjS2ROamRqSEFPUVJObTlkRVdwNg?oc=5"
-            }
-          ]
-        }
-      ]
+      "stlouis": []
     },
     "world": {
       "items": [
         {
-          "title": "Russian sabotage in Europe risks mass-casualty event, warns thinktank",
-          "feedTitle": "‘Mass-casualty event’ in Europe possible amid rise in Russian sabotage, says thinktank",
-          "summary": "A European think tank has warned that a potential 'mass-casualty event' could result from a reported rise in Russian-directed sabotage activities across Europe. The report highlights escalating attacks targeting critical infrastructure and Ukrainian supply lines, with incidents increasing 16% according to recent analyses.",
-          "source": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQckNGajRKWDh1VXh1QU9GOWVpSExSRnJqX0pwbG5SZElCeXpBUUs3N3FNREZlX2xCMmp0ZHdsdmlsd0U1SnRRbl9WY185amVBZ2VOQm5haTFSNkE4QjhJNFBWTC16NDg0d2ZjU0czbDJQLTNmYUVGOG11Q01pd1N4bWNKR0FtazVlY05vV1R6bGFWcEtfMzBGNDBmVlhXVXRqbl9sdERFYlBmU3BWb2ZORWR6cw?oc=5",
+          "title": "Israeli strike kills two Doctors Without Borders staff in Gaza",
+          "feedTitle": "Israeli strike on Doctors Without Borders clinic in Gaza kills two staff",
+          "summary": "An Israeli military strike directly hit a clinic operated by Doctors Without Borders (MSF) in Gaza, killing two staff members. MSF called the attack a 'direct hit' and demanded accountability for those responsible. The incident adds to concerns about civilian infrastructure being targeted during ongoing military operations.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff?traffic_source=rss",
           "sources": [
             {
-              "source": "The Guardian",
-              "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQckNGajRKWDh1VXh1QU9GOWVpSExSRnJqX0pwbG5SZElCeXpBUUs3N3FNREZlX2xCMmp0ZHdsdmlsd0U1SnRRbl9WY185amVBZ2VOQm5haTFSNkE4QjhJNFBWTC16NDg0d2ZjU0czbDJQLTNmYUVGOG11Q01pd1N4bWNKR0FtazVlY05vV1R6bGFWcEtfMzBGNDBmVlhXVXRqbl9sdERFYlBmU3BWb2ZORWR6cw?oc=5"
+              "source": "Al Jazeera",
+              "link": "https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Ukraine braces for another devastating winter amid ongoing war",
+          "title": "Taiwan voters decide on nuclear power policy Saturday",
+          "feedTitle": "Will Taiwan vote to revive nuclear power – and why does that matter for AI?",
+          "summary": "Taiwanese voters will decide on Saturday whether to abandon the country's 'nuclear-free homeland' policy, a decision with significant implications for Taiwan's ability to meet AI and technology industry power demands. The vote tests the ruling Democratic Progressive Party's environmental commitments against energy security needs. The outcome could influence Taiwan's economic competitiveness in the AI sector.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/27/will-taiwan-vote-to-revive-nuclear-power-and-why-does-that-matter-for-ai?traffic_source=rss",
+          "sources": [
+            {
+              "source": "Al Jazeera",
+              "link": "https://www.aljazeera.com/news/2026/11/27/will-taiwan-vote-to-revive-nuclear-power-and-why-does-that-matter-for-ai?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "Putin unveils new nuclear-powered submarine with hypersonic weapons",
+          "feedTitle": "Putin unveils new Russian nuclear-powered submarine with hypersonic weapons",
+          "summary": "Russia's President Putin presented a new nuclear-powered submarine equipped with hypersonic weapons as part of plans to expand the Russian naval fleet with five new submarines by 2030. The announcement reflects Moscow's continued military modernization amid ongoing tensions. The submarine represents an escalation in Russia's naval capabilities.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/27/putin-unveils-new-russian-nuclear-powered-submarine-with-hypersonic-weapons?traffic_source=rss",
+          "sources": [
+            {
+              "source": "Al Jazeera",
+              "link": "https://www.aljazeera.com/news/2026/11/27/putin-unveils-new-russian-nuclear-powered-submarine-with-hypersonic-weapons?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "Kyiv braces for another devastating winter amid war",
           "feedTitle": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
-          "summary": "As freezing weather sets in, Ukraine faces another punishing winter with no clear end to the conflict in sight. Kyiv residents and business owners are preparing for continued bombardments and resource shortages, while questions persist about the ultimate resolution of the two-year-old war.",
+          "summary": "Ukraine faces another punishing winter as the conflict with Russia continues with no visible end in sight, raising questions about how long the country can sustain the war effort. Kyiv residents and officials express fatigue but demonstrate resolve to continue resistance. The humanitarian and infrastructure challenges of a prolonged winter conflict remain severe.",
           "source": "BBC",
           "link": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
           "sources": [
@@ -197,53 +155,15 @@
           ]
         },
         {
-          "title": "Zelenskyy criticises Trump's 'strange' Putin friendship in BBC interview",
-          "feedTitle": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
-          "summary": "Ukrainian President Volodymyr Zelenskyy told the BBC he finds Trump's characterization of Putin as 'my friend' strange and troubling, likening it to someone calling Adolf Hitler a friend during World War II. Zelenskyy criticized the US for being too focused on the Middle East and not pushing Russia hard enough in peace negotiations.",
-          "source": "BBC",
-          "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+          "title": "Mexico files complaint over US DEA tip line for drug dealers",
+          "feedTitle": "Mexico files complaint with US over DEA tip line on alleged drug dealers",
+          "summary": "Mexico filed a formal complaint against the United States regarding a DEA tip line for reporting alleged drug dealers, claiming it violates Mexican sovereignty. The dispute reflects ongoing tensions between the two governments over jurisdiction and authority to combat cartels. Mexico emphasizes that such unilateral US actions undermine bilateral cooperation.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/27/mexico-files-complaint-with-us-over-tip-line-on-alleged-drug-traffickers?traffic_source=rss",
           "sources": [
             {
-              "source": "BBC",
-              "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "source": "The Guardian",
-              "link": "https://www.theguardian.com/uk-news/2026/nov/27/man-jailed-in-newcastle-for-blackmailing-vulnerable-girls-online"
-            }
-          ]
-        },
-        {
-          "title": "Kenyan doomsday cult leader convicted of additional 123 deaths",
-          "feedTitle": "Kenyan doomsday cult leader convicted over further 123 deaths",
-          "summary": "Paul Mackenzie, a Kenyan cult leader already serving time for mass murder, has been convicted of killing an additional 123 followers. The convictions add to his previous 191-murder conviction, highlighting the horrific scope of deaths associated with his doomsday cult.",
-          "source": "BBC",
-          "link": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
-          "sources": [
-            {
-              "source": "BBC",
-              "link": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "Canada's top court upholds Quebec religious symbols ban for public servants",
-          "feedTitle": "Canada’s top court upholds Quebec law barring public sector workers from wearing religious symbols",
-          "summary": "Canada's Supreme Court largely upheld a controversial Quebec law barring public sector workers from wearing conspicuous religious symbols such as hijabs and turbans on the job. The decision exposed tensions between minority rights and government authority, with the law facing challenges from Muslim, Sikh, and Catholic workers.",
-          "source": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/nov/27/canadas-top-court-upholds-quebec-law-barring-public-sector-workers-from-wearing-religious-symbols",
-          "sources": [
-            {
-              "source": "The Guardian",
-              "link": "https://www.theguardian.com/world/2026/nov/27/canadas-top-court-upholds-quebec-law-barring-public-sector-workers-from-wearing-religious-symbols"
-            },
-            {
-              "source": "AP News",
-              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOE9BOWJaNlNZVUhPNE90VDU0SDNmbUxQNjZITWlkbEowX3E3d3RaRW1SVXVnbFlhVUh4RmNiUGJmckltOFpvb25PQkV6R05IVnRLNFpCbE1DYTRVenM4Z2I1eWdOeVVJcEdsMlJMYWlIYk4zeFJxYmZYWEI4RTUxNDk5YWxzQVZkdWExcFFkR0xpcUV1b0lMV08tNFlnWG1MZXV1RTZnWGg?oc=5"
-            },
-            {
-              "source": "BBC",
-              "link": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss"
+              "source": "Al Jazeera",
+              "link": "https://www.aljazeera.com/news/2026/11/27/mexico-files-complaint-with-us-over-tip-line-on-alleged-drug-traffickers?traffic_source=rss"
             }
           ]
         }
@@ -252,9 +172,22 @@
     "india": {
       "items": [
         {
-          "title": "Fashion brands shift orders from Bangladesh to India amid unrest",
+          "title": "Centre proposes Lok Sabha seat freeze until 2051",
+          "feedTitle": "Centre proposes freeze on Lok Sabha seat proportions for States until 2051",
+          "summary": "The Indian government has proposed a Constitutional Amendment Bill to freeze the proportion of Lok Sabha seats by state until 2051, while increasing total seats by 50% and introducing 33% reservation for women. The proposal aims to prevent changes in state representation for three decades despite population shifts. Critics argue the freeze could disadvantage states with higher population growth.",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/national/centre-proposes-freeze-on-lok-sabha-seat-proportions-for-states-until-2051/article71752150.ece",
+          "sources": [
+            {
+              "source": "The Hindu",
+              "link": "https://www.thehindu.com/news/national/centre-proposes-freeze-on-lok-sabha-seat-proportions-for-states-until-2051/article71752150.ece"
+            }
+          ]
+        },
+        {
+          "title": "Global fashion brands shift orders from Bangladesh to India",
           "feedTitle": "Global fashion brands shift orders from Bangladesh to India amid unrest",
-          "summary": "Global fashion brands have diverted approximately $254 million worth of orders from Bangladesh to India between November 1 and 18 as political unrest disrupts Bangladesh's garment industry. The shift reflects brands' efforts to diversify supply chains away from instability in the region's largest apparel exporter.",
+          "summary": "Between November 1 and 18, global fashion brands diverted approximately $254 million worth of orders away from Bangladesh due to recent unrest, with most relocating to India. The shift reflects Bangladesh's political instability and its impact on supply chains. Indian manufacturers are benefiting from the reallocation of international orders.",
           "source": "The Hindu",
           "link": "https://www.thehindu.com/business/global-fashion-brands-shift-orders-from-bangladesh-to-india-amid-unrest/article71752292.ece",
           "sources": [
@@ -265,119 +198,69 @@
           ]
         },
         {
-          "title": "DMK sets conditions to support government's delimitation bill",
-          "feedTitle": "NCP-SP announces support to delimitation, Congress calls it ‘unfortunate’",
-          "summary": "The DMK party has announced conditional support for the government's delimitation bill, which proposes redrawing Lok Sabha constituencies. The party's backing contrasts with Congress opposition and deepens intra-coalition tensions over the contentious electoral redistricting exercise.",
+          "title": "BJP redraws Kolkata and Howrah municipal ward boundaries",
+          "feedTitle": "In Kolkata, the BJP redraws power lines",
+          "summary": "The BJP government in West Bengal has undertaken a delimitation exercise increasing the number of wards in Kolkata and Howrah municipal corporations, affecting over seven million residents. Opposition parties have alleged gerrymandering in the boundary redrawing. The changes will reshape electoral dynamics in both cities ahead of municipal elections.",
           "source": "The Hindu",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZHdTbHVUTGdUMFFpc01fLWtvNFlfWlhuQjh1YjZNdHFuRzVWaG9YeVN2S2dlODZ4cUs1dHhYczhiR05MRTVKbTZ2SURVOEQtZWpFLUdYM0laSTFYbkF0TmZXcXhqM0J1THZqYktVSUZHTlFYc191RWpUdnlzd3lDQ242TDVXbzhtV2NKMnZabjFXQ18wTVJyT0NJX1FHeDFBRk02cG9wcnJnLTYtWTJjRkxEc9IBugFBVV95cUxNWndMdUZnWTB3QWEzM3drMVhRSU1CMnRhdmMzT3ctQVd6aF90LUd1dGhlY2d2T0pvQ2FZY3MzQmtlejVMX3h1NFlOaW0yNjBZS2NiVkJtZ2lrQk5pX1F2TmpYa2lMSWZmUXVPQUVYdk5JOGxrd0lhT3V4ZHBDWjluOG1Ob1dKUlpnRURkUUZ6NENRdjRNWDFSWXFqWVlNQ29IWUVuQTZCZ0dJZC00ZG9uOEtoQWU4dUp4c0E?oc=5",
+          "link": "https://www.thehindu.com/news/cities/kolkata/in-kolkata-the-bjp-redraws-power-lines/article71749683.ece",
           "sources": [
             {
               "source": "The Hindu",
-              "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZHdTbHVUTGdUMFFpc01fLWtvNFlfWlhuQjh1YjZNdHFuRzVWaG9YeVN2S2dlODZ4cUs1dHhYczhiR05MRTVKbTZ2SURVOEQtZWpFLUdYM0laSTFYbkF0TmZXcXhqM0J1THZqYktVSUZHTlFYc191RWpUdnlzd3lDQ242TDVXbzhtV2NKMnZabjFXQ18wTVJyT0NJX1FHeDFBRk02cG9wcnJnLTYtWTJjRkxEc9IBugFBVV95cUxNWndMdUZnWTB3QWEzM3drMVhRSU1CMnRhdmMzT3ctQVd6aF90LUd1dGhlY2d2T0pvQ2FZY3MzQmtlejVMX3h1NFlOaW0yNjBZS2NiVkJtZ2lrQk5pX1F2TmpYa2lMSWZmUXVPQUVYdk5JOGxrd0lhT3V4ZHBDWjluOG1Ob1dKUlpnRURkUUZ6NENRdjRNWDFSWXFqWVlNQ29IWUVuQTZCZ0dJZC00ZG9uOEtoQWU4dUp4c0E?oc=5"
+              "link": "https://www.thehindu.com/news/cities/kolkata/in-kolkata-the-bjp-redraws-power-lines/article71749683.ece"
             }
           ]
         },
         {
-          "title": "India-US trade deal nearing completion, minister says",
-          "feedTitle": "India-US trade deal is nearing completion, minister says",
-          "summary": "India's commerce minister has stated that a comprehensive trade deal with the United States is close to completion after months of negotiations. The minister indicated that key procedural obstacles, which had previously delayed finalization, are now being resolved.",
-          "source": "Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMkR3N0t3ZmV1SDk5LWNGa3hCcXVleWpPVFpORzVUZnUtYUJoUXQ2eFEzN3ZrQjcxMHhCaXk0NzY4M2NkSFNic1Q2aGJYZlZoYnFlSG5iU0NQX1dUNWZzci1xTU10bm5UbGRYSWkzdno1c3dDRlpZWjVxNjRaWkF5ZzlJdGxsUlJpWUFTbDZCN0d4bFlqN3NNOG4xdy1zZy05TmxNZTlR?oc=5",
-          "sources": [
-            {
-              "source": "Reuters",
-              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMkR3N0t3ZmV1SDk5LWNGa3hCcXVleWpPVFpORzVUZnUtYUJoUXQ2eFEzN3ZrQjcxMHhCaXk0NzY4M2NkSFNic1Q2aGJYZlZoYnFlSG5iU0NQX1dUNWZzci1xTU10bm5UbGRYSWkzdno1c3dDRlpZWjVxNjRaWkF5ZzlJdGxsUlJpWUFTbDZCN0d4bFlqN3NNOG4xdy1zZy05TmxNZTlR?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Indian police rescue 164 foreigners from cyberfraud racket in Noida",
-          "feedTitle": "Noida: 164 foreigners rescued from cyberfraud racket",
-          "summary": "Indian authorities rescued 164 foreign nationals who were trafficked into an international cyberfraud operation in Noida near Delhi. The victims were subjected to fake job recruitment schemes, passport seizure, and threats as part of an elaborate human trafficking and fraud ring.",
-          "source": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16cElZUU55SXprMVBia0dUY01WRFlyZUtGb29UV1FyT0VmZWVxSUNRUjhidGF4QXpJa0dRaU00TTFVeGdqSXh5VndBRkc1cF9QbFBZSzZEdnN2MDQ?oc=5",
-          "sources": [
-            {
-              "source": "BBC",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16cElZUU55SXprMVBia0dUY01WRFlyZUtGb29UV1FyT0VmZWVxSUNRUjhidGF4QXpJa0dRaU00TTFVeGdqSXh5VndBRkc1cF9QbFBZSzZEdnN2MDQ?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Ex-CJI alleges 'complete disregard' for merit in judicial appointments",
-          "feedTitle": "Ex-CJI Gavai writes to President Murmu, alleges ‘complete disregard’ for merit and inclusivity in judicial appointments",
-          "summary": "Former Chief Justice of India BR Gavai has written to President Murmu alleging that recent judicial appointments show 'complete disregard' for merit and inclusivity. He further claims that a single community represents 40% of Supreme Court appointments despite comprising only 5% of the population.",
+          "title": "Supreme Court finds wilful disobedience of Thirupparankundram order",
+          "feedTitle": "Thirupparankundram row: Supreme Court finds wilful disobedience of Deepam order, directs lighting of pillar today",
+          "summary": "India's Supreme Court declared that Tamil Nadu authorities 'wilfully disobeyed' court orders regarding the lighting of a pillar at Thirupparankundram temple and issued show-cause notices on contempt charges against senior state officials. The court directed that the pillar be lit immediately. The ruling reflects judicial enforcement of religious rights against state obstruction.",
           "source": "The Hindu",
-          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNNVluMEJfQkxhLWdxZC1BMHNucWthVWM2eVFkTUFHUEhZNzFua01JUno5UGZKUEdmN2xaNkh1b1NlTjlSaWo4aXJaYzUwUlktVWcxR0VCT3FYVVBhbWU1dlcyZWllX29vWDJMaGo2YmE0TUR4VFlBQ3FpeWpPbTA1aFFlUDVlOHdhajVnbi03c0l4NW0yOGhGYmtFVGVXWXNjamFqeTV4THZFZWhUX09mMm9VMURaWEk5UG9WQkhKdXJ0cG9MUXE4SHRPYUlLeFI4VXpTYldrMXBmVzA4VXpQU1Fyc3ctZzRudE1va205M3Y1bTl0cUpWeU51OEs5UFhYbXNHSXZR0gGMAkFVX3lxTE4teFFHRjFYWWlzV1hjMUcxaG5SWFM4cWo1OWc3N3FTTURscDhRaWRCeXN0dzU3OENVcjVlZW8tTUs4bVByaHg4TGRCQWJIbm91RW04Q0R2QVYwQXhUUDd4eXlqWWsxMzNpNENlOWxxMEZaOXRqLXRSYWVaU2xWcXVrVTd1Y2ZUdk5maGhHdXVlYlc4b2I4a0s4OXJhRVlzb0dXc3RfVDdtUnlwNUt2eUU3T3F1aWpVREFpampmUi1HMU5HMURnSDBTUVJLTV9Wcy02em44RHJTN2duQ2VUaEhNbFAzQ0tja0FuODhuVjZ2XzNOREcxWm9iTmo4MHRwWURkcjdUOWFoVERNNDU?oc=5",
+          "link": "https://www.thehindu.com/news/national/tamil-nadu/thiruparankundram-deepam-issue-supreme-court-contempt-tamil-nadu-karthigai-deepam-deepathoon-row-live-updates-november-28-2026/article71753437.ece",
           "sources": [
             {
               "source": "The Hindu",
-              "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNNVluMEJfQkxhLWdxZC1BMHNucWthVWM2eVFkTUFHUEhZNzFua01JUno5UGZKUEdmN2xaNkh1b1NlTjlSaWo4aXJaYzUwUlktVWcxR0VCT3FYVVBhbWU1dlcyZWllX29vWDJMaGo2YmE0TUR4VFlBQ3FpeWpPbTA1aFFlUDVlOHdhajVnbi03c0l4NW0yOGhGYmtFVGVXWXNjamFqeTV4THZFZWhUX09mMm9VMURaWEk5UG9WQkhKdXJ0cG9MUXE4SHRPYUlLeFI4VXpTYldrMXBmVzA4VXpQU1Fyc3ctZzRudE1va205M3Y1bTl0cUpWeU51OEs5UFhYbXNHSXZR0gGMAkFVX3lxTE4teFFHRjFYWWlzV1hjMUcxaG5SWFM4cWo1OWc3N3FTTURscDhRaWRCeXN0dzU3OENVcjVlZW8tTUs4bVByaHg4TGRCQWJIbm91RW04Q0R2QVYwQXhUUDd4eXlqWWsxMzNpNENlOWxxMEZaOXRqLXRSYWVaU2xWcXVrVTd1Y2ZUdk5maGhHdXVlYlc4b2I4a0s4OXJhRVlzb0dXc3RfVDdtUnlwNUt2eUU3T3F1aWpVREFpampmUi1HMU5HMURnSDBTUVJLTV9Wcy02em44RHJTN2duQ2VUaEhNbFAzQ0tja0FuODhuVjZ2XzNOREcxWm9iTmo4MHRwWURkcjdUOWFoVERNNDU?oc=5"
+              "link": "https://www.thehindu.com/news/national/tamil-nadu/thiruparankundram-deepam-issue-supreme-court-contempt-tamil-nadu-karthigai-deepam-deepathoon-row-live-updates-november-28-2026/article71753437.ece"
+            }
+          ]
+        },
+        {
+          "title": "Nepal and India issue ten-pillar partnership vision statement",
+          "feedTitle": "Ten pillars of Nepal-India vision statement issued during Prime Minister Balendra Shah’s visit",
+          "summary": "During Nepal Prime Minister Balendra Shah's visit, Indian and Nepali delegations released a joint ten-pillar vision document titled 'Viksit Bharat-Samunnat Nepal: Reimagining the Partnership.' The statement outlines a framework for enhanced bilateral cooperation between the two neighbors. The vision aims to strengthen economic, cultural, and strategic ties.",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/national/ten-pillars-of-nepal-india-vision-statement-issued-during-prime-minister-balendra-shahs-visit/article71753492.ece",
+          "sources": [
+            {
+              "source": "The Hindu",
+              "link": "https://www.thehindu.com/news/national/ten-pillars-of-nepal-india-vision-statement-issued-during-prime-minister-balendra-shahs-visit/article71753492.ece"
             }
           ]
         }
       ],
       "immigration": [
         {
-          "title": "IBM ends visa and green card sponsorship for most consulting roles",
-          "feedTitle": "IBM to end US visa and green card sponsorship for most consulting roles",
-          "summary": "IBM has announced it is ending US visa and green card sponsorship for most positions in its consulting division, giving affected H-1B and green card holders three weeks to either relocate within the company or leave. The move marks a significant shift in sponsorship policy affecting thousands of international workers, primarily from India.",
-          "source": "The Hindu",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQU2tGSWE0YlNrdWkxay1FN3lFOE5acHduVnR1THVUUkw5QTZfTnZzNnVqSFBoaEJ2S3E2MHRtYVR5ZHVYc3puQnFZb0ZuMjZDSE45cEh2WU51Y0tvU3pXdG5DOVdUb29GYlUxMEhnYkZHYWx5eXk3OVZjZTdHZjJtVGZmbnBRYml4c09ISWQyVENnd2s5QzJrbjZPaVF2U29XUWtmbEN6dGRMdkE3MUNCbEVmN3lKUFFDOXhVNk82Q2lKWUJWb2ctbnMwQzlnWlJiaUNZeHE4SE5DTGZwUGpaeXpZZm_SAesBQVVfeXFMTVlZUVhxVXZmcF9zeFFGcmJaWHc5VDFJWlVMOWk1ZWhCWTRlWnE5UDQtdVRLb21TWVo0TGZ3LU1CajBDWXVWR1B0OWdRSDJMOHFuSVBWTHBodndNX2U3SUFWUE9LRUNMSFJCeUphZUMxaGNyVk5YZ3dxcTJ5d2pzcE1DUVFycDQydWF5cHdubl95T2lMejlZd2stMnI2YnQ4S0tNd3BsOTZfTktMZWJpYnZPYnpTYWMyTW9vUE9sS1F3S1Q0UlI0UU05amJlWTc2OGpnZVZ4WXgtcDBGckJaN1EwZHJIMzY5SHYybw?oc=5",
+          "title": "DOL proposes strengthened labor market test for PERM program",
+          "feedTitle": "Modernizing the Labor Market Test and Improving Protections for U.S. Workers in the PERM Immigrant Visa Program",
+          "summary": "The Department of Labor has issued a Notice of Proposed Rulemaking to amend regulations governing PERM (permanent immigrant visa) job certifications, aiming to strengthen labor market protections for U.S. workers. The proposal raises standards for employers seeking to hire foreign workers permanently. Status: proposed, not final; comment period is open.",
+          "source": "Federal Register",
+          "link": "https://www.federalregister.gov/documents/2026/11/17/2026-23370/modernizing-the-labor-market-test-and-improving-protections-for-us-workers-in-the-perm-immigrant",
           "sources": [
             {
-              "source": "The Hindu",
-              "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQU2tGSWE0YlNrdWkxay1FN3lFOE5acHduVnR1THVUUkw5QTZfTnZzNnVqSFBoaEJ2S3E2MHRtYVR5ZHVYc3puQnFZb0ZuMjZDSE45cEh2WU51Y0tvU3pXdG5DOVdUb29GYlUxMEhnYkZHYWx5eXk3OVZjZTdHZjJtVGZmbnBRYml4c09ISWQyVENnd2s5QzJrbjZPaVF2U29XUWtmbEN6dGRMdkE3MUNCbEVmN3lKUFFDOXhVNk82Q2lKWUJWb2ctbnMwQzlnWlJiaUNZeHE4SE5DTGZwUGpaeXpZZm_SAesBQVVfeXFMTVlZUVhxVXZmcF9zeFFGcmJaWHc5VDFJWlVMOWk1ZWhCWTRlWnE5UDQtdVRLb21TWVo0TGZ3LU1CajBDWXVWR1B0OWdRSDJMOHFuSVBWTHBodndNX2U3SUFWUE9LRUNMSFJCeUphZUMxaGNyVk5YZ3dxcTJ5d2pzcE1DUVFycDQydWF5cHdubl95T2lMejlZd2stMnI2YnQ4S0tNd3BsOTZfTktMZWJpYnZPYnpTYWMyTW9vUE9sS1F3S1Q0UlI0UU05amJlWTc2OGpnZVZ4WXgtcDBGckJaN1EwZHJIMzY5SHYybw?oc=5"
-            },
-            {
-              "source": "BusinessLine",
-              "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTGRlQkI5dTAxWjB6UFI2dWV6QXpXbU13Y1dHYWhDODVYZmk4MXQ3M0VuLVM4eno3dzZwR3gxMWdFVDB6cWJraldHblVCVm9qQ3g0RmxvMjBVa1dmSXdsTFpSVVlaT203WUxiSTJJZl9ldm04QmFhbHlkRzVYYS1pRGtjbjRYckFoNjZrdHdDTDlMTk1CdTh3Qm1EWjZOR2hMZThUdXdYRzlaM3Buc1d2ZnZ6X285NklweXVwMUVldERJajVxNHRHd1Jncm5YcUEtQzhENtIB2wFBVV95cUxPeWNQZk1QQ0tTdHVKblJVWHdwUlZvaXYtanlWaS1WV0poS1A0ZjRyU0hmdXAwRFVXeXdBUEV0a0lJM3p5UjNNSGgtV0tLeEJtZEoyWTBJNWtyNk9fWklhdmVFdjlNZ0lTMVdraUhKQ19RVWFpSzBGQVNqU252SFQ5b3pCWUxVOHBSN3I0WmlEZnlUbkw4VnhkeW85R1MxRThjWXc1RjdFdWZQeFRsbTdyT3RDYkdUVEg4TUgyMU50VFVCRTk2ZGlic0NkUXZiVWpTVEpvcGVCdHBWd28?oc=5"
-            },
-            {
-              "source": "Rediff MoneyWiz",
-              "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUnliR3VabGNiYWpaSS10akNBY2FfOE1sY3RmMld2c3NvZHJ5NGpTcWtZaW9FVVJ1UnJETE1oYzNxVkI0NFpfZkFwWmFIMXZlc0trOGx1ejFndUFaZ2p3d2FpSjhyNTBKZ01EeHJTcDdsTktRcjR0RkhjQ0hVNXV1VEY0UURpOEM1ZXZ3LUMwYW5qZkt0b3Uxc1pmTEY2eDNJU3ROSWQ2Q2M1ODVZOTBUWUVPczJfUEFs0gG-AUFVX3lxTE80b3hMZHoxdVVQWW4wdTg5WGIxWVhiRFVuaWFuTHIzdXFnbjdET3hJVzhtZENyakJwWm1JX0lvNDNSajVPbUlPLXlxbVVjdmJQT3hMbDRqcWozY3Y4cndrQ05XQ2pOZ29kM19fYTNuaEJKUnIwTU5hRnFacm9RWnI0ZzhzOFdXRWZZZ0h0VDNNLURRMzZEbFBjcng4VlJiVTcxekc0UFRWU09fWklBNFhRYjJfbkxuc0Vic2VFb3c?oc=5"
+              "source": "Federal Register",
+              "link": "https://www.federalregister.gov/documents/2026/11/17/2026-23370/modernizing-the-labor-market-test-and-improving-protections-for-us-workers-in-the-perm-immigrant"
             }
           ]
         },
         {
-          "title": "Department of Labor proposes major PERM labor certification overhaul",
-          "feedTitle": "USDOL Plans to Overhaul the PERM Labor Certification Requirements: What Employers Need to Know",
-          "summary": "The Department of Labor has proposed sweeping changes to the PERM labor certification process that governs employment-based green card sponsorships. The proposed rule, published in the Federal Register, aims to strengthen standards and protections for US workers in the immigrant visa program and represents the first major modernization of these requirements in years. This is proposed, not final.",
-          "source": "The National Law Review",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV0RWclpjQjNxNEhUdVBta1Yyb2FuSGlqNUpnQzFjWGdwak1FSVZEazJxOHF4QTUzWVpTb0hERWdsWmoybmM2eHdkWmcwTUtrUjdDNGxGU2pVTE52Slpzd0oxSjdNRVUzNGhlcWlyQjFmLUVLcWZ2QW5YYTNGelZ3V1lCOVVnQ21WQmZuNG5qT29DOVk2Z2lEVUpIOGU3UXNSTE5UUy1XYzNOM0xaWFE1UkVNZ2t4YknSAbwBQVVfeXFMTVhuY3YzMHpDUkExcDFRRFBzRnItQ3FzSk4wWjVZVm0xVXEyU3I4dUdoMlpob1ljRzVnYldETFBWWGdreW1OS0QydmlDUjdMdHZ0M1FtOEl4eExZaWJNQkVUWUZ6cHF2VHU3NEVGOGkxYmxSSVdrVVN2NF9jRjJZd28zdnhpVThyMV9GZ3NiczVtaDNHUnM4TVdRVFNmZ2JKWFl3NXNFbGM4bWxkTGVZUlFwVXhUak9iYk1BQXo?oc=5",
+          "title": "Agency Information Collection Activities; Comment Request; Workforce Innovation and Opportunity Act Joint Quarterly Narrative Report",
+          "feedTitle": "Agency Information Collection Activities; Comment Request; Workforce Innovation and Opportunity Act Joint Quarterly Narrative Report",
+          "summary": "Summary unavailable for this update.",
+          "source": "Federal Register",
+          "link": "https://www.federalregister.gov/documents/2026/11/16/2026-23292/agency-information-collection-activities-comment-request-workforce-innovation-and-opportunity-act",
           "sources": [
             {
-              "source": "The National Law Review",
-              "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV0RWclpjQjNxNEhUdVBta1Yyb2FuSGlqNUpnQzFjWGdwak1FSVZEazJxOHF4QTUzWVpTb0hERWdsWmoybmM2eHdkWmcwTUtrUjdDNGxGU2pVTE52Slpzd0oxSjdNRVUzNGhlcWlyQjFmLUVLcWZ2QW5YYTNGelZ3V1lCOVVnQ21WQmZuNG5qT29DOVk2Z2lEVUpIOGU3UXNSTE5UUy1XYzNOM0xaWFE1UkVNZ2t4YknSAbwBQVVfeXFMTVhuY3YzMHpDUkExcDFRRFBzRnItQ3FzSk4wWjVZVm0xVXEyU3I4dUdoMlpob1ljRzVnYldETFBWWGdreW1OS0QydmlDUjdMdHZ0M1FtOEl4eExZaWJNQkVUWUZ6cHF2VHU3NEVGOGkxYmxSSVdrVVN2NF9jRjJZd28zdnhpVThyMV9GZ3NiczVtaDNHUnM4TVdRVFNmZ2JKWFl3NXNFbGM4bWxkTGVZUlFwVXhUak9iYk1BQXo?oc=5"
-            },
-            {
-              "source": "Clark Hill",
-              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTmRqM3N4cHlubktiVXdQenVLd2k4UTdZQzVBNVNxemo4VHV1ZzJ3ajk3T3FWelEyTi0wUjRkLTJuWDNHZUtNTzBwTW96dUZfMWJYMHlmbU5QTVRNMjRpekVDZDUtRnVQZnhORFlpX0hsUGQ5MUZjaGlTSmVTQkxfVFlHMDBVT0tDUmxWNkE0R3ctbU01ZmxaOU13?oc=5"
-            },
-            {
-              "source": "Legal 500",
-              "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWWpyVGp1b0c0QXROdFdVOHFPMVBjc0c2eU9Nc2FkcGlnMTFtVFpqdHVqNnRHU3BkY1RIbjBROTZ2NTU0Ymo1SHo1WnJMOFJnWU9zR3FjT0dTcndQODYyUFlLQXFSaFF5a1VZRTIzVzRoUG94RlpVNHV6VlBDY3JKTHlGc1VYWVJkbFBJdTZsUGZEVGhpcm96OVhzMnZRNXRjLVJzc29NenJ0OXFmRHRDWkJ4bUFET0VKYnd1OE85ZHpLX1FsWmVfeDl0aWE4UQ?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "H-1B visa appointment delays strand skilled workers abroad",
-          "feedTitle": "H-1B visa delays leave skilled workers stranded abroad, says US Congressman",
-          "summary": "US Congressman Ro Khanna has raised concerns about significant delays in H-1B visa appointments at State Department consulates, with skilled workers stranded abroad for months unable to begin work in the United States. The delays are attributed to staffing shortages at visa processing facilities, according to GAO data cited by Khanna. This is a pending consequence, not finalized policy.",
-          "source": "Business Standard",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQT2Q1cWp1dTItbkxXdzhaeFFCRUFrQ2t0RElPOHdzN2NVY1MwZE02ckRVcHpOSGtPLUF6RUNoaDF3azFOdnlHb1poaTlXTFhJXzBKZXkxbFAtV0dFVFdvYWs2NUhtb2JJODhHd0lVMkc1WXJsRVRndENBSUJVN05GZVVXdlhxU0E1U3NTRXhPUi1oa3ozekZQVEIySW5SWGpoSHlzcnJqZ0VIdU1XTnJpWWNzNV91ajlmZ19QR3hGdW5lTDZqeWVDMWc3aFZfTThrU1pCNHl5QdIB3AFBVV95cUxOME9rRWhZMVV3WE5qRlZRQjJKa1NqcWJSRHkxcWlRU2d2TWxKbnNhN0VyYkxEWGFQNzYwY0pPNzRmTDhSbkp6V1gwVWZxb21vdzVvODl5Yl9ZTzR3RFVyYnVQWDlkV0UzdFQxVy1uUTduOWxGVXZKcmhISlBpbUpiZFV1LUNINmNYa0NKaUpUY2w4Ukd6VkM4Vnc0SVFVbDc0ZEpkTV9aQUVwaHVkLURTQkJqV2I4NldIOF82UE1UcGdLTG4wYVV6dUgtaGZUcmRxd0I4M3pMRFozbEp2?oc=5",
-          "sources": [
-            {
-              "source": "Business Standard",
-              "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQT2Q1cWp1dTItbkxXdzhaeFFCRUFrQ2t0RElPOHdzN2NVY1MwZE02ckRVcHpOSGtPLUF6RUNoaDF3azFOdnlHb1poaTlXTFhJXzBKZXkxbFAtV0dFVFdvYWs2NUhtb2JJODhHd0lVMkc1WXJsRVRndENBSUJVN05GZVVXdlhxU0E1U3NTRXhPUi1oa3ozekZQVEIySW5SWGpoSHlzcnJqZ0VIdU1XTnJpWWNzNV91ajlmZ19QR3hGdW5lTDZqeWVDMWc3aFZfTThrU1pCNHl5QdIB3AFBVV95cUxOME9rRWhZMVV3WE5qRlZRQjJKa1NqcWJSRHkxcWlRU2d2TWxKbnNhN0VyYkxEWGFQNzYwY0pPNzRmTDhSbkp6V1gwVWZxb21vdzVvODl5Yl9ZTzR3RFVyYnVQWDlkV0UzdFQxVy1uUTduOWxGVXZKcmhISlBpbUpiZFV1LUNINmNYa0NKaUpUY2w4Ukd6VkM4Vnc0SVFVbDc0ZEpkTV9aQUVwaHVkLURTQkJqV2I4NldIOF82UE1UcGdLTG4wYVV6dUgtaGZUcmRxd0I4M3pMRFozbEp2?oc=5"
-            },
-            {
-              "source": "The Hans India",
-              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMDJ5UlhuZ1htWGJKdGpxNlJGUFgwUE0zV29YejdUWkltOFZ0UXBwRXpuTjBxOVc3blEzblBYS1FxNUdEVFNvaHBJWTdXaHlVNXNlYnhkM3o4YWRDU3A2eGlnZjVoZ0dNZ1AzOElfVV9NZFh2Z3hIV0t4VWVKTkF5WkdiR2ZJN0RlZXc3MzB2Rlh6Mm9XVExzdGxJdGU1UHNCVGIzbzdsbW_SAa4BQVVfeXFMTnVSS2s5YXVlY2VVSjFVaGQteXBJRTFjbTZHSXNabkZ2Q2QwcXZvODN6QUh6ZWVvbDB5S0F1YjFZWE1Tc1hnX3hSYTFHdFd5M1pZZExaekY3VkdxcW5IeU85SnhWZ3ZBeWRrZy1VbkdxTjEwOXFoWUljbF9jMGRKcWdoR1NMWGxwNzd0X2g1b2FGZ3RZSmtBVGZ0c0NVYl9iSWsxdWFHYnpQckJDeUFB?oc=5"
-            },
-            {
-              "source": "New India Abroad",
-              "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOV1BDNTZCZDJJUGFmZ3c0aVgzZTByVVdYQ3FVWkdaMTY2dDBxeFRyRHlIRTlOSy1IeThGcnBEZHNsbjkwWkNkSDQwSHRPSDZiMy1yaDVhSjc5SjRsYjFzTXVDRDMwel9feHpnb2hYSnlpVFFZdnVZcjFVTm1JSjR2R0NaVnhOTnFGSzhfSlF2b3YyWFROWEsyLWR0SGlkbjRVeWFUblVuVHZYV3NHM3BXRERpOTJVQzBLVC1tY1puSllUdVRXeGh3?oc=5"
+              "source": "Federal Register",
+              "link": "https://www.federalregister.gov/documents/2026/11/16/2026-23292/agency-information-collection-activities-comment-request-workforce-innovation-and-opportunity-act"
             }
           ]
         }
@@ -386,87 +269,67 @@
     "finance": {
       "items": [
         {
-          "title": "Wall Street closes best week in over a year on tech rebound",
-          "feedTitle": "Stock Market News Nov. 27, 2026: Dow zooms higher, clinches best week since 2022 as stocks rebound in holiday-shortened trade",
-          "summary": "US stock markets ended their best week in more than a year as technology stocks rebounded sharply following the volatile trading earlier in the week. The Dow Jones climbed nearly 600 points on Friday to close out the strongest week since 2022, as investor fears over AI sector stability subsided.",
-          "source": "MarketWatch",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQ3U3andqWFB6Qk9kcW51T1h6M3NpYkVDdmpKRzFXNVMxb0tLYjFzY29KeHF3d1czcUwxTmNrRDF5ZXVHX0tkZ0FFZkQyVUNqRjdaZHJnWGV5dlprNXJ5cHkyTk1od05NaktPM1JKeEV2QTdDeEVxSkFQckQwSTNCbE5aa1BzdWpFOFIzcnZQVF9tVmdmV2EtXy1QREhzc2hGYkFaUVI0X0JjUmkyYmNkNU5FRjBOaWRsSkEzamZzYldqVjRBX2JvTGh3?oc=5",
-          "sources": [
-            {
-              "source": "MarketWatch",
-              "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQ3U3andqWFB6Qk9kcW51T1h6M3NpYkVDdmpKRzFXNVMxb0tLYjFzY29KeHF3d1czcUwxTmNrRDF5ZXVHX0tkZ0FFZkQyVUNqRjdaZHJnWGV5dlprNXJ5cHkyTk1od05NaktPM1JKeEV2QTdDeEVxSkFQckQwSTNCbE5aa1BzdWpFOFIzcnZQVF9tVmdmV2EtXy1QREhzc2hGYkFaUVI0X0JjUmkyYmNkNU5FRjBOaWRsSkEzamZzYldqVjRBX2JvTGh3?oc=5"
-            },
-            {
-              "source": "Investor's Business Daily",
-              "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeUU4bHFkdWpWVkxfdkdoMXhBYnRBRk9zeXhmZzJJekt3N3Fua09tUGQzdGpQNGFIUFNjNzZBZHVRSWV2UV92cEhnd2NQTnIwMVZ2bnpGdl9sd1JLMF9WaTV6dUFMcThzOEt0ck1Jb0hQLUxPdGlRWkhsYmU0ZnB3N0NlUjhWRFZOV0xZa0VhU3F3T3FGbXhwTVpTVk5WaFJmczRPeklNQmctcU5haUJpaHZmaERSd3BJ?oc=5"
-            },
-            {
-              "source": "BNN Bloomberg",
-              "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNb1doX1pxMmJRSkVyMWhNOVg3NVVsdjB3LVM5ZGhpX2dlMWZGTmFuMUtyLWlvb29WMldRdUVTZms4TENJeWxuYURzMG95NVFZRGRmaW8zZnZKUXZwNllLSEVRWnU3U1NaTzVFdzh5bUVRM0RkT1AtWEpCV3dXa1dxSkpud0JHT29PWVJpQmNoVm9Rc1daa1pmQmRKdDdraHJqOUZ3NGZCRDd3QzhDV004UGdjcll0ajBqSnhrelpiN2ppSkFQNlJ2dkt4UExJVlJMRHVMbnhxdw?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Indian benchmarks snap rally; Sensex falls 989 points amid profit-taking",
-          "feedTitle": "Sensex snaps 2-day rally, tanks 989 points amid profit booking",
-          "summary": "India's stock market benchmarks snapped a 2-day winning streak Friday, with the Sensex declining 989 points as rising crude oil prices and rupee weakness triggered profit-booking across IT and financial stocks. The decline ended a four-week rally that had lifted the Nifty 15%, signaling potential consolidation ahead.",
-          "source": "The Pioneer",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNV9YazFta2FGQjJqSms5c0sxUUpuREZBRXRBbFVaQlVlNW9UdmFnOGdFT0VQZjRxNDhmbWdCRzVMWkpuenlkMndEQ3dRYnZpWGcyNllaNDRpWVIyd2had0RpQ0U0VWNRZkxvVVlXRlFfV1ZEQlFMbzlWWVYxVHRVUy1CMWM0ak9zMDBTTzU5QnBuLWQ0VC11bVBISdIBqAFBVV95cUxPTmhtUVVSdThlcENneE1JWEpJTDBibXhMbno5MEgySDJfZjB4NDU3bVpKVEFBOC1rZzU2ZXdBbFY0VzdvelluelJMY2w2ZW5DMzk2UzhRSmY4bFlBRmhiY29lYmtNZUk5LUk2ZF9WV3d3WFhxc21fVGJwMGF0dGx2dWg4ekhwOVBVcDVkUU85N2pfQW80MUd1aW5ldHgwRTNzcFhjaUlLYTk?oc=5",
-          "sources": [
-            {
-              "source": "The Pioneer",
-              "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNV9YazFta2FGQjJqSms5c0sxUUpuREZBRXRBbFVaQlVlNW9UdmFnOGdFT0VQZjRxNDhmbWdCRzVMWkpuenlkMndEQ3dRYnZpWGcyNllaNDRpWVIyd2had0RpQ0U0VWNRZkxvVVlXRlFfV1ZEQlFMbzlWWVYxVHRVUy1CMWM0ak9zMDBTTzU5QnBuLWQ0VC11bVBISdIBqAFBVV95cUxPTmhtUVVSdThlcENneE1JWEpJTDBibXhMbno5MEgySDJfZjB4NDU3bVpKVEFBOC1rZzU2ZXdBbFY0VzdvelluelJMY2w2ZW5DMzk2UzhRSmY4bFlBRmhiY29lYmtNZUk5LUk2ZF9WV3d3WFhxc21fVGJwMGF0dGx2dWg4ekhwOVBVcDVkUU85N2pfQW80MUd1aW5ldHgwRTNzcFhjaUlLYTk?oc=5"
-            },
-            {
-              "source": "Business Standard",
-              "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOS043bFZ2c1hrS0xmeHdmbXZiSS1zVlhkNldwTXdtUlMwMDZkYm9MV3FyMjNBYmZHWXNnVWtadlBKWW1FMmVhazQtN2ZteFNZUG03SEN2dWpYVVdxRVkwM3N2eVpFOXo5LXRxQ1htN2ZXZFZWMFctM295MWF2aUNubjZNSUV6cFk0Y1BGZ05UZldBUklIN1JXazRHWkp3MkVRWm5kV2ZjVHB1eG4wemtaaDNZVGVpWVlMaDlGUjNhMzR5QTlnckktM1Q5c3hUNXA1UWfSAdcBQVVfeXFMUHItbjRDYWZGQ1pQeE9WVlJmaGhrdGRPSjVRYXpFcUx5emxrMF9MZVNRQnZhVHIxNE1PbHpIUlFKcS1SamJQOXgzZTFKenlYamQ4M1B4czRBNzAyOFpYbTVhQTljbXpRQzktU05BU0hVS0M1ZEU5NUdfVHI1WWhJZ1RPNlhESzROQWU2emhoaXhkUUpucG1ZWDZQWURvSk4zN05JZDhxeG9tOGFmU0UwVGMzYl96ZWlvUEZGd240cUgtWWtkeldLWEd6eFdRaGRHOFlVcmxXa1U?oc=5"
-            },
-            {
-              "source": "TradingView",
-              "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRmpsU0ZZNHBsWGJhcm9GUUw2WWUydEVrWnJTU3VCMFpaVHNYVFdXMkRoVlZHQ3RSYnc0eW01N1VVSFdKYlA0S2haSlM3RlA2WlNtRU9LWFlRZUh6RGZyVEtheXMya21BTnB2QVNudHU2YWFsR1dYUnVwZHh0eThqOHltWW12Q1V5X1V3VEUwNWFWWHNycXdicHdORVZPSFVNdWxVMmJVUDRzaG93VE81bVdTWm5WRzgtMlYtN1dFc1R3MjcxeUpVWFJWbzR4RVdTVkJrT1RESQ?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "France slips into recession after two consecutive quarters of GDP decline",
-          "feedTitle": "France Slips Into Recession as Exports Sag",
-          "summary": "France's economy has contracted more than previously estimated, entering technical recession after two consecutive quarters of GDP decline. The contraction reflects weakness in exports and broader economic headwinds affecting the eurozone's second-largest economy.",
-          "source": "WSJ",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORU9lMFNkeksxZjZrNnNVWTJ0cFhIOUR6VDNaZFJ2WklxdE5RX1p2Ri1FbnRudlFuYWV3bUdwMHlWRWxWXzdiRU4wSnhUMFRLbTJNR3I0NjI3RUFjcUZ6czlBams5OEVDcHRpVnFtR0wySnp4U1h5WnVZLWg3ZmRpU0NyT0h5dGJYSnNQVkxBRVIxNjZfMjJz?oc=5",
-          "sources": [
-            {
-              "source": "WSJ",
-              "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORU9lMFNkeksxZjZrNnNVWTJ0cFhIOUR6VDNaZFJ2WklxdE5RX1p2Ri1FbnRudlFuYWV3bUdwMHlWRWxWXzdiRU4wSnhUMFRLbTJNR3I0NjI3RUFjcUZ6czlBams5OEVDcHRpVnFtR0wySnp4U1h5WnVZLWg3ZmRpU0NyT0h5dGJYSnNQVkxBRVIxNjZfMjJz?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Budget airline Norse Atlantic files for bankruptcy, cancels all flights",
-          "feedTitle": "Airline Norse Atlantic's Norwegian operating unit declares bankruptcy",
-          "summary": "Norse Atlantic Airways has filed for bankruptcy and cancelled all future flights after surging fuel costs caused by the Iran conflict destroyed its finances. The Norwegian airline advised customers not to come to airports, recommending they pursue refunds through the bankruptcy process, though guarantees are not assured.",
-          "source": "Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZjF6SXBzRmpCeHczaU9VZnNGczNjcWtlMXNCMUFrTUxfbUViN3cxUXpPbFU0YVRTQzU0aEY5MGdLY1hnU2I1R21jd2tYNnIyLVVLeEtoSEY2WjZKNTE0QkdLWWFzcmkySGFYUWE4Vmh3OVpzLWJ3V25LX18zSUJ4TS1TcExrVFFoUUVvOS13NmF1dUZJWVo1S2hLRlZaNmMzTWh1dDFsTHpXUzlzN2lWQ01sc1VVR0hOUzlZSTJ3?oc=5",
-          "sources": [
-            {
-              "source": "Reuters",
-              "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZjF6SXBzRmpCeHczaU9VZnNGczNjcWtlMXNCMUFrTUxfbUViN3cxUXpPbFU0YVRTQzU0aEY5MGdLY1hnU2I1R21jd2tYNnIyLVVLeEtoSEY2WjZKNTE0QkdLWWFzcmkySGFYUWE4Vmh3OVpzLWJ3V25LX18zSUJ4TS1TcExrVFFoUUVvOS13NmF1dUZJWVo1S2hLRlZaNmMzTWh1dDFsTHpXUzlzN2lWQ01sc1VVR0hOUzlZSTJ3?oc=5"
-            },
-            {
-              "source": "Bloomberg.com",
-              "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZnBPV3JxWk9pUUEzSzFmYzJKck5DcXJnNnVhdFd4dWZIakNuMVlOMnZWeExBWTRneEJvODczMFpmVHhFZEpBTTQ4dk04SDZSQ0ZTR0ttZjBSZUltZF9qR09XNzNPYlJYckdMVmRMY081Z25OY3p4VUkyc0FTN2pCU0ZlZDNYR3JGMXpCMjJaeWlpVmhLMGhmdDU1R0dQREs3enU5VkI2RkxydkRaSnU5RVM2YldONTdRaVhSbVM2RDl2d1lsbEpV?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "China reserves right to respond to Trump's new tariff proposals",
+          "title": "China reserves right to respond to Trump tariff proposals",
           "feedTitle": "China reserves right to take ‘necessary measures’ after Trump’s new tariff proposals",
-          "summary": "Beijing stated it reserves the right to take 'necessary measures' after the Trump administration proposed new tariffs on 14 trading partners including China and the EU. China characterized the new levies as 'political manipulation,' while Brazil warned it 'will not yield to this type of threat.'",
+          "summary": "China stated it reserves the right to take 'necessary measures' in response to Trump's administration proposing new tariffs on 14 trading partners including China. Beijing characterized the tariffs as 'political manipulation.' Brazil also rejected the proposed tariffs, stating it 'will not yield' to such pressure.",
           "source": "The Guardian",
           "link": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
           "sources": [
             {
               "source": "The Guardian",
               "link": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat"
+            }
+          ]
+        },
+        {
+          "title": "US inflation rises to 3.8% annually, highest since May",
+          "feedTitle": "US inflation hits highest since May after prices climb 3.8% over the last year",
+          "summary": "U.S. inflation reached 3.8% over the past 12 months in October, marking the highest reading since May, driven by soaring energy prices. The uptick occurred shortly before a crucial Federal Reserve board meeting expected to deliberate on interest rates. The inflation surge is adding pressure to Fed decision-making.",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/business/2026/nov/25/consumer-prices-september-october-energy-inflation",
+          "sources": [
+            {
+              "source": "The Guardian",
+              "link": "https://www.theguardian.com/business/2026/nov/25/consumer-prices-september-october-energy-inflation"
+            }
+          ]
+        },
+        {
+          "title": "EU to cap Chinese hybrid EV imports next month",
+          "feedTitle": "EU to impose cap on Chinese hybrid EV imports next month",
+          "summary": "The European Commission announced it will impose temporary quotas on Chinese hybrid electric vehicles entering the EU bloc next month, with caps also applying to hybrids from the UK, Japan, and Turkey. The measure reflects Europe's efforts to protect domestic automakers from import competition. Implementation begins in December.",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/business/2026/nov/24/eu-cap-chinese-hybrid-ev-imports-tariff-uk",
+          "sources": [
+            {
+              "source": "The Guardian",
+              "link": "https://www.theguardian.com/business/2026/nov/24/eu-cap-chinese-hybrid-ev-imports-tariff-uk"
+            }
+          ]
+        },
+        {
+          "title": "Amazon Black Friday deals mislead customers on discounts",
+          "feedTitle": "Amazon’s sale deals deceive customers, thinktank alleges",
+          "summary": "A thinktank analysis found that two-thirds of Black Friday and Cyber Monday sale products at Amazon were priced the same or lower in previous months, contradicting the perception of special discounts. Amazon disputes the findings, though the report raises questions about pricing transparency. Consumer protection advocates call for clearer labeling of genuine sales.",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/global/2026/nov/27/amazon-sale-deals-deceive-customers-black-friday-cyber-monday",
+          "sources": [
+            {
+              "source": "The Guardian",
+              "link": "https://www.theguardian.com/global/2026/nov/27/amazon-sale-deals-deceive-customers-black-friday-cyber-monday"
+            }
+          ]
+        },
+        {
+          "title": "UK food inflation could hit 5% next year, BoE warns",
+          "feedTitle": "UK food inflation could hit 5% next year, Bank of England says",
+          "summary": "The Bank of England warned that food price inflation in the UK could reach 5% in the coming year as cost pressures mount from energy price cap increases and potential El Niño effects. The forecast signals continued upward pressure on household food costs despite recent moderation. Experts expect significant grocery bill impacts.",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/business/2026/nov/25/uk-food-inflation-sharp-rise-next-year-mounting-cost-pressures-bank-of-england",
+          "sources": [
+            {
+              "source": "The Guardian",
+              "link": "https://www.theguardian.com/business/2026/nov/25/uk-food-inflation-sharp-rise-next-year-mounting-cost-pressures-bank-of-england"
             }
           ]
         }
@@ -523,131 +386,37 @@
         {
           "symbol": "BZ=F",
           "name": "Brent crude · BZ=F",
-          "price": 90.8,
-          "changePct": 0.18
+          "price": 90.84,
+          "changePct": 0.22
         }
       ],
-      "note": "Oil prices surged 8.1% over four days following Houthi attacks on Saudi refineries, with Brent crude climbing amid Middle East tensions. US stocks staged their best week in over a year as the Dow gained 600 points Friday and tech stocks rebounded from earlier AI-driven selloffs; Indian markets diverged, with the Sensex falling 989 points as crude and rupee weakness triggered profit-booking. Watch: Federal Reserve meetings in December, holiday retail strength sustainability, and ongoing crude price stability amid regional conflicts."
+      "note": "Oil and energy prices surged, contributing to U.S. inflation hitting 3.8% annually—the highest since May—pressuring Fed policy decisions. Tech stocks retreated as caution returned following the euphoria surrounding Jensen Huang's return to Nvidia as CEO, with the AI sector facing scrutiny over valuation. Tariff uncertainty—with Trump proposing levies on China, the EU, and 12 other partners—adds macroeconomic pressure as Beijing and trading partners signal retaliation. Watch: Fed rate decision imminence, China's formal tariff response, and further tech earnings volatility."
     }
   },
   "micro": {
-    "theme": "physical & mental health",
+    "theme": "decision-making",
     "cards": [
       {
-        "title": "Sleep and immune response",
-        "insight": "The body's ability to fight illness depends heavily on sleep quality. During deep sleep, the immune system releases cytokines that help combat infection and inflammation. Disrupted sleep—whether from stress, travel, or seasonal changes—weakens this natural defense.",
-        "takeaway": "Prioritize 7-9 hours of consistent sleep, especially during high-stress seasons like the holidays; maintain a regular sleep schedule even when traveling."
+        "title": "Anchoring on past precedent vs. current context",
+        "insight": "The Bank of England's food inflation forecast for next year assumes continuation of current price pressures, yet energy and supply factors are fluid. Decisions made on historical patterns often miss inflection points when underlying conditions shift.",
+        "takeaway": "Before committing to major financial or strategic decisions, explicitly list which conditions you're assuming remain stable versus which might change—and stress-test both scenarios."
       },
       {
-        "title": "Movement breaks and cognitive function",
-        "insight": "Prolonged sitting impairs blood flow to the brain and stiffens muscles, reducing focus and mood. Even 2-3 minute movement breaks every 30-60 minutes restore circulation and mental clarity, without requiring formal exercise.",
-        "takeaway": "Set hourly reminders to stand, stretch, or walk—this simple habit boosts productivity and prevents the fatigue that comes with desk work."
+        "title": "Jurisdictional authority and unilateral action",
+        "insight": "Mexico's complaint over the U.S. DEA tip line and Texas AG-elect Johnson's refusal to defend a state law both illustrate how legal authority conflicts arise when different actors interpret jurisdiction differently. Unilateral action often provokes resistance when parties view legitimacy differently.",
+        "takeaway": "Before acting unilaterally on matters affecting others, seek alignment on who has legitimate authority—or accept that resistance and backlash are likely costs of your position."
       },
       {
-        "title": "Social connection and stress resilience",
-        "insight": "Meaningful social interactions activate the parasympathetic nervous system, lowering cortisol and blood pressure. Conversely, isolation amplifies anxiety and depression, especially during darker months when mood is already vulnerable.",
-        "takeaway": "Schedule regular check-ins with friends or family; even brief phone calls or in-person meetups significantly buffer against seasonal mood decline."
+        "title": "Momentum vs. durability in coalition-building",
+        "insight": "The viral SNL caregiving sketch has reignited bipartisan congressional momentum, yet cultural moments fade. Decisions relying on ephemeral public attention to pass legislation risk collapse when the moment passes.",
+        "takeaway": "Use windows of public attention to lock in structural support (commitments, hearings, drafts)—not just to announce intent. Convert momentum into durable institutions."
       },
       {
-        "title": "Hydration and mental clarity",
-        "insight": "Even mild dehydration impairs concentration, mood, and energy levels. The brain is 75% water; a 2% fluid loss can noticeably slow cognitive function and increase perception of effort during tasks.",
-        "takeaway": "Drink water consistently throughout the day, aiming for pale urine; this low-cost intervention is among the most underrated wellness practices."
+        "title": "Transparency and trust in pricing",
+        "insight": "Amazon's Black Friday pricing practices—where 2/3 of 'sale' items weren't actually discounted—erode consumer trust in labeling. Decisions to prioritize short-term revenue over honest communication create reputational debt.",
+        "takeaway": "When a practice is technically legal but perceptually deceptive, consider the long-term cost to brand trust versus the short-term margin gain. Transparent pricing often outperforms in retention."
       }
     ],
-    "ai": [
-      {
-        "title": "OpenAI countersues Apple for stealing trade secrets",
-        "feedTitle": "OpenAI countersues Apple for stealing trade secrets",
-        "summary": "OpenAI has filed a countersuit against Apple, alleging the tech giant stole trade secrets and pressured hardware suppliers to shun OpenAI devices. The legal action escalates the dispute between the two companies and reveals tensions over AI device development and market access.",
-        "source": "Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa0FibW0xZFFBUlJ2MGJkd0NEcWZtRzkzUkdWcFl1VnlRN2dRMkpjWHpKVXlIekttSno1b1RMeWxJN2dtU0ZlS085Y1ZqTkpfM2Jaci13RUdMNFVPOWtqRldaazVrX25mMExUSkU0SmJRcHJsdnZxMWJXU05MNXFzc211YzlXNzMwRTVUM1k1MW5RQTdHbnRpU1p6Y2hQMFE0UnVBSk45eHg?oc=5",
-        "sources": [
-          {
-            "source": "Reuters",
-            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa0FibW0xZFFBUlJ2MGJkd0NEcWZtRzkzUkdWcFl1VnlRN2dRMkpjWHpKVXlIekttSno1b1RMeWxJN2dtU0ZlS085Y1ZqTkpfM2Jaci13RUdMNFVPOWtqRldaazVrX25mMExUSkU0SmJRcHJsdnZxMWJXU05MNXFzc211YzlXNzMwRTVUM1k1MW5RQTdHbnRpU1p6Y2hQMFE0UnVBSk45eHg?oc=5"
-          },
-          {
-            "source": "Digg",
-            "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5LdHRKMzB5UXFpRXRKeXpYNFdPbmNuMHlOZTFpb1hONHhCbjEwdzczWk4tSHVya2ZVWWwtQlVGaVpGcU41?oc=5"
-          },
-          {
-            "source": "The Lufkin Daily News",
-            "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPN2Z5dUU5eTMzRmF5Y21XMHdkMHNHS1RadkFzMUF0UFZNeHBwNVI0Y0lGWGtHa3pSNTRndUxoWUc0RG9UT3N2WFZsY2hMYmI1X3QtTXY5LUJhNHR6S2J4WkdOVWFYZWJ4R1J2VDkwSVUxdWNGQ0VhUHhyLVlEWkhSYkJBNnhhYTRqT25haWZuR0FPT1ctenFyZXV0NlotS25CbjJYT0ZwYmxpN3h6MlNkUDJnb2VqcVhVVkd1SlNNTGY2Y3RHNkJMSlVpd3h3VUNQTk9Ubi1YME9uZ29SUFBGYUZkQzZpQQ?oc=5"
-          }
-        ]
-      },
-      {
-        "title": "Anthropic shares jump after volatile IPO week trading",
-        "feedTitle": "Anthropic likely to join major indexes, but not S&P 500 yet, says TD Securities Peter Haynes",
-        "summary": "Anthropic's stock surged 11% on Friday as the broader tech sector rebounded, marking volatile trading in the AI startup's first week as a public company following its recent IPO. The company is likely to be added to major stock indexes though not yet the S&P 500, according to analysts.",
-        "source": "CNBC",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVnNCajkwVERYTno3TTY3MVJEYktDYW9ocFFpZ3lBSWxiS0FTMnVSeVh5LXVVNlpBQ05PbTBmR1d3OWJLazdLYU02cjBta1doZXJ2TXJwc1FkUmNtNmYyRWZTUlhnWEN0aUdRazJTVktUd2tLcUNDdEpwOEFvYkc2VWY1c3pFUm1USGc5c0VYSFJIWlg0U3lIeUZBU1c0LUF0d2M2a1VkSy1ZaDhIVHZ6TFg2ZzlmQ1V1NGhJakxSWFRMZDhjRC0zMDNzODc?oc=5",
-        "sources": [
-          {
-            "source": "CNBC",
-            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVnNCajkwVERYTno3TTY3MVJEYktDYW9ocFFpZ3lBSWxiS0FTMnVSeVh5LXVVNlpBQ05PbTBmR1d3OWJLazdLYU02cjBta1doZXJ2TXJwc1FkUmNtNmYyRWZTUlhnWEN0aUdRazJTVktUd2tLcUNDdEpwOEFvYkc2VWY1c3pFUm1USGc5c0VYSFJIWlg0U3lIeUZBU1c0LUF0d2M2a1VkSy1ZaDhIVHZ6TFg2ZzlmQ1V1NGhJakxSWFRMZDhjRC0zMDNzODc?oc=5"
-          },
-          {
-            "source": "The Globe and Mail",
-            "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUHF0YUVNWlo2YXNzRFNmbWVFeGNvYjR2eEZpNVNWTVJueGFRMmk2aFU0czFfUE9QUGxyYTJfaEx2dHNuRzhKLXhUcTBqY1FUVEFEcnpJUTFaaEZlWXhWWVk2cGRDcEcza0pDcE4zQ1U5MndpeEVhOWJZTjhVN0o2aF9kUXpIam8yQ00tT1NvdVdQc1JXSHgwbTNEenpyZVdvNTJTb2RMVVBkbDFSRjd0SW1zZDVHazJYeGlSV1hhNTh6Ukg1cDU4MGdWTjFUSmVCOFJ5UWlUNWloV2J3aXF6THQ5UWZkRFhITDRfajl3?oc=5"
-          },
-          {
-            "source": "Forbes",
-            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeW4tTWszM09YN2pmTl9ib2RndDFBODJEV0x6d2xOaGZCUW1mc09MR1RjWTZTUHdRNDBPUjJpTGFrQlRiU210bHZMRW9acVBlVnY0Qi1YbmxhMnJqeDlRVEIyNVdoRFppVjhvSXduV1puSjBTa1ZGOVBseVNEY0hQN0tXa181Y2tXV3ExUHNCcGZLdzI2T2owZUx5cTc?oc=5"
-          }
-        ]
-      },
-      {
-        "title": "Broadcom's custom AI chips emerge as Nvidia's real rival",
-        "feedTitle": "Broadcom’s custom AI chips are becoming a real threat to Nvidia",
-        "summary": "Broadcom's custom-designed AI chips are emerging as a credible competitive threat to Nvidia's dominance in the AI chip market. Industry analysis suggests that hyperscalers developing proprietary silicon represent a more serious challenge to Nvidia than traditional semiconductor competitors like AMD.",
-        "source": "Crypto Briefing",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4UDh3UjFaVE1WajBKbG1ORXhlN25wbHRaUXlidXZYb2dHQURzLWZrVDRELUI3RU5zR3NBUEx2UkF6dzFocndaZzI5a1FsRjl1amlONFZsekZXaThCbkYyako4dmtlUnhwQzkxTnpVT1RsaVNS?oc=5",
-        "sources": [
-          {
-            "source": "Crypto Briefing",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4UDh3UjFaVE1WajBKbG1ORXhlN25wbHRaUXlidXZYb2dHQURzLWZrVDRELUI3RU5zR3NBUEx2UkF6dzFocndaZzI5a1FsRjl1amlONFZsekZXaThCbkYyako4dmtlUnhwQzkxTnpVT1RsaVNS?oc=5"
-          },
-          {
-            "source": "BigGo Finance",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VVUlpa1B3cEJxajc5VUFuU3FjZUI4amN1RndrYXQ2X2RFbC1OVE5UbU95VlZCSHpaMV9LYUc1RmNIWGJReFY4LTEzYW00RWZ4d0lqZE5RSVlSZU11RG5sWGVtRFpsaVN0VEtFc0t2cm80NVZZc2c?oc=5"
-          }
-        ]
-      },
-      {
-        "title": "US works to restrict China's access to advanced AI chips",
-        "feedTitle": "US works to restrict China’s access to AI chips",
-        "summary": "The US government is implementing measures to restrict China's access to cutting-edge AI chips as part of broader technology competition strategy. The restrictions aim to limit China's advancement in AI capabilities while protecting US technological leadership in the sector.",
-        "source": "NewsNation",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUTROREJfemhibFlSUzVUUDhNa042NW5odWw2VTk0ak1zMUFUcjg0MjBqLVdVSmtweHlFRl81RUhVcjZRZG5ZZHRiNkhnQUdBd1Q2NmhfS0IteDNpY0duOHdGX2tINDQwQkpqYzJ2b051ejNURzNGRjViN0NSS0dqd1pNU0JSUdIBiwFBVV95cUxPTElMdnQxX0xvZXdrSGtEOEJLdW1ubHFodVZMLVpqaVZ5b09NLUN2aXB4Z1VjMXRqa1oxNlZ4NnFjLWd2NDg2WlBTNWFPLXFzbHhqczhydWlBLTJTdHh6Rng3UEVTRlVwczJVdHlYdnNCUVlkSDRuV1BIOUV6X3JPdm1EZzFMdUJMMjc0?oc=5",
-        "sources": [
-          {
-            "source": "NewsNation",
-            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUTROREJfemhibFlSUzVUUDhNa042NW5odWw2VTk0ak1zMUFUcjg0MjBqLVdVSmtweHlFRl81RUhVcjZRZG5ZZHRiNkhnQUdBd1Q2NmhfS0IteDNpY0duOHdGX2tINDQwQkpqYzJ2b051ejNURzNGRjViN0NSS0dqd1pNU0JSUdIBiwFBVV95cUxPTElMdnQxX0xvZXdrSGtEOEJLdW1ubHFodVZMLVpqaVZ5b09NLUN2aXB4Z1VjMXRqa1oxNlZ4NnFjLWd2NDg2WlBTNWFPLXFzbHhqczhydWlBLTJTdHh6Rng3UEVTRlVwczJVdHlYdnNCUVlkSDRuV1BIOUV6X3JPdm1EZzFMdUJMMjc0?oc=5"
-          },
-          {
-            "source": "The Rundown AI",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50Y2RhemMycGtTVzJOckxGS21DOGdJZ0lyeVFSMzg0Vk85WlVLWEx3MVk2RnBERlFpcHlpRm1sNG9oczFoem9wb3Y5UXVFczFuZGJ3ajl4aERDMF8yaUhSdGpwdUxtcGw0Sy1KVC1B?oc=5"
-          },
-          {
-            "source": "Yahoo",
-            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPb3RPbmlybHVzZWs0VWExc3FTdHNWdHd0cEpZWnRGRTZOTWREOTRLMjByTHNpaU9lWWN5am5idmNCTTNGRmhsNm9yVjhwbURVMmwydWx6UnNfUk9XWXJBMkRxckFKN3pYQXhldDV3LTA2T0FlNXpKWTNZdjJwTC1YUVhZcw?oc=5"
-          }
-        ]
-      },
-      {
-        "title": "Elon Musk admits xAI lagging rivals in AI model race",
-        "feedTitle": "\"We can't beat them,\" Elon Musk publicly conceded defeat in the AI model race, admitted to employees that the company is \"lagging behind its rivals\" and warned that anyone who wastes GPU resources will be fired.",
-        "summary": "Elon Musk has publicly acknowledged that his xAI company is 'lagging behind rivals' in the AI model development race and stated 'we can't beat them.' He warned employees that anyone wasting GPU resources would be fired, signaling serious urgency to close the competitive gap.",
-        "source": "36Kr",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14WTJXNVdQUlpQaDBmZmplOWE4VHAwSVFXaEM0UWVpMDBEa191cEdIdGFGT3RZalhkMHd3Z2JKLWp6X0tqZ0ZYUnhxcDhjUkVVY2Rv?oc=5",
-        "sources": [
-          {
-            "source": "36Kr",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14WTJXNVdQUlpQaDBmZmplOWE4VHAwSVFXaEM0UWVpMDBEa191cEdIdGFGT3RZalhkMHd3Z2JKLWp6X0tqZ0ZYUnhxcDhjUkVVY2Rv?oc=5"
-          }
-        ]
-      }
-    ]
+    "ai": []
   }
 }
